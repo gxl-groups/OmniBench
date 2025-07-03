@@ -1,0 +1,5402 @@
+{
+    "0": {
+        "objects": [
+            "apple"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red apple."
+    },
+    "1": {
+        "objects": [
+            "apple"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue apple."
+    },
+    "2": {
+        "objects": [
+            "apple"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow apple."
+    },
+    "3": {
+        "objects": [
+            "apple"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink apple."
+    },
+    "4": {
+        "objects": [
+            "apple"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple apple."
+    },
+    "5": {
+        "objects": [
+            "apple"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green apple."
+    },
+    "6": {
+        "objects": [
+            "apple"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black apple."
+    },
+    "7": {
+        "objects": [
+            "apple"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white apple."
+    },
+    "8": {
+        "objects": [
+            "coat"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue coat."
+    },
+    "9": {
+        "objects": [
+            "coat"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow coat."
+    },
+    "10": {
+        "objects": [
+            "coat"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink coat."
+    },
+    "11": {
+        "objects": [
+            "coat"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white coat."
+    },
+    "12": {
+        "objects": [
+            "coat"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red coat."
+    },
+    "13": {
+        "objects": [
+            "coat"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black coat."
+    },
+    "14": {
+        "objects": [
+            "coat"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple coat."
+    },
+    "15": {
+        "objects": [
+            "coat"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green coat."
+    },
+    "16": {
+        "objects": [
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue spoon."
+    },
+    "17": {
+        "objects": [
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow spoon."
+    },
+    "18": {
+        "objects": [
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink spoon."
+    },
+    "19": {
+        "objects": [
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white spoon."
+    },
+    "20": {
+        "objects": [
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red spoon."
+    },
+    "21": {
+        "objects": [
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple spoon."
+    },
+    "22": {
+        "objects": [
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black spoon."
+    },
+    "23": {
+        "objects": [
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green spoon."
+    },
+    "24": {
+        "objects": [
+            "bus"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue bus."
+    },
+    "25": {
+        "objects": [
+            "bus"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green bus."
+    },
+    "26": {
+        "objects": [
+            "bus"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black bus."
+    },
+    "27": {
+        "objects": [
+            "bus"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink bus."
+    },
+    "28": {
+        "objects": [
+            "bus"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow bus."
+    },
+    "29": {
+        "objects": [
+            "bus"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red bus."
+    },
+    "30": {
+        "objects": [
+            "bus"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white bus."
+    },
+    "31": {
+        "objects": [
+            "bus"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple bus."
+    },
+    "32": {
+        "objects": [
+            "donut"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black donut."
+    },
+    "33": {
+        "objects": [
+            "donut"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink donut."
+    },
+    "34": {
+        "objects": [
+            "donut"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple donut."
+    },
+    "35": {
+        "objects": [
+            "donut"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue donut."
+    },
+    "36": {
+        "objects": [
+            "donut"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow donut."
+    },
+    "37": {
+        "objects": [
+            "donut"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red donut."
+    },
+    "38": {
+        "objects": [
+            "donut"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white donut."
+    },
+    "39": {
+        "objects": [
+            "donut"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green donut."
+    },
+    "40": {
+        "objects": [
+            "carrot"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple carrot."
+    },
+    "41": {
+        "objects": [
+            "carrot"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red carrot."
+    },
+    "42": {
+        "objects": [
+            "carrot"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green carrot."
+    },
+    "43": {
+        "objects": [
+            "carrot"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white carrot."
+    },
+    "44": {
+        "objects": [
+            "carrot"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow carrot."
+    },
+    "45": {
+        "objects": [
+            "carrot"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink carrot."
+    },
+    "46": {
+        "objects": [
+            "carrot"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black carrot."
+    },
+    "47": {
+        "objects": [
+            "carrot"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue carrot."
+    },
+    "48": {
+        "objects": [
+            "orange"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue orange."
+    },
+    "49": {
+        "objects": [
+            "orange"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple orange."
+    },
+    "50": {
+        "objects": [
+            "orange"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink orange."
+    },
+    "51": {
+        "objects": [
+            "orange"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow orange."
+    },
+    "52": {
+        "objects": [
+            "orange"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green orange."
+    },
+    "53": {
+        "objects": [
+            "orange"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red orange."
+    },
+    "54": {
+        "objects": [
+            "orange"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black orange."
+    },
+    "55": {
+        "objects": [
+            "orange"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white orange."
+    },
+    "56": {
+        "objects": [
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green airplane."
+    },
+    "57": {
+        "objects": [
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow airplane."
+    },
+    "58": {
+        "objects": [
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red airplane."
+    },
+    "59": {
+        "objects": [
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink airplane."
+    },
+    "60": {
+        "objects": [
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple airplane."
+    },
+    "61": {
+        "objects": [
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue airplane."
+    },
+    "62": {
+        "objects": [
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white airplane."
+    },
+    "63": {
+        "objects": [
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black airplane."
+    },
+    "64": {
+        "objects": [
+            "sports ball"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink sports ball."
+    },
+    "65": {
+        "objects": [
+            "sports ball"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white sports ball."
+    },
+    "66": {
+        "objects": [
+            "sports ball"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple sports ball."
+    },
+    "67": {
+        "objects": [
+            "sports ball"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red sports ball."
+    },
+    "68": {
+        "objects": [
+            "sports ball"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue sports ball."
+    },
+    "69": {
+        "objects": [
+            "sports ball"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow sports ball."
+    },
+    "70": {
+        "objects": [
+            "sports ball"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black sports ball."
+    },
+    "71": {
+        "objects": [
+            "sports ball"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green sports ball."
+    },
+    "72": {
+        "objects": [
+            "baseball bat"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple baseball bat."
+    },
+    "73": {
+        "objects": [
+            "baseball bat"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white baseball bat."
+    },
+    "74": {
+        "objects": [
+            "baseball bat"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black baseball bat."
+    },
+    "75": {
+        "objects": [
+            "baseball bat"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green baseball bat."
+    },
+    "76": {
+        "objects": [
+            "baseball bat"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow baseball bat."
+    },
+    "77": {
+        "objects": [
+            "baseball bat"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red baseball bat."
+    },
+    "78": {
+        "objects": [
+            "baseball bat"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink baseball bat."
+    },
+    "79": {
+        "objects": [
+            "baseball bat"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue baseball bat."
+    },
+    "80": {
+        "objects": [
+            "street sign"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black street sign."
+    },
+    "81": {
+        "objects": [
+            "street sign"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple street sign."
+    },
+    "82": {
+        "objects": [
+            "street sign"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow street sign."
+    },
+    "83": {
+        "objects": [
+            "street sign"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue street sign."
+    },
+    "84": {
+        "objects": [
+            "street sign"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green street sign."
+    },
+    "85": {
+        "objects": [
+            "street sign"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white street sign."
+    },
+    "86": {
+        "objects": [
+            "street sign"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink street sign."
+    },
+    "87": {
+        "objects": [
+            "street sign"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red street sign."
+    },
+    "88": {
+        "objects": [
+            "snowboard"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple snowboard."
+    },
+    "89": {
+        "objects": [
+            "snowboard"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue snowboard."
+    },
+    "90": {
+        "objects": [
+            "snowboard"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow snowboard."
+    },
+    "91": {
+        "objects": [
+            "snowboard"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white snowboard."
+    },
+    "92": {
+        "objects": [
+            "snowboard"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black snowboard."
+    },
+    "93": {
+        "objects": [
+            "snowboard"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green snowboard."
+    },
+    "94": {
+        "objects": [
+            "snowboard"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red snowboard."
+    },
+    "95": {
+        "objects": [
+            "snowboard"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink snowboard."
+    },
+    "96": {
+        "objects": [
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black bicycle."
+    },
+    "97": {
+        "objects": [
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink bicycle."
+    },
+    "98": {
+        "objects": [
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white bicycle."
+    },
+    "99": {
+        "objects": [
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red bicycle."
+    },
+    "100": {
+        "objects": [
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green bicycle."
+    },
+    "101": {
+        "objects": [
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple bicycle."
+    },
+    "102": {
+        "objects": [
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow bicycle."
+    },
+    "103": {
+        "objects": [
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue bicycle."
+    },
+    "104": {
+        "objects": [
+            "knife"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue knife."
+    },
+    "105": {
+        "objects": [
+            "knife"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink knife."
+    },
+    "106": {
+        "objects": [
+            "knife"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green knife."
+    },
+    "107": {
+        "objects": [
+            "knife"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red knife."
+    },
+    "108": {
+        "objects": [
+            "knife"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black knife."
+    },
+    "109": {
+        "objects": [
+            "knife"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white knife."
+    },
+    "110": {
+        "objects": [
+            "knife"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow knife."
+    },
+    "111": {
+        "objects": [
+            "knife"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple knife."
+    },
+    "112": {
+        "objects": [
+            "pizza"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink pizza."
+    },
+    "113": {
+        "objects": [
+            "pizza"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red pizza."
+    },
+    "114": {
+        "objects": [
+            "pizza"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black pizza."
+    },
+    "115": {
+        "objects": [
+            "pizza"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue pizza."
+    },
+    "116": {
+        "objects": [
+            "pizza"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow pizza."
+    },
+    "117": {
+        "objects": [
+            "pizza"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple pizza."
+    },
+    "118": {
+        "objects": [
+            "pizza"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white pizza."
+    },
+    "119": {
+        "objects": [
+            "pizza"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green pizza."
+    },
+    "120": {
+        "objects": [
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue backpack."
+    },
+    "121": {
+        "objects": [
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white backpack."
+    },
+    "122": {
+        "objects": [
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green backpack."
+    },
+    "123": {
+        "objects": [
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink backpack."
+    },
+    "124": {
+        "objects": [
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red backpack."
+    },
+    "125": {
+        "objects": [
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black backpack."
+    },
+    "126": {
+        "objects": [
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow backpack."
+    },
+    "127": {
+        "objects": [
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple backpack."
+    },
+    "128": {
+        "objects": [
+            "keyboard"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue keyboard."
+    },
+    "129": {
+        "objects": [
+            "keyboard"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow keyboard."
+    },
+    "130": {
+        "objects": [
+            "keyboard"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white keyboard."
+    },
+    "131": {
+        "objects": [
+            "keyboard"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green keyboard."
+    },
+    "132": {
+        "objects": [
+            "keyboard"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple keyboard."
+    },
+    "133": {
+        "objects": [
+            "keyboard"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black keyboard."
+    },
+    "134": {
+        "objects": [
+            "keyboard"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink keyboard."
+    },
+    "135": {
+        "objects": [
+            "keyboard"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red keyboard."
+    },
+    "136": {
+        "objects": [
+            "hot dog"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white hot dog."
+    },
+    "137": {
+        "objects": [
+            "hot dog"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green hot dog."
+    },
+    "138": {
+        "objects": [
+            "hot dog"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink hot dog."
+    },
+    "139": {
+        "objects": [
+            "hot dog"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red hot dog."
+    },
+    "140": {
+        "objects": [
+            "hot dog"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue hot dog."
+    },
+    "141": {
+        "objects": [
+            "hot dog"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black hot dog."
+    },
+    "142": {
+        "objects": [
+            "hot dog"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow hot dog."
+    },
+    "143": {
+        "objects": [
+            "hot dog"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple hot dog."
+    },
+    "144": {
+        "objects": [
+            "remote"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green remote."
+    },
+    "145": {
+        "objects": [
+            "remote"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow remote."
+    },
+    "146": {
+        "objects": [
+            "remote"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red remote."
+    },
+    "147": {
+        "objects": [
+            "remote"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white remote."
+    },
+    "148": {
+        "objects": [
+            "remote"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black remote."
+    },
+    "149": {
+        "objects": [
+            "remote"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink remote."
+    },
+    "150": {
+        "objects": [
+            "remote"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple remote."
+    },
+    "151": {
+        "objects": [
+            "remote"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue remote."
+    },
+    "152": {
+        "objects": [
+            "elephant"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green elephant."
+    },
+    "153": {
+        "objects": [
+            "elephant"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple elephant."
+    },
+    "154": {
+        "objects": [
+            "elephant"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink elephant."
+    },
+    "155": {
+        "objects": [
+            "elephant"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black elephant."
+    },
+    "156": {
+        "objects": [
+            "elephant"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red elephant."
+    },
+    "157": {
+        "objects": [
+            "elephant"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow elephant."
+    },
+    "158": {
+        "objects": [
+            "elephant"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue elephant."
+    },
+    "159": {
+        "objects": [
+            "elephant"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white elephant."
+    },
+    "160": {
+        "objects": [
+            "vase"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red vase."
+    },
+    "161": {
+        "objects": [
+            "vase"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink vase."
+    },
+    "162": {
+        "objects": [
+            "vase"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow vase."
+    },
+    "163": {
+        "objects": [
+            "vase"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple vase."
+    },
+    "164": {
+        "objects": [
+            "vase"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white vase."
+    },
+    "165": {
+        "objects": [
+            "vase"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black vase."
+    },
+    "166": {
+        "objects": [
+            "vase"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green vase."
+    },
+    "167": {
+        "objects": [
+            "vase"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue vase."
+    },
+    "168": {
+        "objects": [
+            "cow"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white cow."
+    },
+    "169": {
+        "objects": [
+            "cow"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink cow."
+    },
+    "170": {
+        "objects": [
+            "cow"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black cow."
+    },
+    "171": {
+        "objects": [
+            "cow"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red cow."
+    },
+    "172": {
+        "objects": [
+            "cow"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow cow."
+    },
+    "173": {
+        "objects": [
+            "cow"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue cow."
+    },
+    "174": {
+        "objects": [
+            "cow"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green cow."
+    },
+    "175": {
+        "objects": [
+            "cow"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple cow."
+    },
+    "176": {
+        "objects": [
+            "teddy bear"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow teddy bear."
+    },
+    "177": {
+        "objects": [
+            "teddy bear"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white teddy bear."
+    },
+    "178": {
+        "objects": [
+            "teddy bear"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black teddy bear."
+    },
+    "179": {
+        "objects": [
+            "teddy bear"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green teddy bear."
+    },
+    "180": {
+        "objects": [
+            "teddy bear"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink teddy bear."
+    },
+    "181": {
+        "objects": [
+            "teddy bear"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red teddy bear."
+    },
+    "182": {
+        "objects": [
+            "teddy bear"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple teddy bear."
+    },
+    "183": {
+        "objects": [
+            "teddy bear"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue teddy bear."
+    },
+    "184": {
+        "objects": [
+            "bear"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green bear."
+    },
+    "185": {
+        "objects": [
+            "bear"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow bear."
+    },
+    "186": {
+        "objects": [
+            "bear"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white bear."
+    },
+    "187": {
+        "objects": [
+            "bear"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black bear."
+    },
+    "188": {
+        "objects": [
+            "bear"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple bear."
+    },
+    "189": {
+        "objects": [
+            "bear"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink bear."
+    },
+    "190": {
+        "objects": [
+            "bear"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue bear."
+    },
+    "191": {
+        "objects": [
+            "bear"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red bear."
+    },
+    "192": {
+        "objects": [
+            "parking meter"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple parking meter."
+    },
+    "193": {
+        "objects": [
+            "parking meter"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white parking meter."
+    },
+    "194": {
+        "objects": [
+            "parking meter"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red parking meter."
+    },
+    "195": {
+        "objects": [
+            "parking meter"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black parking meter."
+    },
+    "196": {
+        "objects": [
+            "parking meter"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow parking meter."
+    },
+    "197": {
+        "objects": [
+            "parking meter"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green parking meter."
+    },
+    "198": {
+        "objects": [
+            "parking meter"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink parking meter."
+    },
+    "199": {
+        "objects": [
+            "parking meter"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue parking meter."
+    },
+    "200": {
+        "objects": [
+            "skis"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pair of white skis."
+    },
+    "201": {
+        "objects": [
+            "skis"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pair of black skis."
+    },
+    "202": {
+        "objects": [
+            "skis"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pair of green skis."
+    },
+    "203": {
+        "objects": [
+            "skis"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pair of pink skis."
+    },
+    "204": {
+        "objects": [
+            "skis"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pair of blue skis."
+    },
+    "205": {
+        "objects": [
+            "skis"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pair of red skis."
+    },
+    "206": {
+        "objects": [
+            "skis"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pair of purple skis."
+    },
+    "207": {
+        "objects": [
+            "skis"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pair of yellow skis."
+    },
+    "208": {
+        "objects": [
+            "book"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red book."
+    },
+    "209": {
+        "objects": [
+            "book"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green book."
+    },
+    "210": {
+        "objects": [
+            "book"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink book."
+    },
+    "211": {
+        "objects": [
+            "book"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black book."
+    },
+    "212": {
+        "objects": [
+            "book"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple book."
+    },
+    "213": {
+        "objects": [
+            "book"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue book."
+    },
+    "214": {
+        "objects": [
+            "book"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white book."
+    },
+    "215": {
+        "objects": [
+            "book"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow book."
+    },
+    "216": {
+        "objects": [
+            "truck"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green truck."
+    },
+    "217": {
+        "objects": [
+            "truck"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white truck."
+    },
+    "218": {
+        "objects": [
+            "truck"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink truck."
+    },
+    "219": {
+        "objects": [
+            "truck"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow truck."
+    },
+    "220": {
+        "objects": [
+            "truck"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black truck."
+    },
+    "221": {
+        "objects": [
+            "truck"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red truck."
+    },
+    "222": {
+        "objects": [
+            "truck"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue truck."
+    },
+    "223": {
+        "objects": [
+            "truck"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple truck."
+    },
+    "224": {
+        "objects": [
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow bottle."
+    },
+    "225": {
+        "objects": [
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink bottle."
+    },
+    "226": {
+        "objects": [
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red bottle."
+    },
+    "227": {
+        "objects": [
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black bottle."
+    },
+    "228": {
+        "objects": [
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple bottle."
+    },
+    "229": {
+        "objects": [
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue bottle."
+    },
+    "230": {
+        "objects": [
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green bottle."
+    },
+    "231": {
+        "objects": [
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white bottle."
+    },
+    "232": {
+        "objects": [
+            "broccoli"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black broccoli."
+    },
+    "233": {
+        "objects": [
+            "broccoli"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green broccoli."
+    },
+    "234": {
+        "objects": [
+            "broccoli"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple broccoli."
+    },
+    "235": {
+        "objects": [
+            "broccoli"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink broccoli."
+    },
+    "236": {
+        "objects": [
+            "broccoli"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red broccoli."
+    },
+    "237": {
+        "objects": [
+            "broccoli"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white broccoli."
+    },
+    "238": {
+        "objects": [
+            "broccoli"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue broccoli."
+    },
+    "239": {
+        "objects": [
+            "broccoli"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow broccoli."
+    },
+    "240": {
+        "objects": [
+            "sink"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white sink."
+    },
+    "241": {
+        "objects": [
+            "sink"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue sink."
+    },
+    "242": {
+        "objects": [
+            "sink"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black sink."
+    },
+    "243": {
+        "objects": [
+            "sink"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple sink."
+    },
+    "244": {
+        "objects": [
+            "sink"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink sink."
+    },
+    "245": {
+        "objects": [
+            "sink"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red sink."
+    },
+    "246": {
+        "objects": [
+            "sink"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green sink."
+    },
+    "247": {
+        "objects": [
+            "sink"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow sink."
+    },
+    "248": {
+        "objects": [
+            "umbrella"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue umbrella."
+    },
+    "249": {
+        "objects": [
+            "umbrella"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white umbrella."
+    },
+    "250": {
+        "objects": [
+            "umbrella"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black umbrella."
+    },
+    "251": {
+        "objects": [
+            "umbrella"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple umbrella."
+    },
+    "252": {
+        "objects": [
+            "umbrella"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red umbrella."
+    },
+    "253": {
+        "objects": [
+            "umbrella"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink umbrella."
+    },
+    "254": {
+        "objects": [
+            "umbrella"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green umbrella."
+    },
+    "255": {
+        "objects": [
+            "umbrella"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow umbrella."
+    },
+    "256": {
+        "objects": [
+            "cell phone"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple cell phone."
+    },
+    "257": {
+        "objects": [
+            "cell phone"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black cell phone."
+    },
+    "258": {
+        "objects": [
+            "cell phone"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green cell phone."
+    },
+    "259": {
+        "objects": [
+            "cell phone"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white cell phone."
+    },
+    "260": {
+        "objects": [
+            "cell phone"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red cell phone."
+    },
+    "261": {
+        "objects": [
+            "cell phone"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow cell phone."
+    },
+    "262": {
+        "objects": [
+            "cell phone"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink cell phone."
+    },
+    "263": {
+        "objects": [
+            "cell phone"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue cell phone."
+    },
+    "264": {
+        "objects": [
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple curtain."
+    },
+    "265": {
+        "objects": [
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink curtain."
+    },
+    "266": {
+        "objects": [
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green curtain."
+    },
+    "267": {
+        "objects": [
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red curtain."
+    },
+    "268": {
+        "objects": [
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black curtain."
+    },
+    "269": {
+        "objects": [
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white curtain."
+    },
+    "270": {
+        "objects": [
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue curtain."
+    },
+    "271": {
+        "objects": [
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow curtain."
+    },
+    "272": {
+        "objects": [
+            "baseball glove"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple baseball glove."
+    },
+    "273": {
+        "objects": [
+            "baseball glove"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue baseball glove."
+    },
+    "274": {
+        "objects": [
+            "baseball glove"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white baseball glove."
+    },
+    "275": {
+        "objects": [
+            "baseball glove"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black baseball glove."
+    },
+    "276": {
+        "objects": [
+            "baseball glove"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red baseball glove."
+    },
+    "277": {
+        "objects": [
+            "baseball glove"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow baseball glove."
+    },
+    "278": {
+        "objects": [
+            "baseball glove"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green baseball glove."
+    },
+    "279": {
+        "objects": [
+            "baseball glove"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink baseball glove."
+    },
+    "280": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green dining table."
+    },
+    "281": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue dining table."
+    },
+    "282": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red dining table."
+    },
+    "283": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white dining table."
+    },
+    "284": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink dining table."
+    },
+    "285": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple dining table."
+    },
+    "286": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black dining table."
+    },
+    "287": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow dining table."
+    },
+    "288": {
+        "objects": [
+            "bench"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green bench."
+    },
+    "289": {
+        "objects": [
+            "bench"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black bench."
+    },
+    "290": {
+        "objects": [
+            "bench"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink bench."
+    },
+    "291": {
+        "objects": [
+            "bench"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red bench."
+    },
+    "292": {
+        "objects": [
+            "bench"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple bench."
+    },
+    "293": {
+        "objects": [
+            "bench"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white bench."
+    },
+    "294": {
+        "objects": [
+            "bench"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue bench."
+    },
+    "295": {
+        "objects": [
+            "bench"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow bench."
+    },
+    "296": {
+        "objects": [
+            "plate"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue plate."
+    },
+    "297": {
+        "objects": [
+            "plate"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow plate."
+    },
+    "298": {
+        "objects": [
+            "plate"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple plate."
+    },
+    "299": {
+        "objects": [
+            "plate"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red plate."
+    },
+    "300": {
+        "objects": [
+            "plate"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black plate."
+    },
+    "301": {
+        "objects": [
+            "plate"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink plate."
+    },
+    "302": {
+        "objects": [
+            "plate"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green plate."
+    },
+    "303": {
+        "objects": [
+            "plate"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white plate."
+    },
+    "304": {
+        "objects": [
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pair of yellow trousers."
+    },
+    "305": {
+        "objects": [
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pair of white trousers."
+    },
+    "306": {
+        "objects": [
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pair of purple trousers."
+    },
+    "307": {
+        "objects": [
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pair of blue trousers."
+    },
+    "308": {
+        "objects": [
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pair of black trousers."
+    },
+    "309": {
+        "objects": [
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pair of green trousers."
+    },
+    "310": {
+        "objects": [
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pair of pink trousers."
+    },
+    "311": {
+        "objects": [
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pair of red trousers."
+    },
+    "312": {
+        "objects": [
+            "couch"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white couch."
+    },
+    "313": {
+        "objects": [
+            "couch"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow couch."
+    },
+    "314": {
+        "objects": [
+            "couch"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black couch."
+    },
+    "315": {
+        "objects": [
+            "couch"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue couch."
+    },
+    "316": {
+        "objects": [
+            "couch"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink couch."
+    },
+    "317": {
+        "objects": [
+            "couch"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red couch."
+    },
+    "318": {
+        "objects": [
+            "couch"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green couch."
+    },
+    "319": {
+        "objects": [
+            "couch"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple couch."
+    },
+    "320": {
+        "objects": [
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red potted plant."
+    },
+    "321": {
+        "objects": [
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black potted plant."
+    },
+    "322": {
+        "objects": [
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green potted plant."
+    },
+    "323": {
+        "objects": [
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow potted plant."
+    },
+    "324": {
+        "objects": [
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white potted plant."
+    },
+    "325": {
+        "objects": [
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple potted plant."
+    },
+    "326": {
+        "objects": [
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue potted plant."
+    },
+    "327": {
+        "objects": [
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink potted plant."
+    },
+    "328": {
+        "objects": [
+            "car"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue car."
+    },
+    "329": {
+        "objects": [
+            "car"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red car."
+    },
+    "330": {
+        "objects": [
+            "car"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black car."
+    },
+    "331": {
+        "objects": [
+            "car"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow car."
+    },
+    "332": {
+        "objects": [
+            "car"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white car."
+    },
+    "333": {
+        "objects": [
+            "car"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green car."
+    },
+    "334": {
+        "objects": [
+            "car"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple car."
+    },
+    "335": {
+        "objects": [
+            "car"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink car."
+    },
+    "336": {
+        "objects": [
+            "laptop"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink laptop."
+    },
+    "337": {
+        "objects": [
+            "laptop"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow laptop."
+    },
+    "338": {
+        "objects": [
+            "laptop"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black laptop."
+    },
+    "339": {
+        "objects": [
+            "laptop"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red laptop."
+    },
+    "340": {
+        "objects": [
+            "laptop"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue laptop."
+    },
+    "341": {
+        "objects": [
+            "laptop"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white laptop."
+    },
+    "342": {
+        "objects": [
+            "laptop"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple laptop."
+    },
+    "343": {
+        "objects": [
+            "laptop"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green laptop."
+    },
+    "344": {
+        "objects": [
+            "clock"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink clock."
+    },
+    "345": {
+        "objects": [
+            "clock"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white clock."
+    },
+    "346": {
+        "objects": [
+            "clock"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black clock."
+    },
+    "347": {
+        "objects": [
+            "clock"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple clock."
+    },
+    "348": {
+        "objects": [
+            "clock"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow clock."
+    },
+    "349": {
+        "objects": [
+            "clock"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue clock."
+    },
+    "350": {
+        "objects": [
+            "clock"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red clock."
+    },
+    "351": {
+        "objects": [
+            "clock"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green clock."
+    },
+    "352": {
+        "objects": [
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow sandwich."
+    },
+    "353": {
+        "objects": [
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue sandwich."
+    },
+    "354": {
+        "objects": [
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red sandwich."
+    },
+    "355": {
+        "objects": [
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white sandwich."
+    },
+    "356": {
+        "objects": [
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink sandwich."
+    },
+    "357": {
+        "objects": [
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green sandwich."
+    },
+    "358": {
+        "objects": [
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple sandwich."
+    },
+    "359": {
+        "objects": [
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black sandwich."
+    },
+    "360": {
+        "objects": [
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red frisbee."
+    },
+    "361": {
+        "objects": [
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple frisbee."
+    },
+    "362": {
+        "objects": [
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black frisbee."
+    },
+    "363": {
+        "objects": [
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink frisbee."
+    },
+    "364": {
+        "objects": [
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue frisbee."
+    },
+    "365": {
+        "objects": [
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green frisbee."
+    },
+    "366": {
+        "objects": [
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow frisbee."
+    },
+    "367": {
+        "objects": [
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white frisbee."
+    },
+    "368": {
+        "objects": [
+            "toaster"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow toaster."
+    },
+    "369": {
+        "objects": [
+            "toaster"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green toaster."
+    },
+    "370": {
+        "objects": [
+            "toaster"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white toaster."
+    },
+    "371": {
+        "objects": [
+            "toaster"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue toaster."
+    },
+    "372": {
+        "objects": [
+            "toaster"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red toaster."
+    },
+    "373": {
+        "objects": [
+            "toaster"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple toaster."
+    },
+    "374": {
+        "objects": [
+            "toaster"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink toaster."
+    },
+    "375": {
+        "objects": [
+            "toaster"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black toaster."
+    },
+    "376": {
+        "objects": [
+            "sheep"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green sheep."
+    },
+    "377": {
+        "objects": [
+            "sheep"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white sheep."
+    },
+    "378": {
+        "objects": [
+            "sheep"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple sheep."
+    },
+    "379": {
+        "objects": [
+            "sheep"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red sheep."
+    },
+    "380": {
+        "objects": [
+            "sheep"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink sheep."
+    },
+    "381": {
+        "objects": [
+            "sheep"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black sheep."
+    },
+    "382": {
+        "objects": [
+            "sheep"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue sheep."
+    },
+    "383": {
+        "objects": [
+            "sheep"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow sheep."
+    },
+    "384": {
+        "objects": [
+            "traffic light"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white traffic light."
+    },
+    "385": {
+        "objects": [
+            "traffic light"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue traffic light."
+    },
+    "386": {
+        "objects": [
+            "traffic light"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple traffic light."
+    },
+    "387": {
+        "objects": [
+            "traffic light"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black traffic light."
+    },
+    "388": {
+        "objects": [
+            "traffic light"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green traffic light."
+    },
+    "389": {
+        "objects": [
+            "traffic light"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow traffic light."
+    },
+    "390": {
+        "objects": [
+            "traffic light"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red traffic light."
+    },
+    "391": {
+        "objects": [
+            "traffic light"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink traffic light."
+    },
+    "392": {
+        "objects": [
+            "train"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black train."
+    },
+    "393": {
+        "objects": [
+            "train"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green train."
+    },
+    "394": {
+        "objects": [
+            "train"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white train."
+    },
+    "395": {
+        "objects": [
+            "train"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow train."
+    },
+    "396": {
+        "objects": [
+            "train"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue train."
+    },
+    "397": {
+        "objects": [
+            "train"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red train."
+    },
+    "398": {
+        "objects": [
+            "train"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink train."
+    },
+    "399": {
+        "objects": [
+            "train"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple train."
+    },
+    "400": {
+        "objects": [
+            "microwave"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green microwave."
+    },
+    "401": {
+        "objects": [
+            "microwave"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red microwave."
+    },
+    "402": {
+        "objects": [
+            "microwave"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black microwave."
+    },
+    "403": {
+        "objects": [
+            "microwave"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white microwave."
+    },
+    "404": {
+        "objects": [
+            "microwave"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink microwave."
+    },
+    "405": {
+        "objects": [
+            "microwave"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue microwave."
+    },
+    "406": {
+        "objects": [
+            "microwave"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow microwave."
+    },
+    "407": {
+        "objects": [
+            "microwave"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple microwave."
+    },
+    "408": {
+        "objects": [
+            "cat"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black cat."
+    },
+    "409": {
+        "objects": [
+            "cat"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green cat."
+    },
+    "410": {
+        "objects": [
+            "cat"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink cat."
+    },
+    "411": {
+        "objects": [
+            "cat"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red cat."
+    },
+    "412": {
+        "objects": [
+            "cat"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue cat."
+    },
+    "413": {
+        "objects": [
+            "cat"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple cat."
+    },
+    "414": {
+        "objects": [
+            "cat"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow cat."
+    },
+    "415": {
+        "objects": [
+            "cat"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white cat."
+    },
+    "416": {
+        "objects": [
+            "tennis racket"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green tennis racket."
+    },
+    "417": {
+        "objects": [
+            "tennis racket"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow tennis racket."
+    },
+    "418": {
+        "objects": [
+            "tennis racket"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white tennis racket."
+    },
+    "419": {
+        "objects": [
+            "tennis racket"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue tennis racket."
+    },
+    "420": {
+        "objects": [
+            "tennis racket"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink tennis racket."
+    },
+    "421": {
+        "objects": [
+            "tennis racket"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red tennis racket."
+    },
+    "422": {
+        "objects": [
+            "tennis racket"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black tennis racket."
+    },
+    "423": {
+        "objects": [
+            "tennis racket"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple tennis racket."
+    },
+    "424": {
+        "objects": [
+            "eye glasses"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pair of green eye glasses."
+    },
+    "425": {
+        "objects": [
+            "eye glasses"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pair of purple eye glasses."
+    },
+    "426": {
+        "objects": [
+            "eye glasses"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pair of white eye glasses."
+    },
+    "427": {
+        "objects": [
+            "eye glasses"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pair of black eye glasses."
+    },
+    "428": {
+        "objects": [
+            "eye glasses"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pair of pink eye glasses."
+    },
+    "429": {
+        "objects": [
+            "eye glasses"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pair of blue eye glasses."
+    },
+    "430": {
+        "objects": [
+            "eye glasses"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pair of yellow eye glasses."
+    },
+    "431": {
+        "objects": [
+            "eye glasses"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pair of red eye glasses."
+    },
+    "432": {
+        "objects": [
+            "giraffe"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white giraffe."
+    },
+    "433": {
+        "objects": [
+            "giraffe"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue giraffe."
+    },
+    "434": {
+        "objects": [
+            "giraffe"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple giraffe."
+    },
+    "435": {
+        "objects": [
+            "giraffe"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black giraffe."
+    },
+    "436": {
+        "objects": [
+            "giraffe"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green giraffe."
+    },
+    "437": {
+        "objects": [
+            "giraffe"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink giraffe."
+    },
+    "438": {
+        "objects": [
+            "giraffe"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow giraffe."
+    },
+    "439": {
+        "objects": [
+            "giraffe"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red giraffe."
+    },
+    "440": {
+        "objects": [
+            "suitcase"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black suitcase."
+    },
+    "441": {
+        "objects": [
+            "suitcase"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green suitcase."
+    },
+    "442": {
+        "objects": [
+            "suitcase"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple suitcase."
+    },
+    "443": {
+        "objects": [
+            "suitcase"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white suitcase."
+    },
+    "444": {
+        "objects": [
+            "suitcase"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow suitcase."
+    },
+    "445": {
+        "objects": [
+            "suitcase"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue suitcase."
+    },
+    "446": {
+        "objects": [
+            "suitcase"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink suitcase."
+    },
+    "447": {
+        "objects": [
+            "suitcase"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red suitcase."
+    },
+    "448": {
+        "objects": [
+            "tv"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white tv."
+    },
+    "449": {
+        "objects": [
+            "tv"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black tv."
+    },
+    "450": {
+        "objects": [
+            "tv"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink tv."
+    },
+    "451": {
+        "objects": [
+            "tv"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple tv."
+    },
+    "452": {
+        "objects": [
+            "tv"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow tv."
+    },
+    "453": {
+        "objects": [
+            "tv"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red tv."
+    },
+    "454": {
+        "objects": [
+            "tv"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue tv."
+    },
+    "455": {
+        "objects": [
+            "tv"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green tv."
+    },
+    "456": {
+        "objects": [
+            "fire hydrant"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink fire hydrant."
+    },
+    "457": {
+        "objects": [
+            "fire hydrant"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple fire hydrant."
+    },
+    "458": {
+        "objects": [
+            "fire hydrant"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green fire hydrant."
+    },
+    "459": {
+        "objects": [
+            "fire hydrant"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow fire hydrant."
+    },
+    "460": {
+        "objects": [
+            "fire hydrant"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black fire hydrant."
+    },
+    "461": {
+        "objects": [
+            "fire hydrant"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red fire hydrant."
+    },
+    "462": {
+        "objects": [
+            "fire hydrant"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue fire hydrant."
+    },
+    "463": {
+        "objects": [
+            "fire hydrant"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white fire hydrant."
+    },
+    "464": {
+        "objects": [
+            "fork"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white fork."
+    },
+    "465": {
+        "objects": [
+            "fork"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green fork."
+    },
+    "466": {
+        "objects": [
+            "fork"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black fork."
+    },
+    "467": {
+        "objects": [
+            "fork"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red fork."
+    },
+    "468": {
+        "objects": [
+            "fork"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink fork."
+    },
+    "469": {
+        "objects": [
+            "fork"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow fork."
+    },
+    "470": {
+        "objects": [
+            "fork"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple fork."
+    },
+    "471": {
+        "objects": [
+            "fork"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue fork."
+    },
+    "472": {
+        "objects": [
+            "banana"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue banana."
+    },
+    "473": {
+        "objects": [
+            "banana"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red banana."
+    },
+    "474": {
+        "objects": [
+            "banana"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green banana."
+    },
+    "475": {
+        "objects": [
+            "banana"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black banana."
+    },
+    "476": {
+        "objects": [
+            "banana"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple banana."
+    },
+    "477": {
+        "objects": [
+            "banana"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink banana."
+    },
+    "478": {
+        "objects": [
+            "banana"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow banana."
+    },
+    "479": {
+        "objects": [
+            "banana"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white banana."
+    },
+    "480": {
+        "objects": [
+            "scissors"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pair of purple scissors."
+    },
+    "481": {
+        "objects": [
+            "scissors"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pair of pink scissors."
+    },
+    "482": {
+        "objects": [
+            "scissors"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pair of blue scissors."
+    },
+    "483": {
+        "objects": [
+            "scissors"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pair of white scissors."
+    },
+    "484": {
+        "objects": [
+            "scissors"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pair of red scissors."
+    },
+    "485": {
+        "objects": [
+            "scissors"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pair of green scissors."
+    },
+    "486": {
+        "objects": [
+            "scissors"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pair of black scissors."
+    },
+    "487": {
+        "objects": [
+            "scissors"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pair of yellow scissors."
+    },
+    "488": {
+        "objects": [
+            "cup"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white cup."
+    },
+    "489": {
+        "objects": [
+            "cup"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink cup."
+    },
+    "490": {
+        "objects": [
+            "cup"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple cup."
+    },
+    "491": {
+        "objects": [
+            "cup"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green cup."
+    },
+    "492": {
+        "objects": [
+            "cup"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue cup."
+    },
+    "493": {
+        "objects": [
+            "cup"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow cup."
+    },
+    "494": {
+        "objects": [
+            "cup"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black cup."
+    },
+    "495": {
+        "objects": [
+            "cup"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red cup."
+    },
+    "496": {
+        "objects": [
+            "bird"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white bird."
+    },
+    "497": {
+        "objects": [
+            "bird"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue bird."
+    },
+    "498": {
+        "objects": [
+            "bird"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow bird."
+    },
+    "499": {
+        "objects": [
+            "bird"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink bird."
+    },
+    "500": {
+        "objects": [
+            "bird"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red bird."
+    },
+    "501": {
+        "objects": [
+            "bird"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green bird."
+    },
+    "502": {
+        "objects": [
+            "bird"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple bird."
+    },
+    "503": {
+        "objects": [
+            "bird"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black bird."
+    },
+    "504": {
+        "objects": [
+            "dress"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green dress."
+    },
+    "505": {
+        "objects": [
+            "dress"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue dress."
+    },
+    "506": {
+        "objects": [
+            "dress"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink dress."
+    },
+    "507": {
+        "objects": [
+            "dress"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black dress."
+    },
+    "508": {
+        "objects": [
+            "dress"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple dress."
+    },
+    "509": {
+        "objects": [
+            "dress"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow dress."
+    },
+    "510": {
+        "objects": [
+            "dress"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red dress."
+    },
+    "511": {
+        "objects": [
+            "dress"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white dress."
+    },
+    "512": {
+        "objects": [
+            "hair drier"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black hair drier."
+    },
+    "513": {
+        "objects": [
+            "hair drier"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white hair drier."
+    },
+    "514": {
+        "objects": [
+            "hair drier"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow hair drier."
+    },
+    "515": {
+        "objects": [
+            "hair drier"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple hair drier."
+    },
+    "516": {
+        "objects": [
+            "hair drier"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink hair drier."
+    },
+    "517": {
+        "objects": [
+            "hair drier"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue hair drier."
+    },
+    "518": {
+        "objects": [
+            "hair drier"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green hair drier."
+    },
+    "519": {
+        "objects": [
+            "hair drier"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red hair drier."
+    },
+    "520": {
+        "objects": [
+            "zebra"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white zebra."
+    },
+    "521": {
+        "objects": [
+            "zebra"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow zebra."
+    },
+    "522": {
+        "objects": [
+            "zebra"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue zebra."
+    },
+    "523": {
+        "objects": [
+            "zebra"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink zebra."
+    },
+    "524": {
+        "objects": [
+            "zebra"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black zebra."
+    },
+    "525": {
+        "objects": [
+            "zebra"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green zebra."
+    },
+    "526": {
+        "objects": [
+            "zebra"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red zebra."
+    },
+    "527": {
+        "objects": [
+            "zebra"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple zebra."
+    },
+    "528": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow chair."
+    },
+    "529": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green chair."
+    },
+    "530": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple chair."
+    },
+    "531": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white chair."
+    },
+    "532": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black chair."
+    },
+    "533": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue chair."
+    },
+    "534": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red chair."
+    },
+    "535": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink chair."
+    },
+    "536": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow carpet."
+    },
+    "537": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red carpet."
+    },
+    "538": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple carpet."
+    },
+    "539": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue carpet."
+    },
+    "540": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink carpet."
+    },
+    "541": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white carpet."
+    },
+    "542": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black carpet."
+    },
+    "543": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green carpet."
+    },
+    "544": {
+        "objects": [
+            "skateboard"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow skateboard."
+    },
+    "545": {
+        "objects": [
+            "skateboard"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red skateboard."
+    },
+    "546": {
+        "objects": [
+            "skateboard"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue skateboard."
+    },
+    "547": {
+        "objects": [
+            "skateboard"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green skateboard."
+    },
+    "548": {
+        "objects": [
+            "skateboard"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple skateboard."
+    },
+    "549": {
+        "objects": [
+            "skateboard"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink skateboard."
+    },
+    "550": {
+        "objects": [
+            "skateboard"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black skateboard."
+    },
+    "551": {
+        "objects": [
+            "skateboard"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white skateboard."
+    },
+    "552": {
+        "objects": [
+            "mouse"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red mouse."
+    },
+    "553": {
+        "objects": [
+            "mouse"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black mouse."
+    },
+    "554": {
+        "objects": [
+            "mouse"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue mouse."
+    },
+    "555": {
+        "objects": [
+            "mouse"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple mouse."
+    },
+    "556": {
+        "objects": [
+            "mouse"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white mouse."
+    },
+    "557": {
+        "objects": [
+            "mouse"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green mouse."
+    },
+    "558": {
+        "objects": [
+            "mouse"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink mouse."
+    },
+    "559": {
+        "objects": [
+            "mouse"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow mouse."
+    },
+    "560": {
+        "objects": [
+            "handbag"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black handbag."
+    },
+    "561": {
+        "objects": [
+            "handbag"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink handbag."
+    },
+    "562": {
+        "objects": [
+            "handbag"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red handbag."
+    },
+    "563": {
+        "objects": [
+            "handbag"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple handbag."
+    },
+    "564": {
+        "objects": [
+            "handbag"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow handbag."
+    },
+    "565": {
+        "objects": [
+            "handbag"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green handbag."
+    },
+    "566": {
+        "objects": [
+            "handbag"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white handbag."
+    },
+    "567": {
+        "objects": [
+            "handbag"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue handbag."
+    },
+    "568": {
+        "objects": [
+            "kite"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black kite."
+    },
+    "569": {
+        "objects": [
+            "kite"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green kite."
+    },
+    "570": {
+        "objects": [
+            "kite"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink kite."
+    },
+    "571": {
+        "objects": [
+            "kite"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white kite."
+    },
+    "572": {
+        "objects": [
+            "kite"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue kite."
+    },
+    "573": {
+        "objects": [
+            "kite"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple kite."
+    },
+    "574": {
+        "objects": [
+            "kite"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red kite."
+    },
+    "575": {
+        "objects": [
+            "kite"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow kite."
+    },
+    "576": {
+        "objects": [
+            "cake"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white cake."
+    },
+    "577": {
+        "objects": [
+            "cake"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple cake."
+    },
+    "578": {
+        "objects": [
+            "cake"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green cake."
+    },
+    "579": {
+        "objects": [
+            "cake"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow cake."
+    },
+    "580": {
+        "objects": [
+            "cake"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black cake."
+    },
+    "581": {
+        "objects": [
+            "cake"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink cake."
+    },
+    "582": {
+        "objects": [
+            "cake"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue cake."
+    },
+    "583": {
+        "objects": [
+            "cake"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red cake."
+    },
+    "584": {
+        "objects": [
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple toilet."
+    },
+    "585": {
+        "objects": [
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue toilet."
+    },
+    "586": {
+        "objects": [
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black toilet."
+    },
+    "587": {
+        "objects": [
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green toilet."
+    },
+    "588": {
+        "objects": [
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink toilet."
+    },
+    "589": {
+        "objects": [
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red toilet."
+    },
+    "590": {
+        "objects": [
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white toilet."
+    },
+    "591": {
+        "objects": [
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow toilet."
+    },
+    "592": {
+        "objects": [
+            "oven"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A white oven."
+    },
+    "593": {
+        "objects": [
+            "oven"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A purple oven."
+    },
+    "594": {
+        "objects": [
+            "oven"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pink oven."
+    },
+    "595": {
+        "objects": [
+            "oven"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A black oven."
+    },
+    "596": {
+        "objects": [
+            "oven"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A green oven."
+    },
+    "597": {
+        "objects": [
+            "oven"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A blue oven."
+    },
+    "598": {
+        "objects": [
+            "oven"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A red oven."
+    },
+    "599": {
+        "objects": [
+            "oven"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A yellow oven."
+    }
+}

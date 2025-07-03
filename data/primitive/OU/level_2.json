@@ -1,0 +1,6502 @@
+{
+    "0": {
+        "objects": [
+            "carrot",
+            "fire hydrant"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each carrot is pink and each fire hydrant is pink."
+    },
+    "1": {
+        "objects": [
+            "carrot",
+            "fire hydrant"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the carrots are blue and all the fire hydrants are red."
+    },
+    "2": {
+        "objects": [
+            "carrot",
+            "fire hydrant"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every carrot is red and every fire hydrant is black."
+    },
+    "3": {
+        "objects": [
+            "carrot",
+            "fire hydrant"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the carrots are green and all the fire hydrants are purple."
+    },
+    "4": {
+        "objects": [
+            "toaster",
+            "baby"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every toaster is blue and every baby is sad."
+    },
+    "5": {
+        "objects": [
+            "toaster",
+            "baby"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every toaster is purple and every baby is happy."
+    },
+    "6": {
+        "objects": [
+            "toaster",
+            "baby"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each toaster is red and each baby is sad."
+    },
+    "7": {
+        "objects": [
+            "toaster",
+            "baby"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the toasters are purple and all the babies are afraid."
+    },
+    "8": {
+        "objects": [
+            "donut",
+            "plate"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each donut is green and each plate is made of clay."
+    },
+    "9": {
+        "objects": [
+            "donut",
+            "plate"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the donuts are black and all the plates are heart-shaped."
+    },
+    "10": {
+        "objects": [
+            "donut",
+            "plate"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each donut is green and each plate is made of aluminum."
+    },
+    "11": {
+        "objects": [
+            "donut",
+            "plate"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each donut is black and each plate is purple."
+    },
+    "12": {
+        "objects": [
+            "sheep",
+            "bowl"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the sheep are happy and all the bowls are blue."
+    },
+    "13": {
+        "objects": [
+            "sheep",
+            "bowl"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every sheep is blue and every bowl is pink."
+    },
+    "14": {
+        "objects": [
+            "sheep",
+            "bowl"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every sheep is calm and every bowl is hexagonal."
+    },
+    "15": {
+        "objects": [
+            "sheep",
+            "bowl"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the sheep are calm and all the bowls are made of porcelain."
+    },
+    "16": {
+        "objects": [
+            "horse",
+            "bowl"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each horse is black and each bowl is square."
+    },
+    "17": {
+        "objects": [
+            "horse",
+            "bowl"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every horse is pink and every bowl is pink."
+    },
+    "18": {
+        "objects": [
+            "horse",
+            "bowl"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every horse is purple and every bowl is asymmetrical."
+    },
+    "19": {
+        "objects": [
+            "horse",
+            "bowl"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each horse is purple and each bowl is black."
+    },
+    "20": {
+        "objects": [
+            "book",
+            "dining table"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the books are white and all the dining tables are red."
+    },
+    "21": {
+        "objects": [
+            "book",
+            "dining table"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every book is black and every dining table is pink."
+    },
+    "22": {
+        "objects": [
+            "book",
+            "dining table"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the books are yellow and all the dining tables are made of resin."
+    },
+    "23": {
+        "objects": [
+            "book",
+            "dining table"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every book is white and every dining table is paisley."
+    },
+    "24": {
+        "objects": [
+            "coat",
+            "zebra"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each coat is black and each zebra is afraid."
+    },
+    "25": {
+        "objects": [
+            "coat",
+            "zebra"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each coat is blue and each zebra is red."
+    },
+    "26": {
+        "objects": [
+            "coat",
+            "zebra"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each coat is camouflage and each zebra is angry."
+    },
+    "27": {
+        "objects": [
+            "coat",
+            "zebra"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the coats are green and all the zebras are surprised."
+    },
+    "28": {
+        "objects": [
+            "bowl",
+            "girl"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each bowl is purple and each girl is sad."
+    },
+    "29": {
+        "objects": [
+            "bowl",
+            "girl"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each bowl is pink and each girl is afraid."
+    },
+    "30": {
+        "objects": [
+            "bowl",
+            "girl"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every bowl is made of resin and every girl is sad."
+    },
+    "31": {
+        "objects": [
+            "bowl",
+            "girl"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each bowl is triangular and each girl is sad."
+    },
+    "32": {
+        "objects": [
+            "teddy bear",
+            "backpack"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every teddy bear is blue and every backpack is crescentic."
+    },
+    "33": {
+        "objects": [
+            "teddy bear",
+            "backpack"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each teddy bear is pink and each backpack is pink."
+    },
+    "34": {
+        "objects": [
+            "teddy bear",
+            "backpack"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the teddy bears are pink and all the backpacks are blue."
+    },
+    "35": {
+        "objects": [
+            "teddy bear",
+            "backpack"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each teddy bear is green and each backpack is black."
+    },
+    "36": {
+        "objects": [
+            "oven",
+            "spoon"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the ovens are green and all the spoons are ceramic."
+    },
+    "37": {
+        "objects": [
+            "oven",
+            "spoon"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every oven is green and every spoon is green."
+    },
+    "38": {
+        "objects": [
+            "oven",
+            "spoon"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every oven is blue and every spoon is red."
+    },
+    "39": {
+        "objects": [
+            "oven",
+            "spoon"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the ovens are yellow and all the spoons are made of silver."
+    },
+    "40": {
+        "objects": [
+            "boat",
+            "book"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the boats are made of steel and all the books are black."
+    },
+    "41": {
+        "objects": [
+            "boat",
+            "book"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every boat is blue and every book is green."
+    },
+    "42": {
+        "objects": [
+            "boat",
+            "book"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every boat is black and every book is white."
+    },
+    "43": {
+        "objects": [
+            "boat",
+            "book"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each boat is made of brass and each book is pink."
+    },
+    "44": {
+        "objects": [
+            "microwave",
+            "cat"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the microwaves are yellow and all the cats are angry."
+    },
+    "45": {
+        "objects": [
+            "microwave",
+            "cat"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each microwave is white and each cat is yellow."
+    },
+    "46": {
+        "objects": [
+            "microwave",
+            "cat"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every microwave is blue and every cat is yellow."
+    },
+    "47": {
+        "objects": [
+            "microwave",
+            "cat"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the microwaves are white and all the cats are surprised."
+    },
+    "48": {
+        "objects": [
+            "bird",
+            "car"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every bird is green and every car is made of carbon-fiber."
+    },
+    "49": {
+        "objects": [
+            "bird",
+            "car"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each bird is surprised and each car is made of wooden."
+    },
+    "50": {
+        "objects": [
+            "bird",
+            "car"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each bird is surprised and each car is made of glass."
+    },
+    "51": {
+        "objects": [
+            "bird",
+            "car"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each bird is green and each car is made of fabric."
+    },
+    "52": {
+        "objects": [
+            "bus",
+            "boy"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the buses are made of rubber and all the boys are afraid."
+    },
+    "53": {
+        "objects": [
+            "bus",
+            "boy"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the buses are made of plastic and all the boys are angry."
+    },
+    "54": {
+        "objects": [
+            "bus",
+            "boy"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every bus is made of bamboo and every boy is happy."
+    },
+    "55": {
+        "objects": [
+            "bus",
+            "boy"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every bus is red and every boy is surprised."
+    },
+    "56": {
+        "objects": [
+            "toothbrush",
+            "eye glasses"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each toothbrush is white and each pair of eye glasses is red."
+    },
+    "57": {
+        "objects": [
+            "toothbrush",
+            "eye glasses"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every toothbrush is black and every pair of eye glasses is yellow."
+    },
+    "58": {
+        "objects": [
+            "toothbrush",
+            "eye glasses"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every toothbrush is pink and every pair of eye glasses is yellow."
+    },
+    "59": {
+        "objects": [
+            "toothbrush",
+            "eye glasses"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the toothbrushes are yellow and all the eye glassess are pink."
+    },
+    "60": {
+        "objects": [
+            "bird",
+            "sandwich"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the birds are afraid and all the sandwiches are black."
+    },
+    "61": {
+        "objects": [
+            "bird",
+            "sandwich"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every bird is red and every sandwich is pink."
+    },
+    "62": {
+        "objects": [
+            "bird",
+            "sandwich"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every bird is purple and every sandwich is yellow."
+    },
+    "63": {
+        "objects": [
+            "bird",
+            "sandwich"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each bird is angry and each sandwich is purple."
+    },
+    "64": {
+        "objects": [
+            "boy",
+            "dining table"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the boys are surprised and all the dining tables are yellow."
+    },
+    "65": {
+        "objects": [
+            "boy",
+            "dining table"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the boys are surprised and all the dining tables are stripes."
+    },
+    "66": {
+        "objects": [
+            "boy",
+            "dining table"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every boy is happy and every dining table is triangular."
+    },
+    "67": {
+        "objects": [
+            "boy",
+            "dining table"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each boy is surprised and each dining table is pink."
+    },
+    "68": {
+        "objects": [
+            "keyboard",
+            "eye glasses"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every keyboard is purple and every pair of eye glasses is red."
+    },
+    "69": {
+        "objects": [
+            "keyboard",
+            "eye glasses"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each keyboard is blue and each pair of eye glasses is pink."
+    },
+    "70": {
+        "objects": [
+            "keyboard",
+            "eye glasses"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every keyboard is yellow and every pair of eye glasses is purple."
+    },
+    "71": {
+        "objects": [
+            "keyboard",
+            "eye glasses"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each keyboard is purple and each pair of eye glasses is pink."
+    },
+    "72": {
+        "objects": [
+            "frisbee",
+            "eye glasses"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each frisbee is black and each pair of eye glasses is black."
+    },
+    "73": {
+        "objects": [
+            "frisbee",
+            "eye glasses"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the frisbees are red and all the eye glassess are purple."
+    },
+    "74": {
+        "objects": [
+            "frisbee",
+            "eye glasses"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the frisbees are purple and all the eye glassess are black."
+    },
+    "75": {
+        "objects": [
+            "frisbee",
+            "eye glasses"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the frisbees are green and all the eye glassess are black."
+    },
+    "76": {
+        "objects": [
+            "truck",
+            "toothbrush"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the trucks are yellow and all the toothbrushes are purple."
+    },
+    "77": {
+        "objects": [
+            "truck",
+            "toothbrush"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every truck is made of wooden and every toothbrush is yellow."
+    },
+    "78": {
+        "objects": [
+            "truck",
+            "toothbrush"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every truck is pink and every toothbrush is red."
+    },
+    "79": {
+        "objects": [
+            "truck",
+            "toothbrush"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each truck is green and each toothbrush is black."
+    },
+    "80": {
+        "objects": [
+            "toothbrush",
+            "frisbee"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every toothbrush is yellow and every frisbee is blue."
+    },
+    "81": {
+        "objects": [
+            "toothbrush",
+            "frisbee"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each toothbrush is yellow and each frisbee is white."
+    },
+    "82": {
+        "objects": [
+            "toothbrush",
+            "frisbee"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every toothbrush is purple and every frisbee is white."
+    },
+    "83": {
+        "objects": [
+            "toothbrush",
+            "frisbee"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each toothbrush is white and each frisbee is pink."
+    },
+    "84": {
+        "objects": [
+            "apple",
+            "tennis racket"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each apple is purple and each tennis racket is red."
+    },
+    "85": {
+        "objects": [
+            "apple",
+            "tennis racket"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every apple is blue and every tennis racket is pink."
+    },
+    "86": {
+        "objects": [
+            "apple",
+            "tennis racket"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every apple is blue and every tennis racket is blue."
+    },
+    "87": {
+        "objects": [
+            "apple",
+            "tennis racket"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the apples are red and all the tennis rackets are white."
+    },
+    "88": {
+        "objects": [
+            "pizza",
+            "fork"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every pizza is white and every fork is red."
+    },
+    "89": {
+        "objects": [
+            "pizza",
+            "fork"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every pizza is pink and every fork is made of steel."
+    },
+    "90": {
+        "objects": [
+            "pizza",
+            "fork"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the pizzas are green and all the forks are made of titanium."
+    },
+    "91": {
+        "objects": [
+            "pizza",
+            "fork"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the pizzas are blue and all the forks are made of silver."
+    },
+    "92": {
+        "objects": [
+            "car",
+            "remote"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every car is made of aluminum and every remote is yellow."
+    },
+    "93": {
+        "objects": [
+            "car",
+            "remote"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the cars are made of chrome and all the remotes are purple."
+    },
+    "94": {
+        "objects": [
+            "car",
+            "remote"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the cars are made of acrylic and all the remotes are purple."
+    },
+    "95": {
+        "objects": [
+            "car",
+            "remote"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the cars are made of marble and all the remotes are black."
+    },
+    "96": {
+        "objects": [
+            "plate",
+            "pizza"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the plates are made of copper and all the pizzas are pink."
+    },
+    "97": {
+        "objects": [
+            "plate",
+            "pizza"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the plates are diamond and all the pizzas are blue."
+    },
+    "98": {
+        "objects": [
+            "plate",
+            "pizza"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each plate is irregular and each pizza is red."
+    },
+    "99": {
+        "objects": [
+            "plate",
+            "pizza"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every plate is made of marble and every pizza is pink."
+    },
+    "100": {
+        "objects": [
+            "broccoli",
+            "bear"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the broccolis are yellow and all the bears are black."
+    },
+    "101": {
+        "objects": [
+            "broccoli",
+            "bear"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every broccoli is white and every bear is blue."
+    },
+    "102": {
+        "objects": [
+            "broccoli",
+            "bear"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the broccolis are purple and all the bears are white."
+    },
+    "103": {
+        "objects": [
+            "broccoli",
+            "bear"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every broccoli is green and every bear is surprised."
+    },
+    "104": {
+        "objects": [
+            "pizza",
+            "giraffe"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each pizza is black and each giraffe is angry."
+    },
+    "105": {
+        "objects": [
+            "pizza",
+            "giraffe"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the pizzas are red and all the giraffes are afraid."
+    },
+    "106": {
+        "objects": [
+            "pizza",
+            "giraffe"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every pizza is purple and every giraffe is black."
+    },
+    "107": {
+        "objects": [
+            "pizza",
+            "giraffe"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each pizza is black and each giraffe is purple."
+    },
+    "108": {
+        "objects": [
+            "bear",
+            "broccoli"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each bear is afraid and each broccoli is black."
+    },
+    "109": {
+        "objects": [
+            "bear",
+            "broccoli"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every bear is angry and every broccoli is yellow."
+    },
+    "110": {
+        "objects": [
+            "bear",
+            "broccoli"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the bears are black and all the broccolis are red."
+    },
+    "111": {
+        "objects": [
+            "bear",
+            "broccoli"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the bears are calm and all the broccolis are yellow."
+    },
+    "112": {
+        "objects": [
+            "traffic light",
+            "tv"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the traffic lights are purple and all the tvs are blue."
+    },
+    "113": {
+        "objects": [
+            "traffic light",
+            "tv"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the traffic lights are blue and all the tvs are black."
+    },
+    "114": {
+        "objects": [
+            "traffic light",
+            "tv"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each traffic light is white and each tv is purple."
+    },
+    "115": {
+        "objects": [
+            "traffic light",
+            "tv"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the traffic lights are pink and all the tvs are yellow."
+    },
+    "116": {
+        "objects": [
+            "T-shirt",
+            "donut"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every T-shirt is purple and every donut is red."
+    },
+    "117": {
+        "objects": [
+            "T-shirt",
+            "donut"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the T-shirts are paisley and all the donuts are green."
+    },
+    "118": {
+        "objects": [
+            "T-shirt",
+            "donut"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every T-shirt is plain and every donut is pink."
+    },
+    "119": {
+        "objects": [
+            "T-shirt",
+            "donut"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each T-shirt is yellow and each donut is purple."
+    },
+    "120": {
+        "objects": [
+            "woman",
+            "zebra"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each woman is surprised and each zebra is yellow."
+    },
+    "121": {
+        "objects": [
+            "woman",
+            "zebra"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each woman is happy and each zebra is white."
+    },
+    "122": {
+        "objects": [
+            "woman",
+            "zebra"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each woman is surprised and each zebra is calm."
+    },
+    "123": {
+        "objects": [
+            "woman",
+            "zebra"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each woman is surprised and each zebra is green."
+    },
+    "124": {
+        "objects": [
+            "teddy bear",
+            "skis"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the teddy bears are white and all the ski are pink."
+    },
+    "125": {
+        "objects": [
+            "teddy bear",
+            "skis"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every teddy bear is black and every pair of skis is pink."
+    },
+    "126": {
+        "objects": [
+            "teddy bear",
+            "skis"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every teddy bear is pink and every pair of skis is red."
+    },
+    "127": {
+        "objects": [
+            "teddy bear",
+            "skis"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each teddy bear is green and each pair of skis is white."
+    },
+    "128": {
+        "objects": [
+            "banana",
+            "cow"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every banana is pink and every cow is calm."
+    },
+    "129": {
+        "objects": [
+            "banana",
+            "cow"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each banana is blue and each cow is afraid."
+    },
+    "130": {
+        "objects": [
+            "banana",
+            "cow"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each banana is green and each cow is calm."
+    },
+    "131": {
+        "objects": [
+            "banana",
+            "cow"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each banana is yellow and each cow is afraid."
+    },
+    "132": {
+        "objects": [
+            "cow",
+            "toaster"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the cows are afraid and all the toasters are pink."
+    },
+    "133": {
+        "objects": [
+            "cow",
+            "toaster"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the cows are blue and all the toasters are pink."
+    },
+    "134": {
+        "objects": [
+            "cow",
+            "toaster"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the cows are calm and all the toasters are pink."
+    },
+    "135": {
+        "objects": [
+            "cow",
+            "toaster"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every cow is red and every toaster is purple."
+    },
+    "136": {
+        "objects": [
+            "apple",
+            "sink"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the apples are white and all the sinks are yellow."
+    },
+    "137": {
+        "objects": [
+            "apple",
+            "sink"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every apple is white and every sink is square."
+    },
+    "138": {
+        "objects": [
+            "apple",
+            "sink"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every apple is green and every sink is hexagonal."
+    },
+    "139": {
+        "objects": [
+            "apple",
+            "sink"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every apple is black and every sink is hexagonal."
+    },
+    "140": {
+        "objects": [
+            "snowboard",
+            "toothbrush"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the snowboards are black and all the toothbrushes are pink."
+    },
+    "141": {
+        "objects": [
+            "snowboard",
+            "toothbrush"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the snowboards are purple and all the toothbrushes are green."
+    },
+    "142": {
+        "objects": [
+            "snowboard",
+            "toothbrush"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each snowboard is white and each toothbrush is black."
+    },
+    "143": {
+        "objects": [
+            "snowboard",
+            "toothbrush"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each snowboard is white and each toothbrush is red."
+    },
+    "144": {
+        "objects": [
+            "skateboard",
+            "bench"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every skateboard is yellow and every bench is rectangular."
+    },
+    "145": {
+        "objects": [
+            "skateboard",
+            "bench"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each skateboard is white and each bench is green."
+    },
+    "146": {
+        "objects": [
+            "skateboard",
+            "bench"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each skateboard is red and each bench is elliptical."
+    },
+    "147": {
+        "objects": [
+            "skateboard",
+            "bench"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each skateboard is yellow and each bench is round."
+    },
+    "148": {
+        "objects": [
+            "woman",
+            "surfboard"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every woman is angry and every surfboard is blue."
+    },
+    "149": {
+        "objects": [
+            "woman",
+            "surfboard"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every woman is happy and every surfboard is red."
+    },
+    "150": {
+        "objects": [
+            "microwave",
+            "snowboard"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the microwaves are green. All the microwaves are on the side of the snowboard."
+    },
+    "151": {
+        "objects": [
+            "microwave",
+            "snowboard"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every microwave is red. Every microwave is under the snowboard."
+    },
+    "152": {
+        "objects": [
+            "eye glasses",
+            "boat"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the eye glassess are pink. All the eye glassess are near the boat."
+    },
+    "153": {
+        "objects": [
+            "eye glasses",
+            "boat"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every pair of eye glasses is yellow. Each pair of eye glasses is above the boat."
+    },
+    "154": {
+        "objects": [
+            "bowl",
+            "tv"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each bowl is triangular. Each bowl is near the tv."
+    },
+    "155": {
+        "objects": [
+            "bowl",
+            "tv"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each bowl is red. Each bowl is above the tv."
+    },
+    "156": {
+        "objects": [
+            "street sign",
+            "bus"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each street sign is red. Each street sign is on the top of the bus."
+    },
+    "157": {
+        "objects": [
+            "street sign",
+            "bus"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each street sign is green. Each street sign is on the right of the bus."
+    },
+    "158": {
+        "objects": [
+            "baseball bat",
+            "orange"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every baseball bat is red. Every baseball bat is far away from the orange."
+    },
+    "159": {
+        "objects": [
+            "baseball bat",
+            "orange"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each baseball bat is blue. Each baseball bat is on the top of the orange."
+    },
+    "160": {
+        "objects": [
+            "banana",
+            "cell phone"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the bananas are yellow. All the bananas are on the right of the cell phone."
+    },
+    "161": {
+        "objects": [
+            "banana",
+            "cell phone"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every banana is purple. Every banana is below the cell phone."
+    },
+    "162": {
+        "objects": [
+            "truck",
+            "umbrella"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every truck is black. Every truck is on the left of the umbrella."
+    },
+    "163": {
+        "objects": [
+            "truck",
+            "umbrella"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every truck is made of metallic. Every truck is on the right of the umbrella."
+    },
+    "164": {
+        "objects": [
+            "tv",
+            "coat"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every tv is white. Every tv is far away from the coat."
+    },
+    "165": {
+        "objects": [
+            "tv",
+            "coat"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every tv is yellow. Every tv is on the right of the coat."
+    },
+    "166": {
+        "objects": [
+            "sink",
+            "coat"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the sinks are green. All the sinks are on the left of the coat."
+    },
+    "167": {
+        "objects": [
+            "sink",
+            "coat"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every sink is yellow. Every sink is on the right of the coat."
+    },
+    "168": {
+        "objects": [
+            "street sign",
+            "bird"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every street sign is hexagonal. Every street sign is on the left of the bird."
+    },
+    "169": {
+        "objects": [
+            "street sign",
+            "bird"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the street signs are triangular. All the street signs are far away from the bird."
+    },
+    "170": {
+        "objects": [
+            "toaster",
+            "dog"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the toasters are yellow. All the toasters are below the dog."
+    },
+    "171": {
+        "objects": [
+            "toaster",
+            "dog"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each toaster is pink. Each toaster is on the right of the dog."
+    },
+    "172": {
+        "objects": [
+            "microwave",
+            "bottle"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the microwaves are green. All the microwaves are on the right of the bottle."
+    },
+    "173": {
+        "objects": [
+            "microwave",
+            "bottle"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every microwave is green. Every microwave is on the left of the bottle."
+    },
+    "174": {
+        "objects": [
+            "bowl",
+            "microwave"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the bowls are made of copper. All the bowls are far away from the microwave."
+    },
+    "175": {
+        "objects": [
+            "bowl",
+            "microwave"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each bowl is star-shaped. Each bowl is under the microwave."
+    },
+    "176": {
+        "objects": [
+            "frisbee",
+            "tv"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every frisbee is white. Every frisbee is on the left of the tv."
+    },
+    "177": {
+        "objects": [
+            "frisbee",
+            "tv"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each frisbee is pink. Each frisbee is on the top of the tv."
+    },
+    "178": {
+        "objects": [
+            "cup",
+            "dog"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every cup is made of silicone. Every cup is on the right of the dog."
+    },
+    "179": {
+        "objects": [
+            "cup",
+            "dog"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every cup is blue. Every cup is on the left of the dog."
+    },
+    "180": {
+        "objects": [
+            "remote",
+            "truck"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the remotes are green. All the remotes are below the truck."
+    },
+    "181": {
+        "objects": [
+            "remote",
+            "truck"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each remote is purple. Each remote is above the truck."
+    },
+    "182": {
+        "objects": [
+            "spoon",
+            "trousers"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every spoon is green. Every spoon is below the trousers."
+    },
+    "183": {
+        "objects": [
+            "spoon",
+            "trousers"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every spoon is made of silver. Every spoon is near the trousers."
+    },
+    "184": {
+        "objects": [
+            "trousers",
+            "fork"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each pair of trousers is pink. Each pair of trousers is on the side of the fork."
+    },
+    "185": {
+        "objects": [
+            "trousers",
+            "fork"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every pair of trousers is checked. Each pair of trousers is below the fork."
+    },
+    "186": {
+        "objects": [
+            "knife",
+            "street sign"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every knife is made of ivory. Every knife is on the right of the street sign."
+    },
+    "187": {
+        "objects": [
+            "knife",
+            "street sign"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the knives are made of ivory. All the knives are above the street sign."
+    },
+    "188": {
+        "objects": [
+            "kite",
+            "bed"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each kite is black. Each kite is below the bed."
+    },
+    "189": {
+        "objects": [
+            "kite",
+            "bed"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every kite is black. Every kite is on the left of the bed."
+    },
+    "190": {
+        "objects": [
+            "suitcase",
+            "frisbee"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the suitcases are blue. All the suitcases are on the top of the frisbee."
+    },
+    "191": {
+        "objects": [
+            "suitcase",
+            "frisbee"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each suitcase is pink. Each suitcase is on the side of the frisbee."
+    },
+    "192": {
+        "objects": [
+            "motorcycle",
+            "baseball bat"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the motorcycles are made of wooden. All the motorcycles are below the baseball bat."
+    },
+    "193": {
+        "objects": [
+            "motorcycle",
+            "baseball bat"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the motorcycles are made of wooden. All the motorcycles are on the side of the baseball bat."
+    },
+    "194": {
+        "objects": [
+            "girl",
+            "bicycle"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each girl is angry. Each girl is near the bicycle."
+    },
+    "195": {
+        "objects": [
+            "girl",
+            "bicycle"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the girls are surprised. All the girls are far away from the bicycle."
+    },
+    "196": {
+        "objects": [
+            "donut",
+            "car"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every donut is pink. Every donut is on the left of the car."
+    },
+    "197": {
+        "objects": [
+            "donut",
+            "car"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the donuts are yellow. All the donuts are on the right of the car."
+    },
+    "198": {
+        "objects": [
+            "carpet",
+            "car"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the carpets are purple. All the carpets are on the left of the car."
+    },
+    "199": {
+        "objects": [
+            "carpet",
+            "car"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the carpets are made of tile. All the carpets are near the car."
+    },
+    "200": {
+        "objects": [
+            "giraffe",
+            "truck"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the giraffes are purple. All the giraffes are below the truck."
+    },
+    "201": {
+        "objects": [
+            "giraffe",
+            "truck"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every giraffe is red. Every giraffe is on the right of the truck."
+    },
+    "202": {
+        "objects": [
+            "traffic light",
+            "dog"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every traffic light is blue. Every traffic light is below the dog."
+    },
+    "203": {
+        "objects": [
+            "traffic light",
+            "dog"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the traffic lights are yellow. All the traffic lights are on the top of the dog."
+    },
+    "204": {
+        "objects": [
+            "truck",
+            "sandwich"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each truck is made of wooden. Each truck is on the left of the sandwich."
+    },
+    "205": {
+        "objects": [
+            "truck",
+            "sandwich"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each truck is made of wooden. Each truck is far away from the sandwich."
+    },
+    "206": {
+        "objects": [
+            "carpet",
+            "hair drier"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each carpet is purple. Each carpet is below the hair drier."
+    },
+    "207": {
+        "objects": [
+            "carpet",
+            "hair drier"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each carpet is stripes. Each carpet is on the right of the hair drier."
+    },
+    "208": {
+        "objects": [
+            "cat",
+            "donut"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every cat is green. Every cat is on the right of the donut."
+    },
+    "209": {
+        "objects": [
+            "cat",
+            "donut"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every cat is happy. Every cat is far away from the donut."
+    },
+    "210": {
+        "objects": [
+            "truck",
+            "dog"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every truck is black. Every truck is on the right of the dog."
+    },
+    "211": {
+        "objects": [
+            "truck",
+            "dog"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the trucks are pink. All the trucks are below the dog."
+    },
+    "212": {
+        "objects": [
+            "motorcycle",
+            "mouse"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every motorcycle is made of chrome. Every motorcycle is on the right of the mouse."
+    },
+    "213": {
+        "objects": [
+            "motorcycle",
+            "mouse"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the motorcycles are pink. All the motorcycles are below the mouse."
+    },
+    "214": {
+        "objects": [
+            "cup",
+            "book"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the cups are round. All the cups are below the book."
+    },
+    "215": {
+        "objects": [
+            "cup",
+            "book"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the cups are made of leather. All the cups are on the left of the book."
+    },
+    "216": {
+        "objects": [
+            "cow",
+            "cake"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the cows are black. All the cows are under the cake."
+    },
+    "217": {
+        "objects": [
+            "cow",
+            "cake"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each cow is calm. Each cow is above the cake."
+    },
+    "218": {
+        "objects": [
+            "toothbrush",
+            "carrot"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each toothbrush is yellow. Each toothbrush is above the carrot."
+    },
+    "219": {
+        "objects": [
+            "toothbrush",
+            "carrot"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every toothbrush is pink. Every toothbrush is far away from the carrot."
+    },
+    "220": {
+        "objects": [
+            "cell phone",
+            "giraffe"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each cell phone is pink. Each cell phone is on the left of the giraffe."
+    },
+    "221": {
+        "objects": [
+            "cell phone",
+            "giraffe"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the cell phones are white. All the cell phones are under the giraffe."
+    },
+    "222": {
+        "objects": [
+            "hair drier",
+            "kite"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each hair drier is black. Each hair drier is on the right of the kite."
+    },
+    "223": {
+        "objects": [
+            "hair drier",
+            "kite"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every hair drier is white. Every hair drier is far away from the kite."
+    },
+    "224": {
+        "objects": [
+            "cell phone",
+            "tennis racket"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the cell phones are red. All the cell phones are far away from the tennis racket."
+    },
+    "225": {
+        "objects": [
+            "cell phone",
+            "tennis racket"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each cell phone is white. Each cell phone is next to the tennis racket."
+    },
+    "226": {
+        "objects": [
+            "cow",
+            "pizza"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the cows are calm. All the cows are on the left of the pizza."
+    },
+    "227": {
+        "objects": [
+            "cow",
+            "pizza"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every cow is yellow. Every cow is on the right of the pizza."
+    },
+    "228": {
+        "objects": [
+            "kite",
+            "potted plant"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every kite is crescentic. Every kite is far away from the potted plant."
+    },
+    "229": {
+        "objects": [
+            "kite",
+            "potted plant"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every kite is pink. Every kite is on the top of the potted plant."
+    },
+    "230": {
+        "objects": [
+            "car",
+            "microwave"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each car is red. Each car is under the microwave."
+    },
+    "231": {
+        "objects": [
+            "car",
+            "microwave"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each car is pink. Each car is above the microwave."
+    },
+    "232": {
+        "objects": [
+            "cat",
+            "orange"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every cat is surprised. Every cat is on the left of the orange."
+    },
+    "233": {
+        "objects": [
+            "cat",
+            "orange"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the cats are green. All the cats are next to the orange."
+    },
+    "234": {
+        "objects": [
+            "donut",
+            "chair"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every donut is red. Every donut is under the chair."
+    },
+    "235": {
+        "objects": [
+            "donut",
+            "chair"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the donuts are green. All the donuts are far away from the chair."
+    },
+    "236": {
+        "objects": [
+            "toilet",
+            "tennis racket"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each toilet is red. Each toilet is under the tennis racket."
+    },
+    "237": {
+        "objects": [
+            "toilet",
+            "tennis racket"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the toilets are white. All the toilets are far away from the tennis racket."
+    },
+    "238": {
+        "objects": [
+            "banana",
+            "truck"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each banana is pink. Each banana is above the truck."
+    },
+    "239": {
+        "objects": [
+            "banana",
+            "truck"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the bananas are purple. All the bananas are on the left of the truck."
+    },
+    "240": {
+        "objects": [
+            "microwave",
+            "shirt"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each microwave is yellow. Each microwave is on the top of the shirt."
+    },
+    "241": {
+        "objects": [
+            "microwave",
+            "shirt"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the microwaves are green. All the microwaves are far away from the shirt."
+    },
+    "242": {
+        "objects": [
+            "chair",
+            "boy"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the chairs are black. All the chairs are near the boy."
+    },
+    "243": {
+        "objects": [
+            "chair",
+            "boy"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each chair is camouflage. Each chair is far away from the boy."
+    },
+    "244": {
+        "objects": [
+            "zebra",
+            "vase"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each zebra is angry. Each zebra is on the left of the vase."
+    },
+    "245": {
+        "objects": [
+            "zebra",
+            "vase"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each zebra is yellow. Each zebra is on the right of the vase."
+    },
+    "246": {
+        "objects": [
+            "refrigerator",
+            "donut"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each refrigerator is purple. Each refrigerator is below the donut."
+    },
+    "247": {
+        "objects": [
+            "refrigerator",
+            "donut"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each refrigerator is green. Each refrigerator is on the top of the donut."
+    },
+    "248": {
+        "objects": [
+            "bottle",
+            "motorcycle"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each bottle is made of bamboo. Each bottle is far away from the motorcycle."
+    },
+    "249": {
+        "objects": [
+            "bottle",
+            "motorcycle"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each bottle is made of fabric. Each bottle is above the motorcycle."
+    },
+    "250": {
+        "objects": [
+            "surfboard",
+            "sports ball"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every surfboard is white and every sports ball is pink."
+    },
+    "251": {
+        "objects": [
+            "surfboard",
+            "sports ball"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each surfboard is black and each sports ball is green."
+    },
+    "252": {
+        "objects": [
+            "surfboard",
+            "sports ball"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each surfboard is white and each sports ball is purple."
+    },
+    "253": {
+        "objects": [
+            "surfboard",
+            "sports ball"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the surfboards are red and all the sports balls are green."
+    },
+    "254": {
+        "objects": [
+            "train",
+            "bus"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each train is blue and each bus is purple."
+    },
+    "255": {
+        "objects": [
+            "train",
+            "bus"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every train is yellow and every bus is blue."
+    },
+    "256": {
+        "objects": [
+            "train",
+            "bus"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the trains are black and all the buses are green."
+    },
+    "257": {
+        "objects": [
+            "train",
+            "bus"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the trains are blue and all the buses are made of concrete."
+    },
+    "258": {
+        "objects": [
+            "elephant",
+            "bird"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the elephants are surprised and all the birds are surprised."
+    },
+    "259": {
+        "objects": [
+            "elephant",
+            "bird"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every elephant is purple and every bird is calm."
+    },
+    "260": {
+        "objects": [
+            "elephant",
+            "bird"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the elephants are yellow and all the birds are afraid."
+    },
+    "261": {
+        "objects": [
+            "elephant",
+            "bird"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each elephant is surprised and each bird is pink."
+    },
+    "262": {
+        "objects": [
+            "spoon",
+            "fork"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the spoons are blue and all the forks are made of gold."
+    },
+    "263": {
+        "objects": [
+            "spoon",
+            "fork"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the spoons are black and all the forks are made of bone."
+    },
+    "264": {
+        "objects": [
+            "spoon",
+            "fork"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the spoons are white and all the forks are made of plastic."
+    },
+    "265": {
+        "objects": [
+            "spoon",
+            "fork"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each spoon is white and each fork is purple."
+    },
+    "266": {
+        "objects": [
+            "pizza",
+            "carrot"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the pizzas are red and all the carrots are purple."
+    },
+    "267": {
+        "objects": [
+            "pizza",
+            "carrot"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the pizzas are black and all the carrots are red."
+    },
+    "268": {
+        "objects": [
+            "pizza",
+            "carrot"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each pizza is pink and each carrot is blue."
+    },
+    "269": {
+        "objects": [
+            "pizza",
+            "carrot"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every pizza is green and every carrot is black."
+    },
+    "270": {
+        "objects": [
+            "handbag",
+            "umbrella"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the handbags are green and all the umbrellas are green."
+    },
+    "271": {
+        "objects": [
+            "handbag",
+            "umbrella"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every handbag is yellow and every umbrella is green."
+    },
+    "272": {
+        "objects": [
+            "handbag",
+            "umbrella"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the handbags are purple and all the umbrellas are white."
+    },
+    "273": {
+        "objects": [
+            "handbag",
+            "umbrella"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every handbag is star-shaped and every umbrella is black."
+    },
+    "274": {
+        "objects": [
+            "keyboard",
+            "remote"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each keyboard is yellow and each remote is yellow."
+    },
+    "275": {
+        "objects": [
+            "keyboard",
+            "remote"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the keyboards are black and all the remotes are blue."
+    },
+    "276": {
+        "objects": [
+            "keyboard",
+            "remote"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every keyboard is white and every remote is white."
+    },
+    "277": {
+        "objects": [
+            "keyboard",
+            "remote"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the keyboards are yellow and all the remotes are black."
+    },
+    "278": {
+        "objects": [
+            "suitcase",
+            "backpack"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every suitcase is purple and every backpack is crescentic."
+    },
+    "279": {
+        "objects": [
+            "suitcase",
+            "backpack"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the suitcases are purple and all the backpacks are diamond."
+    },
+    "280": {
+        "objects": [
+            "suitcase",
+            "backpack"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every suitcase is yellow and every backpack is crescentic."
+    },
+    "281": {
+        "objects": [
+            "suitcase",
+            "backpack"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each suitcase is white and each backpack is black."
+    },
+    "282": {
+        "objects": [
+            "dress",
+            "coat"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each dress is green and each coat is plain."
+    },
+    "283": {
+        "objects": [
+            "dress",
+            "coat"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each dress is herringbone and each coat is black."
+    },
+    "284": {
+        "objects": [
+            "dress",
+            "coat"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the dresses are white and all the coats are purple."
+    },
+    "285": {
+        "objects": [
+            "dress",
+            "coat"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the dresses are checked and all the coats are camouflage."
+    },
+    "286": {
+        "objects": [
+            "surfboard",
+            "snowboard"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each surfboard is white and each snowboard is green."
+    },
+    "287": {
+        "objects": [
+            "surfboard",
+            "snowboard"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each surfboard is pink and each snowboard is blue."
+    },
+    "288": {
+        "objects": [
+            "surfboard",
+            "snowboard"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each surfboard is purple and each snowboard is yellow."
+    },
+    "289": {
+        "objects": [
+            "surfboard",
+            "snowboard"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the surfboards are white and all the snowboards are pink."
+    },
+    "290": {
+        "objects": [
+            "scissors",
+            "vase"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the scissors are white and all the vases are green."
+    },
+    "291": {
+        "objects": [
+            "scissors",
+            "vase"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every pair of scissors is black and every vase is red."
+    },
+    "292": {
+        "objects": [
+            "scissors",
+            "vase"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the scissors are white and all the vases are pink."
+    },
+    "293": {
+        "objects": [
+            "scissors",
+            "vase"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every pair of scissors is yellow and every vase is black."
+    },
+    "294": {
+        "objects": [
+            "snowboard",
+            "skis"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the snowboards are yellow and all the ski are blue."
+    },
+    "295": {
+        "objects": [
+            "snowboard",
+            "skis"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each snowboard is blue and each pair of skis is pink."
+    },
+    "296": {
+        "objects": [
+            "snowboard",
+            "skis"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every snowboard is purple and every pair of skis is white."
+    },
+    "297": {
+        "objects": [
+            "snowboard",
+            "skis"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each snowboard is pink and each pair of skis is yellow."
+    },
+    "298": {
+        "objects": [
+            "giraffe",
+            "sheep"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each giraffe is purple and each sheep is sad."
+    },
+    "299": {
+        "objects": [
+            "giraffe",
+            "sheep"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the giraffes are surprised and all the sheep are blue."
+    },
+    "300": {
+        "objects": [
+            "giraffe",
+            "sheep"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each giraffe is green and each sheep is sad."
+    },
+    "301": {
+        "objects": [
+            "giraffe",
+            "sheep"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the giraffes are green and all the sheep are afraid."
+    },
+    "302": {
+        "objects": [
+            "refrigerator",
+            "oven"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every refrigerator is purple and every oven is red."
+    },
+    "303": {
+        "objects": [
+            "refrigerator",
+            "oven"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every refrigerator is yellow and every oven is green."
+    },
+    "304": {
+        "objects": [
+            "refrigerator",
+            "oven"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the refrigerators are red and all the ovens are pink."
+    },
+    "305": {
+        "objects": [
+            "refrigerator",
+            "oven"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the refrigerators are black and all the ovens are red."
+    },
+    "306": {
+        "objects": [
+            "cake",
+            "hot dog"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every cake is heart-shaped and every hot dog is pink."
+    },
+    "307": {
+        "objects": [
+            "cake",
+            "hot dog"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the cakes are square and all the hot dogs are purple."
+    },
+    "308": {
+        "objects": [
+            "cake",
+            "hot dog"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every cake is star-shaped and every hot dog is white."
+    },
+    "309": {
+        "objects": [
+            "cake",
+            "hot dog"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the cakes are green and all the hot dogs are green."
+    },
+    "310": {
+        "objects": [
+            "scissors",
+            "book"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every pair of scissors is purple and every book is blue."
+    },
+    "311": {
+        "objects": [
+            "scissors",
+            "book"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the scissors are pink and all the books are black."
+    },
+    "312": {
+        "objects": [
+            "scissors",
+            "book"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each pair of scissors is yellow and each book is purple."
+    },
+    "313": {
+        "objects": [
+            "scissors",
+            "book"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each pair of scissors is green and each book is white."
+    },
+    "314": {
+        "objects": [
+            "baseball glove",
+            "baseball bat"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the baseball gloves are pink and all the baseball bats are purple."
+    },
+    "315": {
+        "objects": [
+            "baseball glove",
+            "baseball bat"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the baseball gloves are blue and all the baseball bats are black."
+    },
+    "316": {
+        "objects": [
+            "baseball glove",
+            "baseball bat"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the baseball gloves are red and all the baseball bats are red."
+    },
+    "317": {
+        "objects": [
+            "baseball glove",
+            "baseball bat"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every baseball glove is pink and every baseball bat is green."
+    },
+    "318": {
+        "objects": [
+            "bed",
+            "chair"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the beds are made of wooden and all the chairs are yellow."
+    },
+    "319": {
+        "objects": [
+            "bed",
+            "chair"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every bed is made of concrete and every chair is made of plastic."
+    },
+    "320": {
+        "objects": [
+            "bed",
+            "chair"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the beds are camouflage and all the chairs are checked."
+    },
+    "321": {
+        "objects": [
+            "bed",
+            "chair"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the beds are plaid and all the chairs are plaid."
+    },
+    "322": {
+        "objects": [
+            "baseball glove",
+            "snowboard"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the baseball gloves are blue and all the snowboards are pink."
+    },
+    "323": {
+        "objects": [
+            "baseball glove",
+            "snowboard"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the baseball gloves are green and all the snowboards are purple."
+    },
+    "324": {
+        "objects": [
+            "baseball glove",
+            "snowboard"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each baseball glove is black and each snowboard is white."
+    },
+    "325": {
+        "objects": [
+            "baseball glove",
+            "snowboard"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the baseball gloves are green and all the snowboards are pink."
+    },
+    "326": {
+        "objects": [
+            "cake",
+            "banana"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every cake is white and every banana is red."
+    },
+    "327": {
+        "objects": [
+            "cake",
+            "banana"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each cake is blue and each banana is white."
+    },
+    "328": {
+        "objects": [
+            "cake",
+            "banana"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the cakes are red and all the bananas are purple."
+    },
+    "329": {
+        "objects": [
+            "cake",
+            "banana"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each cake is pink and each banana is green."
+    },
+    "330": {
+        "objects": [
+            "baseball glove",
+            "sports ball"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each baseball glove is blue and each sports ball is yellow."
+    },
+    "331": {
+        "objects": [
+            "baseball glove",
+            "sports ball"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the baseball gloves are pink and all the sports balls are red."
+    },
+    "332": {
+        "objects": [
+            "baseball glove",
+            "sports ball"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every baseball glove is pink and every sports ball is blue."
+    },
+    "333": {
+        "objects": [
+            "baseball glove",
+            "sports ball"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the baseball gloves are green and all the sports balls are black."
+    },
+    "334": {
+        "objects": [
+            "sheep",
+            "bird"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the sheep are yellow and all the birds are angry."
+    },
+    "335": {
+        "objects": [
+            "sheep",
+            "bird"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each sheep is afraid and each bird is surprised."
+    },
+    "336": {
+        "objects": [
+            "sheep",
+            "bird"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each sheep is pink and each bird is sad."
+    },
+    "337": {
+        "objects": [
+            "sheep",
+            "bird"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the sheep are surprised and all the birds are pink."
+    },
+    "338": {
+        "objects": [
+            "broccoli",
+            "apple"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each broccoli is black and each apple is black."
+    },
+    "339": {
+        "objects": [
+            "broccoli",
+            "apple"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each broccoli is pink and each apple is black."
+    },
+    "340": {
+        "objects": [
+            "broccoli",
+            "apple"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each broccoli is white and each apple is purple."
+    },
+    "341": {
+        "objects": [
+            "broccoli",
+            "apple"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every broccoli is pink and every apple is yellow."
+    },
+    "342": {
+        "objects": [
+            "boat",
+            "truck"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every boat is made of copper and every truck is black."
+    },
+    "343": {
+        "objects": [
+            "boat",
+            "truck"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every boat is red and every truck is made of leather."
+    },
+    "344": {
+        "objects": [
+            "boat",
+            "truck"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the boats are blue and all the trucks are green."
+    },
+    "345": {
+        "objects": [
+            "boat",
+            "truck"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every boat is made of leather and every truck is made of leather."
+    },
+    "346": {
+        "objects": [
+            "toothbrush",
+            "vase"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each toothbrush is white and each vase is red."
+    },
+    "347": {
+        "objects": [
+            "toothbrush",
+            "vase"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every toothbrush is white and every vase is yellow."
+    },
+    "348": {
+        "objects": [
+            "toothbrush",
+            "vase"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every toothbrush is pink and every vase is black."
+    },
+    "349": {
+        "objects": [
+            "toothbrush",
+            "vase"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every toothbrush is green and every vase is purple."
+    },
+    "350": {
+        "objects": [
+            "kite",
+            "skis"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every kite is yellow and every pair of skis is yellow."
+    },
+    "351": {
+        "objects": [
+            "kite",
+            "skis"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the kites are green and all the ski are pink."
+    },
+    "352": {
+        "objects": [
+            "kite",
+            "skis"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the kites are red and all the ski are green."
+    },
+    "353": {
+        "objects": [
+            "kite",
+            "skis"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each kite is hexagonal and each pair of skis is pink."
+    },
+    "354": {
+        "objects": [
+            "tennis racket",
+            "sports ball"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each tennis racket is red and each sports ball is red."
+    },
+    "355": {
+        "objects": [
+            "tennis racket",
+            "sports ball"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each tennis racket is purple and each sports ball is white."
+    },
+    "356": {
+        "objects": [
+            "tennis racket",
+            "sports ball"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each tennis racket is pink and each sports ball is blue."
+    },
+    "357": {
+        "objects": [
+            "tennis racket",
+            "sports ball"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every tennis racket is yellow and every sports ball is pink."
+    },
+    "358": {
+        "objects": [
+            "sports ball",
+            "frisbee"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every sports ball is blue and every frisbee is red."
+    },
+    "359": {
+        "objects": [
+            "sports ball",
+            "frisbee"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the sports balls are red and all the frisbees are black."
+    },
+    "360": {
+        "objects": [
+            "sports ball",
+            "frisbee"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every sports ball is blue and every frisbee is yellow."
+    },
+    "361": {
+        "objects": [
+            "sports ball",
+            "frisbee"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each sports ball is blue and each frisbee is blue."
+    },
+    "362": {
+        "objects": [
+            "cake",
+            "broccoli"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every cake is yellow and every broccoli is red."
+    },
+    "363": {
+        "objects": [
+            "cake",
+            "broccoli"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each cake is blue and each broccoli is black."
+    },
+    "364": {
+        "objects": [
+            "cake",
+            "broccoli"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the cakes are white and all the broccolis are purple."
+    },
+    "365": {
+        "objects": [
+            "cake",
+            "broccoli"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each cake is crescentic and each broccoli is purple."
+    },
+    "366": {
+        "objects": [
+            "carrot",
+            "sandwich"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every carrot is purple and every sandwich is red."
+    },
+    "367": {
+        "objects": [
+            "carrot",
+            "sandwich"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the carrots are blue and all the sandwiches are pink."
+    },
+    "368": {
+        "objects": [
+            "carrot",
+            "sandwich"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each carrot is red and each sandwich is black."
+    },
+    "369": {
+        "objects": [
+            "carrot",
+            "sandwich"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the carrots are green and all the sandwiches are black."
+    },
+    "370": {
+        "objects": [
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the apples are black and all the bananas are pink."
+    },
+    "371": {
+        "objects": [
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each apple is yellow and each banana is purple."
+    },
+    "372": {
+        "objects": [
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every apple is white and every banana is purple."
+    },
+    "373": {
+        "objects": [
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every apple is black and every banana is green."
+    },
+    "374": {
+        "objects": [
+            "bus",
+            "bicycle"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each bus is made of plastic and each bicycle is made of carbon-fiber."
+    },
+    "375": {
+        "objects": [
+            "bus",
+            "bicycle"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every bus is yellow and every bicycle is green."
+    },
+    "376": {
+        "objects": [
+            "bus",
+            "bicycle"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the buses are purple and all the bicycles are pink."
+    },
+    "377": {
+        "objects": [
+            "bus",
+            "bicycle"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the buses are made of concrete and all the bicycles are blue."
+    },
+    "378": {
+        "objects": [
+            "carrot",
+            "orange"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the carrots are white and all the oranges are red."
+    },
+    "379": {
+        "objects": [
+            "carrot",
+            "orange"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each carrot is black and each orange is black."
+    },
+    "380": {
+        "objects": [
+            "carrot",
+            "orange"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the carrots are yellow and all the oranges are blue."
+    },
+    "381": {
+        "objects": [
+            "carrot",
+            "orange"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the carrots are red and all the oranges are yellow."
+    },
+    "382": {
+        "objects": [
+            "eye glasses",
+            "backpack"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every pair of eye glasses is red and every backpack is black."
+    },
+    "383": {
+        "objects": [
+            "eye glasses",
+            "backpack"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the eye glassess are green and all the backpacks are purple."
+    },
+    "384": {
+        "objects": [
+            "eye glasses",
+            "backpack"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the eye glassess are blue and all the backpacks are oval."
+    },
+    "385": {
+        "objects": [
+            "eye glasses",
+            "backpack"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each pair of eye glasses is black and each backpack is round."
+    },
+    "386": {
+        "objects": [
+            "cat",
+            "bird"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every cat is surprised and every bird is sad."
+    },
+    "387": {
+        "objects": [
+            "cat",
+            "bird"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every cat is blue and every bird is white."
+    },
+    "388": {
+        "objects": [
+            "cat",
+            "bird"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each cat is sad and each bird is pink."
+    },
+    "389": {
+        "objects": [
+            "cat",
+            "bird"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the cats are angry and all the birds are angry."
+    },
+    "390": {
+        "objects": [
+            "tennis racket",
+            "skateboard"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each tennis racket is yellow and each skateboard is yellow."
+    },
+    "391": {
+        "objects": [
+            "tennis racket",
+            "skateboard"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the tennis rackets are pink and all the skateboards are green."
+    },
+    "392": {
+        "objects": [
+            "tennis racket",
+            "skateboard"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the tennis rackets are blue and all the skateboards are red."
+    },
+    "393": {
+        "objects": [
+            "tennis racket",
+            "skateboard"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the tennis rackets are white and all the skateboards are black."
+    },
+    "394": {
+        "objects": [
+            "donut",
+            "carrot"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the donuts are yellow and all the carrots are red."
+    },
+    "395": {
+        "objects": [
+            "donut",
+            "carrot"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every donut is purple and every carrot is pink."
+    },
+    "396": {
+        "objects": [
+            "donut",
+            "carrot"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Every donut is blue and every carrot is black."
+    },
+    "397": {
+        "objects": [
+            "donut",
+            "carrot"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each donut is yellow and each carrot is white."
+    },
+    "398": {
+        "objects": [
+            "train",
+            "bicycle"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "Each train is made of rubber and each bicycle is blue."
+    },
+    "399": {
+        "objects": [
+            "train",
+            "bicycle"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 0,
+            "attributes number": 2,
+            "objects number": 2
+        },
+        "prompt": "All the trains are red and all the bicycles are made of stone."
+    },
+    "400": {
+        "objects": [
+            "train",
+            "bicycle"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every train is made of foam. Every train is on the left of the bicycle."
+    },
+    "401": {
+        "objects": [
+            "train",
+            "bicycle"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the trains are made of glass. All the trains are above the bicycle."
+    },
+    "402": {
+        "objects": [
+            "zebra",
+            "cat"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the zebras are calm. All the zebras are below the cat."
+    },
+    "403": {
+        "objects": [
+            "zebra",
+            "cat"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every zebra is afraid. Every zebra is on the top of the cat."
+    },
+    "404": {
+        "objects": [
+            "fork",
+            "cup"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every fork is made of plastic. Every fork is near the cup."
+    },
+    "405": {
+        "objects": [
+            "fork",
+            "cup"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the forks are made of copper. All the forks are on the right of the cup."
+    },
+    "406": {
+        "objects": [
+            "carpet",
+            "curtain"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each carpet is made of stone. Each carpet is below the curtain."
+    },
+    "407": {
+        "objects": [
+            "carpet",
+            "curtain"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the carpets are made of tile. All the carpets are far away from the curtain."
+    },
+    "408": {
+        "objects": [
+            "train",
+            "bus"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the trains are ceramic. All the trains are on the right of the bus."
+    },
+    "409": {
+        "objects": [
+            "train",
+            "bus"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the trains are white. All the trains are on the side of the bus."
+    },
+    "410": {
+        "objects": [
+            "elephant",
+            "sheep"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the elephants are red. All the elephants are on the top of the sheep."
+    },
+    "411": {
+        "objects": [
+            "elephant",
+            "sheep"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each elephant is pink. Each elephant is on the side of the sheep."
+    },
+    "412": {
+        "objects": [
+            "bed",
+            "couch"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each bed is plaid. Each bed is above the couch."
+    },
+    "413": {
+        "objects": [
+            "bed",
+            "couch"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the beds are made of fabric. All the beds are below the couch."
+    },
+    "414": {
+        "objects": [
+            "bus",
+            "bicycle"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each bus is red. Each bus is below the bicycle."
+    },
+    "415": {
+        "objects": [
+            "bus",
+            "bicycle"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each bus is purple. Each bus is far away from the bicycle."
+    },
+    "416": {
+        "objects": [
+            "tennis racket",
+            "surfboard"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each tennis racket is white. Each tennis racket is on the left of the surfboard."
+    },
+    "417": {
+        "objects": [
+            "tennis racket",
+            "surfboard"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every tennis racket is purple. Every tennis racket is far away from the surfboard."
+    },
+    "418": {
+        "objects": [
+            "sandwich",
+            "apple"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the sandwiches are blue. All the sandwiches are on the top of the apple."
+    },
+    "419": {
+        "objects": [
+            "sandwich",
+            "apple"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every sandwich is yellow. Every sandwich is on the left of the apple."
+    },
+    "420": {
+        "objects": [
+            "tennis racket",
+            "baseball bat"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every tennis racket is white. Every tennis racket is on the right of the baseball bat."
+    },
+    "421": {
+        "objects": [
+            "tennis racket",
+            "baseball bat"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every tennis racket is yellow. Every tennis racket is far away from the baseball bat."
+    },
+    "422": {
+        "objects": [
+            "skateboard",
+            "surfboard"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every skateboard is green. Every skateboard is far away from the surfboard."
+    },
+    "423": {
+        "objects": [
+            "skateboard",
+            "surfboard"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every skateboard is pink. Every skateboard is on the left of the surfboard."
+    },
+    "424": {
+        "objects": [
+            "street sign",
+            "traffic light"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each street sign is round. Each street sign is on the top of the traffic light."
+    },
+    "425": {
+        "objects": [
+            "street sign",
+            "traffic light"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the street signs are purple. All the street signs are on the right of the traffic light."
+    },
+    "426": {
+        "objects": [
+            "bear",
+            "sheep"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every bear is pink. Every bear is far away from the sheep."
+    },
+    "427": {
+        "objects": [
+            "bear",
+            "sheep"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each bear is surprised. Each bear is on the right of the sheep."
+    },
+    "428": {
+        "objects": [
+            "sheep",
+            "dog"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each sheep is white. Each sheep is on the right of the dog."
+    },
+    "429": {
+        "objects": [
+            "sheep",
+            "dog"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the sheep are black. All the sheep are near the dog."
+    },
+    "430": {
+        "objects": [
+            "knife",
+            "bottle"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each knife is red. Each knife is on the right of the bottle."
+    },
+    "431": {
+        "objects": [
+            "knife",
+            "bottle"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the knives are made of plastic. All the knives are on the left of the bottle."
+    },
+    "432": {
+        "objects": [
+            "toilet",
+            "dining table"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each toilet is made of bamboo. Each toilet is far away from the dining table."
+    },
+    "433": {
+        "objects": [
+            "toilet",
+            "dining table"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the toilets are blue. All the toilets are under the dining table."
+    },
+    "434": {
+        "objects": [
+            "cow",
+            "dog"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each cow is angry. Each cow is far away from the dog."
+    },
+    "435": {
+        "objects": [
+            "cow",
+            "dog"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each cow is calm. Each cow is near the dog."
+    },
+    "436": {
+        "objects": [
+            "sports ball",
+            "frisbee"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each sports ball is blue. Each sports ball is near the frisbee."
+    },
+    "437": {
+        "objects": [
+            "sports ball",
+            "frisbee"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every sports ball is green. Every sports ball is under the frisbee."
+    },
+    "438": {
+        "objects": [
+            "keyboard",
+            "tv"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each keyboard is blue. Each keyboard is on the top of the tv."
+    },
+    "439": {
+        "objects": [
+            "keyboard",
+            "tv"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each keyboard is blue. Each keyboard is near the tv."
+    },
+    "440": {
+        "objects": [
+            "donut",
+            "sandwich"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each donut is purple. Each donut is on the right of the sandwich."
+    },
+    "441": {
+        "objects": [
+            "donut",
+            "sandwich"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every donut is blue. Every donut is on the top of the sandwich."
+    },
+    "442": {
+        "objects": [
+            "giraffe",
+            "bird"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each giraffe is purple. Each giraffe is on the side of the bird."
+    },
+    "443": {
+        "objects": [
+            "giraffe",
+            "bird"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every giraffe is green. Every giraffe is on the right of the bird."
+    },
+    "444": {
+        "objects": [
+            "baseball bat",
+            "snowboard"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the baseball bats are red. All the baseball bats are far away from the snowboard."
+    },
+    "445": {
+        "objects": [
+            "baseball bat",
+            "snowboard"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every baseball bat is blue. Every baseball bat is on the right of the snowboard."
+    },
+    "446": {
+        "objects": [
+            "handbag",
+            "backpack"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the handbags are star-shaped. All the handbags are on the side of the backpack."
+    },
+    "447": {
+        "objects": [
+            "handbag",
+            "backpack"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the handbags are yellow. All the handbags are on the right of the backpack."
+    },
+    "448": {
+        "objects": [
+            "sheep",
+            "cat"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every sheep is white. Every sheep is under the cat."
+    },
+    "449": {
+        "objects": [
+            "sheep",
+            "cat"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each sheep is sad. Each sheep is on the top of the cat."
+    },
+    "450": {
+        "objects": [
+            "truck",
+            "bicycle"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every truck is white. Every truck is on the right of the bicycle."
+    },
+    "451": {
+        "objects": [
+            "truck",
+            "bicycle"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every truck is made of glass. Every truck is below the bicycle."
+    },
+    "452": {
+        "objects": [
+            "dining table",
+            "potted plant"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the dining tables are pink. All the dining tables are on the left of the potted plant."
+    },
+    "453": {
+        "objects": [
+            "dining table",
+            "potted plant"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the dining tables are plain. All the dining tables are on the side of the potted plant."
+    },
+    "454": {
+        "objects": [
+            "surfboard",
+            "baseball bat"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each surfboard is black. Each surfboard is on the right of the baseball bat."
+    },
+    "455": {
+        "objects": [
+            "surfboard",
+            "baseball bat"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the surfboards are black. All the surfboards are on the left of the baseball bat."
+    },
+    "456": {
+        "objects": [
+            "dining table",
+            "curtain"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every dining table is purple. Every dining table is on the left of the curtain."
+    },
+    "457": {
+        "objects": [
+            "dining table",
+            "curtain"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every dining table is yellow. Every dining table is on the side of the curtain."
+    },
+    "458": {
+        "objects": [
+            "hot dog",
+            "banana"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the hot dogs are white. All the hot dogs are far away from the banana."
+    },
+    "459": {
+        "objects": [
+            "hot dog",
+            "banana"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each hot dog is green. Each hot dog is below the banana."
+    },
+    "460": {
+        "objects": [
+            "fire hydrant",
+            "parking meter"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every fire hydrant is red. Every fire hydrant is on the side of the parking meter."
+    },
+    "461": {
+        "objects": [
+            "fire hydrant",
+            "parking meter"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each fire hydrant is purple. Each fire hydrant is under the parking meter."
+    },
+    "462": {
+        "objects": [
+            "boat",
+            "airplane"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each boat is red. Each boat is under the airplane."
+    },
+    "463": {
+        "objects": [
+            "boat",
+            "airplane"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every boat is made of canvas. Every boat is on the right of the airplane."
+    },
+    "464": {
+        "objects": [
+            "hair drier",
+            "clock"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the hair driers are blue. All the hair driers are below the clock."
+    },
+    "465": {
+        "objects": [
+            "hair drier",
+            "clock"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each hair drier is black. Each hair drier is on the top of the clock."
+    },
+    "466": {
+        "objects": [
+            "hot dog",
+            "sandwich"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every hot dog is yellow. Every hot dog is far away from the sandwich."
+    },
+    "467": {
+        "objects": [
+            "hot dog",
+            "sandwich"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every hot dog is black. Every hot dog is on the top of the sandwich."
+    },
+    "468": {
+        "objects": [
+            "spoon",
+            "plate"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every spoon is red. Every spoon is above the plate."
+    },
+    "469": {
+        "objects": [
+            "spoon",
+            "plate"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every spoon is green. Every spoon is on the right of the plate."
+    },
+    "470": {
+        "objects": [
+            "truck",
+            "airplane"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the trucks are made of foam. All the trucks are above the airplane."
+    },
+    "471": {
+        "objects": [
+            "truck",
+            "airplane"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every truck is white. Every truck is far away from the airplane."
+    },
+    "472": {
+        "objects": [
+            "woman",
+            "baby"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the women are afraid. All the women are far away from the baby."
+    },
+    "473": {
+        "objects": [
+            "woman",
+            "baby"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the women are calm. All the women are on the side of the baby."
+    },
+    "474": {
+        "objects": [
+            "remote",
+            "mouse"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every remote is purple. Every remote is on the side of the mouse."
+    },
+    "475": {
+        "objects": [
+            "remote",
+            "mouse"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every remote is red. Every remote is under the mouse."
+    },
+    "476": {
+        "objects": [
+            "broccoli",
+            "apple"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each broccoli is white. Each broccoli is on the left of the apple."
+    },
+    "477": {
+        "objects": [
+            "broccoli",
+            "apple"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every broccoli is red. Every broccoli is on the right of the apple."
+    },
+    "478": {
+        "objects": [
+            "umbrella",
+            "backpack"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each umbrella is purple. Each umbrella is on the side of the backpack."
+    },
+    "479": {
+        "objects": [
+            "umbrella",
+            "backpack"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the umbrellas are yellow. All the umbrellas are far away from the backpack."
+    },
+    "480": {
+        "objects": [
+            "baseball glove",
+            "frisbee"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every baseball glove is black. Every baseball glove is on the left of the frisbee."
+    },
+    "481": {
+        "objects": [
+            "baseball glove",
+            "frisbee"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the baseball gloves are pink. All the baseball gloves are on the right of the frisbee."
+    },
+    "482": {
+        "objects": [
+            "street sign",
+            "parking meter"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each street sign is square. Each street sign is far away from the parking meter."
+    },
+    "483": {
+        "objects": [
+            "street sign",
+            "parking meter"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the street signs are hexagonal. All the street signs are on the side of the parking meter."
+    },
+    "484": {
+        "objects": [
+            "baseball bat",
+            "sports ball"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the baseball bats are white. All the baseball bats are on the right of the sports ball."
+    },
+    "485": {
+        "objects": [
+            "baseball bat",
+            "sports ball"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the baseball bats are black. All the baseball bats are far away from the sports ball."
+    },
+    "486": {
+        "objects": [
+            "shirt",
+            "trousers"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each shirt is pink. Each shirt is near the trousers."
+    },
+    "487": {
+        "objects": [
+            "shirt",
+            "trousers"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every shirt is black. Every shirt is on the left of the trousers."
+    },
+    "488": {
+        "objects": [
+            "bowl",
+            "bottle"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each bowl is white. Each bowl is on the right of the bottle."
+    },
+    "489": {
+        "objects": [
+            "bowl",
+            "bottle"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Every bowl is triangular. Every bowl is below the bottle."
+    },
+    "490": {
+        "objects": [
+            "kite",
+            "sports ball"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each kite is heart. Each kite is far away from the sports ball."
+    },
+    "491": {
+        "objects": [
+            "kite",
+            "sports ball"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each kite is rectangular. Each kite is on the right of the sports ball."
+    },
+    "492": {
+        "objects": [
+            "handbag",
+            "eye glasses"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the handbags are blue. All the handbags are under the eye glasses."
+    },
+    "493": {
+        "objects": [
+            "handbag",
+            "eye glasses"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each handbag is red. Each handbag is on the left of the eye glasses."
+    },
+    "494": {
+        "objects": [
+            "bear",
+            "elephant"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each bear is blue. Each bear is far away from the elephant."
+    },
+    "495": {
+        "objects": [
+            "bear",
+            "elephant"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each bear is happy. Each bear is next to the elephant."
+    },
+    "496": {
+        "objects": [
+            "girl",
+            "baby"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the girls are calm. All the girls are on the top of the baby."
+    },
+    "497": {
+        "objects": [
+            "girl",
+            "baby"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each girl is happy. Each girl is far away from the baby."
+    },
+    "498": {
+        "objects": [
+            "toothbrush",
+            "clock"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "All the toothbrushes are blue. All the toothbrushes are next to the clock."
+    },
+    "499": {
+        "objects": [
+            "toothbrush",
+            "clock"
+        ],
+        "tags": {
+            "universalities number": 2,
+            "spatials number": 1,
+            "attributes number": 1,
+            "objects number": 2
+        },
+        "prompt": "Each toothbrush is red. Each toothbrush is on the right of the clock."
+    }
+}

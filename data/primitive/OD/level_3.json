@@ -1,0 +1,5642 @@
+{
+    "0": {
+        "objects": [
+            "car",
+            "handbag"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three cars: one is under the handbag, another is on the left of the handbag, and the third one is far away from the handbag."
+    },
+    "1": {
+        "objects": [
+            "remote",
+            "cake"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three remotes: one is on the left of the cake, one is below the cake, and one is on top of the cake."
+    },
+    "2": {
+        "objects": [
+            "cake",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three cakes positioned around the chair: one cake is on the right, another cake is nearby, and the third cake is on the left of the chair."
+    },
+    "3": {
+        "objects": [
+            "street sign",
+            "sink"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three street signs; one is far away from the sink, one is next to the sink, and one is on the right of the sink."
+    },
+    "4": {
+        "objects": [
+            "vase",
+            "bed"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three vases placed around the bed - one on the left side, one beside it, and one further away."
+    },
+    "5": {
+        "objects": [
+            "clock",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three clocks, one is under the banana, one is on the right of the banana, and one is on the banana."
+    },
+    "6": {
+        "objects": [
+            "skis",
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three pairs of skis - one pair is positioned under the toilet, another pair is on the left of the toilet, and the third pair is next to the toilet."
+    },
+    "7": {
+        "objects": [
+            "donut",
+            "cow"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three donuts in relation to the cow - one donut is far away from the cow, one donut is on the left of the cow, and one donut is under the cow."
+    },
+    "8": {
+        "objects": [
+            "bed",
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three beds, one is far away from the bowl, one is on the right of the bowl, and one is above the bowl."
+    },
+    "9": {
+        "objects": [
+            "motorcycle",
+            "broccoli"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three motorcycles, one motorcycle is above the broccoli, one motorcycle is under the broccoli, and one motorcycle is far away from the broccoli."
+    },
+    "10": {
+        "objects": [
+            "skateboard",
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three skateboards in relation to the airplane: one skateboard is far away, another skateboard is beside it, and a third skateboard is underneath it."
+    },
+    "11": {
+        "objects": [
+            "sports ball",
+            "giraffe"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "In the scene, one sports ball is to the right of the giraffe, another sports ball is beside the giraffe, and a third sports ball is below the giraffe."
+    },
+    "12": {
+        "objects": [
+            "train",
+            "dog"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three trains in relation to the dog; one train is situated on the left side of the dog, another train is positioned above the dog, and a third train is located far away from the dog."
+    },
+    "13": {
+        "objects": [
+            "car",
+            "baby"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three cars in relation to the baby: one car is below the baby, another car is next to the baby, and the third car is on the right of the baby."
+    },
+    "14": {
+        "objects": [
+            "refrigerator",
+            "fork"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three refrigerators positioned in relation to the fork: one is on top of the fork, one is to the right of the fork, and one is below the fork."
+    },
+    "15": {
+        "objects": [
+            "teddy bear",
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three teddy bears: one teddy bear is far away from the trousers, another teddy bear is on top of the trousers, and the third teddy bear is below the trousers."
+    },
+    "16": {
+        "objects": [
+            "cake",
+            "fire hydrant"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three cakes in relation to the fire hydrant; one cake is on the right of the fire hydrant, one cake is below the fire hydrant, and one cake is near the fire hydrant."
+    },
+    "17": {
+        "objects": [
+            "cake",
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three cakes: one is below the dining table, one is on the left of the dining table, and one is on the dining table."
+    },
+    "18": {
+        "objects": [
+            "baseball bat",
+            "street sign"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three baseball bats: one is next to the street sign, one is under the street sign, and one is on the left of the street sign."
+    },
+    "19": {
+        "objects": [
+            "dress",
+            "elephant"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three dresses, one dress is far away from the elephant, one dress is on the right of the elephant, and one dress is on the side of the elephant."
+    },
+    "20": {
+        "objects": [
+            "trousers",
+            "suitcase"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three pairs of trousers: one pair is located on the left of the suitcase, another pair is positioned next to the suitcase, and the third pair is situated above the suitcase."
+    },
+    "21": {
+        "objects": [
+            "apple",
+            "baseball bat"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three apples: one apple is positioned above the baseball bat, another apple is positioned below the baseball bat, and the last apple is positioned on the right side of the baseball bat."
+    },
+    "22": {
+        "objects": [
+            "snowboard",
+            "umbrella"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three snowboards in relation to the umbrella: one snowboard is positioned on the side of the umbrella, another snowboard is on the left side of the umbrella, and the third snowboard is situated far away from the umbrella."
+    },
+    "23": {
+        "objects": [
+            "donut",
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three donuts, one is under the motorcycle, one is far away from the motorcycle, and one is above the motorcycle."
+    },
+    "24": {
+        "objects": [
+            "hot dog",
+            "car"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three hot dogs: one is far away from the car, one is on the right of the car, and one is under the car."
+    },
+    "25": {
+        "objects": [
+            "kite",
+            "cup"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three kites: one is under the cup, one is on the cup, and one is beside the cup."
+    },
+    "26": {
+        "objects": [
+            "boy",
+            "scissors"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three boys - one boy is on the left of the scissors, another boy is beside the scissors, and the third boy is far away from the scissors."
+    },
+    "27": {
+        "objects": [
+            "skis",
+            "hot dog"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three pairs of skis: one pair is on the right of the hot dog, one pair is far away from the hot dog, and one pair is next to the hot dog."
+    },
+    "28": {
+        "objects": [
+            "cell phone",
+            "fire hydrant"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three cell phones in relation to the fire hydrant: one is next to, one is on the left of, and one is under the fire hydrant."
+    },
+    "29": {
+        "objects": [
+            "remote",
+            "bus"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three remotes in relation to the bus: one remote is near the bus, one remote is on the left of the bus, and one remote is above the bus."
+    },
+    "30": {
+        "objects": [
+            "clock",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three clocks positioned around the curtain: one on the right, one beside, and one on the left."
+    },
+    "31": {
+        "objects": [
+            "baby",
+            "bench"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three babies, one is near the bench, one is above the bench, and one is on the left of the bench."
+    },
+    "32": {
+        "objects": [
+            "zebra",
+            "umbrella"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three zebras in different positions: one zebra is far away from the umbrella, one zebra is on the left of the umbrella, and one zebra is under the umbrella."
+    },
+    "33": {
+        "objects": [
+            "microwave",
+            "women"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three microwaves positioned around the woman; one is on her right, one is on her left, and one is in front of her."
+    },
+    "34": {
+        "objects": [
+            "handbag",
+            "teddy bear"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three handbags positioned around the teddy bear: one handbag is on the side, one is far away, and one is on the left side of the teddy bear."
+    },
+    "35": {
+        "objects": [
+            "dog",
+            "cell phone"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three dogs - one is near the cell phone, one is on the left of the cell phone, and one is under the cell phone."
+    },
+    "36": {
+        "objects": [
+            "hair drier",
+            "microwave"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three hair dryers: one is far away from the microwave, one is below the microwave, and one is on the microwave."
+    },
+    "37": {
+        "objects": [
+            "motorcycle",
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three motorcycles: one is on the sandwich, another is on the right of the sandwich, and the third is far away from the sandwich."
+    },
+    "38": {
+        "objects": [
+            "car",
+            "clock"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three cars positioned in relation to the clock: one car is on the right, one car is on the left, and one car is under the clock."
+    },
+    "39": {
+        "objects": [
+            "dress",
+            "bed"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three dresses in relation to the bed: one is below, one is to the left, and one is far away from it."
+    },
+    "40": {
+        "objects": [
+            "girl",
+            "cow"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three girls positioned around the cow - one girl is on the right side, another girl is on the left side, and the remaining girl is far away from the cow."
+    },
+    "41": {
+        "objects": [
+            "skateboard",
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three skateboards, one is on the left of the spoon, another is far away from the spoon, and the third is on the side of the spoon."
+    },
+    "42": {
+        "objects": [
+            "cow",
+            "boy"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three cows positioned around the boy: one cow is above, one cow is far away, and one cow is on the left."
+    },
+    "43": {
+        "objects": [
+            "chair",
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three chairs positioned relative to the airplane: one chair is on the left of the airplane, one chair is below the airplane, and one chair is far away from the airplane."
+    },
+    "44": {
+        "objects": [
+            "T-shirt",
+            "cell phone"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three T-shirts in relation to the cell phone - one is on the right, one is under, and one is near the cell phone."
+    },
+    "45": {
+        "objects": [
+            "hair drier",
+            "hot dog"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three hair dryers; one hair dryer is far away from the hot dog, another one is below the hot dog, and the third one is positioned on the left of the hot dog."
+    },
+    "46": {
+        "objects": [
+            "boy",
+            "teddy bear"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three boys positioned around the teddy bear: one is standing next to it, one is on its right, and one is on its left."
+    },
+    "47": {
+        "objects": [
+            "donut",
+            "microwave"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three donuts; one is below the microwave, one is near the microwave, and one is far away from the microwave."
+    },
+    "48": {
+        "objects": [
+            "vase",
+            "horse"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three vases in relation to the horse - one vase is near the horse, one vase is above the horse, and one vase is under the horse."
+    },
+    "49": {
+        "objects": [
+            "surfboard",
+            "tv"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three surfboards: one is far away from the TV, one is on the left of the TV, and one is on the TV."
+    },
+    "50": {
+        "objects": [
+            "cell phone",
+            "eye glasses"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three cell phones - one is far away from the eye glasses, one is on the left of the eye glasses, and one is on the right of the eye glasses."
+    },
+    "51": {
+        "objects": [
+            "bird",
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three birds: one is on the right of the spoon, one is near the spoon, and one is on the left of the spoon."
+    },
+    "52": {
+        "objects": [
+            "pizza",
+            "T-shirt"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three pizzas: one is near the T-shirt, one is on the T-shirt, and one is on the left of the T-shirt."
+    },
+    "53": {
+        "objects": [
+            "handbag",
+            "sink"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three handbags in the bathroom; one handbag is next to the sink, one handbag is under the sink, and one handbag is on the sink."
+    },
+    "54": {
+        "objects": [
+            "zebra",
+            "knife"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three zebras; one is on the right of the knife, one is far away from the knife, and one is on the left of the knife."
+    },
+    "55": {
+        "objects": [
+            "eye glasses",
+            "sink"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three pairs of eyeglasses: one pair is under the sink, one pair is to the right of the sink, and one pair is to the left of the sink."
+    },
+    "56": {
+        "objects": [
+            "dress",
+            "girl"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three dresses positioned around the girl: one on her right, one on her left, and one below her."
+    },
+    "57": {
+        "objects": [
+            "sheep",
+            "shirt"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three sheep - one is on the right of the shirt, one is near the shirt, and one is under the shirt."
+    },
+    "58": {
+        "objects": [
+            "zebra",
+            "sports ball"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three zebras positioned around the sports ball - one is on the right, one is below, and one is on the left of the sports ball."
+    },
+    "59": {
+        "objects": [
+            "tv",
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There is one TV near the dining table, another TV on the dining table, and a third TV far away from the dining table."
+    },
+    "60": {
+        "objects": [
+            "keyboard",
+            "bus"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three keyboards positioned relative to the bus: one is on the left of the bus, one is near the bus, and one is above the bus."
+    },
+    "61": {
+        "objects": [
+            "carrot",
+            "microwave"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three carrots, one is far away from the microwave, one is on the right of the microwave, and one is on the left of the microwave."
+    },
+    "62": {
+        "objects": [
+            "pizza",
+            "traffic light"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three pizzas, one is on the left of the traffic light, one is below the traffic light, and one is far away from the traffic light."
+    },
+    "63": {
+        "objects": [
+            "motorcycle",
+            "T-shirt"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three motorcycles, one motorcycle is located far away from the T-shirt, another motorcycle is positioned on the right side of the T-shirt, and the third motorcycle is situated alongside the T-shirt."
+    },
+    "64": {
+        "objects": [
+            "women",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three women, one woman is far away from the banana, one woman is on the right of the banana, and one woman is next to the banana."
+    },
+    "65": {
+        "objects": [
+            "remote",
+            "T-shirt"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three remotes: one is below the T-shirt, one is beside the T-shirt, and one is to the right of the T-shirt."
+    },
+    "66": {
+        "objects": [
+            "chair",
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three chairs positioned around the spoon: one chair is to the right, one below, and one above."
+    },
+    "67": {
+        "objects": [
+            "donut",
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three donuts: one is on the right of the dining table, another is far away from the dining table, and the third one is below the dining table."
+    },
+    "68": {
+        "objects": [
+            "mouse",
+            "fork"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three mice: one is on the right of the fork, one is on the left of the fork, and one is far away from the fork."
+    },
+    "69": {
+        "objects": [
+            "T-shirt",
+            "clock"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three T-shirts in relation to the clock: one is on the side of the clock, one is on top of the clock, and one is under the clock."
+    },
+    "70": {
+        "objects": [
+            "cell phone",
+            "remote"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three cell phones positioned in different spatial relationships with the remote: one below, one on the left, and one above."
+    },
+    "71": {
+        "objects": [
+            "women",
+            "boy"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three women positioned around the boy: one is on the right, one is next to, and one is on the left."
+    },
+    "72": {
+        "objects": [
+            "truck",
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three trucks in relation to the bicycle - one truck is far away from the bicycle, one truck is under the bicycle, and one truck is near the bicycle."
+    },
+    "73": {
+        "objects": [
+            "donut",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three donuts; one is far away from the banana, one is below the banana, and one is next to the banana."
+    },
+    "74": {
+        "objects": [
+            "girl",
+            "baby"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "In the scene, one girl is below the baby, another girl is far away from the baby, and the third girl is next to the baby."
+    },
+    "75": {
+        "objects": [
+            "boat",
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three boats positioned relative to the motorcycle; one is on the right, one is nearby, and one is below."
+    },
+    "76": {
+        "objects": [
+            "surfboard",
+            "snowboard"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three surfboards: one is above the snowboard, one is to the right of the snowboard, and one is near the snowboard."
+    },
+    "77": {
+        "objects": [
+            "donut",
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three donuts positioned around the sandwich: one is underneath, one is to the left, and one is on the side."
+    },
+    "78": {
+        "objects": [
+            "shirt",
+            "dress"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three shirts positioned around the dress: one shirt is on the left, one shirt is above, and one shirt is on the right."
+    },
+    "79": {
+        "objects": [
+            "dining table",
+            "bed"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three dining tables in different positions: one is under the bed, one is next to the bed, and one is on top of the bed."
+    },
+    "80": {
+        "objects": [
+            "hair drier",
+            "vase"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three hair dryers – one is below the vase, one is far away from the vase, and one is near the vase."
+    },
+    "81": {
+        "objects": [
+            "scissors",
+            "book"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three pairs of scissors; one pair is far away from the book, another pair is on the left of the book, and one more pair is on the side of the book."
+    },
+    "82": {
+        "objects": [
+            "bowl",
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three bowls: one is far away from the spoon, one is on the left of the spoon, and one is on the spoon itself."
+    },
+    "83": {
+        "objects": [
+            "shirt",
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three shirts in relation to the trousers: one is on the left, one is on the right, and one is on top of the trousers."
+    },
+    "84": {
+        "objects": [
+            "bed",
+            "couch"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "In the room, there is one bed far away from the couch, another bed to the left of the couch, and one more bed near the couch."
+    },
+    "85": {
+        "objects": [
+            "baseball glove",
+            "skis"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three baseball gloves: one is far away from the skis, one is near the skis, and one is on the skis."
+    },
+    "86": {
+        "objects": [
+            "spoon",
+            "knife"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three spoons in relation to the knife: one spoon is on the left of the knife, one spoon is on the right of the knife, and one spoon is on the knife itself."
+    },
+    "87": {
+        "objects": [
+            "elephant",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There is one elephant on top of the cat, one elephant beneath the cat, and one elephant to the right of the cat."
+    },
+    "88": {
+        "objects": [
+            "carpet",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three carpets in relation to the curtain - one is on the left, one is above, and one is next to the curtain."
+    },
+    "89": {
+        "objects": [
+            "giraffe",
+            "sheep"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three giraffes: one is on the right of the sheep, another one is underneath the sheep, and the third one is far away from the sheep."
+    },
+    "90": {
+        "objects": [
+            "street sign",
+            "fire hydrant"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three street signs, one is far away from the fire hydrant, one is on the right of the fire hydrant, and one is below the fire hydrant."
+    },
+    "91": {
+        "objects": [
+            "zebra",
+            "horse"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three zebras positioned around the horse: one zebra is on top of the horse, one zebra is to the right of the horse, and one zebra is beside the horse."
+    },
+    "92": {
+        "objects": [
+            "bear",
+            "elephant"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three bears positioned around the elephant: one on the left, one on the right, and one next to it."
+    },
+    "93": {
+        "objects": [
+            "boy",
+            "girl"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three boys positioned relative to a girl: one is on the left, one is on the right, and one is below her."
+    },
+    "94": {
+        "objects": [
+            "dining table",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three dining tables, one is below the carpet, one is on the right of the carpet, and one is far away from the carpet."
+    },
+    "95": {
+        "objects": [
+            "kite",
+            "sports ball"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three kites positioned around the sports ball; one is on the right, one is on the left, and one is above."
+    },
+    "96": {
+        "objects": [
+            "man",
+            "girl"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three men positioned around the girl: one is on the right, one is below, and one is near her."
+    },
+    "97": {
+        "objects": [
+            "couch",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There is one couch above the chair, another couch is near the chair, and a third couch is on the right of the chair."
+    },
+    "98": {
+        "objects": [
+            "sink",
+            "toaster"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three sinks: one is on the left of the toaster, one is on the toaster, and one is on the right of the toaster."
+    },
+    "99": {
+        "objects": [
+            "oven",
+            "toaster"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three ovens in relation to the toaster; one oven is near the toaster, one oven is above the toaster, and one oven is on the left of the toaster."
+    },
+    "100": {
+        "objects": [
+            "bus",
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three buses positioned around the motorcycle: one on the right, one far away, and one on the left."
+    },
+    "101": {
+        "objects": [
+            "broccoli",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There is one piece of broccoli on top of the banana, another piece of broccoli is to the left of the banana, and a third piece of broccoli is beside the banana."
+    },
+    "102": {
+        "objects": [
+            "keyboard",
+            "remote"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three keyboards positioned relative to the remote; one is on the right, one is above, and one is underneath."
+    },
+    "103": {
+        "objects": [
+            "clock",
+            "teddy bear"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three clocks positioned around the teddy bear: one is below, one is on top, and one is to the left of the teddy bear."
+    },
+    "104": {
+        "objects": [
+            "bowl",
+            "knife"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three bowls positioned around the knife: one on the left, one on the right, and one near it."
+    },
+    "105": {
+        "objects": [
+            "pizza",
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three pizzas, one pizza is far away from the sandwich, one pizza is under the sandwich, and one pizza is on the left of the sandwich."
+    },
+    "106": {
+        "objects": [
+            "giraffe",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three giraffes in relation to the cat: one on the right, one far away, and one below."
+    },
+    "107": {
+        "objects": [
+            "cake",
+            "broccoli"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three cakes; one cake is under the broccoli, another cake is far away from the broccoli, and the third cake is near the broccoli."
+    },
+    "108": {
+        "objects": [
+            "baseball bat",
+            "snowboard"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "In the scene, one baseball bat is located near the snowboard, another baseball bat is far away from the snowboard, and a third baseball bat is positioned on the left side of the snowboard."
+    },
+    "109": {
+        "objects": [
+            "surfboard",
+            "sports ball"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three surfboards in relation to the sports ball: one is on the left, one is under, and one is beside the sports ball."
+    },
+    "110": {
+        "objects": [
+            "donut",
+            "broccoli"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three donuts: one is on the left of the broccoli, one is on the broccoli itself, and one is on the right of the broccoli."
+    },
+    "111": {
+        "objects": [
+            "hot dog",
+            "orange"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three hot dogs; one is on top of the orange, one is on the left of the orange, and one is on the right of the orange."
+    },
+    "112": {
+        "objects": [
+            "truck",
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three trucks: one truck is positioned next to the motorcycle, another truck is located on the right side of the motorcycle, and the third truck is situated under the motorcycle."
+    },
+    "113": {
+        "objects": [
+            "tennis racket",
+            "baseball bat"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There is one tennis racket below the baseball bat, another tennis racket is on the right of the baseball bat, and a third tennis racket is placed on top of the baseball bat."
+    },
+    "114": {
+        "objects": [
+            "toothbrush",
+            "hair drier"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three toothbrushes, one is near the hair dryer, one is on the right of the hair dryer, and one is above the hair dryer."
+    },
+    "115": {
+        "objects": [
+            "baseball glove",
+            "kite"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three baseball gloves. One glove is located on the right of the kite, another glove is distant from the kite, and the third glove is positioned below the kite."
+    },
+    "116": {
+        "objects": [
+            "train",
+            "car"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three trains in relation to the car: one train is on the left, one train is on the right, and one train is above."
+    },
+    "117": {
+        "objects": [
+            "carrot",
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three carrots: one is far away from the sandwich, one is beside the sandwich, and one is to the left of the sandwich."
+    },
+    "118": {
+        "objects": [
+            "toilet",
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three toilets in relation to the dining table - one is on the left, one is on the side, and one is under the dining table."
+    },
+    "119": {
+        "objects": [
+            "pizza",
+            "broccoli"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three pizzas positioned relative to the broccoli: one on the right, one below, and one on the left."
+    },
+    "120": {
+        "objects": [
+            "elephant",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three elephants in relation to the bird; one elephant is beside the bird, one elephant is to the left of the bird, and one elephant is positioned far away from the bird."
+    },
+    "121": {
+        "objects": [
+            "boat",
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three boats; one boat is far away from the bicycle, another boat is on the right of the bicycle, and the third boat is above the bicycle."
+    },
+    "122": {
+        "objects": [
+            "spoon",
+            "plate"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three spoons in relation to the plate: one spoon is under the plate, one spoon is near the plate, and one spoon is far away from the plate."
+    },
+    "123": {
+        "objects": [
+            "elephant",
+            "cow"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three elephants: one is below the cow, one is on the left of the cow, and one is near the cow."
+    },
+    "124": {
+        "objects": [
+            "carrot",
+            "orange"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three carrots: one is next to the orange, another is on the left of the orange, and the third is far away from the orange."
+    },
+    "125": {
+        "objects": [
+            "donut",
+            "carrot"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There is a donut on the side of the carrot, another donut is to the left of the carrot, and a third donut is farther away from the carrot."
+    },
+    "126": {
+        "objects": [
+            "tennis racket",
+            "snowboard"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three tennis rackets: one is far away from the snowboard, one is on the snowboard, and one is near the snowboard."
+    },
+    "127": {
+        "objects": [
+            "bus",
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three buses: one bus is on the side of the bicycle, another bus is on the right of the bicycle, and the third bus is on the bicycle itself."
+    },
+    "128": {
+        "objects": [
+            "cake",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three cakes in relation to the banana; one cake is positioned on the right side of the banana, another cake is located on its left side, while the third cake is situated at a distance from the banana."
+    },
+    "129": {
+        "objects": [
+            "snowboard",
+            "skis"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three snowboards. One snowboard is to the left of the skis, another snowboard is underneath the skis, and the third snowboard is placed on top of the skis."
+    },
+    "130": {
+        "objects": [
+            "bench",
+            "traffic light"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three benches in the vicinity of the traffic light – one is positioned on the left of the traffic light, another one is situated right next to the traffic light, and the third bench is located at a considerable distance from the traffic light."
+    },
+    "131": {
+        "objects": [
+            "zebra",
+            "cow"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three zebras in relation to the cow, one zebra is positioned on the right of the cow, one zebra is situated underneath the cow, and one zebra is located far away from the cow."
+    },
+    "132": {
+        "objects": [
+            "tennis racket",
+            "surfboard"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three tennis rackets - one is on the side of the surfboard, another is on the surfboard, and the third is on the left of the surfboard."
+    },
+    "133": {
+        "objects": [
+            "spoon",
+            "fork"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three spoons: one spoon is far away from the fork, one spoon is on the fork, and one spoon is on the right of the fork."
+    },
+    "134": {
+        "objects": [
+            "remote",
+            "laptop"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three remotes positioned in relation to the laptop: one remote is located far away from the laptop, another one is on the left, and the third one is on the right."
+    },
+    "135": {
+        "objects": [
+            "book",
+            "teddy bear"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three books - one is on the left of the teddy bear, another is below the teddy bear, and the third one is far away from the teddy bear."
+    },
+    "136": {
+        "objects": [
+            "women",
+            "baby"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three women, one woman is far away from the baby, another woman is on the left of the baby, and the third woman is above the baby."
+    },
+    "137": {
+        "objects": [
+            "dress",
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three dresses: one is on the trousers, one is near the trousers, and one is far away from the trousers."
+    },
+    "138": {
+        "objects": [
+            "shirt",
+            "T-shirt"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There is a shirt on top of the T-shirt, another shirt is far away from the T-shirt, and one more shirt is positioned to the left of the T-shirt."
+    },
+    "139": {
+        "objects": [
+            "boat",
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 3
+        },
+        "prompt": "There are three boats; one is above the airplane, another one is far away from the airplane, and the third one is on the side of the airplane."
+    },
+    "140": {
+        "objects": [
+            "hot dog"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three hot dogs, one is black, another is blue, and the third is purple."
+    },
+    "141": {
+        "objects": [
+            "hot dog"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three hot dogs, one is blue, another one is pink, and the third one is purple."
+    },
+    "142": {
+        "objects": [
+            "hot dog"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three hot dogs - one is black, another is blue, and the third is red."
+    },
+    "143": {
+        "objects": [
+            "hot dog"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three hot dogs, one is blue, another one is green, and the third one is pink."
+    },
+    "144": {
+        "objects": [
+            "boy"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "Among the boys, one is feeling sad, another one is angry, and the third boy seems to be surprised."
+    },
+    "145": {
+        "objects": [
+            "boy"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three boys with different emotions: one is happy, one is surprised, and one is sad."
+    },
+    "146": {
+        "objects": [
+            "boy"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three boys, one boy is sad, another boy is calm, and the third boy is happy."
+    },
+    "147": {
+        "objects": [
+            "boy"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three boys, one is sad, another one is angry, and the third one is calm."
+    },
+    "148": {
+        "objects": [
+            "street sign"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three street signs: one is crescentic, another is rectangular, and the third one is elliptical."
+    },
+    "149": {
+        "objects": [
+            "street sign"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three street signs, one is triangular, one is round, and one is oval."
+    },
+    "150": {
+        "objects": [
+            "street sign"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three street signs; one is round, another is rectangular, and the third one is square."
+    },
+    "151": {
+        "objects": [
+            "street sign"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three street signs, one is blue, one is red, and one is black."
+    },
+    "152": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three chairs, one is purple, another one is green, and the third one is blue."
+    },
+    "153": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "In the collection, there are three chairs made from different materials: one chair is plastic, another chair is acrylic, and the third chair is wicker."
+    },
+    "154": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three chairs, one chair is plaid, another one is floral, and the other one is polka dots."
+    },
+    "155": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "In the collection, there are three chairs made of different materials: one chair is made of metal, another chair is made of plastic, and the third chair is made of wood."
+    },
+    "156": {
+        "objects": [
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three curtains, one curtain is made of stone, another one is made of nylon, and the third one is made of silk."
+    },
+    "157": {
+        "objects": [
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three curtains; one is camouflage, another is floral, and the third is herringbone."
+    },
+    "158": {
+        "objects": [
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three curtains, one is made of wool, another is made of stone, and the third is made of velvet."
+    },
+    "159": {
+        "objects": [
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "In the room, there are three curtains made of different materials—one curtain is made of stone, another curtain is made of nylon, and the third curtain is made of metal."
+    },
+    "160": {
+        "objects": [
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three pairs of trousers; one pair is camouflage, another pair is stripes, and the third pair is plaid."
+    },
+    "161": {
+        "objects": [
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three pairs of trousers, one is pink, another is white, and the third is red."
+    },
+    "162": {
+        "objects": [
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three pairs of trousers, one is checked, another is plain, and the third is paisley."
+    },
+    "163": {
+        "objects": [
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three pairs of trousers available - one pair is camouflage, another pair is floral, and the last pair is paisley."
+    },
+    "164": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three dining tables: one has stripes, another one is plain, and the last one is checked."
+    },
+    "165": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three dining tables: one is made of concrete, another is made of glass, and the third is made of acrylic."
+    },
+    "166": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three dining tables, one is pink, another one is purple, and the third one is red."
+    },
+    "167": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three dining tables, one is made of acrylic, another is ceramic, and the third is granite."
+    },
+    "168": {
+        "objects": [
+            "toothbrush"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "Among the toothbrushes available, there is a yellow one, a blue one, and a black one."
+    },
+    "169": {
+        "objects": [
+            "toothbrush"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three toothbrushes; one is yellow, another is white, and the third one is red."
+    },
+    "170": {
+        "objects": [
+            "toothbrush"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three toothbrushes, one is blue, another is green, and the third is purple."
+    },
+    "171": {
+        "objects": [
+            "toothbrush"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three toothbrushes; one is red, one is black, and one is yellow."
+    },
+    "172": {
+        "objects": [
+            "baby"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "Out of the babies, one is afraid, one is calm, and one is angry."
+    },
+    "173": {
+        "objects": [
+            "baby"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three babies, one is surprised, another one is angry, and the third one is calm."
+    },
+    "174": {
+        "objects": [
+            "baby"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three babies: one is angry, another is calm, and the third one is surprised."
+    },
+    "175": {
+        "objects": [
+            "baby"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three babies, one is calm, another is afraid, and the third is surprised."
+    },
+    "176": {
+        "objects": [
+            "microwave"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "In the kitchen, there are three microwaves - one is yellow, another is blue, and the third is green."
+    },
+    "177": {
+        "objects": [
+            "microwave"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three microwaves - one is pink, another one is purple, and the third one is green."
+    },
+    "178": {
+        "objects": [
+            "microwave"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three microwaves - one is black, another is red, and yet another is pink."
+    },
+    "179": {
+        "objects": [
+            "microwave"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three microwaves, one is red, one is blue, and one is white."
+    },
+    "180": {
+        "objects": [
+            "cup"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three cups, one is porcelain, another one is ceramic, and the third one is made of clay."
+    },
+    "181": {
+        "objects": [
+            "cup"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three cups - one cup is leather, another cup is glass, and the third cup is made of clay."
+    },
+    "182": {
+        "objects": [
+            "cup"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three cups, one is ceramic, another is bamboo, and the third is glass."
+    },
+    "183": {
+        "objects": [
+            "cup"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three cups, one is white, another is purple, and the third is blue."
+    },
+    "184": {
+        "objects": [
+            "fire hydrant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three fire hydrants, one is purple, another one is white, and the third one is pink."
+    },
+    "185": {
+        "objects": [
+            "fire hydrant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "In the vicinity, there are three fire hydrants - one painted black, another painted white, and the third painted blue."
+    },
+    "186": {
+        "objects": [
+            "fire hydrant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three fire hydrants, one is pink, another is red, and the third one is blue."
+    },
+    "187": {
+        "objects": [
+            "fire hydrant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three fire hydrants, one is white, another one is red, and the third one is purple."
+    },
+    "188": {
+        "objects": [
+            "skateboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three skateboards, one skateboard is red, another skateboard is yellow, and the last skateboard is purple."
+    },
+    "189": {
+        "objects": [
+            "skateboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three skateboards, one is black, another one is pink, and the other one is yellow."
+    },
+    "190": {
+        "objects": [
+            "skateboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three skateboards: one is purple, another one is black, and the third one is white."
+    },
+    "191": {
+        "objects": [
+            "skateboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three skateboards, one is red, another one is pink, and the third one is white."
+    },
+    "192": {
+        "objects": [
+            "cow"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three cows, one cow is angry, another cow is happy, and the third cow is calm."
+    },
+    "193": {
+        "objects": [
+            "cow"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three cows in the field; one is happy, one is surprised, and one is calm."
+    },
+    "194": {
+        "objects": [
+            "cow"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three cows, one cow is green, another one is purple, and the third one is pink."
+    },
+    "195": {
+        "objects": [
+            "cow"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three cows: one is blue, another is yellow, and the third is black."
+    },
+    "196": {
+        "objects": [
+            "laptop"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three laptops; one is blue, another is black, and the third one is pink."
+    },
+    "197": {
+        "objects": [
+            "laptop"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three laptops, one is black, another is red, and the third one is yellow."
+    },
+    "198": {
+        "objects": [
+            "laptop"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three laptops, one is purple, another one is blue, and the third one is white."
+    },
+    "199": {
+        "objects": [
+            "laptop"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three laptops, one is red, another is purple, and the third one is yellow."
+    },
+    "200": {
+        "objects": [
+            "bus"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three buses, one is black, another one is pink, and the third one is yellow."
+    },
+    "201": {
+        "objects": [
+            "bus"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three buses, one bus is made of fabric, another bus is made of rubber, and the third bus is made of aluminum."
+    },
+    "202": {
+        "objects": [
+            "bus"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three buses; one is purple, another is green, and the third one is red."
+    },
+    "203": {
+        "objects": [
+            "bus"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three buses; one is blue, another is pink, and the third is green."
+    },
+    "204": {
+        "objects": [
+            "baseball glove"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three baseball gloves, one is blue, another one is white, and the third one is yellow."
+    },
+    "205": {
+        "objects": [
+            "baseball glove"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three baseball gloves in different colors: one is black, one is yellow, and one is purple."
+    },
+    "206": {
+        "objects": [
+            "baseball glove"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three baseball gloves, one is yellow, one is black, and one is purple."
+    },
+    "207": {
+        "objects": [
+            "baseball glove"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "In the collection, there are three baseball gloves, one of them is red, another one is black, and the third one is purple."
+    },
+    "208": {
+        "objects": [
+            "bird"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three birds, one of them is blue, another one is white, and the last one is pink."
+    },
+    "209": {
+        "objects": [
+            "bird"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three birds, one bird is red, another bird is black, and the third bird is pink."
+    },
+    "210": {
+        "objects": [
+            "bird"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three birds, one is happy, another one is surprised, and the third is sad."
+    },
+    "211": {
+        "objects": [
+            "bird"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three birds, one is red, another is green, and the third is purple."
+    },
+    "212": {
+        "objects": [
+            "toaster"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three toasters, one is white, another one is blue, and the third one is yellow."
+    },
+    "213": {
+        "objects": [
+            "toaster"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three toasters - one is red, another one is pink, and the third one is purple."
+    },
+    "214": {
+        "objects": [
+            "toaster"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three toasters, one is purple, another one is black, and the last one is yellow."
+    },
+    "215": {
+        "objects": [
+            "toaster"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three toasters, one is blue, one is yellow, and one is black."
+    },
+    "216": {
+        "objects": [
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three bicycles, one is blue, another is green, and the third is yellow."
+    },
+    "217": {
+        "objects": [
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three bicycles, one is black, another is red, and the third one is purple."
+    },
+    "218": {
+        "objects": [
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three bicycles; one is black, another is red, and the third is white."
+    },
+    "219": {
+        "objects": [
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three bicycles, one is white, another one is blue, and the third one is purple."
+    },
+    "220": {
+        "objects": [
+            "T-shirt"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three T-shirts, one is yellow, another one is green, and the third one is red."
+    },
+    "221": {
+        "objects": [
+            "T-shirt"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three T-shirts, one is black, one is yellow, and one is purple."
+    },
+    "222": {
+        "objects": [
+            "T-shirt"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three T-shirts, one is yellow, another is blue, and the last one is pink."
+    },
+    "223": {
+        "objects": [
+            "T-shirt"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three T-shirts, one is plain, one is plaid, and one is paisley."
+    },
+    "224": {
+        "objects": [
+            "sink"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three sinks, one sink is diamond-shaped, another is crescentic, and the third one is triangular."
+    },
+    "225": {
+        "objects": [
+            "sink"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "In the kitchen, there are three sinks - one is round, another is rectangular, and the third one is irregular in shape."
+    },
+    "226": {
+        "objects": [
+            "sink"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three sinks, one is circular, another is square, and the third one is irregular."
+    },
+    "227": {
+        "objects": [
+            "sink"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "In the kitchen, there are three sinks, one is square, another is crescentic, and the third one is triangular."
+    },
+    "228": {
+        "objects": [
+            "mouse"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three mice, one is yellow, one is black, and one is green."
+    },
+    "229": {
+        "objects": [
+            "mouse"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three mice, one mouse is black, another mouse is yellow, and the third mouse is purple."
+    },
+    "230": {
+        "objects": [
+            "mouse"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "In the group of mice, there is a blue mouse, a green mouse, and a red mouse."
+    },
+    "231": {
+        "objects": [
+            "mouse"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three mice; one is pink, another is purple, and the third one is red."
+    },
+    "232": {
+        "objects": [
+            "horse"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "Among the three horses, one appears sad, another seems happy, and the third appears angry."
+    },
+    "233": {
+        "objects": [
+            "horse"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three horses, one horse is pink, another horse is green, and the third horse is yellow."
+    },
+    "234": {
+        "objects": [
+            "horse"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three horses, one is green, another is yellow, and the third is black."
+    },
+    "235": {
+        "objects": [
+            "horse"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three horses; one horse is calm, another horse is sad, and the third horse is happy."
+    },
+    "236": {
+        "objects": [
+            "cake"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three cakes; one is black, another is yellow, and the third is purple."
+    },
+    "237": {
+        "objects": [
+            "cake"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three cakes, one is oval, another is round, and the third is diamond-shaped."
+    },
+    "238": {
+        "objects": [
+            "cake"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three cakes: one is square, another is star-shaped, and the third one is heart-shaped."
+    },
+    "239": {
+        "objects": [
+            "cake"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three cakes, one is white, another is purple, and the third is yellow."
+    },
+    "240": {
+        "objects": [
+            "dress"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three dresses; one has polka dots, another has checks, and the last one is plain."
+    },
+    "241": {
+        "objects": [
+            "dress"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "In the collection, there is a dress that is pink, another dress that is red, and yet another dress that is blue."
+    },
+    "242": {
+        "objects": [
+            "dress"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three dresses, one is purple, another is green, and the third is black."
+    },
+    "243": {
+        "objects": [
+            "dress"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three dresses, one dress has a checked pattern, another dress has a plaid pattern, and the third dress has a paisley pattern."
+    },
+    "244": {
+        "objects": [
+            "clock"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three clocks, one is red, another one is blue, and the last one is green."
+    },
+    "245": {
+        "objects": [
+            "clock"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three clocks, one is pink, another one is green, and the third one is yellow."
+    },
+    "246": {
+        "objects": [
+            "clock"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three clocks: one is triangular, another is hexagonal, and the third is heart-shaped."
+    },
+    "247": {
+        "objects": [
+            "clock"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three clocks, one is diamond-shaped, another is octagonal, and the third is heart-shaped."
+    },
+    "248": {
+        "objects": [
+            "refrigerator"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three refrigerators, one is red, another one is yellow, and the last one is pink."
+    },
+    "249": {
+        "objects": [
+            "refrigerator"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three refrigerators, one is yellow, another is green, and the third is purple."
+    },
+    "250": {
+        "objects": [
+            "refrigerator"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three refrigerators, one is yellow, another is white, and the third one is green."
+    },
+    "251": {
+        "objects": [
+            "refrigerator"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three refrigerators, one is red, another is purple, and the third one is blue."
+    },
+    "252": {
+        "objects": [
+            "truck"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three trucks, one truck is made of fabric, another truck is made of leather, and the third truck is made of wood."
+    },
+    "253": {
+        "objects": [
+            "truck"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three trucks, one truck is yellow, another truck is red, and the third truck is black."
+    },
+    "254": {
+        "objects": [
+            "truck"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three trucks, one truck is blue, another truck is red, and the third truck is black."
+    },
+    "255": {
+        "objects": [
+            "truck"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "Among the trucks, one is white, another is pink, and yet another is green."
+    },
+    "256": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three carpets, one carpet has an irregular shape, another carpet has a diamond shape, and the third carpet has a star-shaped pattern."
+    },
+    "257": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three carpets, one has a diamond pattern, another has a square pattern, and the third has a rectangular pattern."
+    },
+    "258": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three carpets, one is triangular, another is irregular, and the third one is round."
+    },
+    "259": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three carpets - one is yellow, another is pink, and the third is black."
+    },
+    "260": {
+        "objects": [
+            "traffic light"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three traffic lights; one is yellow, another one is black, and the third one is purple."
+    },
+    "261": {
+        "objects": [
+            "traffic light"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three traffic lights; one is black, another is yellow, and the third one is pink."
+    },
+    "262": {
+        "objects": [
+            "traffic light"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three traffic lights, one is white, another one is red, and the third one is purple."
+    },
+    "263": {
+        "objects": [
+            "traffic light"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three traffic lights - one is white, one is pink, and one is green."
+    },
+    "264": {
+        "objects": [
+            "tv"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three TVs, one is black, another one is red, and the last one is purple."
+    },
+    "265": {
+        "objects": [
+            "tv"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three TVs, one is blue, another one is purple, and the third one is black."
+    },
+    "266": {
+        "objects": [
+            "tv"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three TVs, one is yellow, another is purple, and the third one is blue."
+    },
+    "267": {
+        "objects": [
+            "tv"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three TVs - one is green, another one is yellow, and the third one is pink."
+    },
+    "268": {
+        "objects": [
+            "eye glasses"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three pairs of eye glasses - one is blue, one is white, and one is yellow."
+    },
+    "269": {
+        "objects": [
+            "eye glasses"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three pairs of eyeglasses; one pair is pink, another pair is red, and the third pair is yellow."
+    },
+    "270": {
+        "objects": [
+            "eye glasses"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three pairs of eyeglasses, one pair is red, another pair is green, and the third pair is purple."
+    },
+    "271": {
+        "objects": [
+            "eye glasses"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three pairs of eyeglasses; one is red, another is white, and the third is purple."
+    },
+    "272": {
+        "objects": [
+            "sheep"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "One sheep is calm, another is happy, and a third is sad."
+    },
+    "273": {
+        "objects": [
+            "sheep"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three sheep, one is purple, another one is yellow, and the third one is green."
+    },
+    "274": {
+        "objects": [
+            "sheep"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three sheep; one sheep is white, another is black, and the third one is purple."
+    },
+    "275": {
+        "objects": [
+            "sheep"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "Among the sheep, there is one that is red, another one that is black, and yet another one that is pink."
+    },
+    "276": {
+        "objects": [
+            "surfboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three surfboards, one of them is red, another one is black, and the third one is green."
+    },
+    "277": {
+        "objects": [
+            "surfboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three surfboards - one is red, another is purple, and the third one is black."
+    },
+    "278": {
+        "objects": [
+            "surfboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three surfboards, one is blue, another one is pink, and the third one is white."
+    },
+    "279": {
+        "objects": [
+            "surfboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three surfboards, one is purple, one is black, and one is pink."
+    },
+    "280": {
+        "objects": [
+            "keyboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three keyboards, one is black, one is pink, and one is yellow."
+    },
+    "281": {
+        "objects": [
+            "keyboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three keyboards, one is white, another one is blue, and the third one is black."
+    },
+    "282": {
+        "objects": [
+            "keyboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three keyboards - one is pink, another is white, and the third one is red."
+    },
+    "283": {
+        "objects": [
+            "keyboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three keyboards - one is purple, one is pink, and one is green."
+    },
+    "284": {
+        "objects": [
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three frisbees, one is blue, another one is green, and the third one is yellow."
+    },
+    "285": {
+        "objects": [
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three frisbees, one is green, another one is black, and the third one is red."
+    },
+    "286": {
+        "objects": [
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three frisbees, one is green, one is purple, and one is white."
+    },
+    "287": {
+        "objects": [
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three frisbees, one is yellow, another is red, and the third is green."
+    },
+    "288": {
+        "objects": [
+            "banana"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three bananas, one is black, another is white, and the third one is pink."
+    },
+    "289": {
+        "objects": [
+            "banana"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three bananas: one is yellow, one is black, and one is pink."
+    },
+    "290": {
+        "objects": [
+            "banana"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three bananas, one is green, one is blue, and one is purple."
+    },
+    "291": {
+        "objects": [
+            "banana"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three bananas - one is yellow, one is green, and one is black."
+    },
+    "292": {
+        "objects": [
+            "knife"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three knives, one knife is made of metal, another knife is made of ivory, and one knife is made of ceramic."
+    },
+    "293": {
+        "objects": [
+            "knife"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three knives, one is made of carbon fiber, another is made of leather, and the third is made of ivory."
+    },
+    "294": {
+        "objects": [
+            "knife"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three knives; one is made of stone, another is made of leather, and the third is made of ceramic."
+    },
+    "295": {
+        "objects": [
+            "knife"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "In the set, there are three knives made of different materials: one knife is ceramic, another knife is stone, and the third knife is made of bone."
+    },
+    "296": {
+        "objects": [
+            "broccoli"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three broccoli, one is yellow, another one is pink, and the third one is red."
+    },
+    "297": {
+        "objects": [
+            "broccoli"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three broccoli, one is blue, one is yellow, and one is green."
+    },
+    "298": {
+        "objects": [
+            "broccoli"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three broccolis, one is yellow, one is pink, and one is green."
+    },
+    "299": {
+        "objects": [
+            "broccoli"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three broccoli, one is purple, one is pink, and one is yellow."
+    },
+    "300": {
+        "objects": [
+            "donut"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three donuts, one is purple, one is white, and one is black."
+    },
+    "301": {
+        "objects": [
+            "donut"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three donuts, one is yellow, another is pink, and the third is green."
+    },
+    "302": {
+        "objects": [
+            "donut"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "In the assortment of donuts, there is one that is white, another that is green, and yet another that is purple."
+    },
+    "303": {
+        "objects": [
+            "donut"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three donuts, one is red, one is pink, and one is yellow."
+    },
+    "304": {
+        "objects": [
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "In the bathroom, there are three toilets made with different materials - one is marble, another is porcelain, and the third one is granite."
+    },
+    "305": {
+        "objects": [
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three toilets, one is red, another is purple, and the third is white."
+    },
+    "306": {
+        "objects": [
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "In the restroom, there are three toilets made of different materials - one is concrete, another is glass, and the third one is resin."
+    },
+    "307": {
+        "objects": [
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three toilets, one is white, another one is black, and the third one is pink."
+    },
+    "308": {
+        "objects": [
+            "sports ball"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three sports balls; one is purple, one is white, and one is blue."
+    },
+    "309": {
+        "objects": [
+            "sports ball"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three sports balls: one is pink, one is red, and one is white."
+    },
+    "310": {
+        "objects": [
+            "sports ball"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three sports balls, one is white, another is green, and the third one is purple."
+    },
+    "311": {
+        "objects": [
+            "sports ball"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three sports balls - one is yellow, one is red, and one is pink."
+    },
+    "312": {
+        "objects": [
+            "car"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three cars, one car has a fabric interior, another car has a leather interior, and the third car has a chrome finish."
+    },
+    "313": {
+        "objects": [
+            "car"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "Among the cars, one is pink, another one is white, and a third one is blue."
+    },
+    "314": {
+        "objects": [
+            "car"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three cars; one is blue, one is pink, and one is purple."
+    },
+    "315": {
+        "objects": [
+            "car"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three cars, one car is made of marble, another car is made of stone, and the third car is made of acrylic."
+    },
+    "316": {
+        "objects": [
+            "parking meter"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three parking meters, one is white, another one is black, and the third one is blue."
+    },
+    "317": {
+        "objects": [
+            "parking meter"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three parking meters, one is black, another is green, and the third is yellow."
+    },
+    "318": {
+        "objects": [
+            "parking meter"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three parking meters, one is purple, another one is yellow, and the third one is white."
+    },
+    "319": {
+        "objects": [
+            "parking meter"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three parking meters; one is white, another is yellow, and the third one is purple."
+    },
+    "320": {
+        "objects": [
+            "elephant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three elephants, one is white, another is blue, and the third one is red."
+    },
+    "321": {
+        "objects": [
+            "elephant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three elephants, with one being pink, another one blue, and the last one green."
+    },
+    "322": {
+        "objects": [
+            "elephant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three elephants, one elephant is purple, another one is yellow, and the third one is black."
+    },
+    "323": {
+        "objects": [
+            "elephant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three elephants, one is red, another one is black, and the third one is pink."
+    },
+    "324": {
+        "objects": [
+            "umbrella"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three umbrellas, one is yellow, another one is blue, and the third one is black."
+    },
+    "325": {
+        "objects": [
+            "umbrella"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three umbrellas, one is black, another one is pink, and the third one is blue."
+    },
+    "326": {
+        "objects": [
+            "umbrella"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three umbrellas; one is purple, another is blue, and the third is white."
+    },
+    "327": {
+        "objects": [
+            "umbrella"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three umbrellas, one is purple, another is white, and the third is black."
+    },
+    "328": {
+        "objects": [
+            "plate"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three plates made of different materials - one plate is made of bone, another plate is made of stainless steel, and the third plate is made of resin."
+    },
+    "329": {
+        "objects": [
+            "plate"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three plates made of different materials: one is resin, one is clay, and one is copper."
+    },
+    "330": {
+        "objects": [
+            "plate"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three plates, one plate is made of stainless steel, another is made of granite, and the third is made of clay."
+    },
+    "331": {
+        "objects": [
+            "plate"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three plates; one is green, another is blue, and the third is white."
+    },
+    "332": {
+        "objects": [
+            "snowboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three snowboards - one is yellow, another one is red, and the third one is black."
+    },
+    "333": {
+        "objects": [
+            "snowboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three snowboards - one is pink, another one is white, and the third one is green."
+    },
+    "334": {
+        "objects": [
+            "snowboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three snowboards, one is blue, another one is purple, and the last one is white."
+    },
+    "335": {
+        "objects": [
+            "snowboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three snowboards, one is yellow, another one is white, and the third one is pink."
+    },
+    "336": {
+        "objects": [
+            "train"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three trains, one is made of glass, another is made of ceramic, and the third is made of plastic."
+    },
+    "337": {
+        "objects": [
+            "train"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three trains, one train is white, another train is black, and the third train is pink."
+    },
+    "338": {
+        "objects": [
+            "train"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "Among the trains, one is made of fabric, another is constructed from wood, and the third is crafted from glass."
+    },
+    "339": {
+        "objects": [
+            "train"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three trains, one of them is blue, another one is green, and the last one is purple."
+    },
+    "340": {
+        "objects": [
+            "cat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three cats with different emotions: one is surprised, another is angry, and the third one is happy."
+    },
+    "341": {
+        "objects": [
+            "cat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "Among the cats, one is happy, another is afraid, and the third is sad."
+    },
+    "342": {
+        "objects": [
+            "cat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three cats, one of them is pink, another one is yellow, and the third one is green."
+    },
+    "343": {
+        "objects": [
+            "cat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three cats, one is yellow, the other is white, and the third is blue."
+    },
+    "344": {
+        "objects": [
+            "pizza"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three pizzas, one is pink, another one is purple, and the third one is yellow."
+    },
+    "345": {
+        "objects": [
+            "pizza"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three pizzas, one is green, one is pink, and one is yellow."
+    },
+    "346": {
+        "objects": [
+            "pizza"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three pizzas, one is white, another one is blue, and the last one is pink."
+    },
+    "347": {
+        "objects": [
+            "pizza"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three pizzas, one is white, another one is black, and another one is blue."
+    },
+    "348": {
+        "objects": [
+            "fork"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three forks made of different materials - one is brass, another one is carbon fiber, and the third one is copper."
+    },
+    "349": {
+        "objects": [
+            "fork"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three forks, one is made of plastic, one is made of gold, and one is made of aluminum."
+    },
+    "350": {
+        "objects": [
+            "fork"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three forks, one is white, another is yellow, and the third one is purple."
+    },
+    "351": {
+        "objects": [
+            "fork"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three forks; one is white, another is green, and the third is pink."
+    },
+    "352": {
+        "objects": [
+            "skis"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three pairs of skis, one pair is red, another pair is black, and the third pair is green."
+    },
+    "353": {
+        "objects": [
+            "skis"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three pairs of skis - one pair is white, another pair is blue, and the remaining pair is yellow."
+    },
+    "354": {
+        "objects": [
+            "skis"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are multiple pairs of skis, one pair is yellow, another pair is purple, and the third pair is white."
+    },
+    "355": {
+        "objects": [
+            "skis"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three pairs of skis - one pair is purple, one pair is red, and one pair is white."
+    },
+    "356": {
+        "objects": [
+            "baseball bat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three baseball bats, one is red, another is white, and the third is yellow."
+    },
+    "357": {
+        "objects": [
+            "baseball bat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three baseball bats, one is yellow, another is green, and the third is black."
+    },
+    "358": {
+        "objects": [
+            "baseball bat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three baseball bats, with one being purple, another being white, and the third being yellow."
+    },
+    "359": {
+        "objects": [
+            "baseball bat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three baseball bats, one is white, another one is black, and the third one is blue."
+    },
+    "360": {
+        "objects": [
+            "boat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three boats, one is blue, another is pink, and the last one is green."
+    },
+    "361": {
+        "objects": [
+            "boat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three boats, one is brass, another is resin, and the third is wood."
+    },
+    "362": {
+        "objects": [
+            "boat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three boats, one is made of carbon fiber, another is made of steel, and the third is made of aluminum."
+    },
+    "363": {
+        "objects": [
+            "boat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three boats, one is made of steel, another is made of aluminum, and the third is made of carbon fiber."
+    },
+    "364": {
+        "objects": [
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three potted plants, one is purple, another one is red, and the third one is black."
+    },
+    "365": {
+        "objects": [
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three potted plants, one is made of wood, another one is made of metal, and the other one is made of stone."
+    },
+    "366": {
+        "objects": [
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three potted plants - one is made of fabric, another is made of glass, and the third is made of concrete."
+    },
+    "367": {
+        "objects": [
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three potted plants, with one being pink, another being green, and the third being red."
+    },
+    "368": {
+        "objects": [
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three motorcycles, one of them is purple, another one is blue, and the third one is black."
+    },
+    "369": {
+        "objects": [
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three motorcycles, one motorcycle is made of chrome, another motorcycle is made of stone, and the third motorcycle is made of wood."
+    },
+    "370": {
+        "objects": [
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three motorcycles, one motorcycle is made of stone, another motorcycle is made of fabric, and the third motorcycle is made of aluminum."
+    },
+    "371": {
+        "objects": [
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three motorcycles, one is purple, another one is black, and the third one is green."
+    },
+    "372": {
+        "objects": [
+            "scissors"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three pairs of scissors, one pair is blue, another pair is red, and the third pair is white."
+    },
+    "373": {
+        "objects": [
+            "scissors"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three pairs of scissors, one pair is blue, another pair is purple, and the third pair is white."
+    },
+    "374": {
+        "objects": [
+            "scissors"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three pairs of scissors, one pair is white, another pair is purple, and the third pair is yellow."
+    },
+    "375": {
+        "objects": [
+            "scissors"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three pairs of scissors, one pair is green, another pair is pink, and the third pair is yellow."
+    },
+    "376": {
+        "objects": [
+            "bench"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three benches; one is white, another one is pink, and the third one is red."
+    },
+    "377": {
+        "objects": [
+            "bench"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three benches, one is pink, another one is purple, and the other one is blue."
+    },
+    "378": {
+        "objects": [
+            "bench"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three benches; one bench is red, another bench is green, and a third bench is blue."
+    },
+    "379": {
+        "objects": [
+            "bench"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three benches, one bench is black, another one is red, and the third one is green."
+    },
+    "380": {
+        "objects": [
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three bowls, one is pink, another is purple, and the third one is yellow."
+    },
+    "381": {
+        "objects": [
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three bowls, one is made of acrylic, another is made of marble, and the third is made of granite."
+    },
+    "382": {
+        "objects": [
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three bowls, one is blue, another is green, and the third one is white."
+    },
+    "383": {
+        "objects": [
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three bowls, one is made of granite, another one is made of resin, and the third one is made of ceramic."
+    },
+    "384": {
+        "objects": [
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three airplanes, one is made of ceramic, another is made of rubber, and the third one is made of metal."
+    },
+    "385": {
+        "objects": [
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three airplanes, one is purple, another one is yellow, and the third one is blue."
+    },
+    "386": {
+        "objects": [
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three airplanes, one is made of metal, another is foam, and the third one is fabric."
+    },
+    "387": {
+        "objects": [
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three airplanes, one is made of fabric, another is made of foam, and the third is made of ceramic."
+    },
+    "388": {
+        "objects": [
+            "handbag"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three handbags, one is red, another is black, and the third one is green."
+    },
+    "389": {
+        "objects": [
+            "handbag"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three handbags, one handbag is star-shaped, another is hexagonal, and the third one is triangular."
+    },
+    "390": {
+        "objects": [
+            "handbag"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three handbags, one handbag is oval, another one is crescentic, and the third one is square."
+    },
+    "391": {
+        "objects": [
+            "handbag"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three handbags, one handbag is blue, another handbag is white, and the third handbag is purple."
+    },
+    "392": {
+        "objects": [
+            "apple"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three apples - one is black, one is purple, and one is pink."
+    },
+    "393": {
+        "objects": [
+            "apple"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three apples: one is green, one is white, and one is blue."
+    },
+    "394": {
+        "objects": [
+            "apple"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three apples: one is green, another one is yellow, and the third one is red."
+    },
+    "395": {
+        "objects": [
+            "apple"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three apples; one is white, one is blue, and one is pink."
+    },
+    "396": {
+        "objects": [
+            "teddy bear"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three teddy bears, one is white, another is black, and the third one is green."
+    },
+    "397": {
+        "objects": [
+            "teddy bear"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three teddy bears, one is yellow, one is blue, and one is purple."
+    },
+    "398": {
+        "objects": [
+            "teddy bear"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three teddy bears, one is blue, another one is black, and the third one is yellow."
+    },
+    "399": {
+        "objects": [
+            "teddy bear"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three teddy bears, one teddy bear is yellow, another teddy bear is green, and the third teddy bear is blue."
+    },
+    "400": {
+        "objects": [
+            "vase"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three vases, one is white, another is red, and the last one is blue."
+    },
+    "401": {
+        "objects": [
+            "vase"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three vases, one is green, another is red, and the third is blue."
+    },
+    "402": {
+        "objects": [
+            "vase"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three vases - one is purple, another is green, and the third one is red."
+    },
+    "403": {
+        "objects": [
+            "vase"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three vases, one is blue, another is red, and the other is purple."
+    },
+    "404": {
+        "objects": [
+            "dog"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three dogs, one is happy, another one is afraid, and the third one is surprised."
+    },
+    "405": {
+        "objects": [
+            "dog"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three dogs with different emotions: one is angry, one is afraid, and one is happy."
+    },
+    "406": {
+        "objects": [
+            "dog"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three dogs, one dog is purple, another one is yellow, and the third one is red."
+    },
+    "407": {
+        "objects": [
+            "dog"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three dogs, one dog is purple, another dog is pink, and the third dog is yellow."
+    },
+    "408": {
+        "objects": [
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three bottles made from different materials - one is plastic, another is leather, and the third one is silicone."
+    },
+    "409": {
+        "objects": [
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three bottles: one is diamond-shaped, another is triangular, and the last one is star-shaped."
+    },
+    "410": {
+        "objects": [
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "Among the bottles, there is one that is heart-shaped, another one that is round, and yet another one that is cylindrical."
+    },
+    "411": {
+        "objects": [
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "Among the bottles, one is made of resin, another is made of fabric, and the third is made of bamboo."
+    },
+    "412": {
+        "objects": [
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "Among the spoons, one is made of aluminum, another is made of bone, and the third is crafted from titanium."
+    },
+    "413": {
+        "objects": [
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three spoons; one is made of titanium, another is wood, and the third is brass."
+    },
+    "414": {
+        "objects": [
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three spoons, one spoon is yellow, another spoon is green, and the remaining spoon is blue."
+    },
+    "415": {
+        "objects": [
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three spoons: one is pink, another is yellow, and the third is red."
+    },
+    "416": {
+        "objects": [
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three backpacks, one is rectangular, another is crescentic, and the third one is oval."
+    },
+    "417": {
+        "objects": [
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three backpacks, one is red, another one is pink, and the last one is black."
+    },
+    "418": {
+        "objects": [
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three backpacks; one is star-shaped, one is oval, and one is hexagonal."
+    },
+    "419": {
+        "objects": [
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three backpacks; one is blue, another is red, and the third one is purple."
+    },
+    "420": {
+        "objects": [
+            "oven"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three ovens, one is pink, another one is white, and the third one is purple."
+    },
+    "421": {
+        "objects": [
+            "oven"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three ovens: one is yellow, another is blue, and the third one is pink."
+    },
+    "422": {
+        "objects": [
+            "oven"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three ovens: one is blue, one is pink, and one is white."
+    },
+    "423": {
+        "objects": [
+            "oven"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three ovens; one is yellow, another is green, and the third is black."
+    },
+    "424": {
+        "objects": [
+            "bear"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three bears, one appears sad, another looks happy, and the third seems angry."
+    },
+    "425": {
+        "objects": [
+            "bear"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three bears; one appears happy, another looks surprised, and the third seems sad."
+    },
+    "426": {
+        "objects": [
+            "bear"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three bears; one is white, another is pink, and the third is yellow."
+    },
+    "427": {
+        "objects": [
+            "bear"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three bears, one is red, another is blue, and the third is pink."
+    },
+    "428": {
+        "objects": [
+            "hair drier"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three hair driers, one is white, another one is yellow, and the third one is blue."
+    },
+    "429": {
+        "objects": [
+            "hair drier"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three hair driers, one is green, another is purple, and the third one is blue."
+    },
+    "430": {
+        "objects": [
+            "hair drier"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three hair driers - one is purple, one is red, and one is yellow."
+    },
+    "431": {
+        "objects": [
+            "hair drier"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three hair driers with different colors; one hair drier is purple, another one is red, and the third one is white."
+    },
+    "432": {
+        "objects": [
+            "man"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three men, one man is afraid, another man is sad, and the third man is happy."
+    },
+    "433": {
+        "objects": [
+            "man"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three men in the room; one man is happy, another is surprised, and the third one is angry."
+    },
+    "434": {
+        "objects": [
+            "man"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three men, one is angry, another one is calm, and the third is happy."
+    },
+    "435": {
+        "objects": [
+            "man"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "Three men have different emotions - one is surprised, another is happy, and the third is angry."
+    },
+    "436": {
+        "objects": [
+            "suitcase"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three suitcases, one is white, another one is red, and the third one is yellow."
+    },
+    "437": {
+        "objects": [
+            "suitcase"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three suitcases, one is black, another one is white, and the third one is green."
+    },
+    "438": {
+        "objects": [
+            "suitcase"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three suitcases - one is purple, another is pink, and the third one is yellow."
+    },
+    "439": {
+        "objects": [
+            "suitcase"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three suitcases, one is purple, another one is red, and the third one is black."
+    },
+    "440": {
+        "objects": [
+            "couch"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three couches: one is made of bamboo, another is chenille, and the other is rattan."
+    },
+    "441": {
+        "objects": [
+            "couch"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three couches; one couch is made of stone, another couch is made of leather, and the third couch is made of velvet."
+    },
+    "442": {
+        "objects": [
+            "couch"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three couches, one is blue, another is green, and the last one is black."
+    },
+    "443": {
+        "objects": [
+            "couch"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three couches, one is green, another one is black, and the third one is pink."
+    },
+    "444": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three beds: one is made of wood, one is made of leather, and one is made of metal."
+    },
+    "445": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three beds, one bed is made of acrylic, another bed is made of wood, and the third bed is made of glass."
+    },
+    "446": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three beds, one bed is black, another bed is pink, and the third bed is white."
+    },
+    "447": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three beds: one with a checked pattern, another with stripes, and the third with a herringbone design."
+    },
+    "448": {
+        "objects": [
+            "kite"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three kites, one kite is purple, another kite is pink, and the third kite is red."
+    },
+    "449": {
+        "objects": [
+            "kite"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three kites: one kite is heart-shaped, another kite is hexagonal, and the third kite is round."
+    },
+    "450": {
+        "objects": [
+            "kite"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three kites, one is purple, another is black, and the third one is white."
+    },
+    "451": {
+        "objects": [
+            "kite"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "Among the kites, one is green, another is red, and the third is black."
+    },
+    "452": {
+        "objects": [
+            "coat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three coats: one is plain, another one has polka dots, and the third one is checked."
+    },
+    "453": {
+        "objects": [
+            "coat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three coats; one is plaid, another is camouflage, and the last one is plain."
+    },
+    "454": {
+        "objects": [
+            "coat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three coats; one is red, another is white, and the third is green."
+    },
+    "455": {
+        "objects": [
+            "coat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three coats, one is yellow, another one is blue, and the third one is pink."
+    },
+    "456": {
+        "objects": [
+            "girl"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "Among the girls, one is calm, another is afraid, while the third one is sad."
+    },
+    "457": {
+        "objects": [
+            "girl"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three girls, one girl is angry, another girl is happy, and a third girl is afraid."
+    },
+    "458": {
+        "objects": [
+            "girl"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "Three girls have different emotions: one is happy, one is afraid, and one is surprised."
+    },
+    "459": {
+        "objects": [
+            "girl"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three girls, one is angry, another is sad, and the third one is happy."
+    },
+    "460": {
+        "objects": [
+            "giraffe"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three giraffes, one is red, another is black, and the third one is blue."
+    },
+    "461": {
+        "objects": [
+            "giraffe"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three giraffes, one is purple, another is green, and the third is pink."
+    },
+    "462": {
+        "objects": [
+            "giraffe"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three giraffes, one is sad, another one is angry, and the third one is surprised."
+    },
+    "463": {
+        "objects": [
+            "giraffe"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three giraffes, one is pink, another is yellow, and the third one is green."
+    },
+    "464": {
+        "objects": [
+            "book"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three books - one is yellow, another is white, and the third one is red."
+    },
+    "465": {
+        "objects": [
+            "book"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three books, one book is white, another book is green, and the third book is blue."
+    },
+    "466": {
+        "objects": [
+            "book"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three books, one is pink, another one is blue, and the last one is red."
+    },
+    "467": {
+        "objects": [
+            "book"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three books, one is blue, another is white, and the third one is purple."
+    },
+    "468": {
+        "objects": [
+            "women"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three women in the room, one looks surprised, another appears calm, while the third one seems angry."
+    },
+    "469": {
+        "objects": [
+            "women"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three women; one is calm, one is surprised, and one is angry."
+    },
+    "470": {
+        "objects": [
+            "women"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three women, one is afraid, another one is happy, and the third one is calm."
+    },
+    "471": {
+        "objects": [
+            "women"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three women, one woman is afraid, another woman is happy, and the third woman is sad."
+    },
+    "472": {
+        "objects": [
+            "zebra"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three zebras, one is afraid, another is sad, and the third one is happy."
+    },
+    "473": {
+        "objects": [
+            "zebra"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three zebras, one is pink, another is white, and the third one is purple."
+    },
+    "474": {
+        "objects": [
+            "zebra"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three zebras, one is angry, another one is happy, and the third one is sad."
+    },
+    "475": {
+        "objects": [
+            "zebra"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three zebras, one is afraid, one is surprised, and one is angry."
+    },
+    "476": {
+        "objects": [
+            "cell phone"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three cell phones - one is pink, one is purple, and one is green."
+    },
+    "477": {
+        "objects": [
+            "cell phone"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three cell phones, one is blue, another one is white, and the third one is red."
+    },
+    "478": {
+        "objects": [
+            "cell phone"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "Among the cell phones, there is a yellow one, a red one, and a white one, each exhibiting different colors."
+    },
+    "479": {
+        "objects": [
+            "cell phone"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three cell phones: one is black, one is purple, and one is green."
+    },
+    "480": {
+        "objects": [
+            "shirt"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three shirts, one shirt has polka dots, another has paisley, and the third one has stripes."
+    },
+    "481": {
+        "objects": [
+            "shirt"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three shirts - one is white, another is pink, and the third is purple."
+    },
+    "482": {
+        "objects": [
+            "shirt"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three shirts, one is green, another one is pink, and the third one is red."
+    },
+    "483": {
+        "objects": [
+            "shirt"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three shirts; one is camouflage, another is floral, and the third is paisley."
+    },
+    "484": {
+        "objects": [
+            "remote"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three remotes, one is purple, another one is yellow, and the third one is pink."
+    },
+    "485": {
+        "objects": [
+            "remote"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three remotes: one is red, one is green, and one is blue."
+    },
+    "486": {
+        "objects": [
+            "remote"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three remotes, one is blue, one is pink, and one is yellow."
+    },
+    "487": {
+        "objects": [
+            "remote"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three remotes, one is white, another one is black, and the third one is blue."
+    },
+    "488": {
+        "objects": [
+            "carrot"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three carrots, one is purple, another is white, and the third one is pink."
+    },
+    "489": {
+        "objects": [
+            "carrot"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three carrots, one carrot is black, another carrot is red, and the last carrot is white."
+    },
+    "490": {
+        "objects": [
+            "carrot"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three carrots, one is yellow, another one is pink, and the last one is blue."
+    },
+    "491": {
+        "objects": [
+            "carrot"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "Three carrots are different colors: one is red, one is black, and one is white."
+    },
+    "492": {
+        "objects": [
+            "orange"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three oranges, one is purple, another one is blue, and the last one is green."
+    },
+    "493": {
+        "objects": [
+            "orange"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three oranges, one is black, another one is purple, and the third one is yellow."
+    },
+    "494": {
+        "objects": [
+            "orange"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three oranges, one is black, one is green, and one is red."
+    },
+    "495": {
+        "objects": [
+            "orange"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three oranges, one is yellow, another one is red, and the third one is green."
+    },
+    "496": {
+        "objects": [
+            "tennis racket"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three tennis rackets, one is blue, the second one is white, and the third one is purple."
+    },
+    "497": {
+        "objects": [
+            "tennis racket"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three tennis rackets; one is white, another is yellow, and the third one is pink."
+    },
+    "498": {
+        "objects": [
+            "tennis racket"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three tennis rackets, one is red, another is purple, and the last one is pink."
+    },
+    "499": {
+        "objects": [
+            "tennis racket"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 3,
+            "spatial number": 0
+        },
+        "prompt": "There are three tennis rackets; one is blue, one is green, and one is yellow."
+    }
+}

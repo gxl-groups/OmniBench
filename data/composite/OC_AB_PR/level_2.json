@@ -1,0 +1,3902 @@
+{
+    "0": {
+        "objects": [
+            "toaster",
+            "pizza",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a yellow toaster containing three blue pizzas and nine pink hot dogs."
+    },
+    "1": {
+        "objects": [
+            "toaster",
+            "pizza",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a yellow toaster containing two blue pizzas and two pink hot dogs."
+    },
+    "2": {
+        "objects": [
+            "toaster",
+            "pizza",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a red toaster containing two white pizzas and two yellow hot dogs."
+    },
+    "3": {
+        "objects": [
+            "refrigerator",
+            "donut",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a yellow refrigerator containing three green donuts and two purple pizzas."
+    },
+    "4": {
+        "objects": [
+            "refrigerator",
+            "donut",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a yellow refrigerator containing two green donuts and four purple pizzas."
+    },
+    "5": {
+        "objects": [
+            "refrigerator",
+            "donut",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a purple refrigerator containing three pink donuts and five purple pizzas."
+    },
+    "6": {
+        "objects": [
+            "refrigerator",
+            "sandwich",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a yellow refrigerator including seven black sandwiches and four red apples."
+    },
+    "7": {
+        "objects": [
+            "refrigerator",
+            "sandwich",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a yellow refrigerator including two black sandwiches and five red apples."
+    },
+    "8": {
+        "objects": [
+            "refrigerator",
+            "sandwich",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a pink refrigerator including five blue sandwiches and two green apples."
+    },
+    "9": {
+        "objects": [
+            "plate",
+            "carrot",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a green plate including two blue carrots and four black apples."
+    },
+    "10": {
+        "objects": [
+            "plate",
+            "carrot",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a green plate including six blue carrots and five black apples."
+    },
+    "11": {
+        "objects": [
+            "plate",
+            "carrot",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a square plate including five purple carrots and two white apples."
+    },
+    "12": {
+        "objects": [
+            "refrigerator",
+            "hot dog",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a purple refrigerator containing three black hot dogs and five pink apples."
+    },
+    "13": {
+        "objects": [
+            "refrigerator",
+            "hot dog",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a purple refrigerator containing nine black hot dogs and three pink apples."
+    },
+    "14": {
+        "objects": [
+            "refrigerator",
+            "hot dog",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a black refrigerator containing three green hot dogs and nine purple apples."
+    },
+    "15": {
+        "objects": [
+            "plate",
+            "book",
+            "cake"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a diamond plate containing five black books and five oval cakes."
+    },
+    "16": {
+        "objects": [
+            "plate",
+            "book",
+            "cake"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a diamond plate containing three black books and five oval cakes."
+    },
+    "17": {
+        "objects": [
+            "plate",
+            "book",
+            "cake"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a blue plate containing eight pink books and three yellow cakes."
+    },
+    "18": {
+        "objects": [
+            "microwave",
+            "book",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a white microwave containing four blue books and five blue bananas."
+    },
+    "19": {
+        "objects": [
+            "microwave",
+            "book",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a white microwave containing three blue books and six blue bananas."
+    },
+    "20": {
+        "objects": [
+            "microwave",
+            "book",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a purple microwave containing two purple books and two green bananas."
+    },
+    "21": {
+        "objects": [
+            "toaster",
+            "sandwich",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a white toaster containing two blue sandwiches and eight yellow bananas."
+    },
+    "22": {
+        "objects": [
+            "toaster",
+            "sandwich",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a white toaster containing two blue sandwiches and two yellow bananas."
+    },
+    "23": {
+        "objects": [
+            "toaster",
+            "sandwich",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a white toaster containing two blue sandwiches and eight purple bananas."
+    },
+    "24": {
+        "objects": [
+            "refrigerator",
+            "donut",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a green refrigerator including two red donuts and two red apples."
+    },
+    "25": {
+        "objects": [
+            "refrigerator",
+            "donut",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a green refrigerator including seven red donuts and three red apples."
+    },
+    "26": {
+        "objects": [
+            "refrigerator",
+            "donut",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a pink refrigerator including two black donuts and three blue apples."
+    },
+    "27": {
+        "objects": [
+            "sink",
+            "donut",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a green sink including two yellow donuts and four yellow sandwiches."
+    },
+    "28": {
+        "objects": [
+            "sink",
+            "donut",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a green sink including four yellow donuts and six yellow sandwiches."
+    },
+    "29": {
+        "objects": [
+            "sink",
+            "donut",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a white sink including eight purple donuts and two blue sandwiches."
+    },
+    "30": {
+        "objects": [
+            "microwave",
+            "book",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a black microwave containing five pink books and six blue sandwiches."
+    },
+    "31": {
+        "objects": [
+            "microwave",
+            "book",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a black microwave containing six pink books and six blue sandwiches."
+    },
+    "32": {
+        "objects": [
+            "microwave",
+            "book",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a white microwave containing three yellow books and two purple sandwiches."
+    },
+    "33": {
+        "objects": [
+            "refrigerator",
+            "toothbrush",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a purple refrigerator including two green toothbrushes and two purple pizzas."
+    },
+    "34": {
+        "objects": [
+            "refrigerator",
+            "toothbrush",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a purple refrigerator including three green toothbrushes and three purple pizzas."
+    },
+    "35": {
+        "objects": [
+            "refrigerator",
+            "toothbrush",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a green refrigerator including five black toothbrushes and two green pizzas."
+    },
+    "36": {
+        "objects": [
+            "bowl",
+            "book",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a pink bowl containing two purple books and two yellow hot dogs."
+    },
+    "37": {
+        "objects": [
+            "bowl",
+            "book",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a pink bowl containing four purple books and four yellow hot dogs."
+    },
+    "38": {
+        "objects": [
+            "bowl",
+            "book",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a resin bowl containing nine yellow books and three white hot dogs."
+    },
+    "39": {
+        "objects": [
+            "bowl",
+            "scissors",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a red bowl including five pair of green scissors and two pink bananas."
+    },
+    "40": {
+        "objects": [
+            "bowl",
+            "scissors",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a red bowl including three pair of green scissors and four pink bananas."
+    },
+    "41": {
+        "objects": [
+            "bowl",
+            "scissors",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a plastic bowl including six pair of red scissors and five red bananas."
+    },
+    "42": {
+        "objects": [
+            "bowl",
+            "broccoli",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a heart-shaped bowl including six red broccolis and five yellow bananas."
+    },
+    "43": {
+        "objects": [
+            "bowl",
+            "broccoli",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a heart-shaped bowl including ten red broccolis and two yellow bananas."
+    },
+    "44": {
+        "objects": [
+            "bowl",
+            "broccoli",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a brass bowl including seven red broccolis and five black bananas."
+    },
+    "45": {
+        "objects": [
+            "microwave",
+            "pizza",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a pink microwave including three yellow pizzas and two blue oranges."
+    },
+    "46": {
+        "objects": [
+            "microwave",
+            "pizza",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a pink microwave including two yellow pizzas and three blue oranges."
+    },
+    "47": {
+        "objects": [
+            "microwave",
+            "pizza",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a purple microwave including seven white pizzas and two green oranges."
+    },
+    "48": {
+        "objects": [
+            "toaster",
+            "donut",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a green toaster containing six blue donuts and two pink carrots."
+    },
+    "49": {
+        "objects": [
+            "toaster",
+            "donut",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a green toaster containing two blue donuts and four pink carrots."
+    },
+    "50": {
+        "objects": [
+            "toaster",
+            "donut",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a blue toaster containing two green donuts and six green carrots."
+    },
+    "51": {
+        "objects": [
+            "toaster",
+            "carrot",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a blue toaster containing five pink carrots and seven white sandwiches."
+    },
+    "52": {
+        "objects": [
+            "toaster",
+            "carrot",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a blue toaster containing three pink carrots and seven white sandwiches."
+    },
+    "53": {
+        "objects": [
+            "toaster",
+            "carrot",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a green toaster containing eight white carrots and four pink sandwiches."
+    },
+    "54": {
+        "objects": [
+            "sink",
+            "carrot",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a rectangular sink including four white carrots and three white sandwiches."
+    },
+    "55": {
+        "objects": [
+            "sink",
+            "carrot",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a rectangular sink including eight white carrots and two white sandwiches."
+    },
+    "56": {
+        "objects": [
+            "sink",
+            "carrot",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is an oval sink including three red carrots and two red sandwiches."
+    },
+    "57": {
+        "objects": [
+            "toaster",
+            "cake",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a white toaster including three diamond-shaped cakes and two yellow sandwiches."
+    },
+    "58": {
+        "objects": [
+            "toaster",
+            "cake",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a white toaster including two diamond-shaped cakes and six yellow sandwiches."
+    },
+    "59": {
+        "objects": [
+            "toaster",
+            "cake",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a blue toaster including two crescentic cakes and two red sandwiches."
+    },
+    "60": {
+        "objects": [
+            "microwave",
+            "scissors",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a yellow microwave including nine pair of yellow scissors and two blue pizzas."
+    },
+    "61": {
+        "objects": [
+            "microwave",
+            "scissors",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a yellow microwave including four pair of yellow scissors and five blue pizzas."
+    },
+    "62": {
+        "objects": [
+            "microwave",
+            "scissors",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a yellow microwave including six pair of red scissors and three white pizzas."
+    },
+    "63": {
+        "objects": [
+            "oven",
+            "pizza",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a white oven including five yellow pizzas and four black carrots."
+    },
+    "64": {
+        "objects": [
+            "oven",
+            "pizza",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a white oven including three yellow pizzas and eight black carrots."
+    },
+    "65": {
+        "objects": [
+            "oven",
+            "pizza",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a yellow oven including four yellow pizzas and five white carrots."
+    },
+    "66": {
+        "objects": [
+            "plate",
+            "book",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a red plate containing two black books and nine red apples."
+    },
+    "67": {
+        "objects": [
+            "plate",
+            "book",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a red plate containing two black books and ten red apples."
+    },
+    "68": {
+        "objects": [
+            "plate",
+            "book",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a square plate containing four purple books and two red apples."
+    },
+    "69": {
+        "objects": [
+            "refrigerator",
+            "carrot",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a yellow refrigerator including six black carrots and three pink oranges."
+    },
+    "70": {
+        "objects": [
+            "refrigerator",
+            "carrot",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a yellow refrigerator including three black carrots and two pink oranges."
+    },
+    "71": {
+        "objects": [
+            "refrigerator",
+            "carrot",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a pink refrigerator including ten red carrots and two black oranges."
+    },
+    "72": {
+        "objects": [
+            "toaster",
+            "book",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a green toaster containing three purple books and four yellow hot dogs."
+    },
+    "73": {
+        "objects": [
+            "toaster",
+            "book",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a green toaster containing five purple books and two yellow hot dogs."
+    },
+    "74": {
+        "objects": [
+            "toaster",
+            "book",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a purple toaster containing three green books and five yellow hot dogs."
+    },
+    "75": {
+        "objects": [
+            "plate",
+            "donut",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a bone plate including three white donuts and two blue hot dogs."
+    },
+    "76": {
+        "objects": [
+            "plate",
+            "donut",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a bone plate including two white donuts and two blue hot dogs."
+    },
+    "77": {
+        "objects": [
+            "plate",
+            "donut",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a round plate including two black donuts and five blue hot dogs."
+    },
+    "78": {
+        "objects": [
+            "toaster",
+            "sandwich",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a purple toaster including seven red sandwiches and two pink apples."
+    },
+    "79": {
+        "objects": [
+            "toaster",
+            "sandwich",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a purple toaster including seven red sandwiches and three pink apples."
+    },
+    "80": {
+        "objects": [
+            "toaster",
+            "sandwich",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a yellow toaster including four black sandwiches and five black apples."
+    },
+    "81": {
+        "objects": [
+            "plate",
+            "book",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a square plate containing four purple books and three purple oranges."
+    },
+    "82": {
+        "objects": [
+            "plate",
+            "book",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a square plate containing six purple books and four purple oranges."
+    },
+    "83": {
+        "objects": [
+            "plate",
+            "book",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a fabric plate containing two white books and three pink oranges."
+    },
+    "84": {
+        "objects": [
+            "plate",
+            "scissors",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a plastic plate including four pair of green scissors and two pink oranges."
+    },
+    "85": {
+        "objects": [
+            "plate",
+            "scissors",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a plastic plate including two pair of green scissors and three pink oranges."
+    },
+    "86": {
+        "objects": [
+            "plate",
+            "scissors",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a star-shaped plate including two pair of white scissors and two pink oranges."
+    },
+    "87": {
+        "objects": [
+            "toaster",
+            "scissors",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a blue toaster containing four pair of black scissors and three yellow bananas."
+    },
+    "88": {
+        "objects": [
+            "toaster",
+            "scissors",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a blue toaster containing two pair of black scissors and four yellow bananas."
+    },
+    "89": {
+        "objects": [
+            "toaster",
+            "scissors",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a green toaster containing three pair of blue scissors and four white bananas."
+    },
+    "90": {
+        "objects": [
+            "microwave",
+            "book",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a black microwave containing two pink books and three white carrots."
+    },
+    "91": {
+        "objects": [
+            "microwave",
+            "book",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a black microwave containing four pink books and six white carrots."
+    },
+    "92": {
+        "objects": [
+            "microwave",
+            "book",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a black microwave containing three green books and three green carrots."
+    },
+    "93": {
+        "objects": [
+            "plate",
+            "carrot",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a green plate including three blue carrots and eight purple oranges."
+    },
+    "94": {
+        "objects": [
+            "plate",
+            "carrot",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a green plate including six blue carrots and two purple oranges."
+    },
+    "95": {
+        "objects": [
+            "plate",
+            "carrot",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a brass plate including three white carrots and three pink oranges."
+    },
+    "96": {
+        "objects": [
+            "plate",
+            "toothbrush",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a purple plate containing six purple toothbrushes and four yellow bananas."
+    },
+    "97": {
+        "objects": [
+            "plate",
+            "toothbrush",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a purple plate containing four purple toothbrushes and six yellow bananas."
+    },
+    "98": {
+        "objects": [
+            "plate",
+            "toothbrush",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a triangular plate containing two blue toothbrushes and two pink bananas."
+    },
+    "99": {
+        "objects": [
+            "sink",
+            "cake",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a red sink including three heart-shaped cakes and six blue donuts."
+    },
+    "100": {
+        "objects": [
+            "sink",
+            "cake",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a red sink including two heart-shaped cakes and five blue donuts."
+    },
+    "101": {
+        "objects": [
+            "sink",
+            "cake",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a yellow sink including two green cakes and two red donuts."
+    },
+    "102": {
+        "objects": [
+            "toaster",
+            "broccoli",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a blue toaster containing two yellow broccolis and three black bananas."
+    },
+    "103": {
+        "objects": [
+            "toaster",
+            "broccoli",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a blue toaster containing two yellow broccolis and nine black bananas."
+    },
+    "104": {
+        "objects": [
+            "toaster",
+            "broccoli",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a green toaster containing two yellow broccolis and two yellow bananas."
+    },
+    "105": {
+        "objects": [
+            "oven",
+            "toothbrush",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a pink oven containing four white toothbrushes and two yellow sandwiches."
+    },
+    "106": {
+        "objects": [
+            "oven",
+            "toothbrush",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a pink oven containing four white toothbrushes and four yellow sandwiches."
+    },
+    "107": {
+        "objects": [
+            "oven",
+            "toothbrush",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a pink oven containing three black toothbrushes and three white sandwiches."
+    },
+    "108": {
+        "objects": [
+            "toaster",
+            "pizza",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a green toaster including five green pizzas and six white bananas."
+    },
+    "109": {
+        "objects": [
+            "toaster",
+            "pizza",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a green toaster including four green pizzas and two white bananas."
+    },
+    "110": {
+        "objects": [
+            "toaster",
+            "pizza",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a blue toaster including two green pizzas and two blue bananas."
+    },
+    "111": {
+        "objects": [
+            "oven",
+            "toothbrush",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a black oven containing four black toothbrushes and eight yellow oranges."
+    },
+    "112": {
+        "objects": [
+            "oven",
+            "toothbrush",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a black oven containing four black toothbrushes and three yellow oranges."
+    },
+    "113": {
+        "objects": [
+            "oven",
+            "toothbrush",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a black oven containing four blue toothbrushes and four green oranges."
+    },
+    "114": {
+        "objects": [
+            "toaster",
+            "book",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a red toaster containing two white books and two red carrots."
+    },
+    "115": {
+        "objects": [
+            "toaster",
+            "book",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a red toaster containing three white books and two red carrots."
+    },
+    "116": {
+        "objects": [
+            "toaster",
+            "book",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a green toaster containing three purple books and five purple carrots."
+    },
+    "117": {
+        "objects": [
+            "toaster",
+            "hot dog",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a red toaster containing three pink hot dogs and four purple apples."
+    },
+    "118": {
+        "objects": [
+            "toaster",
+            "hot dog",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a red toaster containing two pink hot dogs and three purple apples."
+    },
+    "119": {
+        "objects": [
+            "toaster",
+            "hot dog",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a yellow toaster containing two yellow hot dogs and five red apples."
+    },
+    "120": {
+        "objects": [
+            "sink",
+            "broccoli",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a diamond-shaped sink containing three white broccolis and two pink oranges."
+    },
+    "121": {
+        "objects": [
+            "sink",
+            "broccoli",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a diamond-shaped sink containing six white broccolis and two pink oranges."
+    },
+    "122": {
+        "objects": [
+            "sink",
+            "broccoli",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a purple sink containing six pink broccolis and two red oranges."
+    },
+    "123": {
+        "objects": [
+            "microwave",
+            "toothbrush",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a purple microwave including three pink toothbrushes and two black donuts."
+    },
+    "124": {
+        "objects": [
+            "microwave",
+            "toothbrush",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a purple microwave including two pink toothbrushes and two black donuts."
+    },
+    "125": {
+        "objects": [
+            "microwave",
+            "toothbrush",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a pink microwave including five blue toothbrushes and four yellow donuts."
+    },
+    "126": {
+        "objects": [
+            "plate",
+            "orange",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a heart-shaped plate including four white oranges and three blue sandwiches."
+    },
+    "127": {
+        "objects": [
+            "plate",
+            "orange",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a heart-shaped plate including eight white oranges and three blue sandwiches."
+    },
+    "128": {
+        "objects": [
+            "plate",
+            "orange",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a round plate including four purple oranges and four white sandwiches."
+    },
+    "129": {
+        "objects": [
+            "oven",
+            "book",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a white oven containing two red books and two black donuts."
+    },
+    "130": {
+        "objects": [
+            "oven",
+            "book",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a white oven containing nine red books and three black donuts."
+    },
+    "131": {
+        "objects": [
+            "oven",
+            "book",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a black oven containing five pink books and four green donuts."
+    },
+    "132": {
+        "objects": [
+            "toaster",
+            "hot dog",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a red toaster including six black hot dogs and three yellow sandwiches."
+    },
+    "133": {
+        "objects": [
+            "toaster",
+            "hot dog",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a red toaster including two black hot dogs and four yellow sandwiches."
+    },
+    "134": {
+        "objects": [
+            "toaster",
+            "hot dog",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a black toaster including two yellow hot dogs and four green sandwiches."
+    },
+    "135": {
+        "objects": [
+            "refrigerator",
+            "scissors",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a blue refrigerator including two pair of purple scissors and seven black oranges."
+    },
+    "136": {
+        "objects": [
+            "refrigerator",
+            "scissors",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a blue refrigerator including eight pair of purple scissors and two black oranges."
+    },
+    "137": {
+        "objects": [
+            "refrigerator",
+            "scissors",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a red refrigerator including seven pair of red scissors and four blue oranges."
+    },
+    "138": {
+        "objects": [
+            "refrigerator",
+            "carrot",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a pink refrigerator including three black carrots and seven blue sandwiches."
+    },
+    "139": {
+        "objects": [
+            "refrigerator",
+            "carrot",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a pink refrigerator including five black carrots and two blue sandwiches."
+    },
+    "140": {
+        "objects": [
+            "refrigerator",
+            "carrot",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a purple refrigerator including seven blue carrots and four white sandwiches."
+    },
+    "141": {
+        "objects": [
+            "refrigerator",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a blue refrigerator containing two white apples and two red bananas."
+    },
+    "142": {
+        "objects": [
+            "refrigerator",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a blue refrigerator containing four white apples and seven red bananas."
+    },
+    "143": {
+        "objects": [
+            "refrigerator",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a pink refrigerator containing four purple apples and two pink bananas."
+    },
+    "144": {
+        "objects": [
+            "toaster",
+            "hot dog",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a white toaster including two red hot dogs and two pink broccolis."
+    },
+    "145": {
+        "objects": [
+            "toaster",
+            "hot dog",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a white toaster including three red hot dogs and two pink broccolis."
+    },
+    "146": {
+        "objects": [
+            "toaster",
+            "hot dog",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a yellow toaster including four white hot dogs and three yellow broccolis."
+    },
+    "147": {
+        "objects": [
+            "toaster",
+            "cake",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a red toaster containing four black cakes and four blue hot dogs."
+    },
+    "148": {
+        "objects": [
+            "toaster",
+            "cake",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a red toaster containing four black cakes and eight blue hot dogs."
+    },
+    "149": {
+        "objects": [
+            "toaster",
+            "cake",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a black toaster containing five blue cakes and two purple hot dogs."
+    },
+    "150": {
+        "objects": [
+            "oven",
+            "book",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a green oven including four purple books and four yellow oranges."
+    },
+    "151": {
+        "objects": [
+            "oven",
+            "book",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a green oven including two purple books and two yellow oranges."
+    },
+    "152": {
+        "objects": [
+            "oven",
+            "book",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a black oven including six yellow books and four yellow oranges."
+    },
+    "153": {
+        "objects": [
+            "toaster",
+            "broccoli",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a pink toaster including three green broccolis and three green apples."
+    },
+    "154": {
+        "objects": [
+            "toaster",
+            "broccoli",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a pink toaster including three green broccolis and six green apples."
+    },
+    "155": {
+        "objects": [
+            "toaster",
+            "broccoli",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a purple toaster including five black broccolis and two black apples."
+    },
+    "156": {
+        "objects": [
+            "plate",
+            "toothbrush",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a white plate containing two purple toothbrushes and three white hot dogs."
+    },
+    "157": {
+        "objects": [
+            "plate",
+            "toothbrush",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a white plate containing six purple toothbrushes and three white hot dogs."
+    },
+    "158": {
+        "objects": [
+            "plate",
+            "toothbrush",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a brass plate containing five red toothbrushes and four red hot dogs."
+    },
+    "159": {
+        "objects": [
+            "microwave",
+            "book",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a purple microwave including five green books and six pink hot dogs."
+    },
+    "160": {
+        "objects": [
+            "microwave",
+            "book",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a purple microwave including two green books and three pink hot dogs."
+    },
+    "161": {
+        "objects": [
+            "microwave",
+            "book",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a blue microwave including six green books and two pink hot dogs."
+    },
+    "162": {
+        "objects": [
+            "bowl",
+            "book",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a brass bowl containing two blue books and four blue pizzas."
+    },
+    "163": {
+        "objects": [
+            "bowl",
+            "book",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a brass bowl containing nine blue books and three blue pizzas."
+    },
+    "164": {
+        "objects": [
+            "bowl",
+            "book",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a green bowl containing two red books and three black pizzas."
+    },
+    "165": {
+        "objects": [
+            "sink",
+            "scissors",
+            "book"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a green sink containing ten pair of white scissors and two purple books."
+    },
+    "166": {
+        "objects": [
+            "sink",
+            "scissors",
+            "book"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a green sink containing five pair of white scissors and seven purple books."
+    },
+    "167": {
+        "objects": [
+            "sink",
+            "scissors",
+            "book"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a polygonal sink containing three pair of pink scissors and three blue books."
+    },
+    "168": {
+        "objects": [
+            "plate",
+            "cake",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is an irregular plate containing two purple cakes and seven red donuts."
+    },
+    "169": {
+        "objects": [
+            "plate",
+            "cake",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is an irregular plate containing two purple cakes and nine red donuts."
+    },
+    "170": {
+        "objects": [
+            "plate",
+            "cake",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a red plate containing four pink cakes and seven yellow donuts."
+    },
+    "171": {
+        "objects": [
+            "sink",
+            "toothbrush",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a diamond-shaped sink including four blue toothbrushes and two pink pizzas."
+    },
+    "172": {
+        "objects": [
+            "sink",
+            "toothbrush",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a diamond-shaped sink including six blue toothbrushes and four pink pizzas."
+    },
+    "173": {
+        "objects": [
+            "sink",
+            "toothbrush",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a purple sink including five yellow toothbrushes and three purple pizzas."
+    },
+    "174": {
+        "objects": [
+            "bowl",
+            "hot dog",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a triangular bowl including three white hot dogs and seven purple sandwiches."
+    },
+    "175": {
+        "objects": [
+            "bowl",
+            "hot dog",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a triangular bowl including eight white hot dogs and four purple sandwiches."
+    },
+    "176": {
+        "objects": [
+            "bowl",
+            "hot dog",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a heart-shaped bowl including two yellow hot dogs and two blue sandwiches."
+    },
+    "177": {
+        "objects": [
+            "toaster",
+            "toothbrush",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a black toaster containing four green toothbrushes and four white carrots."
+    },
+    "178": {
+        "objects": [
+            "toaster",
+            "toothbrush",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a black toaster containing eight green toothbrushes and two white carrots."
+    },
+    "179": {
+        "objects": [
+            "toaster",
+            "toothbrush",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a yellow toaster containing three white toothbrushes and three blue carrots."
+    },
+    "180": {
+        "objects": [
+            "plate",
+            "toothbrush",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a pink plate including seven red toothbrushes and two yellow sandwiches."
+    },
+    "181": {
+        "objects": [
+            "plate",
+            "toothbrush",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a pink plate including two red toothbrushes and two yellow sandwiches."
+    },
+    "182": {
+        "objects": [
+            "plate",
+            "toothbrush",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a glass plate including two green toothbrushes and four green sandwiches."
+    },
+    "183": {
+        "objects": [
+            "plate",
+            "toothbrush",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a glass plate including three green toothbrushes and four green sandwiches."
+    },
+    "184": {
+        "objects": [
+            "toaster",
+            "cake",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a red toaster containing three hexagonal cakes and seven purple broccolis."
+    },
+    "185": {
+        "objects": [
+            "toaster",
+            "cake",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a red toaster containing five hexagonal cakes and four purple broccolis."
+    },
+    "186": {
+        "objects": [
+            "toaster",
+            "cake",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a pink toaster containing seven diamond-shaped cakes and three pink broccolis."
+    },
+    "187": {
+        "objects": [
+            "toaster",
+            "cake",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a pink toaster containing six diamond-shaped cakes and four pink broccolis."
+    },
+    "188": {
+        "objects": [
+            "sink",
+            "sandwich",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a square sink containing nine yellow sandwiches and two yellow bananas."
+    },
+    "189": {
+        "objects": [
+            "sink",
+            "sandwich",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a square sink containing four yellow sandwiches and five yellow bananas."
+    },
+    "190": {
+        "objects": [
+            "sink",
+            "sandwich",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a black sink containing three white sandwiches and four purple bananas."
+    },
+    "191": {
+        "objects": [
+            "sink",
+            "sandwich",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a black sink containing two white sandwiches and two purple bananas."
+    },
+    "192": {
+        "objects": [
+            "refrigerator",
+            "toothbrush",
+            "cake"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a yellow refrigerator containing six red toothbrushes and two crescentic cakes."
+    },
+    "193": {
+        "objects": [
+            "refrigerator",
+            "toothbrush",
+            "cake"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a yellow refrigerator containing three red toothbrushes and three crescentic cakes."
+    },
+    "194": {
+        "objects": [
+            "refrigerator",
+            "toothbrush",
+            "cake"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a yellow refrigerator containing two white toothbrushes and two yellow cakes."
+    },
+    "195": {
+        "objects": [
+            "refrigerator",
+            "toothbrush",
+            "cake"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a yellow refrigerator containing three white toothbrushes and two yellow cakes."
+    },
+    "196": {
+        "objects": [
+            "refrigerator",
+            "scissors",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a white refrigerator containing three pair of green scissors and four blue pizzas."
+    },
+    "197": {
+        "objects": [
+            "refrigerator",
+            "scissors",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a white refrigerator containing two pair of green scissors and four blue pizzas."
+    },
+    "198": {
+        "objects": [
+            "refrigerator",
+            "scissors",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a green refrigerator containing four pair of blue scissors and six black pizzas."
+    },
+    "199": {
+        "objects": [
+            "refrigerator",
+            "scissors",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a green refrigerator containing five pair of blue scissors and four black pizzas."
+    },
+    "200": {
+        "objects": [
+            "microwave",
+            "cake",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a green microwave containing six blue cakes and two black sandwiches."
+    },
+    "201": {
+        "objects": [
+            "microwave",
+            "cake",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a green microwave containing three blue cakes and two black sandwiches."
+    },
+    "202": {
+        "objects": [
+            "microwave",
+            "cake",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a purple microwave containing three black cakes and two purple sandwiches."
+    },
+    "203": {
+        "objects": [
+            "microwave",
+            "cake",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a purple microwave containing two black cakes and four purple sandwiches."
+    },
+    "204": {
+        "objects": [
+            "bowl",
+            "carrot",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a round bowl including two yellow carrots and eight purple sandwiches."
+    },
+    "205": {
+        "objects": [
+            "bowl",
+            "carrot",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a round bowl including four yellow carrots and eight purple sandwiches."
+    },
+    "206": {
+        "objects": [
+            "bowl",
+            "carrot",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is an aluminum bowl including three blue carrots and three yellow sandwiches."
+    },
+    "207": {
+        "objects": [
+            "bowl",
+            "carrot",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is an aluminum bowl including five blue carrots and three yellow sandwiches."
+    },
+    "208": {
+        "objects": [
+            "bowl",
+            "carrot",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a ceramic bowl containing six yellow carrots and three yellow apples."
+    },
+    "209": {
+        "objects": [
+            "bowl",
+            "carrot",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a ceramic bowl containing four yellow carrots and two yellow apples."
+    },
+    "210": {
+        "objects": [
+            "bowl",
+            "carrot",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a black bowl containing eight pink carrots and two yellow apples."
+    },
+    "211": {
+        "objects": [
+            "bowl",
+            "carrot",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a black bowl containing three pink carrots and seven yellow apples."
+    },
+    "212": {
+        "objects": [
+            "bowl",
+            "scissors",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a wooden bowl containing two pair of yellow scissors and four yellow oranges."
+    },
+    "213": {
+        "objects": [
+            "bowl",
+            "scissors",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a wooden bowl containing two pair of yellow scissors and seven yellow oranges."
+    },
+    "214": {
+        "objects": [
+            "bowl",
+            "scissors",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a brass bowl containing two pair of purple scissors and nine blue oranges."
+    },
+    "215": {
+        "objects": [
+            "bowl",
+            "scissors",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a brass bowl containing six pair of purple scissors and five blue oranges."
+    },
+    "216": {
+        "objects": [
+            "bowl",
+            "toothbrush",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is an octagonal bowl including two white toothbrushes and eight blue bananas."
+    },
+    "217": {
+        "objects": [
+            "bowl",
+            "toothbrush",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is an octagonal bowl including two white toothbrushes and three blue bananas."
+    },
+    "218": {
+        "objects": [
+            "bowl",
+            "toothbrush",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a yellow bowl including four black toothbrushes and six white bananas."
+    },
+    "219": {
+        "objects": [
+            "bowl",
+            "toothbrush",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a yellow bowl including seven black toothbrushes and three white bananas."
+    },
+    "220": {
+        "objects": [
+            "sink",
+            "toothbrush",
+            "book"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is an irregular sink including two purple toothbrushes and four blue books."
+    },
+    "221": {
+        "objects": [
+            "sink",
+            "toothbrush",
+            "book"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is an irregular sink including two purple toothbrushes and two blue books."
+    },
+    "222": {
+        "objects": [
+            "sink",
+            "toothbrush",
+            "book"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a yellow sink including two white toothbrushes and eight black books."
+    },
+    "223": {
+        "objects": [
+            "sink",
+            "toothbrush",
+            "book"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a yellow sink including five white toothbrushes and four black books."
+    },
+    "224": {
+        "objects": [
+            "toaster",
+            "toothbrush",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a white toaster containing two black toothbrushes and two green donuts."
+    },
+    "225": {
+        "objects": [
+            "toaster",
+            "toothbrush",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a white toaster containing five black toothbrushes and six green donuts."
+    },
+    "226": {
+        "objects": [
+            "toaster",
+            "toothbrush",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a black toaster containing four blue toothbrushes and two green donuts."
+    },
+    "227": {
+        "objects": [
+            "toaster",
+            "toothbrush",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a black toaster containing three blue toothbrushes and eight green donuts."
+    },
+    "228": {
+        "objects": [
+            "sink",
+            "toothbrush",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a yellow sink containing seven pink toothbrushes and four blue donuts."
+    },
+    "229": {
+        "objects": [
+            "sink",
+            "toothbrush",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a yellow sink containing two pink toothbrushes and four blue donuts."
+    },
+    "230": {
+        "objects": [
+            "sink",
+            "toothbrush",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a purple sink containing two blue toothbrushes and eight purple donuts."
+    },
+    "231": {
+        "objects": [
+            "sink",
+            "toothbrush",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a purple sink containing three blue toothbrushes and two purple donuts."
+    },
+    "232": {
+        "objects": [
+            "plate",
+            "carrot",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a red plate containing two green carrots and ten white sandwiches."
+    },
+    "233": {
+        "objects": [
+            "plate",
+            "carrot",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a red plate containing three green carrots and five white sandwiches."
+    },
+    "234": {
+        "objects": [
+            "plate",
+            "carrot",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a red plate containing ten white carrots and two purple sandwiches."
+    },
+    "235": {
+        "objects": [
+            "plate",
+            "carrot",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a red plate containing two white carrots and three purple sandwiches."
+    },
+    "236": {
+        "objects": [
+            "refrigerator",
+            "book",
+            "cake"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a pink refrigerator containing six white books and six pink cakes."
+    },
+    "237": {
+        "objects": [
+            "refrigerator",
+            "book",
+            "cake"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a pink refrigerator containing four white books and three pink cakes."
+    },
+    "238": {
+        "objects": [
+            "refrigerator",
+            "book",
+            "cake"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a black refrigerator containing eight red books and two blue cakes."
+    },
+    "239": {
+        "objects": [
+            "refrigerator",
+            "book",
+            "cake"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a black refrigerator containing five red books and three blue cakes."
+    },
+    "240": {
+        "objects": [
+            "bowl",
+            "donut",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a heart-shaped bowl including two red donuts and two blue hot dogs."
+    },
+    "241": {
+        "objects": [
+            "bowl",
+            "donut",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a heart-shaped bowl including four red donuts and three blue hot dogs."
+    },
+    "242": {
+        "objects": [
+            "bowl",
+            "donut",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a ceramic bowl including five purple donuts and two white hot dogs."
+    },
+    "243": {
+        "objects": [
+            "bowl",
+            "donut",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a ceramic bowl including three purple donuts and five white hot dogs."
+    },
+    "244": {
+        "objects": [
+            "oven",
+            "scissors",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a green oven including eight pair of red scissors and four purple donuts."
+    },
+    "245": {
+        "objects": [
+            "oven",
+            "scissors",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a green oven including two pair of red scissors and two purple donuts."
+    },
+    "246": {
+        "objects": [
+            "oven",
+            "scissors",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a green oven including two pair of blue scissors and two green donuts."
+    },
+    "247": {
+        "objects": [
+            "oven",
+            "scissors",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a green oven including three pair of blue scissors and three green donuts."
+    },
+    "248": {
+        "objects": [
+            "toaster",
+            "hot dog",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a red toaster containing two blue hot dogs and two black oranges."
+    },
+    "249": {
+        "objects": [
+            "toaster",
+            "hot dog",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a red toaster containing nine blue hot dogs and two black oranges."
+    },
+    "250": {
+        "objects": [
+            "toaster",
+            "hot dog",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a purple toaster containing four blue hot dogs and two red oranges."
+    },
+    "251": {
+        "objects": [
+            "toaster",
+            "hot dog",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a purple toaster containing two blue hot dogs and five red oranges."
+    },
+    "252": {
+        "objects": [
+            "bowl",
+            "donut",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a diamond-shaped bowl containing two pink donuts and two green carrots."
+    },
+    "253": {
+        "objects": [
+            "bowl",
+            "donut",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a diamond-shaped bowl containing seven pink donuts and three green carrots."
+    },
+    "254": {
+        "objects": [
+            "bowl",
+            "donut",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a white bowl containing seven pink donuts and four green carrots."
+    },
+    "255": {
+        "objects": [
+            "bowl",
+            "donut",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a white bowl containing ten pink donuts and two green carrots."
+    },
+    "256": {
+        "objects": [
+            "plate",
+            "toothbrush",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is an irregular plate containing six purple toothbrushes and two pink carrots."
+    },
+    "257": {
+        "objects": [
+            "plate",
+            "toothbrush",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is an irregular plate containing two purple toothbrushes and four pink carrots."
+    },
+    "258": {
+        "objects": [
+            "plate",
+            "toothbrush",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a red plate containing four blue toothbrushes and four purple carrots."
+    },
+    "259": {
+        "objects": [
+            "plate",
+            "toothbrush",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a red plate containing six blue toothbrushes and two purple carrots."
+    },
+    "260": {
+        "objects": [
+            "oven",
+            "cake",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a blue oven containing seven black cakes and three pink pizzas."
+    },
+    "261": {
+        "objects": [
+            "oven",
+            "cake",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a blue oven containing three black cakes and two pink pizzas."
+    },
+    "262": {
+        "objects": [
+            "oven",
+            "cake",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a purple oven containing four hexagonal cakes and two purple pizzas."
+    },
+    "263": {
+        "objects": [
+            "oven",
+            "cake",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a purple oven containing two hexagonal cakes and six purple pizzas."
+    },
+    "264": {
+        "objects": [
+            "oven",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a red oven including three red apples and two black bananas."
+    },
+    "265": {
+        "objects": [
+            "oven",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a red oven including three red apples and three black bananas."
+    },
+    "266": {
+        "objects": [
+            "oven",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a green oven including two white apples and four red bananas."
+    },
+    "267": {
+        "objects": [
+            "oven",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a green oven including four white apples and three red bananas."
+    },
+    "268": {
+        "objects": [
+            "refrigerator",
+            "toothbrush",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a white refrigerator including two white toothbrushes and ten pink sandwiches."
+    },
+    "269": {
+        "objects": [
+            "refrigerator",
+            "toothbrush",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a white refrigerator including two white toothbrushes and two pink sandwiches."
+    },
+    "270": {
+        "objects": [
+            "refrigerator",
+            "toothbrush",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a green refrigerator including four purple toothbrushes and three pink sandwiches."
+    },
+    "271": {
+        "objects": [
+            "refrigerator",
+            "toothbrush",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a green refrigerator including two purple toothbrushes and seven pink sandwiches."
+    },
+    "272": {
+        "objects": [
+            "refrigerator",
+            "scissors",
+            "book"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a pink refrigerator containing three pair of red scissors and two purple books."
+    },
+    "273": {
+        "objects": [
+            "refrigerator",
+            "scissors",
+            "book"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a pink refrigerator containing two pair of red scissors and four purple books."
+    },
+    "274": {
+        "objects": [
+            "refrigerator",
+            "scissors",
+            "book"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a pink refrigerator containing three pair of white scissors and two pink books."
+    },
+    "275": {
+        "objects": [
+            "refrigerator",
+            "scissors",
+            "book"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a pink refrigerator containing three pair of white scissors and six pink books."
+    },
+    "276": {
+        "objects": [
+            "bowl",
+            "toothbrush",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a granite bowl containing five white toothbrushes and four red apples."
+    },
+    "277": {
+        "objects": [
+            "bowl",
+            "toothbrush",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a granite bowl containing four white toothbrushes and four red apples."
+    },
+    "278": {
+        "objects": [
+            "bowl",
+            "toothbrush",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a triangular bowl containing three green toothbrushes and five black apples."
+    },
+    "279": {
+        "objects": [
+            "bowl",
+            "toothbrush",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a triangular bowl containing two green toothbrushes and five black apples."
+    },
+    "280": {
+        "objects": [
+            "sink",
+            "toothbrush",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a polygonal sink including four black toothbrushes and four yellow oranges."
+    },
+    "281": {
+        "objects": [
+            "sink",
+            "toothbrush",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a polygonal sink including two black toothbrushes and six yellow oranges."
+    },
+    "282": {
+        "objects": [
+            "sink",
+            "toothbrush",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a circular sink including two white toothbrushes and three yellow oranges."
+    },
+    "283": {
+        "objects": [
+            "sink",
+            "toothbrush",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a circular sink including six white toothbrushes and six yellow oranges."
+    },
+    "284": {
+        "objects": [
+            "oven",
+            "book",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a white oven including two blue books and three pink apples."
+    },
+    "285": {
+        "objects": [
+            "oven",
+            "book",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a white oven including three blue books and four pink apples."
+    },
+    "286": {
+        "objects": [
+            "oven",
+            "book",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a blue oven including three blue books and two blue apples."
+    },
+    "287": {
+        "objects": [
+            "oven",
+            "book",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a blue oven including seven blue books and four blue apples."
+    },
+    "288": {
+        "objects": [
+            "oven",
+            "book",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a white oven containing seven green books and four yellow sandwiches."
+    },
+    "289": {
+        "objects": [
+            "oven",
+            "book",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a white oven containing eight green books and two yellow sandwiches."
+    },
+    "290": {
+        "objects": [
+            "oven",
+            "book",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a black oven containing two blue books and four white sandwiches."
+    },
+    "291": {
+        "objects": [
+            "oven",
+            "book",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a black oven containing six blue books and two white sandwiches."
+    },
+    "292": {
+        "objects": [
+            "refrigerator",
+            "orange",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a black refrigerator including three blue oranges and three white bananas."
+    },
+    "293": {
+        "objects": [
+            "refrigerator",
+            "orange",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a black refrigerator including three blue oranges and four white bananas."
+    },
+    "294": {
+        "objects": [
+            "refrigerator",
+            "orange",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a white refrigerator including three blue oranges and three purple bananas."
+    },
+    "295": {
+        "objects": [
+            "refrigerator",
+            "orange",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a white refrigerator including two blue oranges and eight purple bananas."
+    },
+    "296": {
+        "objects": [
+            "bowl",
+            "toothbrush",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a black bowl containing two red toothbrushes and four green hot dogs."
+    },
+    "297": {
+        "objects": [
+            "bowl",
+            "toothbrush",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a black bowl containing three red toothbrushes and two green hot dogs."
+    },
+    "298": {
+        "objects": [
+            "bowl",
+            "toothbrush",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a porcelain bowl containing three yellow toothbrushes and six red hot dogs."
+    },
+    "299": {
+        "objects": [
+            "bowl",
+            "toothbrush",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a porcelain bowl containing four yellow toothbrushes and eight red hot dogs."
+    }
+}

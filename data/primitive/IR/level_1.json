@@ -1,0 +1,5502 @@
+{
+    "0": {
+        "objects": [
+            "baby",
+            "car"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A baby is sleeping in a car."
+    },
+    "1": {
+        "objects": [
+            "giraffe",
+            "chair"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A giraffe is looking at a chair."
+    },
+    "2": {
+        "objects": [
+            "elephant",
+            "laptop"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "An elephant is looking at a laptop."
+    },
+    "3": {
+        "objects": [
+            "bear",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A bear is devouring a donut."
+    },
+    "4": {
+        "objects": [
+            "cow",
+            "book"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A cow is grazing near a book."
+    },
+    "5": {
+        "objects": [
+            "woman",
+            "dog"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A woman is walking together with a dog."
+    },
+    "6": {
+        "objects": [
+            "bear",
+            "frisbee"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A bear is chasing a frisbee."
+    },
+    "7": {
+        "objects": [
+            "elephant",
+            "snowboard"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "An elephant is riding on a snowboard."
+    },
+    "8": {
+        "objects": [
+            "girl",
+            "street sign"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a girl reading a street sign."
+    },
+    "9": {
+        "objects": [
+            "cow",
+            "laptop"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A cow is grazing beside a laptop."
+    },
+    "10": {
+        "objects": [
+            "elephant",
+            "coat"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The elephant is playing tug-of-war with the coat."
+    },
+    "11": {
+        "objects": [
+            "man",
+            "frisbee"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The man is throwing the frisbee."
+    },
+    "12": {
+        "objects": [
+            "baby",
+            "street sign"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A baby is staring at a street sign."
+    },
+    "13": {
+        "objects": [
+            "horse",
+            "toaster"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a horse staring at a toaster."
+    },
+    "14": {
+        "objects": [
+            "elephant",
+            "refrigerator"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The elephant is standing beside the refrigerator."
+    },
+    "15": {
+        "objects": [
+            "dog",
+            "boat"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A dog is swimming alongside a boat."
+    },
+    "16": {
+        "objects": [
+            "boy",
+            "fork"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The boy is eating with the fork."
+    },
+    "17": {
+        "objects": [
+            "girl",
+            "kite"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The girl is flying a kite."
+    },
+    "18": {
+        "objects": [
+            "boy",
+            "sports ball"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The boy is kicking the sports ball."
+    },
+    "19": {
+        "objects": [
+            "dog",
+            "bear"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A dog is growling at a bear."
+    },
+    "20": {
+        "objects": [
+            "cat",
+            "sink"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A cat is drinking from the sink."
+    },
+    "21": {
+        "objects": [
+            "giraffe",
+            "book"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe is examining the book."
+    },
+    "22": {
+        "objects": [
+            "cow",
+            "teddy bear"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cow and the teddy bear are sitting together."
+    },
+    "23": {
+        "objects": [
+            "dog",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A dog is sniffing a carrot."
+    },
+    "24": {
+        "objects": [
+            "dog",
+            "umbrella"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The dog is playing with the umbrella."
+    },
+    "25": {
+        "objects": [
+            "woman",
+            "T-shirt"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A woman is wearing a T-shirt."
+    },
+    "26": {
+        "objects": [
+            "dog",
+            "suitcase"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A dog is sniffing a suitcase."
+    },
+    "27": {
+        "objects": [
+            "giraffe",
+            "elephant"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe and the elephant are peacefully grazing."
+    },
+    "28": {
+        "objects": [
+            "bird",
+            "snowboard"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A bird is perched on a snowboard."
+    },
+    "29": {
+        "objects": [
+            "giraffe",
+            "sports ball"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe is kicking the sports ball."
+    },
+    "30": {
+        "objects": [
+            "cow",
+            "sports ball"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a cow kicking a sports ball."
+    },
+    "31": {
+        "objects": [
+            "cat",
+            "kite"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a cat chasing after a kite."
+    },
+    "32": {
+        "objects": [
+            "giraffe",
+            "cake"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A giraffe is inspecting a cake."
+    },
+    "33": {
+        "objects": [
+            "girl",
+            "woman"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a girl chatting with a woman."
+    },
+    "34": {
+        "objects": [
+            "bear",
+            "curtain"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A bear is peeking through the curtain."
+    },
+    "35": {
+        "objects": [
+            "woman",
+            "surfboard"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A woman is surfing on a surfboard."
+    },
+    "36": {
+        "objects": [
+            "girl",
+            "trousers"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A girl is trying on a pair of trousers."
+    },
+    "37": {
+        "objects": [
+            "girl",
+            "refrigerator"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The girl is opening the refrigerator."
+    },
+    "38": {
+        "objects": [
+            "dog",
+            "man"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The dog is playing fetch with the man."
+    },
+    "39": {
+        "objects": [
+            "zebra",
+            "tennis racket"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra is kicking towards the tennis racket."
+    },
+    "40": {
+        "objects": [
+            "elephant",
+            "mouse"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "An elephant is sharing food with a mouse."
+    },
+    "41": {
+        "objects": [
+            "zebra",
+            "dining table"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra is standing beside the dining table."
+    },
+    "42": {
+        "objects": [
+            "elephant",
+            "baseball glove"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The elephant is playing catch with the baseball glove."
+    },
+    "43": {
+        "objects": [
+            "man",
+            "toaster"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The man is making toast with the toaster."
+    },
+    "44": {
+        "objects": [
+            "bear",
+            "cat"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A bear and a cat are playing together."
+    },
+    "45": {
+        "objects": [
+            "horse",
+            "traffic light"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The horse is galloping past the traffic light."
+    },
+    "46": {
+        "objects": [
+            "girl",
+            "bear"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The girl and the bear are playing hide-and-seek together."
+    },
+    "47": {
+        "objects": [
+            "sheep",
+            "vase"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The sheep is knocking over the vase."
+    },
+    "48": {
+        "objects": [
+            "cow",
+            "trousers"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cow is inspecting a pair of trousers."
+    },
+    "49": {
+        "objects": [
+            "cow",
+            "girl"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A girl is feeding a cow."
+    },
+    "50": {
+        "objects": [
+            "boy",
+            "tv"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A boy is watching a TV."
+    },
+    "51": {
+        "objects": [
+            "girl",
+            "sink"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The girl is washing hands in the sink."
+    },
+    "52": {
+        "objects": [
+            "man",
+            "sheep"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The man is herding the sheep."
+    },
+    "53": {
+        "objects": [
+            "man",
+            "tennis racket"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a man swinging a tennis racket."
+    },
+    "54": {
+        "objects": [
+            "elephant",
+            "tennis racket"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "An elephant is balancing on a tennis racket."
+    },
+    "55": {
+        "objects": [
+            "bear",
+            "boat"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bear is swimming alongside the boat."
+    },
+    "56": {
+        "objects": [
+            "dog",
+            "giraffe"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A dog and a giraffe are staring at each other."
+    },
+    "57": {
+        "objects": [
+            "cat",
+            "oven"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cat is sleeping near the oven."
+    },
+    "58": {
+        "objects": [
+            "horse",
+            "chair"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The horse is standing beside the chair."
+    },
+    "59": {
+        "objects": [
+            "girl",
+            "potted plant"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The girl is watering and caring for the potted plant."
+    },
+    "60": {
+        "objects": [
+            "dog",
+            "bottle"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A dog is sniffing a bottle."
+    },
+    "61": {
+        "objects": [
+            "cat",
+            "fire hydrant"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cat is sniffing the fire hydrant."
+    },
+    "62": {
+        "objects": [
+            "horse",
+            "dog"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a horse and a dog galloping and playing together."
+    },
+    "63": {
+        "objects": [
+            "giraffe",
+            "baseball glove"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A giraffe is standing next to a baseball glove."
+    },
+    "64": {
+        "objects": [
+            "elephant",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The elephant is smelling a donut."
+    },
+    "65": {
+        "objects": [
+            "zebra",
+            "baseball glove"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A zebra is examining a baseball glove."
+    },
+    "66": {
+        "objects": [
+            "giraffe",
+            "potted plant"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe is admiring the potted plant."
+    },
+    "67": {
+        "objects": [
+            "zebra",
+            "scissors"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A zebra is chasing a pair of scissors."
+    },
+    "68": {
+        "objects": [
+            "baby",
+            "couch"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A baby is playing on a couch."
+    },
+    "69": {
+        "objects": [
+            "cow",
+            "keyboard"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cow is investigating the keyboard."
+    },
+    "70": {
+        "objects": [
+            "zebra",
+            "baseball bat"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a zebra observing a baseball bat."
+    },
+    "71": {
+        "objects": [
+            "man",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a man eating a banana."
+    },
+    "72": {
+        "objects": [
+            "boy",
+            "coat"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A boy is putting on a coat."
+    },
+    "73": {
+        "objects": [
+            "cat",
+            "boat"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A cat is sitting on a boat."
+    },
+    "74": {
+        "objects": [
+            "horse",
+            "boat"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The horse is swimming alongside the boat."
+    },
+    "75": {
+        "objects": [
+            "man",
+            "boat"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The man is sailing on the boat."
+    },
+    "76": {
+        "objects": [
+            "giraffe",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A giraffe is eating a carrot."
+    },
+    "77": {
+        "objects": [
+            "cow",
+            "fire hydrant"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a cow staring at a fire hydrant."
+    },
+    "78": {
+        "objects": [
+            "cow",
+            "bicycle"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cow is grazing near the bicycle."
+    },
+    "79": {
+        "objects": [
+            "woman",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A woman is cooking a carrot."
+    },
+    "80": {
+        "objects": [
+            "dog",
+            "snowboard"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The dog is riding on the snowboard."
+    },
+    "81": {
+        "objects": [
+            "cat",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cat is sniffing the hot dog."
+    },
+    "82": {
+        "objects": [
+            "man",
+            "girl"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The man is talking to the girl."
+    },
+    "83": {
+        "objects": [
+            "bird",
+            "parking meter"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a bird perching on a parking meter."
+    },
+    "84": {
+        "objects": [
+            "sheep",
+            "bird"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The sheep is grazing nearby the bird."
+    },
+    "85": {
+        "objects": [
+            "baby",
+            "suitcase"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The baby is playing with the suitcase."
+    },
+    "86": {
+        "objects": [
+            "elephant",
+            "fire hydrant"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "An elephant is spraying water on a fire hydrant."
+    },
+    "87": {
+        "objects": [
+            "woman",
+            "mouse"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The woman is chasing the mouse."
+    },
+    "88": {
+        "objects": [
+            "cat",
+            "car"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cat is crossing the road in front of the car."
+    },
+    "89": {
+        "objects": [
+            "sheep",
+            "bed"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A sheep is sleeping on a bed."
+    },
+    "90": {
+        "objects": [
+            "zebra",
+            "vase"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra is knocking over the vase."
+    },
+    "91": {
+        "objects": [
+            "zebra",
+            "cell phone"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A zebra is interacting with a cell phone."
+    },
+    "92": {
+        "objects": [
+            "boy",
+            "cow"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a boy standing in the field with a cow."
+    },
+    "93": {
+        "objects": [
+            "sheep",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a sheep eating a pizza."
+    },
+    "94": {
+        "objects": [
+            "dog",
+            "spoon"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A dog is sniffing a spoon."
+    },
+    "95": {
+        "objects": [
+            "girl",
+            "baseball bat"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a girl swinging a baseball bat."
+    },
+    "96": {
+        "objects": [
+            "cow",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A cow is eating a sandwich."
+    },
+    "97": {
+        "objects": [
+            "elephant",
+            "eye glasses"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The elephant is inspecting the pair of eye glasses."
+    },
+    "98": {
+        "objects": [
+            "giraffe",
+            "fork"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A giraffe is reaching for a fork."
+    },
+    "99": {
+        "objects": [
+            "man",
+            "street sign"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A man is reading a street sign."
+    },
+    "100": {
+        "objects": [
+            "giraffe",
+            "mouse"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A giraffe and a mouse are sharing shade together."
+    },
+    "101": {
+        "objects": [
+            "cow",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A cow is grazing on a broccoli."
+    },
+    "102": {
+        "objects": [
+            "boy",
+            "carpet"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A boy is sitting on a carpet."
+    },
+    "103": {
+        "objects": [
+            "cat",
+            "frisbee"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A cat is chasing a frisbee."
+    },
+    "104": {
+        "objects": [
+            "giraffe",
+            "scissors"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe is being used to reach high leaves with a pair of scissors."
+    },
+    "105": {
+        "objects": [
+            "woman",
+            "eye glasses"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a woman wearing a pair of eyeglasses."
+    },
+    "106": {
+        "objects": [
+            "cow",
+            "microwave"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cow is mooing at the microwave."
+    },
+    "107": {
+        "objects": [
+            "bird",
+            "chair"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A bird is perching on a chair."
+    },
+    "108": {
+        "objects": [
+            "boy",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A boy is looking at a broccoli."
+    },
+    "109": {
+        "objects": [
+            "girl",
+            "train"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A girl is waiting for a train."
+    },
+    "110": {
+        "objects": [
+            "cow",
+            "train"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cow is grazing by the train."
+    },
+    "111": {
+        "objects": [
+            "girl",
+            "skis"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a girl skiing on a pair of skis."
+    },
+    "112": {
+        "objects": [
+            "man",
+            "tv"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A man is watching a TV."
+    },
+    "113": {
+        "objects": [
+            "cow",
+            "truck"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a cow crossing the road near a truck."
+    },
+    "114": {
+        "objects": [
+            "zebra",
+            "eye glasses"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra is wearing the pair of eye glasses."
+    },
+    "115": {
+        "objects": [
+            "horse",
+            "car"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a horse galloping alongside a car."
+    },
+    "116": {
+        "objects": [
+            "horse",
+            "zebra"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The horse and the zebra are grazing together."
+    },
+    "117": {
+        "objects": [
+            "horse",
+            "frisbee"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The horse is chasing the frisbee."
+    },
+    "118": {
+        "objects": [
+            "bird",
+            "bed"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bird is chirping on the bed."
+    },
+    "119": {
+        "objects": [
+            "cow",
+            "toaster"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cow is mooing near the toaster."
+    },
+    "120": {
+        "objects": [
+            "bear",
+            "man"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bear is observing the man."
+    },
+    "121": {
+        "objects": [
+            "elephant",
+            "remote"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "An elephant is playing with a remote."
+    },
+    "122": {
+        "objects": [
+            "zebra",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A zebra is munching on a carrot."
+    },
+    "123": {
+        "objects": [
+            "man",
+            "woman"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a man and a woman talking and laughing together."
+    },
+    "124": {
+        "objects": [
+            "sheep",
+            "bicycle"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The sheep is grazing beside the bicycle."
+    },
+    "125": {
+        "objects": [
+            "dog",
+            "backpack"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A dog is carrying a backpack."
+    },
+    "126": {
+        "objects": [
+            "woman",
+            "motorcycle"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A woman is riding a motorcycle."
+    },
+    "127": {
+        "objects": [
+            "woman",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A woman is biting into an apple."
+    },
+    "128": {
+        "objects": [
+            "cow",
+            "eye glasses"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A cow is staring at a pair of eye glasses."
+    },
+    "129": {
+        "objects": [
+            "boy",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A boy is riding on a skateboard."
+    },
+    "130": {
+        "objects": [
+            "cow",
+            "giraffe"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cow and giraffe are grazing together peacefully."
+    },
+    "131": {
+        "objects": [
+            "bird",
+            "microwave"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A bird is flying past a microwave."
+    },
+    "132": {
+        "objects": [
+            "zebra",
+            "cow"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra and the cow are grazing together in the field."
+    },
+    "133": {
+        "objects": [
+            "elephant",
+            "clock"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The elephant is painting the clock."
+    },
+    "134": {
+        "objects": [
+            "girl",
+            "car"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A girl is crossing the street in front of a car."
+    },
+    "135": {
+        "objects": [
+            "dog",
+            "sink"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A dog is drinking from a sink."
+    },
+    "136": {
+        "objects": [
+            "zebra",
+            "truck"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A zebra is passing by a truck."
+    },
+    "137": {
+        "objects": [
+            "cow",
+            "plate"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A cow is sniffing a plate."
+    },
+    "138": {
+        "objects": [
+            "cat",
+            "giraffe"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A cat is staring at a giraffe."
+    },
+    "139": {
+        "objects": [
+            "sheep",
+            "cup"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a sheep sniffing a cup."
+    },
+    "140": {
+        "objects": [
+            "giraffe",
+            "sink"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe is looking into the sink."
+    },
+    "141": {
+        "objects": [
+            "woman",
+            "fire hydrant"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The woman is walking past the fire hydrant."
+    },
+    "142": {
+        "objects": [
+            "cat",
+            "book"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A cat is lying on a book."
+    },
+    "143": {
+        "objects": [
+            "elephant",
+            "suitcase"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "An elephant is balancing on a suitcase."
+    },
+    "144": {
+        "objects": [
+            "horse",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A horse is eating a banana."
+    },
+    "145": {
+        "objects": [
+            "horse",
+            "fire hydrant"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a horse sniffing a fire hydrant."
+    },
+    "146": {
+        "objects": [
+            "horse",
+            "keyboard"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A horse is using the keyboard as a table."
+    },
+    "147": {
+        "objects": [
+            "bird",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A bird is perching on an orange."
+    },
+    "148": {
+        "objects": [
+            "cow",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cow is grilling a hot dog."
+    },
+    "149": {
+        "objects": [
+            "man",
+            "parking meter"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a man inserting coins into a parking meter."
+    },
+    "150": {
+        "objects": [
+            "giraffe",
+            "cell phone"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe is accidentally stepping on a cell phone."
+    },
+    "151": {
+        "objects": [
+            "girl",
+            "sheep"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a girl playing with a sheep."
+    },
+    "152": {
+        "objects": [
+            "bear",
+            "truck"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bear is crossing the road in front of the truck."
+    },
+    "153": {
+        "objects": [
+            "dog",
+            "carpet"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A dog is lying on a carpet."
+    },
+    "154": {
+        "objects": [
+            "cow",
+            "cell phone"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A cow is staring at a cell phone."
+    },
+    "155": {
+        "objects": [
+            "man",
+            "laptop"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a man typing on a laptop."
+    },
+    "156": {
+        "objects": [
+            "man",
+            "teddy bear"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a man cuddling a teddy bear."
+    },
+    "157": {
+        "objects": [
+            "horse",
+            "elephant"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The horse is grazing alongside the elephant."
+    },
+    "158": {
+        "objects": [
+            "bird",
+            "surfboard"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A bird is landing on a surfboard."
+    },
+    "159": {
+        "objects": [
+            "zebra",
+            "frisbee"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra is kicking the frisbee towards."
+    },
+    "160": {
+        "objects": [
+            "elephant",
+            "carpet"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "An elephant is stepping on a carpet."
+    },
+    "161": {
+        "objects": [
+            "woman",
+            "carpet"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A woman is vacuuming a carpet."
+    },
+    "162": {
+        "objects": [
+            "sheep",
+            "cow"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a sheep and a cow grazing together."
+    },
+    "163": {
+        "objects": [
+            "cat",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A cat is staring at a pizza."
+    },
+    "164": {
+        "objects": [
+            "girl",
+            "zebra"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The girl is feeding a zebra."
+    },
+    "165": {
+        "objects": [
+            "zebra",
+            "sports ball"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A zebra is kicking a sports ball."
+    },
+    "166": {
+        "objects": [
+            "horse",
+            "plate"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A horse is eating from a plate."
+    },
+    "167": {
+        "objects": [
+            "bear",
+            "car"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a bear crossing paths with a car."
+    },
+    "168": {
+        "objects": [
+            "man",
+            "truck"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The man is loading the truck."
+    },
+    "169": {
+        "objects": [
+            "bird",
+            "tv"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A bird is perched on a TV."
+    },
+    "170": {
+        "objects": [
+            "boy",
+            "keyboard"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a boy typing on a keyboard."
+    },
+    "171": {
+        "objects": [
+            "giraffe",
+            "kite"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe is observing the kite."
+    },
+    "172": {
+        "objects": [
+            "baby",
+            "spoon"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The baby is playing with a spoon."
+    },
+    "173": {
+        "objects": [
+            "elephant",
+            "cup"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The elephant is balancing on the cup."
+    },
+    "174": {
+        "objects": [
+            "cat",
+            "sheep"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A cat and a sheep are playing together."
+    },
+    "175": {
+        "objects": [
+            "horse",
+            "cell phone"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A horse is neighing at a cell phone."
+    },
+    "176": {
+        "objects": [
+            "cow",
+            "surfboard"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A cow is riding on a surfboard."
+    },
+    "177": {
+        "objects": [
+            "bear",
+            "motorcycle"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A bear is roaring past a motorcycle."
+    },
+    "178": {
+        "objects": [
+            "giraffe",
+            "bus"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A giraffe is passing by a bus."
+    },
+    "179": {
+        "objects": [
+            "bear",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bear is sniffing the apple."
+    },
+    "180": {
+        "objects": [
+            "bear",
+            "traffic light"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A bear is standing next to a traffic light."
+    },
+    "181": {
+        "objects": [
+            "sheep",
+            "teddy bear"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A sheep is cuddling a teddy bear."
+    },
+    "182": {
+        "objects": [
+            "man",
+            "cat"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The man is petting the cat."
+    },
+    "183": {
+        "objects": [
+            "baby",
+            "book"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The baby is playing with the book."
+    },
+    "184": {
+        "objects": [
+            "giraffe",
+            "clock"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe is staring at the clock."
+    },
+    "185": {
+        "objects": [
+            "bear",
+            "carpet"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bear is sleeping on the carpet."
+    },
+    "186": {
+        "objects": [
+            "dog",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The dog is sniffing the orange."
+    },
+    "187": {
+        "objects": [
+            "giraffe",
+            "toaster"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A giraffe is observing a toaster."
+    },
+    "188": {
+        "objects": [
+            "bird",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A bird is pecking at a broccoli."
+    },
+    "189": {
+        "objects": [
+            "zebra",
+            "bird"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra is grazing next to the bird."
+    },
+    "190": {
+        "objects": [
+            "cow",
+            "toilet"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cow is staring at the toilet."
+    },
+    "191": {
+        "objects": [
+            "baby",
+            "keyboard"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A baby is pressing keys on a keyboard."
+    },
+    "192": {
+        "objects": [
+            "dog",
+            "bench"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A dog is sleeping on a bench."
+    },
+    "193": {
+        "objects": [
+            "girl",
+            "tv"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A girl is watching a TV."
+    },
+    "194": {
+        "objects": [
+            "girl",
+            "keyboard"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A girl is typing on a keyboard."
+    },
+    "195": {
+        "objects": [
+            "bird",
+            "keyboard"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bird is perching on the keyboard."
+    },
+    "196": {
+        "objects": [
+            "woman",
+            "bed"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A woman is lying on a bed."
+    },
+    "197": {
+        "objects": [
+            "sheep",
+            "trousers"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The sheep is chewing on the pair of trousers."
+    },
+    "198": {
+        "objects": [
+            "baby",
+            "tv"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A baby is giggling at a TV."
+    },
+    "199": {
+        "objects": [
+            "woman",
+            "chair"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A woman is sitting on a chair."
+    },
+    "200": {
+        "objects": [
+            "sheep",
+            "spoon"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a sheep licking a spoon."
+    },
+    "201": {
+        "objects": [
+            "bear",
+            "fire hydrant"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A bear is investigating a fire hydrant."
+    },
+    "202": {
+        "objects": [
+            "girl",
+            "scissors"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A girl is cutting paper with a pair of scissors."
+    },
+    "203": {
+        "objects": [
+            "man",
+            "bed"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A man is sleeping on a bed."
+    },
+    "204": {
+        "objects": [
+            "bird",
+            "cat"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A bird is chasing a cat."
+    },
+    "205": {
+        "objects": [
+            "bird",
+            "fork"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A bird is perching on a fork."
+    },
+    "206": {
+        "objects": [
+            "giraffe",
+            "fire hydrant"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A giraffe is observing a fire hydrant."
+    },
+    "207": {
+        "objects": [
+            "giraffe",
+            "couch"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A giraffe is standing near a couch."
+    },
+    "208": {
+        "objects": [
+            "elephant",
+            "vase"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "An elephant is knocking over a vase."
+    },
+    "209": {
+        "objects": [
+            "woman",
+            "scissors"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A woman is cutting her hair with a pair of scissors."
+    },
+    "210": {
+        "objects": [
+            "woman",
+            "bowl"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A woman is stirring a bowl."
+    },
+    "211": {
+        "objects": [
+            "zebra",
+            "surfboard"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A zebra is balancing on a surfboard."
+    },
+    "212": {
+        "objects": [
+            "cow",
+            "curtain"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cow is grazing on the curtain."
+    },
+    "213": {
+        "objects": [
+            "woman",
+            "snowboard"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A woman is riding a snowboard."
+    },
+    "214": {
+        "objects": [
+            "dog",
+            "girl"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a dog and a girl, and they are playing fetch together."
+    },
+    "215": {
+        "objects": [
+            "cat",
+            "baseball glove"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A cat is playing with a baseball glove."
+    },
+    "216": {
+        "objects": [
+            "cow",
+            "parking meter"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A cow is grazing near a parking meter."
+    },
+    "217": {
+        "objects": [
+            "bird",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A bird is pecking at a carrot."
+    },
+    "218": {
+        "objects": [
+            "boy",
+            "man"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a boy and a man who are playing catch."
+    },
+    "219": {
+        "objects": [
+            "cow",
+            "sink"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A cow is drinking water from a sink."
+    },
+    "220": {
+        "objects": [
+            "elephant",
+            "shirt"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "An elephant is stepping on a shirt."
+    },
+    "221": {
+        "objects": [
+            "woman",
+            "bus"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A woman is boarding a bus."
+    },
+    "222": {
+        "objects": [
+            "cat",
+            "hair drier"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A cat is staring at a hair dryer."
+    },
+    "223": {
+        "objects": [
+            "horse",
+            "microwave"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a horse neighing at a microwave."
+    },
+    "224": {
+        "objects": [
+            "man",
+            "mouse"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A man is chasing after a mouse."
+    },
+    "225": {
+        "objects": [
+            "dog",
+            "fork"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A dog is sniffing at a fork."
+    },
+    "226": {
+        "objects": [
+            "baby",
+            "fork"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A baby is playing with a fork."
+    },
+    "227": {
+        "objects": [
+            "boy",
+            "surfboard"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A boy is surfing on a surfboard."
+    },
+    "228": {
+        "objects": [
+            "baby",
+            "T-shirt"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A baby is wearing a T-shirt."
+    },
+    "229": {
+        "objects": [
+            "girl",
+            "traffic light"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A girl is waiting at a traffic light."
+    },
+    "230": {
+        "objects": [
+            "horse",
+            "truck"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a horse galloping alongside a truck."
+    },
+    "231": {
+        "objects": [
+            "elephant",
+            "bench"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "An elephant is sitting on a bench."
+    },
+    "232": {
+        "objects": [
+            "horse",
+            "tv"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A horse is watching a TV."
+    },
+    "233": {
+        "objects": [
+            "giraffe",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A giraffe is eating a banana."
+    },
+    "234": {
+        "objects": [
+            "man",
+            "bear"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a man staring at a bear."
+    },
+    "235": {
+        "objects": [
+            "bird",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A bird is perching on a skateboard."
+    },
+    "236": {
+        "objects": [
+            "bird",
+            "toothbrush"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A bird is perched on a toothbrush."
+    },
+    "237": {
+        "objects": [
+            "dog",
+            "toilet"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A dog is sniffing around the toilet."
+    },
+    "238": {
+        "objects": [
+            "zebra",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A zebra is looking confusedly at a hot dog."
+    },
+    "239": {
+        "objects": [
+            "bird",
+            "cake"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A bird is pecking at a cake."
+    },
+    "240": {
+        "objects": [
+            "cat",
+            "curtain"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A cat is playing with a curtain."
+    },
+    "241": {
+        "objects": [
+            "bird",
+            "toaster"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A bird is perched on a toaster."
+    },
+    "242": {
+        "objects": [
+            "man",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The man is peeling the orange."
+    },
+    "243": {
+        "objects": [
+            "zebra",
+            "oven"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra is staring at the oven."
+    },
+    "244": {
+        "objects": [
+            "sheep",
+            "book"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The sheep is chewing on the book."
+    },
+    "245": {
+        "objects": [
+            "giraffe",
+            "baseball bat"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A giraffe is observing a baseball bat."
+    },
+    "246": {
+        "objects": [
+            "boy",
+            "bird"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A boy is feeding a bird."
+    },
+    "247": {
+        "objects": [
+            "bear",
+            "refrigerator"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A bear is opening and rummaging through a refrigerator."
+    },
+    "248": {
+        "objects": [
+            "giraffe",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A giraffe is staring at a pizza."
+    },
+    "249": {
+        "objects": [
+            "girl",
+            "bed"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a girl sleeping on a bed."
+    },
+    "250": {
+        "objects": [
+            "horse",
+            "toothbrush"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A horse is galloping alongside a toothbrush."
+    },
+    "251": {
+        "objects": [
+            "girl",
+            "boat"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A girl is sailing in a boat."
+    },
+    "252": {
+        "objects": [
+            "dog",
+            "parking meter"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A dog is sniffing a parking meter."
+    },
+    "253": {
+        "objects": [
+            "cow",
+            "skis"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A cow is grazing beside a pair of skis."
+    },
+    "254": {
+        "objects": [
+            "dog",
+            "dress"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A dog is chewing on a dress."
+    },
+    "255": {
+        "objects": [
+            "dog",
+            "microwave"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A dog is barking at a microwave."
+    },
+    "256": {
+        "objects": [
+            "baby",
+            "fire hydrant"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The baby is crawling towards the fire hydrant."
+    },
+    "257": {
+        "objects": [
+            "dog",
+            "bird"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A dog and a bird are chasing each other."
+    },
+    "258": {
+        "objects": [
+            "cow",
+            "refrigerator"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A cow is sniffing a refrigerator."
+    },
+    "259": {
+        "objects": [
+            "zebra",
+            "backpack"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra is grazing near the backpack."
+    },
+    "260": {
+        "objects": [
+            "sheep",
+            "baby"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The sheep and the baby are playing in the field."
+    },
+    "261": {
+        "objects": [
+            "woman",
+            "cat"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The woman is playing together with a cat."
+    },
+    "262": {
+        "objects": [
+            "boy",
+            "baseball bat"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A boy is swinging a baseball bat."
+    },
+    "263": {
+        "objects": [
+            "boy",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The boy is eating an apple."
+    },
+    "264": {
+        "objects": [
+            "cat",
+            "motorcycle"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A cat is chasing a motorcycle."
+    },
+    "265": {
+        "objects": [
+            "zebra",
+            "clock"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A zebra is examining a clock."
+    },
+    "266": {
+        "objects": [
+            "dog",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A dog is riding on a skateboard."
+    },
+    "267": {
+        "objects": [
+            "elephant",
+            "zebra"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The elephant and the zebra are grazing peacefully."
+    },
+    "268": {
+        "objects": [
+            "bear",
+            "sports ball"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A bear is playing with a sports ball."
+    },
+    "269": {
+        "objects": [
+            "woman",
+            "backpack"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A woman is carrying a backpack."
+    },
+    "270": {
+        "objects": [
+            "horse",
+            "suitcase"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A horse is carrying a suitcase."
+    },
+    "271": {
+        "objects": [
+            "cow",
+            "remote"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A cow is sniffing a remote."
+    },
+    "272": {
+        "objects": [
+            "sheep",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The sheep is grazing near the hot dog."
+    },
+    "273": {
+        "objects": [
+            "woman",
+            "book"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The woman is reading the book."
+    },
+    "274": {
+        "objects": [
+            "baby",
+            "skis"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A baby is playing with a pair of skis."
+    },
+    "275": {
+        "objects": [
+            "man",
+            "horse"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A man is riding a horse."
+    },
+    "276": {
+        "objects": [
+            "woman",
+            "baby"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A woman is playing together with a baby."
+    },
+    "277": {
+        "objects": [
+            "baby",
+            "cell phone"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A baby is playing with a cell phone."
+    },
+    "278": {
+        "objects": [
+            "bird",
+            "cell phone"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A bird is tweeting at a cell phone."
+    },
+    "279": {
+        "objects": [
+            "cow",
+            "street sign"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cow is walking past by the street sign."
+    },
+    "280": {
+        "objects": [
+            "horse",
+            "oven"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The horse is neighing beside the oven."
+    },
+    "281": {
+        "objects": [
+            "man",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The man is biting into the apple."
+    },
+    "282": {
+        "objects": [
+            "bear",
+            "bed"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A bear is sleeping on a bed."
+    },
+    "283": {
+        "objects": [
+            "giraffe",
+            "man"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The man is feeding the giraffe."
+    },
+    "284": {
+        "objects": [
+            "giraffe",
+            "bench"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe is standing beside the bench."
+    },
+    "285": {
+        "objects": [
+            "horse",
+            "dress"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A horse is wearing a dress."
+    },
+    "286": {
+        "objects": [
+            "baby",
+            "boat"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The baby is sailing on a boat."
+    },
+    "287": {
+        "objects": [
+            "bear",
+            "mouse"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a bear and a mouse, and they are chasing each other."
+    },
+    "288": {
+        "objects": [
+            "giraffe",
+            "shirt"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe is examining the shirt."
+    },
+    "289": {
+        "objects": [
+            "zebra",
+            "fork"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra is confused by the fork."
+    },
+    "290": {
+        "objects": [
+            "girl",
+            "curtain"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The girl is pulling back the curtain."
+    },
+    "291": {
+        "objects": [
+            "man",
+            "T-shirt"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a man wearing a T-shirt."
+    },
+    "292": {
+        "objects": [
+            "bear",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A bear is smelling a banana."
+    },
+    "293": {
+        "objects": [
+            "zebra",
+            "baby"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A zebra and a baby are playing together."
+    },
+    "294": {
+        "objects": [
+            "giraffe",
+            "vase"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe is knocking over the vase."
+    },
+    "295": {
+        "objects": [
+            "dog",
+            "tennis racket"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A dog is fetching a tennis racket."
+    },
+    "296": {
+        "objects": [
+            "dog",
+            "dining table"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A dog is begging for food at the dining table."
+    },
+    "297": {
+        "objects": [
+            "cat",
+            "handbag"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cat is sitting on the handbag."
+    },
+    "298": {
+        "objects": [
+            "baby",
+            "shirt"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A baby is grabbing onto a shirt."
+    },
+    "299": {
+        "objects": [
+            "bear",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A bear is riding on a skateboard."
+    },
+    "300": {
+        "objects": [
+            "bear",
+            "shirt"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A bear is tearing apart a shirt."
+    },
+    "301": {
+        "objects": [
+            "sheep",
+            "bottle"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The sheep is sniffing the bottle."
+    },
+    "302": {
+        "objects": [
+            "woman",
+            "parking meter"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A woman is inserting coins into a parking meter."
+    },
+    "303": {
+        "objects": [
+            "bear",
+            "boy"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a bear and a boy playing hide-and-seek."
+    },
+    "304": {
+        "objects": [
+            "cow",
+            "baseball bat"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cow is being used as a scratching post by the baseball bat."
+    },
+    "305": {
+        "objects": [
+            "zebra",
+            "girl"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A girl is feeding a zebra."
+    },
+    "306": {
+        "objects": [
+            "man",
+            "bicycle"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A man is riding a bicycle."
+    },
+    "307": {
+        "objects": [
+            "man",
+            "car"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The man is driving the car."
+    },
+    "308": {
+        "objects": [
+            "sheep",
+            "backpack"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A sheep is standing on a backpack."
+    },
+    "309": {
+        "objects": [
+            "woman",
+            "microwave"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A woman is cooking in a microwave."
+    },
+    "310": {
+        "objects": [
+            "horse",
+            "kite"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a horse galloping beside a kite."
+    },
+    "311": {
+        "objects": [
+            "giraffe",
+            "street sign"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A giraffe is towering over a street sign."
+    },
+    "312": {
+        "objects": [
+            "girl",
+            "bus"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A girl is waiting for a bus."
+    },
+    "313": {
+        "objects": [
+            "bear",
+            "sink"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A bear is fishing in a sink."
+    },
+    "314": {
+        "objects": [
+            "dog",
+            "truck"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The dog is barking at the truck."
+    },
+    "315": {
+        "objects": [
+            "woman",
+            "bicycle"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A woman is riding a bicycle."
+    },
+    "316": {
+        "objects": [
+            "cat",
+            "sports ball"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cat is playing with the sports ball."
+    },
+    "317": {
+        "objects": [
+            "dog",
+            "tv"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A dog is watching a TV."
+    },
+    "318": {
+        "objects": [
+            "woman",
+            "man"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The woman and the man are talking."
+    },
+    "319": {
+        "objects": [
+            "zebra",
+            "microwave"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A zebra is staring at a microwave."
+    },
+    "320": {
+        "objects": [
+            "girl",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The girl is eating the broccoli."
+    },
+    "321": {
+        "objects": [
+            "boy",
+            "girl"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The boy and the girl are talking."
+    },
+    "322": {
+        "objects": [
+            "bird",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bird is swooping down to grab a slice of the pizza."
+    },
+    "323": {
+        "objects": [
+            "horse",
+            "backpack"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A horse is carrying a backpack."
+    },
+    "324": {
+        "objects": [
+            "zebra",
+            "coat"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a zebra wearing a coat."
+    },
+    "325": {
+        "objects": [
+            "baby",
+            "refrigerator"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A baby is pulling on the refrigerator."
+    },
+    "326": {
+        "objects": [
+            "man",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The man is eating a pizza."
+    },
+    "327": {
+        "objects": [
+            "boy",
+            "airplane"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The boy is watching the airplane."
+    },
+    "328": {
+        "objects": [
+            "horse",
+            "bear"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The horse is chasing the bear, and the bear is chasing the horse."
+    },
+    "329": {
+        "objects": [
+            "boy",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A boy is holding a carrot."
+    },
+    "330": {
+        "objects": [
+            "cow",
+            "man"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A man is milking a cow."
+    },
+    "331": {
+        "objects": [
+            "boy",
+            "horse"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A boy is riding a horse."
+    },
+    "332": {
+        "objects": [
+            "girl",
+            "airplane"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The girl is waving at the airplane."
+    },
+    "333": {
+        "objects": [
+            "elephant",
+            "baby"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The elephant is playing with the baby."
+    },
+    "334": {
+        "objects": [
+            "bird",
+            "couch"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bird is perching on the couch."
+    },
+    "335": {
+        "objects": [
+            "elephant",
+            "couch"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "An elephant is sitting on a couch."
+    },
+    "336": {
+        "objects": [
+            "bear",
+            "baseball glove"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bear is inspecting the baseball glove."
+    },
+    "337": {
+        "objects": [
+            "elephant",
+            "dining table"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is an elephant standing beside a dining table."
+    },
+    "338": {
+        "objects": [
+            "cat",
+            "backpack"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cat is playing with the backpack."
+    },
+    "339": {
+        "objects": [
+            "elephant",
+            "bicycle"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "An elephant is crossing the road with a bicycle."
+    },
+    "340": {
+        "objects": [
+            "girl",
+            "suitcase"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The girl is carrying a suitcase."
+    },
+    "341": {
+        "objects": [
+            "zebra",
+            "keyboard"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra is studying the keyboard."
+    },
+    "342": {
+        "objects": [
+            "giraffe",
+            "cow"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a giraffe and a cow grazing together."
+    },
+    "343": {
+        "objects": [
+            "cat",
+            "train"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cat crossed the train."
+    },
+    "344": {
+        "objects": [
+            "dog",
+            "street sign"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A dog is sniffing a street sign."
+    },
+    "345": {
+        "objects": [
+            "bird",
+            "zebra"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A bird and a zebra are watching each other."
+    },
+    "346": {
+        "objects": [
+            "cat",
+            "bird"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a cat chasing a bird."
+    },
+    "347": {
+        "objects": [
+            "sheep",
+            "elephant"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A sheep and an elephant are grazing together."
+    },
+    "348": {
+        "objects": [
+            "baby",
+            "trousers"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The baby is playing with a pair of trousers."
+    },
+    "349": {
+        "objects": [
+            "cow",
+            "scissors"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A cow is grazing near a pair of scissors."
+    },
+    "350": {
+        "objects": [
+            "elephant",
+            "skis"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The elephant is observing a pair of skis."
+    },
+    "351": {
+        "objects": [
+            "girl",
+            "toaster"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A girl is making breakfast with a toaster."
+    },
+    "352": {
+        "objects": [
+            "cat",
+            "fork"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cat is playing with the fork."
+    },
+    "353": {
+        "objects": [
+            "horse",
+            "remote"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A horse is neighing at a remote."
+    },
+    "354": {
+        "objects": [
+            "woman",
+            "sheep"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The woman is grazing with the sheep."
+    },
+    "355": {
+        "objects": [
+            "boy",
+            "oven"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A boy is baking cookies in the oven."
+    },
+    "356": {
+        "objects": [
+            "bear",
+            "cup"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A bear is sniffing a cup."
+    },
+    "357": {
+        "objects": [
+            "elephant",
+            "traffic light"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "An elephant is staring at a traffic light."
+    },
+    "358": {
+        "objects": [
+            "giraffe",
+            "baby"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A giraffe is playing with a baby."
+    },
+    "359": {
+        "objects": [
+            "zebra",
+            "cake"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra is eyeing the cake."
+    },
+    "360": {
+        "objects": [
+            "girl",
+            "bench"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The girl is sitting on the bench."
+    },
+    "361": {
+        "objects": [
+            "elephant",
+            "bear"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "An elephant and a bear are playing."
+    },
+    "362": {
+        "objects": [
+            "boy",
+            "parking meter"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a boy kicking a parking meter."
+    },
+    "363": {
+        "objects": [
+            "horse",
+            "clock"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The horse is galloping around the clock."
+    },
+    "364": {
+        "objects": [
+            "bird",
+            "vase"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a bird flying near a vase."
+    },
+    "365": {
+        "objects": [
+            "cat",
+            "bus"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A cat is passing by a bus."
+    },
+    "366": {
+        "objects": [
+            "baby",
+            "cake"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The baby is eating the cake."
+    },
+    "367": {
+        "objects": [
+            "bird",
+            "bicycle"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A bird is perched on a bicycle."
+    },
+    "368": {
+        "objects": [
+            "cow",
+            "T-shirt"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A cow is wearing a T-shirt."
+    },
+    "369": {
+        "objects": [
+            "man",
+            "skis"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The man is skiing with a pair of skis."
+    },
+    "370": {
+        "objects": [
+            "elephant",
+            "giraffe"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is an elephant and a giraffe playing together."
+    },
+    "371": {
+        "objects": [
+            "cat",
+            "bear"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a cat and a bear, and they are observing each other."
+    },
+    "372": {
+        "objects": [
+            "girl",
+            "fork"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A girl is eating with a fork."
+    },
+    "373": {
+        "objects": [
+            "woman",
+            "shirt"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The woman is wearing a shirt."
+    },
+    "374": {
+        "objects": [
+            "zebra",
+            "toothbrush"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a zebra and a toothbrush, but they are doing nothing together."
+    },
+    "375": {
+        "objects": [
+            "giraffe",
+            "T-shirt"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe is wearing a T-shirt."
+    },
+    "376": {
+        "objects": [
+            "boy",
+            "dress"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The boy is wearing a dress."
+    },
+    "377": {
+        "objects": [
+            "elephant",
+            "cake"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "An elephant is eating a cake."
+    },
+    "378": {
+        "objects": [
+            "baby",
+            "eye glasses"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The baby is grabbing onto the pair of eye glasses."
+    },
+    "379": {
+        "objects": [
+            "girl",
+            "truck"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The girl is crossing the street in front of the truck."
+    },
+    "380": {
+        "objects": [
+            "sheep",
+            "bus"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The sheep is passing by the bus."
+    },
+    "381": {
+        "objects": [
+            "sheep",
+            "hair drier"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The sheep is curious about the hair drier."
+    },
+    "382": {
+        "objects": [
+            "man",
+            "traffic light"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The man is waiting at the traffic light."
+    },
+    "383": {
+        "objects": [
+            "elephant",
+            "boat"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "An elephant is splashing water at a boat."
+    },
+    "384": {
+        "objects": [
+            "man",
+            "dress"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The man is choosing a dress."
+    },
+    "385": {
+        "objects": [
+            "baby",
+            "motorcycle"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The baby is observing the motorcycle."
+    },
+    "386": {
+        "objects": [
+            "boy",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A boy is eating a hot dog."
+    },
+    "387": {
+        "objects": [
+            "cow",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A cow is eating a banana."
+    },
+    "388": {
+        "objects": [
+            "baby",
+            "microwave"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The baby is staring at the microwave."
+    },
+    "389": {
+        "objects": [
+            "bear",
+            "chair"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A bear is sitting on a chair."
+    },
+    "390": {
+        "objects": [
+            "giraffe",
+            "bed"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe is sleeping on the bed."
+    },
+    "391": {
+        "objects": [
+            "baby",
+            "hair drier"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The baby is playing with the hair drier."
+    },
+    "392": {
+        "objects": [
+            "sheep",
+            "snowboard"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The sheep is riding on the snowboard."
+    },
+    "393": {
+        "objects": [
+            "girl",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The girl is riding the skateboard."
+    },
+    "394": {
+        "objects": [
+            "man",
+            "dog"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The man and the dog are playing fetch together."
+    },
+    "395": {
+        "objects": [
+            "cat",
+            "toothbrush"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A cat is playing with a toothbrush."
+    },
+    "396": {
+        "objects": [
+            "woman",
+            "cake"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The woman is baking a cake."
+    },
+    "397": {
+        "objects": [
+            "baby",
+            "girl"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The baby and the girl are playing together joyfully."
+    },
+    "398": {
+        "objects": [
+            "woman",
+            "baseball glove"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The woman is throwing and catching the baseball glove."
+    },
+    "399": {
+        "objects": [
+            "bear",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bear is devouring the sandwich."
+    },
+    "400": {
+        "objects": [
+            "horse",
+            "cat"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The horse and the cat are playing together joyfully."
+    },
+    "401": {
+        "objects": [
+            "elephant",
+            "girl"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is an elephant and a girl who is feeding the elephant."
+    },
+    "402": {
+        "objects": [
+            "cat",
+            "vase"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A cat is knocking over a vase."
+    },
+    "403": {
+        "objects": [
+            "girl",
+            "mouse"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The girl is chasing after the mouse."
+    },
+    "404": {
+        "objects": [
+            "baby",
+            "bird"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A baby and a bird are playing together."
+    },
+    "405": {
+        "objects": [
+            "zebra",
+            "woman"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The woman is watching the zebra."
+    },
+    "406": {
+        "objects": [
+            "giraffe",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe and the broccoli are looking at each other."
+    },
+    "407": {
+        "objects": [
+            "horse",
+            "bench"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The horse is resting on the bench."
+    },
+    "408": {
+        "objects": [
+            "cow",
+            "backpack"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cow is sniffing the backpack."
+    },
+    "409": {
+        "objects": [
+            "woman",
+            "traffic light"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A woman is waiting at a traffic light."
+    },
+    "410": {
+        "objects": [
+            "zebra",
+            "train"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra is crossing the tracks in front of the train."
+    },
+    "411": {
+        "objects": [
+            "cow",
+            "dining table"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A cow is grazing on the dining table."
+    },
+    "412": {
+        "objects": [
+            "boy",
+            "dog"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The boy is playing fetch with the dog."
+    },
+    "413": {
+        "objects": [
+            "elephant",
+            "book"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The elephant is browsing the book."
+    },
+    "414": {
+        "objects": [
+            "cow",
+            "cake"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cow is eating the cake."
+    },
+    "415": {
+        "objects": [
+            "horse",
+            "umbrella"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The horse is sheltering from the rain under the umbrella."
+    },
+    "416": {
+        "objects": [
+            "horse",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The horse is eating a carrot."
+    },
+    "417": {
+        "objects": [
+            "horse",
+            "spoon"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a horse sniffing a spoon."
+    },
+    "418": {
+        "objects": [
+            "boy",
+            "traffic light"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The boy is looking at the traffic light."
+    },
+    "419": {
+        "objects": [
+            "baby",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A baby is eating a banana."
+    },
+    "420": {
+        "objects": [
+            "zebra",
+            "elephant"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a zebra grazing next to an elephant."
+    },
+    "421": {
+        "objects": [
+            "elephant",
+            "baseball bat"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The elephant is swinging at the baseball bat."
+    },
+    "422": {
+        "objects": [
+            "man",
+            "oven"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A man is baking in the oven."
+    },
+    "423": {
+        "objects": [
+            "sheep",
+            "T-shirt"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A sheep is wearing a T-shirt."
+    },
+    "424": {
+        "objects": [
+            "bird",
+            "hair drier"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bird is perched on the hair drier."
+    },
+    "425": {
+        "objects": [
+            "baby",
+            "potted plant"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The baby is touching the potted plant."
+    },
+    "426": {
+        "objects": [
+            "giraffe",
+            "laptop"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a giraffe observing a laptop."
+    },
+    "427": {
+        "objects": [
+            "girl",
+            "cat"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A girl is playing together with a cat."
+    },
+    "428": {
+        "objects": [
+            "elephant",
+            "knife"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The elephant is exploring the knife."
+    },
+    "429": {
+        "objects": [
+            "zebra",
+            "couch"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra is lounging on the couch."
+    },
+    "430": {
+        "objects": [
+            "bird",
+            "woman"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The woman is feeding the bird."
+    },
+    "431": {
+        "objects": [
+            "dog",
+            "bowl"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A dog is eating from a bowl."
+    },
+    "432": {
+        "objects": [
+            "giraffe",
+            "cup"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A giraffe is examining a cup."
+    },
+    "433": {
+        "objects": [
+            "zebra",
+            "T-shirt"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra is wearing a T-shirt."
+    },
+    "434": {
+        "objects": [
+            "cat",
+            "eye glasses"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A cat is knocking over a pair of eyeglasses."
+    },
+    "435": {
+        "objects": [
+            "girl",
+            "baby"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The girl is playing with the baby."
+    },
+    "436": {
+        "objects": [
+            "zebra",
+            "bowl"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A zebra is investigating a bowl."
+    },
+    "437": {
+        "objects": [
+            "cat",
+            "street sign"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A cat is sitting next to a street sign."
+    },
+    "438": {
+        "objects": [
+            "zebra",
+            "handbag"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra is standing next to the handbag."
+    },
+    "439": {
+        "objects": [
+            "giraffe",
+            "hair drier"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A giraffe is observing a hair drier."
+    },
+    "440": {
+        "objects": [
+            "sheep",
+            "boy"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A boy is feeding a sheep."
+    },
+    "441": {
+        "objects": [
+            "cow",
+            "umbrella"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cow is standing near the umbrella."
+    },
+    "442": {
+        "objects": [
+            "baby",
+            "chair"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The baby is sitting on the chair."
+    },
+    "443": {
+        "objects": [
+            "man",
+            "refrigerator"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A man is stocking the refrigerator with groceries."
+    },
+    "444": {
+        "objects": [
+            "cat",
+            "tennis racket"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a cat playing with a tennis racket."
+    },
+    "445": {
+        "objects": [
+            "bear",
+            "airplane"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bear is roaring loudly at the airplane."
+    },
+    "446": {
+        "objects": [
+            "dog",
+            "vase"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A dog is knocking over a vase."
+    },
+    "447": {
+        "objects": [
+            "dog",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The dog is sniffing the donut."
+    },
+    "448": {
+        "objects": [
+            "girl",
+            "snowboard"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A girl is riding down the slope on a snowboard."
+    },
+    "449": {
+        "objects": [
+            "baby",
+            "bicycle"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A baby is riding a bicycle."
+    },
+    "450": {
+        "objects": [
+            "man",
+            "scissors"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A man is cutting with a pair of scissors."
+    },
+    "451": {
+        "objects": [
+            "elephant",
+            "boy"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "An elephant and a boy are playing together."
+    },
+    "452": {
+        "objects": [
+            "cow",
+            "traffic light"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A cow is standing near a traffic light."
+    },
+    "453": {
+        "objects": [
+            "boy",
+            "elephant"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The boy and the elephant are playing together."
+    },
+    "454": {
+        "objects": [
+            "elephant",
+            "sink"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The elephant is drinking from the sink."
+    },
+    "455": {
+        "objects": [
+            "man",
+            "vase"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A man is admiring a vase."
+    },
+    "456": {
+        "objects": [
+            "elephant",
+            "motorcycle"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The elephant is passing by the motorcycle."
+    },
+    "457": {
+        "objects": [
+            "girl",
+            "microwave"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A girl is heating up food in a microwave."
+    },
+    "458": {
+        "objects": [
+            "horse",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A horse is eating an apple."
+    },
+    "459": {
+        "objects": [
+            "man",
+            "motorcycle"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A man is riding a motorcycle."
+    },
+    "460": {
+        "objects": [
+            "elephant",
+            "toilet"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "An elephant is curiously examining a toilet."
+    },
+    "461": {
+        "objects": [
+            "horse",
+            "cup"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a horse knocking over a cup."
+    },
+    "462": {
+        "objects": [
+            "woman",
+            "sink"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A woman is washing her hands at the sink."
+    },
+    "463": {
+        "objects": [
+            "boy",
+            "vase"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A boy is admiring a vase."
+    },
+    "464": {
+        "objects": [
+            "bear",
+            "coat"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bear is sniffing the coat."
+    },
+    "465": {
+        "objects": [
+            "girl",
+            "spoon"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A girl is stirring with a spoon."
+    },
+    "466": {
+        "objects": [
+            "woman",
+            "knife"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A woman is chopping vegetables with a knife."
+    },
+    "467": {
+        "objects": [
+            "girl",
+            "cow"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a girl grazing together with a cow."
+    },
+    "468": {
+        "objects": [
+            "zebra",
+            "trousers"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A zebra is lying next to a pair of trousers."
+    },
+    "469": {
+        "objects": [
+            "baby",
+            "dog"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A baby is playing with a dog."
+    },
+    "470": {
+        "objects": [
+            "boy",
+            "snowboard"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a boy preparing to ride a snowboard."
+    },
+    "471": {
+        "objects": [
+            "elephant",
+            "kite"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "An elephant is watching a kite."
+    },
+    "472": {
+        "objects": [
+            "man",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A man is holding a broccoli."
+    },
+    "473": {
+        "objects": [
+            "elephant",
+            "sheep"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "An elephant and a sheep are grazing together."
+    },
+    "474": {
+        "objects": [
+            "girl",
+            "motorcycle"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A girl is riding a motorcycle."
+    },
+    "475": {
+        "objects": [
+            "sheep",
+            "toothbrush"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The sheep is staring at the toothbrush."
+    },
+    "476": {
+        "objects": [
+            "sheep",
+            "suitcase"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A sheep is sitting beside a suitcase."
+    },
+    "477": {
+        "objects": [
+            "sheep",
+            "umbrella"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The sheep is seeking shelter under the umbrella."
+    },
+    "478": {
+        "objects": [
+            "cat",
+            "baseball bat"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A cat is playing with a baseball bat."
+    },
+    "479": {
+        "objects": [
+            "bear",
+            "suitcase"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A bear is investigating a suitcase."
+    },
+    "480": {
+        "objects": [
+            "sheep",
+            "dog"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a sheep and a dog grazing together."
+    },
+    "481": {
+        "objects": [
+            "horse",
+            "street sign"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A horse is passing by a street sign."
+    },
+    "482": {
+        "objects": [
+            "man",
+            "bottle"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A man is drinking from a bottle."
+    },
+    "483": {
+        "objects": [
+            "man",
+            "book"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The man is reading a book."
+    },
+    "484": {
+        "objects": [
+            "cat",
+            "trousers"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cat is playing with the pair of trousers."
+    },
+    "485": {
+        "objects": [
+            "dog",
+            "refrigerator"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A dog is sniffing a refrigerator."
+    },
+    "486": {
+        "objects": [
+            "elephant",
+            "scissors"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "An elephant is curiously inspecting a pair of scissors."
+    },
+    "487": {
+        "objects": [
+            "cat",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A cat is sniffing a donut."
+    },
+    "488": {
+        "objects": [
+            "bear",
+            "tv"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A bear is curiously watching a TV."
+    },
+    "489": {
+        "objects": [
+            "baby",
+            "toothbrush"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A baby is reaching for a toothbrush."
+    },
+    "490": {
+        "objects": [
+            "sheep",
+            "frisbee"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The sheep is sniffing the frisbee."
+    },
+    "491": {
+        "objects": [
+            "girl",
+            "hair drier"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A girl is drying her hair with a hair dryer."
+    },
+    "492": {
+        "objects": [
+            "zebra",
+            "knife"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a zebra being observed with a knife."
+    },
+    "493": {
+        "objects": [
+            "bird",
+            "spoon"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A bird is pecking at a spoon."
+    },
+    "494": {
+        "objects": [
+            "cat",
+            "surfboard"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A cat is sitting on a surfboard."
+    },
+    "495": {
+        "objects": [
+            "elephant",
+            "microwave"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "An elephant is investigating a microwave."
+    },
+    "496": {
+        "objects": [
+            "man",
+            "knife"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a man preparing food with a knife."
+    },
+    "497": {
+        "objects": [
+            "sheep",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A sheep is standing on a skateboard."
+    },
+    "498": {
+        "objects": [
+            "girl",
+            "frisbee"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A girl is throwing a frisbee."
+    },
+    "499": {
+        "objects": [
+            "cow",
+            "tv"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A cow is ignoring the TV."
+    }
+}

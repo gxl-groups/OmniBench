@@ -1,0 +1,5642 @@
+{
+    "0": {
+        "objects": [
+            "tennis racket",
+            "bed"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There is one tennis racket on the bed, another one next to the bed, a third one far away from the bed, and the last one on the right of the bed."
+    },
+    "1": {
+        "objects": [
+            "shirt",
+            "plate"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four shirts in relation to the plate: one shirt is on the right of the plate, one shirt is below the plate, one shirt is far away from the plate, and one shirt is on the plate."
+    },
+    "2": {
+        "objects": [
+            "mouse",
+            "microwave"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four mice positioned around the microwave - one on top of it, one to the left, one to the right, and one underneath it."
+    },
+    "3": {
+        "objects": [
+            "microwave",
+            "eye glasses"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are multiple microwaves: one is far away from the eyeglasses, one is on the right of the eyeglasses, one is under the eyeglasses, and one is beside the eyeglasses."
+    },
+    "4": {
+        "objects": [
+            "donut",
+            "boat"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four donuts in relation to the boat - one donut is positioned to the left of the boat, another donut is located on the side of the boat, a third donut is far away from the boat, and finally, one donut is situated below the boat."
+    },
+    "5": {
+        "objects": [
+            "fire hydrant",
+            "clock"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four fire hydrants in relation to the clock: one fire hydrant is far away from the clock, one is on the side of the clock, one is above the clock, and one is on the right of the clock."
+    },
+    "6": {
+        "objects": [
+            "toaster",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four toasters, one toaster is far away from the chair, one toaster is on the left side of the chair, one toaster is beside the chair, and one toaster is underneath the chair."
+    },
+    "7": {
+        "objects": [
+            "knife",
+            "baby"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are multiple knives positioned around the baby, with one knife on the left, one on the right, one under, and one on top of the baby."
+    },
+    "8": {
+        "objects": [
+            "bottle",
+            "street sign"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "In the vicinity of the street sign, there are multiple bottles positioned differently - one is situated far away, another one is positioned next to it, one is placed above, and another one is positioned below the street sign."
+    },
+    "9": {
+        "objects": [
+            "knife",
+            "clock"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four knives in relation to the clock: one knife is below the clock, one knife is beside the clock, one knife is far away from the clock, and one knife is on top of the clock."
+    },
+    "10": {
+        "objects": [
+            "women",
+            "giraffe"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four women positioned around the giraffe: one on the right, one on the left, one above, and one near the giraffe."
+    },
+    "11": {
+        "objects": [
+            "clock",
+            "train"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "In the vicinity of the train, there is a clock positioned far away, another beneath it, one to the right, and a final one nearby."
+    },
+    "12": {
+        "objects": [
+            "fork",
+            "refrigerator"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four forks - one is near the refrigerator, one is on top of the refrigerator, one is to the right of the refrigerator, and one is to the left of the refrigerator."
+    },
+    "13": {
+        "objects": [
+            "spoon",
+            "boat"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four spoons in relation to the boat: one spoon is below, one is next to, one is on the right of, and one is far away from the boat."
+    },
+    "14": {
+        "objects": [
+            "microwave",
+            "surfboard"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four microwaves positioned around the surfboard: one above, one below, one to the right, and one to the left."
+    },
+    "15": {
+        "objects": [
+            "book",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four books positioned around the curtain: one is on the right of the curtain, one is next to the curtain, one is far away from the curtain, and one is under the curtain."
+    },
+    "16": {
+        "objects": [
+            "street sign",
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four street signs positioned in different spatial relationships with the trousers: one on the right, one on the left, one on the side, and one below."
+    },
+    "17": {
+        "objects": [
+            "cat",
+            "eye glasses"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four cats: one is on the left of the eye glasses, one is on the right of the eye glasses, one is far away from the eye glasses, and one is near the eye glasses."
+    },
+    "18": {
+        "objects": [
+            "street sign",
+            "broccoli"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are different street signs positioned in relation to the broccoli: one street sign is on the left of the broccoli, one street sign is far away from the broccoli, one street sign is near the broccoli, and one street sign is below the broccoli."
+    },
+    "19": {
+        "objects": [
+            "oven",
+            "giraffe"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "In the scene, there are four ovens positioned in different locations relative to the giraffe: one oven is under the giraffe, one oven is far away from the giraffe, one oven is above the giraffe, and one oven is on the right of the giraffe."
+    },
+    "20": {
+        "objects": [
+            "bus",
+            "fork"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four buses positioned in relation to the fork: one bus is under the fork, one bus is on the right of the fork, one bus is next to the fork, and one bus is far away from the fork."
+    },
+    "21": {
+        "objects": [
+            "eye glasses",
+            "microwave"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four pairs of eyeglasses positioned around the microwave: one on the left, one near, one on top, and one underneath."
+    },
+    "22": {
+        "objects": [
+            "chair",
+            "apple"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There is a chair on the apple, another chair is next to the apple, a third chair is far away from the apple, and the fourth chair is on the left of the apple."
+    },
+    "23": {
+        "objects": [
+            "horse",
+            "suitcase"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four horses positioned around the suitcase: one is on the side, one is on top, one is below, and one is on the left."
+    },
+    "24": {
+        "objects": [
+            "skis",
+            "hot dog"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four pairs of skis positioned around the hot dog: one on the side, one on the left, one on top, and one on the right."
+    },
+    "25": {
+        "objects": [
+            "cake",
+            "toothbrush"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four cakes in relation to the toothbrush: one is above, one is below, one is on the right, and one is next to it."
+    },
+    "26": {
+        "objects": [
+            "chair",
+            "sink"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are multiple chairs in the room: one chair is located far away from the sink, another chair is positioned on top of the sink, a third chair is on the right side of the sink, and the last chair is below the sink."
+    },
+    "27": {
+        "objects": [
+            "refrigerator",
+            "car"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four refrigerators: one is on top of the car, one is far away from the car, one is underneath the car, and one is positioned to the right of the car."
+    },
+    "28": {
+        "objects": [
+            "clock",
+            "couch"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four clocks: one is far away from the couch, one is on the right of the couch, one is on the left of the couch, and one is under the couch."
+    },
+    "29": {
+        "objects": [
+            "zebra",
+            "orange"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four zebras, one zebra is far away from the orange, one zebra is next to the orange, one zebra is below the orange, and one zebra is on the orange."
+    },
+    "30": {
+        "objects": [
+            "toaster",
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four toasters positioned around the sandwich: one is on the right, one is on the left, one is far away, and one is on top of the sandwich."
+    },
+    "31": {
+        "objects": [
+            "train",
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "In the scene, there is a train positioned above the spoon, another train to the left of the spoon, a train far away from the spoon, and a train underneath the spoon."
+    },
+    "32": {
+        "objects": [
+            "toothbrush",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four toothbrushes in relation to the cat; one is on the right, one is below, one is far away, and one is on the side."
+    },
+    "33": {
+        "objects": [
+            "donut",
+            "toaster"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four donuts in total; one is on the right of the toaster, one is on the toaster, one is far away from the toaster, and one is on the left of the toaster."
+    },
+    "34": {
+        "objects": [
+            "shirt",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four shirts arranged around the frisbee - one to the left, one far away, one nearby, and one below it."
+    },
+    "35": {
+        "objects": [
+            "bus",
+            "dress"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four buses positioned in relation to the dress: one bus is on the right, one bus is far away, one bus is above, and one bus is under the dress."
+    },
+    "36": {
+        "objects": [
+            "parking meter",
+            "truck"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four parking meters in relation to the truck: one below, one near, one far away, and one on the left."
+    },
+    "37": {
+        "objects": [
+            "cell phone",
+            "sheep"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are multiple cell phones in the scene: one is far away from the sheep, one is resting on the sheep, another is positioned to the right of the sheep, and one more is below the sheep."
+    },
+    "38": {
+        "objects": [
+            "girl",
+            "sheep"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "In the scene, one girl stands far away from the sheep, another girl sits on top of the sheep, while a third girl is positioned to the right of the sheep, and a fourth girl is located to the left of the sheep."
+    },
+    "39": {
+        "objects": [
+            "carrot",
+            "giraffe"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four carrots positioned around the giraffe; one is on the left, one is above, one is on the right, and one is on the side of the giraffe."
+    },
+    "40": {
+        "objects": [
+            "tv",
+            "girl"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are several TVs positioned around the girl: one TV is located on the right of the girl, another TV is situated far away from her, one TV is positioned above her, and one TV is placed under her."
+    },
+    "41": {
+        "objects": [
+            "traffic light",
+            "skateboard"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are multiple traffic lights: one is below the skateboard, one is on the right of the skateboard, one is on the skateboard, and one is far away from it."
+    },
+    "42": {
+        "objects": [
+            "dog",
+            "laptop"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are multiple dogs positioned around the laptop: one is above, one is to the right, one is beside, and one is below."
+    },
+    "43": {
+        "objects": [
+            "potted plant",
+            "cup"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are multiple potted plants: one is under the cup, one is on top of the cup, one is to the right of the cup, and one is situated far away from the cup."
+    },
+    "44": {
+        "objects": [
+            "potted plant",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are multiple potted plants in relation to the frisbee: one potted plant is situated on the left side, another is positioned on the right side, a third potted plant is located far away from the frisbee, and the fourth potted plant is situated below the frisbee."
+    },
+    "45": {
+        "objects": [
+            "plate",
+            "sheep"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four plates positioned relative to the sheep: one is far away, one is below, one is on the left, and one is above."
+    },
+    "46": {
+        "objects": [
+            "man",
+            "umbrella"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four men positioned around the umbrella; one is on top of it, one is beside it, one is to the right, and one is to the left."
+    },
+    "47": {
+        "objects": [
+            "apple",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There is an apple on the left of the frisbee, another apple far away from the frisbee, a third apple near the frisbee, and a fourth apple above the frisbee."
+    },
+    "48": {
+        "objects": [
+            "fork",
+            "microwave"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "In the vicinity of the microwave, there are multiple forks situated in different positions - one fork is on the right of the microwave, one fork is under the microwave, one fork is on top of the microwave, and one fork is situated far away from the microwave."
+    },
+    "49": {
+        "objects": [
+            "carrot",
+            "zebra"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four carrots in relation to the zebra; one carrot is positioned next to the zebra, one carrot is located far away from the zebra, one carrot is situated on the left of the zebra, and one carrot is positioned on the right of the zebra."
+    },
+    "50": {
+        "objects": [
+            "carpet",
+            "shirt"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four carpets: one is far away from the shirt, one is below the shirt, one is on the right of the shirt, and one is on the left of the shirt."
+    },
+    "51": {
+        "objects": [
+            "frisbee",
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "In relation to the toilet, there is a frisbee on the right, another frisbee under the toilet, one frisbee above the toilet, and a final frisbee near the toilet."
+    },
+    "52": {
+        "objects": [
+            "couch",
+            "fork"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "In the room, there are four couches positioned around the fork: one on the left, one far away, one on top, and one on the right."
+    },
+    "53": {
+        "objects": [
+            "skateboard",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four skateboards positioned around the chair: one is above, one is under, one is next to, and one is on the left of the chair."
+    },
+    "54": {
+        "objects": [
+            "man",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four men positioned around the bird: one man is on the side, one man is below, one man is above, and one man is on the left."
+    },
+    "55": {
+        "objects": [
+            "airplane",
+            "couch"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four airplanes: one is on the left of the couch, one is on the right of the couch, one is on the couch, and one is far away from the couch."
+    },
+    "56": {
+        "objects": [
+            "cup",
+            "baby"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four cups positioned around the baby: one cup is on the left, one cup is above, one cup is on the right, and one cup is under the baby."
+    },
+    "57": {
+        "objects": [
+            "zebra",
+            "carrot"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are multiple zebras positioned around the carrot: one zebra is near it, one is under it, one is above it, and one is to the left of it."
+    },
+    "58": {
+        "objects": [
+            "boat",
+            "scissors"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four boats positioned around the scissors: one on the left, one next to, one under, and one above the scissors."
+    },
+    "59": {
+        "objects": [
+            "teddy bear",
+            "tennis racket"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "Within the vicinity, there are four teddy bears arranged in different positions relative to the tennis racket - one teddy bear is situated underneath the tennis racket, another teddy bear is positioned to the left of the tennis racket, a third teddy bear is positioned far away from the tennis racket, and the fourth teddy bear is positioned above the tennis racket."
+    },
+    "60": {
+        "objects": [
+            "boat",
+            "laptop"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four boats positioned relative to the laptop: one on the side, one on the left, one on the right, and one far away."
+    },
+    "61": {
+        "objects": [
+            "teddy bear",
+            "remote"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four teddy bears, one is next to the remote, one is far away from the remote, one is on the remote, and one is on the right of the remote."
+    },
+    "62": {
+        "objects": [
+            "boy",
+            "book"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four boys in different spatial relationships with the book: one is on the side, one is on the right, one is far away, and one is above."
+    },
+    "63": {
+        "objects": [
+            "mouse",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four mice: one is next to the curtain, one is on the curtain, one is to the left of the curtain, and one is to the right of the curtain."
+    },
+    "64": {
+        "objects": [
+            "giraffe",
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four giraffes in relation to the sandwich: one is on the right, one is far away, one is beside, and one is on the left."
+    },
+    "65": {
+        "objects": [
+            "tennis racket",
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four tennis rackets in total: one is far away from the bicycle, one is on the bicycle, one is on the right of the bicycle, and one is next to the bicycle."
+    },
+    "66": {
+        "objects": [
+            "scissors",
+            "bear"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four pairs of scissors in relation to the bear: one pair is on top of the bear, one pair is below the bear, one pair is to the right of the bear, and one pair is far away from the bear."
+    },
+    "67": {
+        "objects": [
+            "bear",
+            "toaster"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "In different spatial relationships to the toaster, there is one bear on the left, one under, one on the right, and one above."
+    },
+    "68": {
+        "objects": [
+            "pizza",
+            "sports ball"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four pizzas in different positions relative to the sports ball: one is underneath, one is on top of, one is to the right of, and one is far away from the sports ball."
+    },
+    "69": {
+        "objects": [
+            "vase",
+            "women"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four vases positioned around the women; one on her left, one far away, one below her, and one on her right."
+    },
+    "70": {
+        "objects": [
+            "bus",
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four buses: one is on the left of the bicycle, one is next to the bicycle, one is on the right of the bicycle, and one is on the bicycle."
+    },
+    "71": {
+        "objects": [
+            "oven",
+            "toaster"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are multiple ovens in different positions relative to the toaster: one oven is next to the toaster, one is under it, another is far away from it, and the last one is on the right of the toaster."
+    },
+    "72": {
+        "objects": [
+            "bear",
+            "dog"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "The dog is surrounded by bears - one is on the right, one is under, one is on the left, and one is above."
+    },
+    "73": {
+        "objects": [
+            "toothbrush",
+            "book"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four toothbrushes positioned around the book: one is on the side, one is on the left, one is on the right, and one is underneath."
+    },
+    "74": {
+        "objects": [
+            "bowl",
+            "cup"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are multiple bowls placed around the cup: one is on the left, one is underneath, one is on the side, and one is on the right of the cup."
+    },
+    "75": {
+        "objects": [
+            "baseball glove",
+            "skis"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four baseball gloves, one is near the skis, one is far away from the skis, one is on the right of the skis, and one is above the skis."
+    },
+    "76": {
+        "objects": [
+            "spoon",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four spoons: one is next to the bottle, one is on the right of the bottle, one is on the bottle, and one is far away from the bottle."
+    },
+    "77": {
+        "objects": [
+            "baseball glove",
+            "baseball bat"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are multiple baseball gloves positioned around the baseball bat: one glove is on the right, one is beneath, one is next to, and one is on the left of the bat."
+    },
+    "78": {
+        "objects": [
+            "surfboard",
+            "baseball bat"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four surfboards: one is on the left of the baseball bat, one is above it, one is on the right, and one is next to it."
+    },
+    "79": {
+        "objects": [
+            "boat",
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are multiple boats: one boat is positioned under the bicycle, another boat is positioned on the left of the bicycle, one more boat is positioned on the right of the bicycle, and finally, there is another boat located a distance away from the bicycle."
+    },
+    "80": {
+        "objects": [
+            "pizza",
+            "carrot"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four pizzas, one pizza is under the carrot, another pizza is far away from the carrot, the third pizza is above the carrot, and the fourth pizza is on the right of the carrot."
+    },
+    "81": {
+        "objects": [
+            "skateboard",
+            "kite"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four skateboards positioned around the kite: one to the left, one on top, one to the right, and one underneath."
+    },
+    "82": {
+        "objects": [
+            "elephant",
+            "sheep"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are multiple elephants in relation to the sheep: one elephant is below the sheep, another one is on top of the sheep, one is positioned to the left of the sheep, and another one is positioned on the side of the sheep."
+    },
+    "83": {
+        "objects": [
+            "knife",
+            "fork"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four knives: one is on the fork, one is far away from the fork, one is on the right of the fork, and one is next to the fork."
+    },
+    "84": {
+        "objects": [
+            "pizza",
+            "hot dog"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four pizzas positioned around the hot dog: one above, one on the left, one below, and one near the hot dog."
+    },
+    "85": {
+        "objects": [
+            "umbrella",
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four umbrellas positioned around the backpack: one to the right, one to the left, one on the side, and one far away."
+    },
+    "86": {
+        "objects": [
+            "shirt",
+            "T-shirt"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four shirts positioned around the T-shirt: one is on the side, one is on top, one is to the right, and one is to the left."
+    },
+    "87": {
+        "objects": [
+            "airplane",
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four airplanes positioned in different locations in relation to the bicycle - one on top, one beneath, one to the left, and one at a distance."
+    },
+    "88": {
+        "objects": [
+            "handbag",
+            "eye glasses"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four handbags in different spatial relationships with the eye glasses: one handbag is on the right of the eye glasses, one handbag is far away from the eye glasses, one handbag is on top of the eye glasses, and one handbag is next to the eye glasses."
+    },
+    "89": {
+        "objects": [
+            "cow",
+            "sheep"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four cows in the scene, one cow is located far away from the sheep, another cow is positioned next to the sheep, a third cow is above the sheep, and the fourth cow is positioned under the sheep."
+    },
+    "90": {
+        "objects": [
+            "pizza",
+            "apple"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are multiple pizzas positioned around the apple: one pizza is to the right of the apple, one is to the left, another is under the apple, and the final one is located far away from the apple."
+    },
+    "91": {
+        "objects": [
+            "bear",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "In this scenario, there are four bears: one bear that is far away from the bird, one bear that is on the side of the bird, one bear that is on the left of the bird, and one bear that is on top of the bird."
+    },
+    "92": {
+        "objects": [
+            "suitcase",
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are multiple suitcases placed around the backpack - one is positioned under the backpack, another is on the right side, another is on the left side, and one more is next to the backpack."
+    },
+    "93": {
+        "objects": [
+            "kite",
+            "sports ball"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four kites in relation to the sports ball - one kite is far away from the sports ball, one kite is on the side of the sports ball, one kite is below the sports ball, and one kite is on the right of the sports ball."
+    },
+    "94": {
+        "objects": [
+            "snowboard",
+            "skis"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "In the room, there are four snowboards positioned relative to the skis: one on the right, one on the left, one far away, and one on the side of the skis."
+    },
+    "95": {
+        "objects": [
+            "vase",
+            "teddy bear"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four vases positioned around the teddy bear: one on the left, one next to, one on top of, and one on the right."
+    },
+    "96": {
+        "objects": [
+            "potted plant",
+            "couch"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four potted plants: one is far away from the couch, one is under the couch, one is above the couch, and one is on the right of the couch."
+    },
+    "97": {
+        "objects": [
+            "donut",
+            "apple"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four donuts in relation to the apple: one is on top of the apple, one is near the apple, one is below the apple, and one is to the left of the apple."
+    },
+    "98": {
+        "objects": [
+            "hot dog",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "In the scene, there is one hot dog positioned on the side of the banana, another hot dog placed under the banana, a third hot dog located far away from the banana, and a final hot dog balanced on top of the banana."
+    },
+    "99": {
+        "objects": [
+            "toilet",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four toilets: one is on the carpet, one is far away from the carpet, one is on the right of the carpet, and one is under the carpet."
+    },
+    "100": {
+        "objects": [
+            "microwave",
+            "toaster"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "In the kitchen, there are four microwaves positioned in different ways: one microwave is far away from the toaster, one is above the toaster, one is on the right of the toaster, and one is on the side of the toaster."
+    },
+    "101": {
+        "objects": [
+            "keyboard",
+            "remote"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "In the room, there are four keyboards: one keyboard is positioned far away from the remote, another keyboard is placed directly on top of the remote, one keyboard is situated to the right of the remote, and the final keyboard is positioned below the remote."
+    },
+    "102": {
+        "objects": [
+            "microwave",
+            "oven"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four microwaves in various spatial relationships with the oven: one is next to it, one is far away, one is to the left, and one is above it."
+    },
+    "103": {
+        "objects": [
+            "spoon",
+            "plate"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four spoons placed around the plate: one on the right, one on the side, one far away, and one below."
+    },
+    "104": {
+        "objects": [
+            "baseball glove",
+            "kite"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are multiple baseball gloves positioned around the kite; one is on the left, one is above, one is below, and one is far away from it."
+    },
+    "105": {
+        "objects": [
+            "sports ball",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "In the vicinity of the frisbee, there are four sports balls positioned as follows: one to the left, one far away, one on top, and one to the right of the frisbee."
+    },
+    "106": {
+        "objects": [
+            "eye glasses",
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four pairs of eyeglasses positioned around the backpack: one to the left, one underneath, one on top, and one to the right."
+    },
+    "107": {
+        "objects": [
+            "broccoli",
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There is one broccoli on the sandwich, another near the sandwich, one underneath the sandwich, and one on the right of the sandwich."
+    },
+    "108": {
+        "objects": [
+            "mouse",
+            "tv"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four mice: one is under the TV, one is far away from the TV, one is on the TV, and one is on the right of the TV."
+    },
+    "109": {
+        "objects": [
+            "snowboard",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "In the arrangement, there is one snowboard to the left of the frisbee, another snowboard below the frisbee, one snowboard resting directly on top of the frisbee, and one snowboard positioned to the right of the frisbee."
+    },
+    "110": {
+        "objects": [
+            "dog",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are multiple dogs in relation to the cat; one dog is resting on top of the cat, another dog is positioned to the left of the cat, one more dog is located in close proximity to the cat, and yet another dog is situated on the right side of the cat."
+    },
+    "111": {
+        "objects": [
+            "airplane",
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four airplanes positioned relative to the motorcycle: one is above, one is on the right, one is underneath, and one is far away."
+    },
+    "112": {
+        "objects": [
+            "traffic light",
+            "parking meter"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are several traffic lights in the area: one is located under the parking meter, another one is situated far away from the parking meter, one is positioned on the right-hand side of the parking meter, and finally, there is one placed directly on top of the parking meter."
+    },
+    "113": {
+        "objects": [
+            "zebra",
+            "elephant"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are multiple zebras in relation to the elephant: one zebra is to the left of the elephant, one zebra is on the elephant, one zebra is next to the elephant, and one zebra is far away from the elephant."
+    },
+    "114": {
+        "objects": [
+            "bench",
+            "traffic light"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four benches in the vicinity of the traffic light - one bench is positioned near the traffic light, one bench is situated beneath the traffic light, one bench is located far away from the traffic light, and one bench is placed on top of the traffic light."
+    },
+    "115": {
+        "objects": [
+            "keyboard",
+            "tv"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four keyboards in relation to the TV: one is below, one is far away, one is above, and one is on the left."
+    },
+    "116": {
+        "objects": [
+            "cell phone",
+            "remote"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "In the vicinity of the remote are four cell phones: one below, one to the left, one nearby, and one far away."
+    },
+    "117": {
+        "objects": [
+            "refrigerator",
+            "oven"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four refrigerators positioned around the oven: one to the right, one to the left, one below, and one above."
+    },
+    "118": {
+        "objects": [
+            "baseball bat",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four baseball bats, one is on the right of the frisbee, one is on the frisbee, one is next to the frisbee, and one is on the left of the frisbee."
+    },
+    "119": {
+        "objects": [
+            "dining table",
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are multiple dining tables in different spatial relationships with the potted plant: one dining table is under the potted plant, another dining table is on the right of the potted plant, one more dining table is far away from the potted plant, and finally, there is a dining table on top of the potted plant."
+    },
+    "120": {
+        "objects": [
+            "toothbrush",
+            "hair drier"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four toothbrushes positioned around the hair drier: one on the left, one near, one on the right, and one far away."
+    },
+    "121": {
+        "objects": [
+            "skateboard",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four skateboards placed around the frisbee, with one skateboard on the right, another one near it, one other skateboard far away from it, and one on the left side of the frisbee."
+    },
+    "122": {
+        "objects": [
+            "sink",
+            "oven"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are multiple sinks in the kitchen - one sink is located on the left of the oven, another sink is positioned on top of the oven, a sink is situated beneath the oven, and another sink is located far away from the oven."
+    },
+    "123": {
+        "objects": [
+            "refrigerator",
+            "toaster"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are multiple refrigerators positioned around the toaster: one to the right, one to the left, one above, and one beside."
+    },
+    "124": {
+        "objects": [
+            "cell phone",
+            "tv"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four cell phones, one is below the TV, one is above the TV, one is far away from the TV, and one is on the right of the TV."
+    },
+    "125": {
+        "objects": [
+            "fire hydrant",
+            "parking meter"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are multiple fire hydrants positioned in different locations relative to the parking meter - one on the left, one directly on it, one farther away, and one on the right."
+    },
+    "126": {
+        "objects": [
+            "bowl",
+            "plate"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four bowls in relation to the plate: one is on the plate, one is near the plate, one is to the right of the plate, and one is far away from the plate."
+    },
+    "127": {
+        "objects": [
+            "cow",
+            "horse"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four cows in relation to the horse: one cow is below, one cow is above, one cow is far away, and one cow is near."
+    },
+    "128": {
+        "objects": [
+            "clock",
+            "book"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four clocks positioned around the book: one on the left, one on the side, one on the right, and one underneath."
+    },
+    "129": {
+        "objects": [
+            "spoon",
+            "cup"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four spoons positioned in relation to the cup: one is next to the cup, one is far away from the cup, one is on the right of the cup, and one is on the left of the cup."
+    },
+    "130": {
+        "objects": [
+            "elephant",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are multiple elephants in relation to the bird; one is near the bird, one is on the left of the bird, one is far away from the bird, and one is on top of the bird."
+    },
+    "131": {
+        "objects": [
+            "horse",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "In the scene, there are four horses positioned around the cat: one on the side, one on top, one underneath, and one to the right."
+    },
+    "132": {
+        "objects": [
+            "orange",
+            "apple"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four oranges positioned in relation to an apple: one is far away, one is below, one is to the left, and one is to the right of the apple."
+    },
+    "133": {
+        "objects": [
+            "bed",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four beds, one is below the carpet, one is beside the carpet, one is on the carpet, and one is far away from the carpet."
+    },
+    "134": {
+        "objects": [
+            "keyboard",
+            "mouse"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four keyboards positioned in relation to the mouse: one is far away, one is to the left, one is to the right, and one is on top of the mouse."
+    },
+    "135": {
+        "objects": [
+            "pizza",
+            "orange"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four pizzas - one is on the orange, one is under the orange, one is far away from the orange, and one is near the orange."
+    },
+    "136": {
+        "objects": [
+            "street sign",
+            "fire hydrant"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are multiple street signs, one is on the side of the fire hydrant, one is to the left of the fire hydrant, one is above the fire hydrant, and one is far away from the fire hydrant."
+    },
+    "137": {
+        "objects": [
+            "zebra",
+            "dog"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four zebras in relation to the dog: one is on the left, one is far away, one is under, and one is on the side of the dog."
+    },
+    "138": {
+        "objects": [
+            "mouse",
+            "laptop"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four mice: one is on the laptop, one is far away from the laptop, one is on the right of the laptop, and one is near the laptop."
+    },
+    "139": {
+        "objects": [
+            "hair drier",
+            "vase"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 4
+        },
+        "prompt": "There are four hair dryers placed in different positions in relation to the vase: one is on the vase, one is to the left of the vase, one is to the right of the vase, and one is below the vase."
+    },
+    "140": {
+        "objects": [
+            "orange"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four oranges; one is black, another one is white, one is red, and the last one is purple."
+    },
+    "141": {
+        "objects": [
+            "orange"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four oranges; one is green, one is pink, one is white, and one is purple."
+    },
+    "142": {
+        "objects": [
+            "orange"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four oranges; one is black, one is purple, one is red, and one is pink."
+    },
+    "143": {
+        "objects": [
+            "orange"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four oranges, one orange is purple, another one is blue, another one is yellow, and the last one is black."
+    },
+    "144": {
+        "objects": [
+            "cup"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four cups, one cup is triangular, another cup is rectangular, another cup is conical, and the remaining cup is round."
+    },
+    "145": {
+        "objects": [
+            "cup"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four cups, one is white, another is green, another is black, and the other is blue."
+    },
+    "146": {
+        "objects": [
+            "cup"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four cups; one is white, another is black, one is yellow, and the last one is purple."
+    },
+    "147": {
+        "objects": [
+            "cup"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four cups, one is purple, another is green, a third is white, and the last one is yellow."
+    },
+    "148": {
+        "objects": [
+            "coat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four coats, one coat is floral, another coat is checked, another coat is herringbone, and the last coat is camouflage."
+    },
+    "149": {
+        "objects": [
+            "coat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are multiple coats available: one is purple, another is green, one is white, and another is red."
+    },
+    "150": {
+        "objects": [
+            "coat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four coats, one coat is floral, another coat is plaid, another one is paisley, and the last one is plain."
+    },
+    "151": {
+        "objects": [
+            "coat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four coats, one has a floral pattern, another has a checked pattern, the third one is plain, and the fourth one has stripes."
+    },
+    "152": {
+        "objects": [
+            "teddy bear"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four teddy bears – one is blue, another is green, another is purple, and the last one is pink."
+    },
+    "153": {
+        "objects": [
+            "teddy bear"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four teddy bears, one is purple, one is blue, one is red, and one is pink."
+    },
+    "154": {
+        "objects": [
+            "teddy bear"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four teddy bears, one pink, one blue, one yellow, and one green."
+    },
+    "155": {
+        "objects": [
+            "teddy bear"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four teddy bears, one is black, another is pink, one is blue, and the fourth one is red."
+    },
+    "156": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four beds; one has a floral pattern, another has stripes, the third has a plaid design, and the fourth is plain."
+    },
+    "157": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are several beds, one is made of fabric, another is made of concrete, another is made of leather, and another is made of velvet."
+    },
+    "158": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four beds, each one is a different color - yellow, red, blue, and black."
+    },
+    "159": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four beds, one is trapezoidal, another one is octagonal, a third one is round, and the last one is crescentic."
+    },
+    "160": {
+        "objects": [
+            "eye glasses"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four pairs of eye glasses, one pair is green, another pair is blue, another pair is red, and the last pair is pink."
+    },
+    "161": {
+        "objects": [
+            "eye glasses"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four pairs of eyeglasses, one pair is yellow, another pair is pink, one more pair is black, and the remaining one is white."
+    },
+    "162": {
+        "objects": [
+            "eye glasses"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four pairs of eyeglasses - one pair is white, another pair is red, another pair is black, and the remaining pair is purple."
+    },
+    "163": {
+        "objects": [
+            "eye glasses"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four pairs of eyeglasses - one pair is blue, another pair is pink, a third pair is white, and the final pair is green."
+    },
+    "164": {
+        "objects": [
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four bottles, one is heart-shaped, another is diamond-shaped, the third one is rectangular, and the last one is triangular."
+    },
+    "165": {
+        "objects": [
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four bottles, one is round, another one is triangular, one is rectangular, and the last one is star-shaped."
+    },
+    "166": {
+        "objects": [
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are multiple bottles, one is made of ceramic, another one is made of resin, a third one is made of bamboo, and the last one is made of paper."
+    },
+    "167": {
+        "objects": [
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four bottles, one is black, another one is white, another one is green, and the last one is red."
+    },
+    "168": {
+        "objects": [
+            "scissors"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four pairs of scissors: one is yellow, one is green, one is white, and one is red."
+    },
+    "169": {
+        "objects": [
+            "scissors"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four pairs of scissors - one is pink, another is green, another is purple, and the last one is yellow."
+    },
+    "170": {
+        "objects": [
+            "scissors"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four pairs of scissors, one is white, another one is blue, one is green, and the last pair is purple."
+    },
+    "171": {
+        "objects": [
+            "scissors"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four pairs of scissors, one pair is green, another pair is blue, another pair is red, and the last pair is white."
+    },
+    "172": {
+        "objects": [
+            "girl"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four girls, one is angry, one is calm, one is happy, and one is sad."
+    },
+    "173": {
+        "objects": [
+            "girl"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four girls, one is happy, one is afraid, one is calm, and one is surprised."
+    },
+    "174": {
+        "objects": [
+            "girl"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four girls, one is surprised, another is sad, one is angry, and one is afraid."
+    },
+    "175": {
+        "objects": [
+            "girl"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four girls, one is happy, another is angry, another is calm, and another is afraid."
+    },
+    "176": {
+        "objects": [
+            "bus"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four buses; one is black, another is red, another is pink, and the last one is green."
+    },
+    "177": {
+        "objects": [
+            "bus"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four buses, one is red, another one is yellow, the third one is purple, and the fourth one is green."
+    },
+    "178": {
+        "objects": [
+            "bus"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four buses; one is green, another is pink, one is purple, and the last one is red."
+    },
+    "179": {
+        "objects": [
+            "bus"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "We have four buses, one is black, another is white, a third is green, and the fourth is blue."
+    },
+    "180": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four dining tables, one is checked, another is camouflage, a third one is paisley, and the fourth one is herringbone."
+    },
+    "181": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four dining tables, each one with a different design: one is plain, one has polka dots, one is floral, and one is herringbone patterned."
+    },
+    "182": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four dining tables made of different materials: one dining table is marble, another dining table is concrete, another dining table is wood, and yet another dining table is resin."
+    },
+    "183": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four dining tables, one is yellow, one is pink, one is purple, and one is green."
+    },
+    "184": {
+        "objects": [
+            "cell phone"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four cell phones, one is green, another is pink, another is black, and one is purple."
+    },
+    "185": {
+        "objects": [
+            "cell phone"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four cell phones, one is blue, another is purple, one is red, and the last one is pink."
+    },
+    "186": {
+        "objects": [
+            "cell phone"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four cell phones, one is purple, another one is pink, another one is white, and the fourth one is green."
+    },
+    "187": {
+        "objects": [
+            "cell phone"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four cell phones, one is green, another one is blue, one is pink, and the last one is purple."
+    },
+    "188": {
+        "objects": [
+            "skateboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four skateboards, one is green, another is blue, one is red, and the last one is black."
+    },
+    "189": {
+        "objects": [
+            "skateboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four skateboards, one is black, another is yellow, the third one is white, and the last one is blue."
+    },
+    "190": {
+        "objects": [
+            "skateboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four skateboards - one is white, another is blue, a third one is purple, and the last one is green."
+    },
+    "191": {
+        "objects": [
+            "skateboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four skateboards, one is yellow, another one is green, another one is red, and the last one is black."
+    },
+    "192": {
+        "objects": [
+            "oven"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four ovens, one is blue, another one is red, another one is black, and the last one is green."
+    },
+    "193": {
+        "objects": [
+            "oven"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four ovens, each one is a different color - blue, purple, green, and white."
+    },
+    "194": {
+        "objects": [
+            "oven"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four ovens, one is purple, one is pink, one is blue, and one is yellow."
+    },
+    "195": {
+        "objects": [
+            "oven"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "In the collection, there are four ovens, each differentiated by their respective colors: one is white, one is purple, one is red, and one is black."
+    },
+    "196": {
+        "objects": [
+            "street sign"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "In the vicinity, there are diverse street signs, where one sign takes a crescentic shape, another sign is triangular, yet another sign is rectangular, and one more sign stands out as square."
+    },
+    "197": {
+        "objects": [
+            "street sign"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four street signs - one is blue, one is white, one is pink, and one is black."
+    },
+    "198": {
+        "objects": [
+            "street sign"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four street signs, one is purple, one is green, one is red, and one is yellow."
+    },
+    "199": {
+        "objects": [
+            "street sign"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four street signs, one is purple, another is black, another is blue, and the last one is pink."
+    },
+    "200": {
+        "objects": [
+            "boy"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four boys with different emotions: one is afraid, one is sad, one is angry, and one is calm."
+    },
+    "201": {
+        "objects": [
+            "boy"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four boys, one boy is happy, one is sad, one is surprised, and one is angry."
+    },
+    "202": {
+        "objects": [
+            "boy"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four boys, one is sad, another is calm, one is afraid, and one is surprised."
+    },
+    "203": {
+        "objects": [
+            "boy"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "In a group of boys, one is sad, another is surprised, one is angry, and one is happy."
+    },
+    "204": {
+        "objects": [
+            "dog"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four dogs, one is black, another one is white, one more is purple, and the last one is green."
+    },
+    "205": {
+        "objects": [
+            "dog"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four dogs, one is green, another one is yellow, the third one is pink, and the fourth one is black."
+    },
+    "206": {
+        "objects": [
+            "dog"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four dogs, one dog is black, another dog is white, another dog is blue, and the last dog is red."
+    },
+    "207": {
+        "objects": [
+            "dog"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four dogs, one is green, another is blue, one is yellow, and the other is white."
+    },
+    "208": {
+        "objects": [
+            "hot dog"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four hot dogs, one is red, one is blue, one is white, and one is purple."
+    },
+    "209": {
+        "objects": [
+            "hot dog"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four hot dogs, one is blue, one is red, one is black, and one is pink."
+    },
+    "210": {
+        "objects": [
+            "hot dog"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four hot dogs, each one a different color: yellow, red, green, and pink."
+    },
+    "211": {
+        "objects": [
+            "hot dog"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four hot dogs, one is red, another is black, one is yellow, and the last one is white."
+    },
+    "212": {
+        "objects": [
+            "sheep"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four sheep, one is green, one is blue, one is yellow, and one is purple."
+    },
+    "213": {
+        "objects": [
+            "sheep"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "In the flock, one sheep displays fear, another sheep expresses anger, a third sheep remains calm, and the fourth sheep appears surprised."
+    },
+    "214": {
+        "objects": [
+            "sheep"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four sheep, one sheep is happy, another sheep is surprised, one sheep is calm, and one sheep is angry."
+    },
+    "215": {
+        "objects": [
+            "sheep"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four sheep, one is angry, one is calm, one is surprised, and one is afraid."
+    },
+    "216": {
+        "objects": [
+            "donut"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four donuts, each one is a different color - green, pink, blue, and purple."
+    },
+    "217": {
+        "objects": [
+            "donut"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four donuts; one is purple, another is yellow, the third is red, and the fourth is blue."
+    },
+    "218": {
+        "objects": [
+            "donut"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four donuts, one is white, one is black, one is yellow, and one is green."
+    },
+    "219": {
+        "objects": [
+            "donut"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four donuts, one is yellow, another is purple, one is red, and the last one is blue."
+    },
+    "220": {
+        "objects": [
+            "broccoli"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four broccoli, one is pink, one is black, one is green, and one is yellow."
+    },
+    "221": {
+        "objects": [
+            "broccoli"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four broccoli pieces, one is pink, one is blue, one is red, and one is white."
+    },
+    "222": {
+        "objects": [
+            "broccoli"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four broccoli, one is red, another is blue, another is white, and another is black."
+    },
+    "223": {
+        "objects": [
+            "broccoli"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four broccoli, one is red, one is green, one is blue, and one is purple."
+    },
+    "224": {
+        "objects": [
+            "sports ball"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four sports balls, one is black, another is red, another is purple, and the last one is white."
+    },
+    "225": {
+        "objects": [
+            "sports ball"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four sports balls, one is white, another one is blue, a third one is red, and the last one is black."
+    },
+    "226": {
+        "objects": [
+            "sports ball"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four sports balls, one is black, one is white, one is green, and one is blue."
+    },
+    "227": {
+        "objects": [
+            "sports ball"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four sports balls - one is pink, one is blue, one is black, and one is green."
+    },
+    "228": {
+        "objects": [
+            "fork"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four forks, one fork is blue, another fork is yellow, another fork is black, and the last fork is red."
+    },
+    "229": {
+        "objects": [
+            "fork"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four forks, one is ceramic, another one is stainless steel, one is brass, and the last one is aluminum."
+    },
+    "230": {
+        "objects": [
+            "fork"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four forks, one is green, another is red, one is blue, and the last one is white."
+    },
+    "231": {
+        "objects": [
+            "fork"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four forks, one is pink, another is black, another is purple, and the other is green."
+    },
+    "232": {
+        "objects": [
+            "remote"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four remotes, one is red, another is purple, one is pink, and the other is blue."
+    },
+    "233": {
+        "objects": [
+            "remote"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four remotes, one is purple, another one is red, another one is yellow, and the last one is green."
+    },
+    "234": {
+        "objects": [
+            "remote"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four remotes - one is green, one is blue, one is black, and one is yellow."
+    },
+    "235": {
+        "objects": [
+            "remote"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four remotes, each one is a different color - purple, black, red, and white."
+    },
+    "236": {
+        "objects": [
+            "parking meter"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four parking meters, and they differ in color - one is green, another is yellow, one is pink, and the last one is blue."
+    },
+    "237": {
+        "objects": [
+            "parking meter"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four parking meters, one is pink, another one is green, one is yellow, and the other is purple."
+    },
+    "238": {
+        "objects": [
+            "parking meter"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four parking meters, one is purple, another one is blue, another one is black, and the last one is green."
+    },
+    "239": {
+        "objects": [
+            "parking meter"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four parking meters, one is green, another is white, another is purple, and the last one is pink."
+    },
+    "240": {
+        "objects": [
+            "T-shirt"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four T-shirts, each one is a different color: yellow, green, blue, and red."
+    },
+    "241": {
+        "objects": [
+            "T-shirt"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four T-shirts - one is white, one is yellow, one is red, and one is purple."
+    },
+    "242": {
+        "objects": [
+            "T-shirt"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four T-shirts, one is paisley, another is checked, one is polka dots, and one is stripes."
+    },
+    "243": {
+        "objects": [
+            "T-shirt"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four T-shirts, one is black, another is white, another is pink, and the last one is purple."
+    },
+    "244": {
+        "objects": [
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four bicycles, one is purple, another one is white, one is blue, and the last one is yellow."
+    },
+    "245": {
+        "objects": [
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four bicycles, one is made of leather, another is made of rubber, one is made of plastic, and the last one is made of metal."
+    },
+    "246": {
+        "objects": [
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four bicycles, one is ceramic, one is glass, one is metal, and one is wood."
+    },
+    "247": {
+        "objects": [
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four bicycles made of different materials: one is made of metal, another one is made of fabric, another one is made of plastic, and the last one is made of wood."
+    },
+    "248": {
+        "objects": [
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four toilets made of different materials: one is wood, one is porcelain, one is acrylic, and one is marble."
+    },
+    "249": {
+        "objects": [
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four toilets made of different materials - one toilet is wood, one is brass, one is acrylic, and one is glass."
+    },
+    "250": {
+        "objects": [
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "In the restroom, there are four toilets distinguished by their colors; one is green, another is pink, the third one is purple, and the last one is yellow."
+    },
+    "251": {
+        "objects": [
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four toilets, one is made of bamboo, one is made of granite, one is made of ceramic, and one is made of wood."
+    },
+    "252": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four chairs, one chair is made of acrylic, another chair is made of wood, one chair is upholstered, and the last chair is made of bamboo."
+    },
+    "253": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "Among the chairs, one is made of microfiber, another is made of glass, one is made of fabric, and another is made of wood."
+    },
+    "254": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four chairs, one is plain, one is plaid, one is herringbone, and one is paisley."
+    },
+    "255": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four chairs, one is made of wood, another is covered in velvet, the third one is upholstered, and the last one is made of rattan."
+    },
+    "256": {
+        "objects": [
+            "fire hydrant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four fire hydrants, one of them is black, another one is green, another one is purple, and the last one is blue."
+    },
+    "257": {
+        "objects": [
+            "fire hydrant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four fire hydrants, one is white, one is yellow, one is pink, and one is blue."
+    },
+    "258": {
+        "objects": [
+            "fire hydrant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four fire hydrants, one is purple, one is blue, one is white, and one is pink."
+    },
+    "259": {
+        "objects": [
+            "fire hydrant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four fire hydrants, one is green, another is yellow, one is black, and one is purple."
+    },
+    "260": {
+        "objects": [
+            "laptop"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four laptops, one is green, another is yellow, another is blue, and the last one is pink."
+    },
+    "261": {
+        "objects": [
+            "laptop"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four laptops, one laptop is white, another laptop is red, another laptop is yellow, and the last laptop is pink."
+    },
+    "262": {
+        "objects": [
+            "laptop"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four laptops, one is white, another one is black, one is pink, and the other one is purple."
+    },
+    "263": {
+        "objects": [
+            "laptop"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four laptops; one is white, another is blue, another is black, and the last one is green."
+    },
+    "264": {
+        "objects": [
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four backpacks; one is blue, one is black, one is yellow, and one is red."
+    },
+    "265": {
+        "objects": [
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four backpacks, one is rectangular, another one is triangular, another one is square, and the last one is hexagonal."
+    },
+    "266": {
+        "objects": [
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "Among the backpacks, one is oval, another is star-shaped, one is heart-shaped, and one is round."
+    },
+    "267": {
+        "objects": [
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four backpacks, one is blue, one is yellow, one is green, and one is pink."
+    },
+    "268": {
+        "objects": [
+            "kite"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four kites, one is rectangular, another is oval, another is hexagonal, and the last one is star-shaped."
+    },
+    "269": {
+        "objects": [
+            "kite"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four kites, one is star-shaped, another one is rectangular, one is square, and one is triangular."
+    },
+    "270": {
+        "objects": [
+            "kite"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four kites; one is shaped like a star, another like a crescent, one as a square, and the last as a hexagon."
+    },
+    "271": {
+        "objects": [
+            "kite"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four kites: one is red, another one is yellow, another one is white, and the last one is purple."
+    },
+    "272": {
+        "objects": [
+            "refrigerator"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four refrigerators, each one a different color: yellow, purple, black, and white."
+    },
+    "273": {
+        "objects": [
+            "refrigerator"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four refrigerators, one is yellow, another is red, one is blue, and the fourth is purple."
+    },
+    "274": {
+        "objects": [
+            "refrigerator"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four refrigerators, one is yellow, another one is purple, one is red, and the other is white."
+    },
+    "275": {
+        "objects": [
+            "refrigerator"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four refrigerators, one is black, another one is red, one is blue, and the other one is green."
+    },
+    "276": {
+        "objects": [
+            "baseball bat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four baseball bats, one is white, another one is yellow, another one is purple, and the last one is blue."
+    },
+    "277": {
+        "objects": [
+            "baseball bat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four baseball bats, one is black, another one is yellow, another one is pink, and the last one is purple."
+    },
+    "278": {
+        "objects": [
+            "baseball bat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four baseball bats, one is green, another is purple, one is black, and one is blue."
+    },
+    "279": {
+        "objects": [
+            "baseball bat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four baseball bats, one is green, another one is blue, another one is black, and another one is pink."
+    },
+    "280": {
+        "objects": [
+            "zebra"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four zebras, one of them is white, another one is pink, one is yellow, and one is green."
+    },
+    "281": {
+        "objects": [
+            "zebra"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four zebras, one zebra is white, another is black, another is green, and the last one is blue."
+    },
+    "282": {
+        "objects": [
+            "zebra"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four zebras with different emotions: one zebra is happy, one zebra is angry, one zebra is surprised, and one zebra is sad."
+    },
+    "283": {
+        "objects": [
+            "zebra"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four zebras, each one is a different color - yellow, blue, purple, and pink."
+    },
+    "284": {
+        "objects": [
+            "baby"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "Among the babies, one is happy, another is calm, one is surprised, and the last one is angry."
+    },
+    "285": {
+        "objects": [
+            "baby"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four babies, one baby is calm, another baby is sad, another baby is afraid, and the last baby is angry."
+    },
+    "286": {
+        "objects": [
+            "baby"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four babies with different emotions: one is happy, one is angry, one is sad, and one is afraid."
+    },
+    "287": {
+        "objects": [
+            "baby"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four babies, one of them is angry, another one is sad, another one is surprised, and the last one is calm."
+    },
+    "288": {
+        "objects": [
+            "suitcase"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four suitcases, one is purple, another is yellow, one is pink, and the remaining one is blue."
+    },
+    "289": {
+        "objects": [
+            "suitcase"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four suitcases, one is pink, another is blue, a third one is yellow, and the last one is red."
+    },
+    "290": {
+        "objects": [
+            "suitcase"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four suitcases, one is red, another one is blue, another one is purple, and the last one is white."
+    },
+    "291": {
+        "objects": [
+            "suitcase"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four suitcases, one is blue, one is purple, one is yellow, and one is red."
+    },
+    "292": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four carpets, one is made of rubber, another is made of cotton, the third is made of stone, and the fourth is made of leather."
+    },
+    "293": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four carpets, one is crescentic, another is irregular, one is rectangular, and one is star-shaped."
+    },
+    "294": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "In the room, there are four carpets with distinct patterns - one has stripes, another is plaid, one is paisley, and the last one has polka dots."
+    },
+    "295": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four carpets in the room, one carpet has a paisley pattern, another carpet has a herringbone pattern, a third carpet has a floral pattern, and the last carpet has stripes."
+    },
+    "296": {
+        "objects": [
+            "car"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four cars, one is green, another one is red, the third one is black, and the fourth one is pink."
+    },
+    "297": {
+        "objects": [
+            "car"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four cars; one is green, another is black, a third is yellow, and the last one is pink."
+    },
+    "298": {
+        "objects": [
+            "car"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "In front of me, there are four cars, each distinguished by its material - one car has a leather exterior, another has a rubber body, the third one is made of plastic, and the last one shines with a sleek chrome finish."
+    },
+    "299": {
+        "objects": [
+            "car"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four cars, one is made of ceramics, another is made of leather, another is made of metal, and the last one is made of chrome."
+    },
+    "300": {
+        "objects": [
+            "snowboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four snowboards, one is red, another is yellow, one is purple, and the other is green."
+    },
+    "301": {
+        "objects": [
+            "snowboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four snowboards in different colors: one is purple, another is yellow, one more is pink, and the last one is white."
+    },
+    "302": {
+        "objects": [
+            "snowboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four snowboards: one is pink, one is purple, one is white, and one is red."
+    },
+    "303": {
+        "objects": [
+            "snowboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four snowboards, one is yellow, another is blue, another is green, and the last one is pink."
+    },
+    "304": {
+        "objects": [
+            "book"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four books, one book is green, another book is red, another book is blue, and the last book is black."
+    },
+    "305": {
+        "objects": [
+            "book"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four books, one is blue, another is white, a third is yellow, and the fourth is pink."
+    },
+    "306": {
+        "objects": [
+            "book"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four books - one is pink, another is yellow, the next one is red, and the last one is green."
+    },
+    "307": {
+        "objects": [
+            "book"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "In the collection, there are four books differentiated by their colors: one is yellow, one is pink, one is red, and one is purple."
+    },
+    "308": {
+        "objects": [
+            "carrot"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four carrots, one is white, another is green, another is black, and the last one is yellow."
+    },
+    "309": {
+        "objects": [
+            "carrot"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four carrots, one is red, another is pink, one is black, and the last one is yellow."
+    },
+    "310": {
+        "objects": [
+            "carrot"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four carrots, one is black, another is pink, one is blue, and one is purple."
+    },
+    "311": {
+        "objects": [
+            "carrot"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four carrots, one is purple, one is white, one is yellow, and one is black."
+    },
+    "312": {
+        "objects": [
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four airplanes, one is made of foam, another is made of rubber, one is ceramic, and the last one is metal."
+    },
+    "313": {
+        "objects": [
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "In the collection, there is an airplane made of ceramic, another one made of glass, a third one made of foam, and a fourth one made of rubber."
+    },
+    "314": {
+        "objects": [
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four airplanes, one is yellow, another one is pink, one is blue, and the fourth is white."
+    },
+    "315": {
+        "objects": [
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four airplanes made of different materials - one is wood, one is glass, one is leather, and one is foam."
+    },
+    "316": {
+        "objects": [
+            "sink"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four sinks, each of a different color: white, green, purple, and red."
+    },
+    "317": {
+        "objects": [
+            "sink"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four sinks, one is round, another one is rectangular, the third one is irregular, and the last one is crescentic."
+    },
+    "318": {
+        "objects": [
+            "sink"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four sinks; one is green, another is white, one is pink, and the last one is purple."
+    },
+    "319": {
+        "objects": [
+            "sink"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four sinks; one is circular, one is irregular, one is oval, and one is polygonal."
+    },
+    "320": {
+        "objects": [
+            "handbag"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four handbags, one is green, one is red, one is pink, and one is white."
+    },
+    "321": {
+        "objects": [
+            "handbag"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four handbags, one is oval-shaped, another one is heart-shaped, one is square-shaped, and one is star-shaped."
+    },
+    "322": {
+        "objects": [
+            "handbag"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four handbags, one is triangular, another is star-shaped, another is rectangular, and the last one is heart-shaped."
+    },
+    "323": {
+        "objects": [
+            "handbag"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four handbags, one is white, another one is blue, the third one is black, and the fourth one is red."
+    },
+    "324": {
+        "objects": [
+            "pizza"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four pizzas, one is blue, another is yellow, another is purple, and the last one is black."
+    },
+    "325": {
+        "objects": [
+            "pizza"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four pizzas, one pizza is blue, another one is yellow, another one is black, and the last one is purple."
+    },
+    "326": {
+        "objects": [
+            "pizza"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four pizzas, one pizza is yellow, another pizza is white, one pizza is purple, and one pizza is green."
+    },
+    "327": {
+        "objects": [
+            "pizza"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four pizzas, one is blue, one is green, one is purple, and one is red."
+    },
+    "328": {
+        "objects": [
+            "train"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four trains, one is made of wood, another is made of fabric, one is made of glass, and the last one is made of rubber."
+    },
+    "329": {
+        "objects": [
+            "train"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four trains: one is made of wood, another is fabric, a third is foam, and the last one is leather."
+    },
+    "330": {
+        "objects": [
+            "train"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four trains, one is ceramic, another is glass, the third is fabric, and the fourth is foam."
+    },
+    "331": {
+        "objects": [
+            "train"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four trains, one is made of metal, another is made of wood, one is ceramic, and the other is rubber."
+    },
+    "332": {
+        "objects": [
+            "cat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "Among the cats, one is calm, another is angry, a third one is afraid, and the fourth one appears to be surprised."
+    },
+    "333": {
+        "objects": [
+            "cat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four cats, one is black, another is blue, one is purple, and one is yellow."
+    },
+    "334": {
+        "objects": [
+            "cat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four cats with different emotions: one is sad, one is afraid, one is angry, and one is happy."
+    },
+    "335": {
+        "objects": [
+            "cat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four cats, one is sad, another is surprised, one is afraid, and one is happy."
+    },
+    "336": {
+        "objects": [
+            "clock"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "In the collection, there are four clocks, each differentiated by its shape - one clock is octagonal, another is crescentic, one is triangular, and the last one is diamond-shaped."
+    },
+    "337": {
+        "objects": [
+            "clock"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four clocks in different shapes: one clock is square, another clock is octagonal, a third clock is diamond-shaped, and the fourth clock is crescentic."
+    },
+    "338": {
+        "objects": [
+            "clock"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four clocks: one is rectangular, one is octagonal, one is hexagonal, and one is heart-shaped."
+    },
+    "339": {
+        "objects": [
+            "clock"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four clocks, one is rectangular, another one is hexagonal, another one is oval, and the last one is round."
+    },
+    "340": {
+        "objects": [
+            "bear"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "In the bear collection, there is a green bear, a purple bear, a white bear, and a black bear."
+    },
+    "341": {
+        "objects": [
+            "bear"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four bears, one is black, one is pink, one is purple, and one is white."
+    },
+    "342": {
+        "objects": [
+            "bear"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four bears with different emotions: one bear is surprised, another is sad, one is afraid, and the last one is calm."
+    },
+    "343": {
+        "objects": [
+            "bear"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four bears, one bear is purple, another bear is red, a third bear is blue, and the last bear is black."
+    },
+    "344": {
+        "objects": [
+            "plate"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four plates; one is round, another one is star-shaped, another is hexagonal, and the last one is oval."
+    },
+    "345": {
+        "objects": [
+            "plate"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four plates, one is yellow, another is white, the next one is red, and the last one is black."
+    },
+    "346": {
+        "objects": [
+            "plate"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four plates, one is rectangular, another is heart-shaped, the third is irregular, and the fourth is oval."
+    },
+    "347": {
+        "objects": [
+            "plate"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are multiple plates made of different materials including copper, leather, granite, and bone."
+    },
+    "348": {
+        "objects": [
+            "vase"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four vases, one is yellow, one is white, one is pink, and one is black."
+    },
+    "349": {
+        "objects": [
+            "vase"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four vases, one vase is yellow, another vase is white, another vase is green, and the last vase is purple."
+    },
+    "350": {
+        "objects": [
+            "vase"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four vases - one is blue, another is black, a third is pink, and the fourth is green."
+    },
+    "351": {
+        "objects": [
+            "vase"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four vases - one is purple, one is blue, one is pink, and one is black."
+    },
+    "352": {
+        "objects": [
+            "horse"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four horses, one looks surprised, another looks sad, another looks calm, and the last one looks angry."
+    },
+    "353": {
+        "objects": [
+            "horse"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four horses, one is red, another is pink, another is black, and the last one is green."
+    },
+    "354": {
+        "objects": [
+            "horse"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four horses, one horse is purple, another horse is yellow, one more horse is white, and the last horse is red."
+    },
+    "355": {
+        "objects": [
+            "horse"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four horses, one is pink, another one is black, one is red, and the last one is purple."
+    },
+    "356": {
+        "objects": [
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four frisbees, each one is a different color - red, black, blue, and green."
+    },
+    "357": {
+        "objects": [
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four frisbees, one is white, another one is green, one is black, and the last one is pink."
+    },
+    "358": {
+        "objects": [
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four frisbees, one is white, one is blue, one is red, and one is pink."
+    },
+    "359": {
+        "objects": [
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four frisbees, one is green, one is black, one is blue, and one is white."
+    },
+    "360": {
+        "objects": [
+            "microwave"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four microwaves, one is black, another one is blue, one is red, and one is pink."
+    },
+    "361": {
+        "objects": [
+            "microwave"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four microwaves, one is white, one is purple, one is green, and one is red."
+    },
+    "362": {
+        "objects": [
+            "microwave"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four microwaves; one is black, one is pink, one is purple, and one is white."
+    },
+    "363": {
+        "objects": [
+            "microwave"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four microwaves, one is white, another is pink, another is black, and the last one is purple."
+    },
+    "364": {
+        "objects": [
+            "elephant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four elephants, one is calm, another one is surprised, one is sad, and the last one is angry."
+    },
+    "365": {
+        "objects": [
+            "elephant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four elephants with different emotions - one is angry, one is happy, one is afraid, and one is sad."
+    },
+    "366": {
+        "objects": [
+            "elephant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four elephants with different emotions: one is happy, one is surprised, one is angry, and one is afraid."
+    },
+    "367": {
+        "objects": [
+            "elephant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four elephants, one is pink, one is blue, one is white, and one is green."
+    },
+    "368": {
+        "objects": [
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four motorcycles, one is green, another one is white, another one is blue, and the last one is black."
+    },
+    "369": {
+        "objects": [
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four motorcycles - one made of wood, another of carbon fiber, a third of plastic, and the fourth of fabric."
+    },
+    "370": {
+        "objects": [
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four motorcycles, each made of different materials - one is rubber, one is plastic, one is stone, and one is metal."
+    },
+    "371": {
+        "objects": [
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are multiple motorcycles, one motorcycle is made of rubber, another one is made of fabric, another one is made of ceramic, and the last one is made of leather."
+    },
+    "372": {
+        "objects": [
+            "women"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four women, one is calm, another one is happy, another one is sad, and the last one is angry."
+    },
+    "373": {
+        "objects": [
+            "women"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four women, one is angry, one is sad, one is afraid, and one is happy."
+    },
+    "374": {
+        "objects": [
+            "women"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four women, one is happy, another is angry, one is afraid, and one is sad."
+    },
+    "375": {
+        "objects": [
+            "women"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four women, one is calm, another is happy, one is angry, and one is sad."
+    },
+    "376": {
+        "objects": [
+            "tv"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four TVs, one is purple, another is green, one is blue, and the last one is yellow."
+    },
+    "377": {
+        "objects": [
+            "tv"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four TVs, one is blue, another one is pink, another one is white, and the last one is purple."
+    },
+    "378": {
+        "objects": [
+            "tv"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four TVs, one of them is green, another one is pink, one is blue, and the remaining one is white."
+    },
+    "379": {
+        "objects": [
+            "tv"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four TVs available, one of them is purple, another one is red, a third one is green, and the fourth one is black."
+    },
+    "380": {
+        "objects": [
+            "dress"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four dresses, one dress is checked, another is floral, another is polka dots, and the last one is herringbone patterned."
+    },
+    "381": {
+        "objects": [
+            "dress"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four dresses, one is white, another is yellow, another is pink, and the last one is green."
+    },
+    "382": {
+        "objects": [
+            "dress"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four dresses in different colors: one is white, another is red, another is black, and the last one is purple."
+    },
+    "383": {
+        "objects": [
+            "dress"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four dresses in different colors: one is green, another is black, another is white, and the last one is purple."
+    },
+    "384": {
+        "objects": [
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four potted plants, one is white, another is blue, another is yellow, and the last one is green."
+    },
+    "385": {
+        "objects": [
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four potted plants, one is plastic, another is terracotta, the third is stone, and the fourth is concrete."
+    },
+    "386": {
+        "objects": [
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four potted plants, one is made of plastic, another is made of metal, a third is made of concrete, and the fourth is made of stone."
+    },
+    "387": {
+        "objects": [
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four potted plants, each made of a different material: one is metal, one is terracotta, one is ceramic, and one is wicker."
+    },
+    "388": {
+        "objects": [
+            "skis"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four pairs of skis, each pair is a different color - pink, green, purple, and yellow."
+    },
+    "389": {
+        "objects": [
+            "skis"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four pairs of skis in different colors: one red, one green, one white, and one yellow."
+    },
+    "390": {
+        "objects": [
+            "skis"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four pairs of skis, one in purple, one in green, one in white, and one in blue."
+    },
+    "391": {
+        "objects": [
+            "skis"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four pairs of skis, each one a different color - yellow, green, white, and pink."
+    },
+    "392": {
+        "objects": [
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four spoons, one is red, one is yellow, one is purple, and one is blue."
+    },
+    "393": {
+        "objects": [
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four spoons, one is green, one is white, one is purple, and one is pink."
+    },
+    "394": {
+        "objects": [
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four spoons made of different materials: one is bone, another is silver, one is plastic, and the last one is titanium."
+    },
+    "395": {
+        "objects": [
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four spoons; one is purple, one is pink, one is red, and one is blue."
+    },
+    "396": {
+        "objects": [
+            "shirt"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four shirts - one is blue, another is red, another is pink, and the last one is purple."
+    },
+    "397": {
+        "objects": [
+            "shirt"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four shirts, one has polka dots, another has camouflage, another has plaid, and the last one has a checked pattern."
+    },
+    "398": {
+        "objects": [
+            "shirt"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four shirts; one is black, another is pink, one is purple, and the last one is blue."
+    },
+    "399": {
+        "objects": [
+            "shirt"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four shirts: one is plain, one is paisley, one is plaid, and one is checked."
+    },
+    "400": {
+        "objects": [
+            "surfboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four surfboards, one is yellow, another one is green, the third one is black, and the fourth one is purple."
+    },
+    "401": {
+        "objects": [
+            "surfboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four surfboards, one is purple, another one is white, a third surfboard is yellow, and the fourth surfboard is blue."
+    },
+    "402": {
+        "objects": [
+            "surfboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four surfboards; one is purple, another is green, a third one is pink, and the last one is black."
+    },
+    "403": {
+        "objects": [
+            "surfboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four surfboards, one is blue, another one is black, a third one is yellow, and the last one is green."
+    },
+    "404": {
+        "objects": [
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four sandwiches, one sandwich is white, another sandwich is red, one sandwich is purple, and one sandwich is green."
+    },
+    "405": {
+        "objects": [
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four sandwiches, one sandwich is blue, another sandwich is purple, another sandwich is green, and the last sandwich is white."
+    },
+    "406": {
+        "objects": [
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four sandwiches, one sandwich is blue, another sandwich is green, a third sandwich is white, and the fourth sandwich is pink."
+    },
+    "407": {
+        "objects": [
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four sandwiches, one is purple, one is pink, one is blue, and one is white."
+    },
+    "408": {
+        "objects": [
+            "keyboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four keyboards, one is black, one is pink, one is yellow, and one is purple."
+    },
+    "409": {
+        "objects": [
+            "keyboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four keyboards available; one is pink, another is white, another is yellow, and the last one is green."
+    },
+    "410": {
+        "objects": [
+            "keyboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four keyboards, one is yellow, another one is purple, another one is black, and the last one is green."
+    },
+    "411": {
+        "objects": [
+            "keyboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four keyboards; one is pink, another is yellow, one is green, and the last one is white."
+    },
+    "412": {
+        "objects": [
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four pairs of trousers: one is paisley, one is plaid, one features polka dots, and the last one is camouflage."
+    },
+    "413": {
+        "objects": [
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four pairs of trousers, one pair is pink, another pair is blue, a third pair is yellow, and the fourth pair is red."
+    },
+    "414": {
+        "objects": [
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four pairs of trousers; one pair is floral, one pair is stripes, one pair is herringbone, and one pair is polka dots."
+    },
+    "415": {
+        "objects": [
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four pairs of trousers, one is plaid, another is paisley, another is checked, and the last one is floral."
+    },
+    "416": {
+        "objects": [
+            "giraffe"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four giraffes; one is red, another is pink, a third one is white, and the fourth one is purple."
+    },
+    "417": {
+        "objects": [
+            "giraffe"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four giraffes, one is pink, another is black, another is white, and the last one is purple."
+    },
+    "418": {
+        "objects": [
+            "giraffe"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four giraffes, one is yellow, another is purple, one is black, and one is green."
+    },
+    "419": {
+        "objects": [
+            "giraffe"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four giraffes, one is happy, another is sad, one is afraid, and one is calm."
+    },
+    "420": {
+        "objects": [
+            "bird"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four birds, one bird is blue, another bird is pink, another bird is black, and the last bird is purple."
+    },
+    "421": {
+        "objects": [
+            "bird"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four birds, one bird is sad, one is surprised, one is happy, and one is angry."
+    },
+    "422": {
+        "objects": [
+            "bird"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "Among the birds, one is green, another is white, a third is purple, and the last one is yellow."
+    },
+    "423": {
+        "objects": [
+            "bird"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four birds, one is purple, another one is white, a third one is yellow, and the fourth one is black."
+    },
+    "424": {
+        "objects": [
+            "bench"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four benches, one is crescentic, one is square, one is oval, and one is elliptical."
+    },
+    "425": {
+        "objects": [
+            "bench"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four benches, with one being trapezoidal, another circular, one crescentic, and the last one rectangular."
+    },
+    "426": {
+        "objects": [
+            "bench"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four benches: one is black, another is green, another is white, and the last one is yellow."
+    },
+    "427": {
+        "objects": [
+            "bench"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four benches, one is oval, another one is square, another is round, and the last one is triangular."
+    },
+    "428": {
+        "objects": [
+            "traffic light"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four traffic lights; one is white, another is pink, one is green, and one is red."
+    },
+    "429": {
+        "objects": [
+            "traffic light"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four traffic lights - one is black, another is purple, the third is red, and the fourth is white."
+    },
+    "430": {
+        "objects": [
+            "traffic light"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four traffic lights, one is pink, another is black, a third one is yellow, and the last one is green."
+    },
+    "431": {
+        "objects": [
+            "traffic light"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four traffic lights, one is green, another one is black, one is purple, and the last one is white."
+    },
+    "432": {
+        "objects": [
+            "couch"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "In the room, there are four couches, distinguished by their colors - one is pink, another is black, one is yellow, and the last one is white."
+    },
+    "433": {
+        "objects": [
+            "couch"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four couches, one is made of stone, another one is made of cotton, another is made of wool, and the last one is made of acrylic."
+    },
+    "434": {
+        "objects": [
+            "couch"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four couches, one is made of microfiber, another is stone, a third one is wool, and the fourth one is metal."
+    },
+    "435": {
+        "objects": [
+            "couch"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four couches, one is white, another is purple, the third is pink, and the fourth is blue."
+    },
+    "436": {
+        "objects": [
+            "truck"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four trucks, each made of different materials - one truck is wood, one is foam, one is leather, and one is wood again."
+    },
+    "437": {
+        "objects": [
+            "truck"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four trucks, one is blue, another is yellow, one is white, and the last one is red."
+    },
+    "438": {
+        "objects": [
+            "truck"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four trucks, one truck is made of wood, another is made of glass, a third one is ceramic, and the fourth is metal."
+    },
+    "439": {
+        "objects": [
+            "truck"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are different types of trucks: one is made of wood, another is made of fabric, another is made of glass, and another is made of foam."
+    },
+    "440": {
+        "objects": [
+            "apple"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four apples, one is black, one is white, one is purple, and one is pink."
+    },
+    "441": {
+        "objects": [
+            "apple"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four apples, one is blue, one is green, one is purple, and one is pink."
+    },
+    "442": {
+        "objects": [
+            "apple"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four apples: one is purple, another is black, a third is red, and the last one is yellow."
+    },
+    "443": {
+        "objects": [
+            "apple"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four apples, one is blue, one is white, one is red, and one is pink."
+    },
+    "444": {
+        "objects": [
+            "boat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four boats made of different materials - one boat is made of canvas, another boat is made of resin, a third boat is made of brass, and the fourth boat is made of carbon fiber."
+    },
+    "445": {
+        "objects": [
+            "boat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four boats, one boat is green, another one is purple, then we have a white boat, and finally a black boat."
+    },
+    "446": {
+        "objects": [
+            "boat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four boats, one is made of copper, another is crafted from synthetic fabrics, a third boat is constructed from steel, and the last one is adorned with leather."
+    },
+    "447": {
+        "objects": [
+            "boat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four boats: one is made of aluminum, another is made of carbon fiber, a third one is made of synthetic fabrics, and the fourth one is made of canvas."
+    },
+    "448": {
+        "objects": [
+            "man"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "In a group of men, one man appears to be sad, another man seems to be angry, a third man is visibly happy, while the fourth man appears to be afraid."
+    },
+    "449": {
+        "objects": [
+            "man"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four men with different emotions: one is angry, another is calm, one is sad, and one is afraid."
+    },
+    "450": {
+        "objects": [
+            "man"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "In a group of men, one man appears calm, another man seems sad, a different man looks surprised, and yet another man appears afraid."
+    },
+    "451": {
+        "objects": [
+            "man"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "Among the group of men, one is calm, another is surprised, one is sad, and the last one appears afraid."
+    },
+    "452": {
+        "objects": [
+            "toothbrush"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four toothbrushes, one is black, another is purple, the third one is blue, and the fourth one is white."
+    },
+    "453": {
+        "objects": [
+            "toothbrush"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four toothbrushes, one is red, another is white, one is black, and the other is blue."
+    },
+    "454": {
+        "objects": [
+            "toothbrush"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four toothbrushes - one is red, one is blue, one is pink, and one is white."
+    },
+    "455": {
+        "objects": [
+            "toothbrush"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "Among the toothbrushes available, one is blue, another one is red, one is black, and the remaining one is yellow."
+    },
+    "456": {
+        "objects": [
+            "mouse"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four mice; one is red, another is yellow, a third is green, and the fourth is black."
+    },
+    "457": {
+        "objects": [
+            "mouse"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "In the collection of mice, there is a red one, a yellow one, a white one, and a pink one."
+    },
+    "458": {
+        "objects": [
+            "mouse"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four mice; one is black, one is green, one is purple, and one is pink."
+    },
+    "459": {
+        "objects": [
+            "mouse"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four mice, one is purple, another is green, another is yellow, and the last one is red."
+    },
+    "460": {
+        "objects": [
+            "knife"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four knives, one is white, one is yellow, one is black, and one is red."
+    },
+    "461": {
+        "objects": [
+            "knife"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four knives, one is made of bone, another is crafted from stone, the third is constructed from wood, and the last one is composed of carbon fiber."
+    },
+    "462": {
+        "objects": [
+            "knife"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four knives, one is made of bone, another is made of metal, one is ceramic, and one is stone."
+    },
+    "463": {
+        "objects": [
+            "knife"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four knives, each one is a different color - black, pink, yellow, and purple."
+    },
+    "464": {
+        "objects": [
+            "banana"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four bananas, one is green, one is yellow, one is black, and one is pink."
+    },
+    "465": {
+        "objects": [
+            "banana"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four bananas, one is black, one is green, another one is pink, and the last one is red."
+    },
+    "466": {
+        "objects": [
+            "banana"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four bananas, one banana is yellow, another banana is black, a third banana is white, and the fourth banana is pink."
+    },
+    "467": {
+        "objects": [
+            "banana"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four bananas, one is purple, another one is yellow, one is pink, and one is black."
+    },
+    "468": {
+        "objects": [
+            "umbrella"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four umbrellas: one is pink, one is red, one is black, and one is blue."
+    },
+    "469": {
+        "objects": [
+            "umbrella"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four umbrellas - one is black, another is yellow, one is blue, and the last one is purple."
+    },
+    "470": {
+        "objects": [
+            "umbrella"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four umbrellas, one is green, another one is black, one more is purple, and the last one is white."
+    },
+    "471": {
+        "objects": [
+            "umbrella"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four umbrellas, one is black, another is green, one is blue, and the last one is purple."
+    },
+    "472": {
+        "objects": [
+            "toaster"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four toasters, one is yellow, another is pink, one is blue, and the last one is green."
+    },
+    "473": {
+        "objects": [
+            "toaster"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four toasters, one is pink, another one is white, another one is yellow, and the remaining one is red."
+    },
+    "474": {
+        "objects": [
+            "toaster"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four toasters, one is yellow, one is purple, one is white, and one is green."
+    },
+    "475": {
+        "objects": [
+            "toaster"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four toasters, one is white, another is green, one is yellow, and the last one is black."
+    },
+    "476": {
+        "objects": [
+            "hair drier"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four hair dryers, one is yellow, another is green, one is black, and the other is white."
+    },
+    "477": {
+        "objects": [
+            "hair drier"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four hair dryers, one is green, another is pink, one is blue, and the other is yellow."
+    },
+    "478": {
+        "objects": [
+            "hair drier"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four hair driers, one is yellow, another is purple, one is black, and one is blue."
+    },
+    "479": {
+        "objects": [
+            "hair drier"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four hair driers, one is black, another one is blue, another one is white, and the fourth one is yellow."
+    },
+    "480": {
+        "objects": [
+            "cake"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four cakes, one is oval, another one is rectangular, another is hexagonal, and the last one is square."
+    },
+    "481": {
+        "objects": [
+            "cake"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four cakes, one cake is round, another cake is triangular, another cake is oval, and another cake is crescentic."
+    },
+    "482": {
+        "objects": [
+            "cake"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four cakes, with one being blue, another red, another green, and the last one purple."
+    },
+    "483": {
+        "objects": [
+            "cake"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four cakes, one is hexagonal, another is star-shaped, one is diamond-shaped, and the last one is octagonal."
+    },
+    "484": {
+        "objects": [
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four bowls, one bowl is black, another bowl is green, a third bowl is yellow, and the last bowl is purple."
+    },
+    "485": {
+        "objects": [
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four bowls, one bowl is blue, another bowl is yellow, a third bowl is green, and the fourth bowl is red."
+    },
+    "486": {
+        "objects": [
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four bowls, one is white, another is yellow, one is pink, and the other is red."
+    },
+    "487": {
+        "objects": [
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four bowls, one is octagonal, another is triangular, another is oval, and the last one is star-shaped."
+    },
+    "488": {
+        "objects": [
+            "cow"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four cows, one cow is blue, another cow is pink, a third cow is purple, and the fourth cow is yellow."
+    },
+    "489": {
+        "objects": [
+            "cow"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four cows with different emotions; one is happy, one is afraid, one is sad, and one is surprised."
+    },
+    "490": {
+        "objects": [
+            "cow"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four cows with different emotions: one is sad, one is angry, one is calm, and one is happy."
+    },
+    "491": {
+        "objects": [
+            "cow"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four cows, one is afraid, one is happy, one is calm, and one is surprised."
+    },
+    "492": {
+        "objects": [
+            "baseball glove"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four baseball gloves, one is purple, another one is green, one is blue, and the last one is pink."
+    },
+    "493": {
+        "objects": [
+            "baseball glove"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four baseball gloves, one is blue, another is black, one is pink, and one is purple."
+    },
+    "494": {
+        "objects": [
+            "baseball glove"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four baseball gloves, and they are differentiated by their colors - one is green, another is red, one is white, and the last one is purple."
+    },
+    "495": {
+        "objects": [
+            "baseball glove"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four baseball gloves in different colors; one is yellow, one is black, one is blue, and one is red."
+    },
+    "496": {
+        "objects": [
+            "tennis racket"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four tennis rackets, one is pink, another one is red, another one is blue, and the last one is purple."
+    },
+    "497": {
+        "objects": [
+            "tennis racket"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four tennis rackets, one is pink, another is red, one is black, and the last one is blue."
+    },
+    "498": {
+        "objects": [
+            "tennis racket"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four tennis rackets, one is black, another one is pink, one is red, and the last one is white."
+    },
+    "499": {
+        "objects": [
+            "tennis racket"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 4,
+            "spatial number": 0
+        },
+        "prompt": "There are four tennis rackets, one is pink, another is purple, one is white, and one is black."
+    }
+}

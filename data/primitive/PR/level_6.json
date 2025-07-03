@@ -1,0 +1,2552 @@
+{
+    "0": {
+        "objects": [
+            "plate",
+            "hot dog",
+            "carrot",
+            "broccoli",
+            "baby",
+            "shirt",
+            "backpack",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a plate containing a hot dog, a carrot and a broccoli. There is also a baby with a shirt, a backpack and a skateboard."
+    },
+    "1": {
+        "objects": [
+            "plate",
+            "scissors",
+            "cake",
+            "sandwich",
+            "sink",
+            "book",
+            "broccoli",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a plate containing a pair of scissors, a cake and a sandwich. There is also a sink including a book, a broccoli and an apple."
+    },
+    "2": {
+        "objects": [
+            "girl",
+            "backpack",
+            "suitcase",
+            "skateboard",
+            "oven",
+            "pizza",
+            "broccoli",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a girl with a backpack, a suitcase and a skateboard. There is also an oven including a pizza, a broccoli and a banana."
+    },
+    "3": {
+        "objects": [
+            "woman",
+            "T-shirt",
+            "backpack",
+            "handbag",
+            "bowl",
+            "donut",
+            "hot dog",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a woman with a T-shirt, a backpack and a handbag. There is also a bowl including a donut, a hot dog and a sandwich."
+    },
+    "4": {
+        "objects": [
+            "boy",
+            "T-shirt",
+            "coat",
+            "backpack",
+            "oven",
+            "donut",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a boy with a T-shirt, a coat and a backpack. There is also an oven containing a donut, an apple and a banana."
+    },
+    "5": {
+        "objects": [
+            "baby",
+            "dress",
+            "eye glasses",
+            "skateboard",
+            "bowl",
+            "toothbrush",
+            "orange",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a baby with a dress, a pair of eye glasses and a skateboard. There is also a bowl including a toothbrush, an orange and a sandwich."
+    },
+    "6": {
+        "objects": [
+            "man",
+            "shirt",
+            "backpack",
+            "suitcase",
+            "plate",
+            "toothbrush",
+            "pizza",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a man with a shirt, a backpack and a suitcase. There is also a plate containing a toothbrush, a pizza and a carrot."
+    },
+    "7": {
+        "objects": [
+            "baby",
+            "trousers",
+            "eye glasses",
+            "skateboard",
+            "refrigerator",
+            "sandwich",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a baby with a pair of trousers, a pair of eye glasses and a skateboard. There is also a refrigerator including a sandwich, an apple and a banana."
+    },
+    "8": {
+        "objects": [
+            "bowl",
+            "pizza",
+            "hot dog",
+            "broccoli",
+            "toaster",
+            "carrot",
+            "orange",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a bowl containing a pizza, a hot dog and a broccoli. There is also a toaster containing a carrot, an orange and an apple."
+    },
+    "9": {
+        "objects": [
+            "toaster",
+            "carrot",
+            "orange",
+            "apple",
+            "man",
+            "shirt",
+            "baseball glove",
+            "suitcase"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a toaster containing a carrot, an orange and an apple. There is also a man with a shirt, a baseball glove and a suitcase."
+    },
+    "10": {
+        "objects": [
+            "plate",
+            "carrot",
+            "sandwich",
+            "apple",
+            "oven",
+            "book",
+            "cake",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a plate including a carrot, a sandwich and an apple. There is also an oven including a book, a cake and a pizza."
+    },
+    "11": {
+        "objects": [
+            "plate",
+            "toothbrush",
+            "donut",
+            "sandwich",
+            "microwave",
+            "book",
+            "cake",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a plate including a toothbrush, a donut and a sandwich. There is also a microwave including a book, a cake and a pizza."
+    },
+    "12": {
+        "objects": [
+            "microwave",
+            "toothbrush",
+            "hot dog",
+            "orange",
+            "refrigerator",
+            "sandwich",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a microwave containing a toothbrush, a hot dog and an orange. There is also a refrigerator including a sandwich, an apple and a banana."
+    },
+    "13": {
+        "objects": [
+            "bowl",
+            "toothbrush",
+            "carrot",
+            "sandwich",
+            "man",
+            "shirt",
+            "dress",
+            "eye glasses"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a bowl including a toothbrush, a carrot and a sandwich. There is also a man with a shirt, a dress and a pair of eye glasses."
+    },
+    "14": {
+        "objects": [
+            "microwave",
+            "toothbrush",
+            "cake",
+            "broccoli",
+            "woman",
+            "shirt",
+            "T-shirt",
+            "umbrella"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a microwave containing a toothbrush, a cake and a broccoli. There is also a woman with a shirt, a T-shirt and an umbrella."
+    },
+    "15": {
+        "objects": [
+            "bowl",
+            "toothbrush",
+            "broccoli",
+            "banana",
+            "toaster",
+            "carrot",
+            "orange",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a bowl containing a toothbrush, a broccoli and a banana. There is also a toaster containing a carrot, an orange and an apple."
+    },
+    "16": {
+        "objects": [
+            "bowl",
+            "scissors",
+            "carrot",
+            "banana",
+            "woman",
+            "trousers",
+            "backpack",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a bowl including a pair of scissors, a carrot and a banana. There is also a woman with a pair of trousers, a backpack and a skateboard."
+    },
+    "17": {
+        "objects": [
+            "toaster",
+            "book",
+            "cake",
+            "banana",
+            "girl",
+            "trousers",
+            "handbag",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a toaster containing a book, a cake and a banana. There is also a girl with a pair of trousers, a handbag and a skateboard."
+    },
+    "18": {
+        "objects": [
+            "bowl",
+            "cake",
+            "sandwich",
+            "apple",
+            "boy",
+            "T-shirt",
+            "coat",
+            "eye glasses"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a bowl including a cake, a sandwich and an apple. There is also a boy with a T-shirt, a coat and a pair of eye glasses."
+    },
+    "19": {
+        "objects": [
+            "boy",
+            "backpack",
+            "suitcase",
+            "handbag",
+            "oven",
+            "donut",
+            "hot dog",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a boy with a backpack, a suitcase and a handbag. There is also an oven including a donut, a hot dog and a broccoli."
+    },
+    "20": {
+        "objects": [
+            "woman",
+            "coat",
+            "trousers",
+            "umbrella",
+            "boy",
+            "shirt",
+            "dress",
+            "T-shirt"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a woman with a coat, a pair of trousers and an umbrella. There is also a boy with a shirt, a dress and a T-shirt."
+    },
+    "21": {
+        "objects": [
+            "boy",
+            "shirt",
+            "T-shirt",
+            "backpack",
+            "refrigerator",
+            "sandwich",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a boy with a shirt, a T-shirt and a backpack. There is also a refrigerator including a sandwich, an apple and a banana."
+    },
+    "22": {
+        "objects": [
+            "refrigerator",
+            "toothbrush",
+            "orange",
+            "apple",
+            "baby",
+            "dress",
+            "eye glasses",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a refrigerator including a toothbrush, an orange and an apple. There is also a baby with a dress, a pair of eye glasses and a skateboard."
+    },
+    "23": {
+        "objects": [
+            "boy",
+            "shirt",
+            "T-shirt",
+            "backpack",
+            "plate",
+            "donut",
+            "broccoli",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a boy with a shirt, a T-shirt and a backpack. There is also a plate including a donut, a broccoli and a sandwich."
+    },
+    "24": {
+        "objects": [
+            "man",
+            "shirt",
+            "dress",
+            "eye glasses",
+            "boy",
+            "coat",
+            "baseball glove",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a man with a shirt, a dress and a pair of eye glasses. There is also a boy with a coat, a baseball glove and a skateboard."
+    },
+    "25": {
+        "objects": [
+            "sink",
+            "hot dog",
+            "carrot",
+            "broccoli",
+            "girl",
+            "shirt",
+            "dress",
+            "suitcase"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a sink including a hot dog, a carrot and a broccoli. There is also a girl with a shirt, a dress and a suitcase."
+    },
+    "26": {
+        "objects": [
+            "sink",
+            "pizza",
+            "orange",
+            "apple",
+            "microwave",
+            "cake",
+            "donut",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a sink including a pizza, an orange and an apple. There is also a microwave including a cake, a donut and a broccoli."
+    },
+    "27": {
+        "objects": [
+            "oven",
+            "pizza",
+            "broccoli",
+            "banana",
+            "plate",
+            "scissors",
+            "carrot",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is an oven including a pizza, a broccoli and a banana. There is also a plate including a pair of scissors, a carrot and an orange."
+    },
+    "28": {
+        "objects": [
+            "microwave",
+            "scissors",
+            "cake",
+            "donut",
+            "boy",
+            "shirt",
+            "T-shirt",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a microwave including a pair of scissors, a cake and a donut. There is also a boy with a shirt, a T-shirt and a skateboard."
+    },
+    "29": {
+        "objects": [
+            "bowl",
+            "book",
+            "pizza",
+            "orange",
+            "plate",
+            "cake",
+            "sandwich",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a bowl including a book, a pizza and an orange. There is also a plate containing a cake, a sandwich and an apple."
+    },
+    "30": {
+        "objects": [
+            "boy",
+            "shirt",
+            "dress",
+            "T-shirt",
+            "microwave",
+            "book",
+            "pizza",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a boy with a shirt, a dress and a T-shirt. There is also a microwave including a book, a pizza and a sandwich."
+    },
+    "31": {
+        "objects": [
+            "baby",
+            "shirt",
+            "backpack",
+            "skateboard",
+            "sink",
+            "toothbrush",
+            "cake",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a baby with a shirt, a backpack and a skateboard. There is also a sink containing a toothbrush, a cake and a pizza."
+    },
+    "32": {
+        "objects": [
+            "girl",
+            "shirt",
+            "dress",
+            "coat",
+            "microwave",
+            "book",
+            "donut",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a girl with a shirt, a dress and a coat. There is also a microwave including a book, a donut and an orange."
+    },
+    "33": {
+        "objects": [
+            "baby",
+            "shirt",
+            "backpack",
+            "skateboard",
+            "microwave",
+            "book",
+            "donut",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a baby with a shirt, a backpack and a skateboard. There is also a microwave including a book, a donut and an orange."
+    },
+    "34": {
+        "objects": [
+            "baby",
+            "backpack",
+            "suitcase",
+            "skateboard",
+            "boy",
+            "T-shirt",
+            "coat",
+            "eye glasses"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a baby with a backpack, a suitcase and a skateboard. There is also a boy with a T-shirt, a coat and a pair of eye glasses."
+    },
+    "35": {
+        "objects": [
+            "microwave",
+            "scissors",
+            "cake",
+            "donut",
+            "refrigerator",
+            "book",
+            "carrot",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a microwave including a pair of scissors, a cake and a donut. There is also a refrigerator containing a book, a carrot and an orange."
+    },
+    "36": {
+        "objects": [
+            "microwave",
+            "book",
+            "pizza",
+            "sandwich",
+            "boy",
+            "T-shirt",
+            "coat",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a microwave including a book, a pizza and a sandwich. There is also a boy with a T-shirt, a coat and a skateboard."
+    },
+    "37": {
+        "objects": [
+            "sink",
+            "pizza",
+            "hot dog",
+            "broccoli",
+            "woman",
+            "shirt",
+            "T-shirt",
+            "umbrella"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a sink including a pizza, a hot dog and a broccoli. There is also a woman with a shirt, a T-shirt and an umbrella."
+    },
+    "38": {
+        "objects": [
+            "woman",
+            "trousers",
+            "eye glasses",
+            "umbrella",
+            "plate",
+            "pizza",
+            "hot dog",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a woman with a pair of trousers, a pair of eye glasses and an umbrella. There is also a plate including a pizza, a hot dog and a broccoli."
+    },
+    "39": {
+        "objects": [
+            "man",
+            "trousers",
+            "baseball glove",
+            "umbrella",
+            "sink",
+            "book",
+            "broccoli",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a man with a pair of trousers, a baseball glove and an umbrella. There is also a sink including a book, a broccoli and an apple."
+    },
+    "40": {
+        "objects": [
+            "sink",
+            "book",
+            "carrot",
+            "orange",
+            "woman",
+            "trousers",
+            "backpack",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a sink including a book, a carrot and an orange. There is also a woman with a pair of trousers, a backpack and a skateboard."
+    },
+    "41": {
+        "objects": [
+            "woman",
+            "trousers",
+            "eye glasses",
+            "umbrella",
+            "microwave",
+            "book",
+            "pizza",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a woman with a pair of trousers, a pair of eye glasses and an umbrella. There is also a microwave including a book, a pizza and a sandwich."
+    },
+    "42": {
+        "objects": [
+            "plate",
+            "donut",
+            "orange",
+            "banana",
+            "refrigerator",
+            "scissors",
+            "book",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a plate containing a donut, an orange and a banana. There is also a refrigerator including a pair of scissors, a book and an apple."
+    },
+    "43": {
+        "objects": [
+            "man",
+            "coat",
+            "suitcase",
+            "umbrella",
+            "woman",
+            "dress",
+            "trousers",
+            "handbag"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a man with a coat, a suitcase and an umbrella. There is also a woman with a dress, a pair of trousers and a handbag."
+    },
+    "44": {
+        "objects": [
+            "sink",
+            "toothbrush",
+            "orange",
+            "banana",
+            "baby",
+            "trousers",
+            "eye glasses",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a sink containing a toothbrush, an orange and a banana. There is also a baby with a pair of trousers, a pair of eye glasses and a skateboard."
+    },
+    "45": {
+        "objects": [
+            "girl",
+            "dress",
+            "T-shirt",
+            "baseball glove",
+            "plate",
+            "sandwich",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a girl with a dress, a T-shirt and a baseball glove. There is also a plate including a sandwich, an apple and a banana."
+    },
+    "46": {
+        "objects": [
+            "girl",
+            "trousers",
+            "handbag",
+            "skateboard",
+            "plate",
+            "toothbrush",
+            "pizza",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a girl with a pair of trousers, a handbag and a skateboard. There is also a plate containing a toothbrush, a pizza and a carrot."
+    },
+    "47": {
+        "objects": [
+            "plate",
+            "hot dog",
+            "carrot",
+            "broccoli",
+            "bowl",
+            "pizza",
+            "sandwich",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a plate containing a hot dog, a carrot and a broccoli. There is also a bowl containing a pizza, a sandwich and a banana."
+    },
+    "48": {
+        "objects": [
+            "boy",
+            "shirt",
+            "dress",
+            "T-shirt",
+            "plate",
+            "donut",
+            "orange",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a boy with a shirt, a dress and a T-shirt. There is also a plate containing a donut, an orange and a banana."
+    },
+    "49": {
+        "objects": [
+            "sink",
+            "cake",
+            "hot dog",
+            "apple",
+            "bowl",
+            "toothbrush",
+            "carrot",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a sink including a cake, a hot dog and an apple. There is also a bowl including a toothbrush, a carrot and a sandwich."
+    },
+    "50": {
+        "objects": [
+            "woman",
+            "coat",
+            "trousers",
+            "umbrella",
+            "boy",
+            "shirt",
+            "T-shirt",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a woman with a coat, a pair of trousers and an umbrella. There is also a boy with a shirt, a T-shirt and a skateboard."
+    },
+    "51": {
+        "objects": [
+            "sink",
+            "book",
+            "carrot",
+            "orange",
+            "girl",
+            "shirt",
+            "T-shirt",
+            "baseball glove"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a sink including a book, a carrot and an orange. There is also a girl with a shirt, a T-shirt and a baseball glove."
+    },
+    "52": {
+        "objects": [
+            "microwave",
+            "book",
+            "cake",
+            "banana",
+            "bowl",
+            "donut",
+            "hot dog",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a microwave containing a book, a cake and a banana. There is also a bowl including a donut, a hot dog and a sandwich."
+    },
+    "53": {
+        "objects": [
+            "microwave",
+            "toothbrush",
+            "donut",
+            "banana",
+            "girl",
+            "dress",
+            "T-shirt",
+            "baseball glove"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a microwave including a toothbrush, a donut and a banana. There is also a girl with a dress, a T-shirt and a baseball glove."
+    },
+    "54": {
+        "objects": [
+            "microwave",
+            "book",
+            "cake",
+            "banana",
+            "girl",
+            "backpack",
+            "suitcase",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a microwave containing a book, a cake and a banana. There is also a girl with a backpack, a suitcase and a skateboard."
+    },
+    "55": {
+        "objects": [
+            "boy",
+            "T-shirt",
+            "trousers",
+            "eye glasses",
+            "refrigerator",
+            "sandwich",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a boy with a T-shirt, a pair of trousers and a pair of eye glasses. There is also a refrigerator including a sandwich, an apple and a banana."
+    },
+    "56": {
+        "objects": [
+            "microwave",
+            "toothbrush",
+            "cake",
+            "broccoli",
+            "sink",
+            "book",
+            "donut",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a microwave containing a toothbrush, a cake and a broccoli. There is also a sink including a book, a donut and a pizza."
+    },
+    "57": {
+        "objects": [
+            "girl",
+            "shirt",
+            "T-shirt",
+            "baseball glove",
+            "oven",
+            "scissors",
+            "hot dog",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a girl with a shirt, a T-shirt and a baseball glove. There is also an oven containing a pair of scissors, a hot dog and an apple."
+    },
+    "58": {
+        "objects": [
+            "sink",
+            "carrot",
+            "broccoli",
+            "sandwich",
+            "baby",
+            "baseball glove",
+            "handbag",
+            "umbrella"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a sink containing a carrot, a broccoli and a sandwich. There is also a baby with a baseball glove, a handbag and an umbrella."
+    },
+    "59": {
+        "objects": [
+            "microwave",
+            "book",
+            "pizza",
+            "sandwich",
+            "man",
+            "shirt",
+            "dress",
+            "eye glasses"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a microwave including a book, a pizza and a sandwich. There is also a man with a shirt, a dress and a pair of eye glasses."
+    },
+    "60": {
+        "objects": [
+            "woman",
+            "coat",
+            "trousers",
+            "umbrella",
+            "sink",
+            "pizza",
+            "orange",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a woman with a coat, a pair of trousers and an umbrella. There is also a sink including a pizza, an orange and an apple."
+    },
+    "61": {
+        "objects": [
+            "girl",
+            "dress",
+            "backpack",
+            "baseball glove",
+            "sink",
+            "toothbrush",
+            "hot dog",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a girl with a dress, a backpack and a baseball glove. There is also a sink containing a toothbrush, a hot dog and an apple."
+    },
+    "62": {
+        "objects": [
+            "sink",
+            "pizza",
+            "hot dog",
+            "broccoli",
+            "microwave",
+            "toothbrush",
+            "donut",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a sink including a pizza, a hot dog and a broccoli. There is also a microwave including a toothbrush, a donut and a banana."
+    },
+    "63": {
+        "objects": [
+            "toaster",
+            "scissors",
+            "cake",
+            "pizza",
+            "refrigerator",
+            "toothbrush",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a toaster containing a pair of scissors, a cake and a pizza. There is also a refrigerator including a toothbrush, an apple and a banana."
+    },
+    "64": {
+        "objects": [
+            "woman",
+            "shirt",
+            "trousers",
+            "eye glasses",
+            "refrigerator",
+            "scissors",
+            "cake",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a woman with a shirt, a pair of trousers and a pair of eye glasses. There is also a refrigerator including a pair of scissors, a cake and an orange."
+    },
+    "65": {
+        "objects": [
+            "man",
+            "shirt",
+            "dress",
+            "eye glasses",
+            "bowl",
+            "scissors",
+            "carrot",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a man with a shirt, a dress and a pair of eye glasses. There is also a bowl containing a pair of scissors, a carrot and an apple."
+    },
+    "66": {
+        "objects": [
+            "refrigerator",
+            "toothbrush",
+            "donut",
+            "broccoli",
+            "girl",
+            "shirt",
+            "eye glasses",
+            "suitcase"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a refrigerator including a toothbrush, a donut and a broccoli. There is also a girl with a shirt, a pair of eye glasses and a suitcase."
+    },
+    "67": {
+        "objects": [
+            "woman",
+            "dress",
+            "trousers",
+            "handbag",
+            "plate",
+            "sandwich",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a woman with a dress, a pair of trousers and a handbag. There is also a plate including a sandwich, an apple and a banana."
+    },
+    "68": {
+        "objects": [
+            "boy",
+            "shirt",
+            "T-shirt",
+            "backpack",
+            "man",
+            "coat",
+            "suitcase",
+            "umbrella"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a boy with a shirt, a T-shirt and a backpack. There is also a man with a coat, a suitcase and an umbrella."
+    },
+    "69": {
+        "objects": [
+            "woman",
+            "dress",
+            "eye glasses",
+            "handbag",
+            "sink",
+            "cake",
+            "hot dog",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a woman with a dress, a pair of eye glasses and a handbag. There is also a sink including a cake, a hot dog and an apple."
+    },
+    "70": {
+        "objects": [
+            "sink",
+            "hot dog",
+            "carrot",
+            "broccoli",
+            "bowl",
+            "scissors",
+            "donut",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a sink including a hot dog, a carrot and a broccoli. There is also a bowl containing a pair of scissors, a donut and an apple."
+    },
+    "71": {
+        "objects": [
+            "microwave",
+            "toothbrush",
+            "pizza",
+            "sandwich",
+            "refrigerator",
+            "book",
+            "carrot",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a microwave containing a toothbrush, a pizza and a sandwich. There is also a refrigerator containing a book, a carrot and an orange."
+    },
+    "72": {
+        "objects": [
+            "girl",
+            "dress",
+            "T-shirt",
+            "baseball glove",
+            "sink",
+            "cake",
+            "pizza",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a girl with a dress, a T-shirt and a baseball glove. There is also a sink including a cake, a pizza and an apple."
+    },
+    "73": {
+        "objects": [
+            "microwave",
+            "book",
+            "cake",
+            "banana",
+            "boy",
+            "coat",
+            "trousers",
+            "umbrella"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a microwave containing a book, a cake and a banana. There is also a boy with a coat, a pair of trousers and an umbrella."
+    },
+    "74": {
+        "objects": [
+            "bowl",
+            "toothbrush",
+            "orange",
+            "sandwich",
+            "boy",
+            "dress",
+            "trousers",
+            "eye glasses"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a bowl including a toothbrush, an orange and a sandwich. There is also a boy with a dress, a pair of trousers and a pair of eye glasses."
+    },
+    "75": {
+        "objects": [
+            "toaster",
+            "scissors",
+            "cake",
+            "pizza",
+            "man",
+            "shirt",
+            "dress",
+            "eye glasses"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a toaster containing a pair of scissors, a cake and a pizza. There is also a man with a shirt, a dress and a pair of eye glasses."
+    },
+    "76": {
+        "objects": [
+            "toaster",
+            "scissors",
+            "orange",
+            "apple",
+            "baby",
+            "shirt",
+            "backpack",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a toaster including a pair of scissors, an orange and an apple. There is also a baby with a shirt, a backpack and a skateboard."
+    },
+    "77": {
+        "objects": [
+            "baby",
+            "backpack",
+            "suitcase",
+            "skateboard",
+            "man",
+            "shirt",
+            "dress",
+            "eye glasses"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a baby with a backpack, a suitcase and a skateboard. There is also a man with a shirt, a dress and a pair of eye glasses."
+    },
+    "78": {
+        "objects": [
+            "girl",
+            "dress",
+            "T-shirt",
+            "baseball glove",
+            "microwave",
+            "scissors",
+            "carrot",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a girl with a dress, a T-shirt and a baseball glove. There is also a microwave containing a pair of scissors, a carrot and an apple."
+    },
+    "79": {
+        "objects": [
+            "refrigerator",
+            "cake",
+            "broccoli",
+            "apple",
+            "oven",
+            "donut",
+            "orange",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a refrigerator including a cake, a broccoli and an apple. There is also an oven including a donut, an orange and a banana."
+    },
+    "80": {
+        "objects": [
+            "girl",
+            "shirt",
+            "eye glasses",
+            "backpack",
+            "oven",
+            "donut",
+            "hot dog",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a girl with a shirt, a pair of eye glasses and a backpack. There is also an oven including a donut, a hot dog and a broccoli."
+    },
+    "81": {
+        "objects": [
+            "microwave",
+            "book",
+            "cake",
+            "pizza",
+            "girl",
+            "shirt",
+            "eye glasses",
+            "suitcase"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a microwave including a book, a cake and a pizza. There is also a girl with a shirt, a pair of eye glasses and a suitcase."
+    },
+    "82": {
+        "objects": [
+            "woman",
+            "dress",
+            "coat",
+            "skateboard",
+            "plate",
+            "scissors",
+            "carrot",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a woman with a dress, a coat and a skateboard. There is also a plate including a pair of scissors, a carrot and an orange."
+    },
+    "83": {
+        "objects": [
+            "woman",
+            "trousers",
+            "backpack",
+            "skateboard",
+            "microwave",
+            "scissors",
+            "cake",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a woman with a pair of trousers, a backpack and a skateboard. There is also a microwave including a pair of scissors, a cake and an apple."
+    },
+    "84": {
+        "objects": [
+            "microwave",
+            "scissors",
+            "carrot",
+            "apple",
+            "sink",
+            "toothbrush",
+            "donut",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a microwave containing a pair of scissors, a carrot and an apple. There is also a sink including a toothbrush, a donut and a hot dog."
+    },
+    "85": {
+        "objects": [
+            "baby",
+            "baseball glove",
+            "handbag",
+            "umbrella",
+            "plate",
+            "toothbrush",
+            "donut",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a baby with a baseball glove, a handbag and an umbrella. There is also a plate including a toothbrush, a donut and a sandwich."
+    },
+    "86": {
+        "objects": [
+            "man",
+            "coat",
+            "suitcase",
+            "umbrella",
+            "oven",
+            "book",
+            "donut",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a man with a coat, a suitcase and an umbrella. There is also an oven containing a book, a donut and a broccoli."
+    },
+    "87": {
+        "objects": [
+            "bowl",
+            "scissors",
+            "carrot",
+            "banana",
+            "man",
+            "shirt",
+            "trousers",
+            "eye glasses"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a bowl including a pair of scissors, a carrot and a banana. There is also a man with a shirt, a pair of trousers and a pair of eye glasses."
+    },
+    "88": {
+        "objects": [
+            "boy",
+            "T-shirt",
+            "coat",
+            "skateboard",
+            "bowl",
+            "toothbrush",
+            "broccoli",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a boy with a T-shirt, a coat and a skateboard. There is also a bowl containing a toothbrush, a broccoli and a banana."
+    },
+    "89": {
+        "objects": [
+            "boy",
+            "trousers",
+            "baseball glove",
+            "umbrella",
+            "toaster",
+            "scissors",
+            "cake",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a boy with a pair of trousers, a baseball glove and an umbrella. There is also a toaster containing a pair of scissors, a cake and a carrot."
+    },
+    "90": {
+        "objects": [
+            "bowl",
+            "scissors",
+            "donut",
+            "apple",
+            "sink",
+            "pizza",
+            "hot dog",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a bowl containing a pair of scissors, a donut and an apple. There is also a sink including a pizza, a hot dog and a broccoli."
+    },
+    "91": {
+        "objects": [
+            "boy",
+            "dress",
+            "suitcase",
+            "umbrella",
+            "bowl",
+            "cake",
+            "sandwich",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a boy with a dress, a suitcase and an umbrella. There is also a bowl including a cake, a sandwich and an apple."
+    },
+    "92": {
+        "objects": [
+            "baby",
+            "dress",
+            "eye glasses",
+            "skateboard",
+            "bowl",
+            "scissors",
+            "donut",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a baby with a dress, a pair of eye glasses and a skateboard. There is also a bowl containing a pair of scissors, a donut and an apple."
+    },
+    "93": {
+        "objects": [
+            "sink",
+            "cake",
+            "pizza",
+            "apple",
+            "man",
+            "T-shirt",
+            "coat",
+            "handbag"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a sink including a cake, a pizza and an apple. There is also a man with a T-shirt, a coat and a handbag."
+    },
+    "94": {
+        "objects": [
+            "woman",
+            "shirt",
+            "T-shirt",
+            "umbrella",
+            "sink",
+            "book",
+            "carrot",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a woman with a shirt, a T-shirt and an umbrella. There is also a sink including a book, a carrot and an orange."
+    },
+    "95": {
+        "objects": [
+            "sink",
+            "scissors",
+            "carrot",
+            "sandwich",
+            "oven",
+            "donut",
+            "orange",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a sink including a pair of scissors, a carrot and a sandwich. There is also an oven including a donut, an orange and a banana."
+    },
+    "96": {
+        "objects": [
+            "refrigerator",
+            "scissors",
+            "book",
+            "apple",
+            "microwave",
+            "cake",
+            "donut",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a refrigerator including a pair of scissors, a book and an apple. There is also a microwave including a cake, a donut and a broccoli."
+    },
+    "97": {
+        "objects": [
+            "oven",
+            "carrot",
+            "broccoli",
+            "banana",
+            "girl",
+            "dress",
+            "backpack",
+            "baseball glove"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is an oven containing a carrot, a broccoli and a banana. There is also a girl with a dress, a backpack and a baseball glove."
+    },
+    "98": {
+        "objects": [
+            "baby",
+            "baseball glove",
+            "handbag",
+            "umbrella",
+            "oven",
+            "donut",
+            "orange",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a baby with a baseball glove, a handbag and an umbrella. There is also an oven containing a donut, an orange and a sandwich."
+    },
+    "99": {
+        "objects": [
+            "bowl",
+            "scissors",
+            "donut",
+            "apple",
+            "woman",
+            "T-shirt",
+            "backpack",
+            "handbag"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a bowl containing a pair of scissors, a donut and an apple. There is also a woman with a T-shirt, a backpack and a handbag."
+    },
+    "100": {
+        "objects": [
+            "bowl",
+            "scissors",
+            "carrot",
+            "apple",
+            "man",
+            "shirt",
+            "backpack",
+            "suitcase"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a bowl containing a pair of scissors, a carrot and an apple. There is also a man with a shirt, a backpack and a suitcase."
+    },
+    "101": {
+        "objects": [
+            "microwave",
+            "sandwich",
+            "apple",
+            "banana",
+            "sink",
+            "book",
+            "carrot",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a microwave containing a sandwich, an apple and a banana. There is also a sink including a book, a carrot and an orange."
+    },
+    "102": {
+        "objects": [
+            "man",
+            "T-shirt",
+            "coat",
+            "handbag",
+            "refrigerator",
+            "scissors",
+            "book",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a man with a T-shirt, a coat and a handbag. There is also a refrigerator including a pair of scissors, a book and an apple."
+    },
+    "103": {
+        "objects": [
+            "girl",
+            "backpack",
+            "suitcase",
+            "skateboard",
+            "toaster",
+            "scissors",
+            "cake",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a girl with a backpack, a suitcase and a skateboard. There is also a toaster containing a pair of scissors, a cake and a pizza."
+    },
+    "104": {
+        "objects": [
+            "toaster",
+            "donut",
+            "broccoli",
+            "orange",
+            "boy",
+            "T-shirt",
+            "coat",
+            "eye glasses"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a toaster including a donut, a broccoli and an orange. There is also a boy with a T-shirt, a coat and a pair of eye glasses."
+    },
+    "105": {
+        "objects": [
+            "sink",
+            "toothbrush",
+            "orange",
+            "banana",
+            "girl",
+            "dress",
+            "T-shirt",
+            "baseball glove"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a sink containing a toothbrush, an orange and a banana. There is also a girl with a dress, a T-shirt and a baseball glove."
+    },
+    "106": {
+        "objects": [
+            "microwave",
+            "book",
+            "cake",
+            "pizza",
+            "plate",
+            "toothbrush",
+            "donut",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a microwave including a book, a cake and a pizza. There is also a plate including a toothbrush, a donut and a sandwich."
+    },
+    "107": {
+        "objects": [
+            "girl",
+            "dress",
+            "handbag",
+            "umbrella",
+            "boy",
+            "eye glasses",
+            "baseball glove",
+            "suitcase"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a girl with a dress, a handbag and an umbrella. There is also a boy with a pair of eye glasses, a baseball glove and a suitcase."
+    },
+    "108": {
+        "objects": [
+            "boy",
+            "coat",
+            "baseball glove",
+            "skateboard",
+            "refrigerator",
+            "scissors",
+            "sandwich",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a boy with a coat, a baseball glove and a skateboard. There is also a refrigerator including a pair of scissors, a sandwich and a banana."
+    },
+    "109": {
+        "objects": [
+            "toaster",
+            "donut",
+            "broccoli",
+            "orange",
+            "man",
+            "shirt",
+            "dress",
+            "eye glasses"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a toaster including a donut, a broccoli and an orange. There is also a man with a shirt, a dress and a pair of eye glasses."
+    },
+    "110": {
+        "objects": [
+            "microwave",
+            "toothbrush",
+            "hot dog",
+            "sandwich",
+            "boy",
+            "eye glasses",
+            "baseball glove",
+            "suitcase"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a microwave including a toothbrush, a hot dog and a sandwich. There is also a boy with a pair of eye glasses, a baseball glove and a suitcase."
+    },
+    "111": {
+        "objects": [
+            "woman",
+            "T-shirt",
+            "backpack",
+            "handbag",
+            "oven",
+            "pizza",
+            "broccoli",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a woman with a T-shirt, a backpack and a handbag. There is also an oven including a pizza, a broccoli and a banana."
+    },
+    "112": {
+        "objects": [
+            "microwave",
+            "toothbrush",
+            "donut",
+            "banana",
+            "boy",
+            "T-shirt",
+            "coat",
+            "backpack"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a microwave including a toothbrush, a donut and a banana. There is also a boy with a T-shirt, a coat and a backpack."
+    },
+    "113": {
+        "objects": [
+            "refrigerator",
+            "scissors",
+            "sandwich",
+            "banana",
+            "bowl",
+            "book",
+            "pizza",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a refrigerator including a pair of scissors, a sandwich and a banana. There is also a bowl including a book, a pizza and an orange."
+    },
+    "114": {
+        "objects": [
+            "woman",
+            "T-shirt",
+            "baseball glove",
+            "skateboard",
+            "toaster",
+            "book",
+            "donut",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a woman with a T-shirt, a baseball glove and a skateboard. There is also a toaster containing a book, a donut and a carrot."
+    },
+    "115": {
+        "objects": [
+            "baby",
+            "shirt",
+            "backpack",
+            "skateboard",
+            "girl",
+            "trousers",
+            "eye glasses",
+            "umbrella"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a baby with a shirt, a backpack and a skateboard. There is also a girl with a pair of trousers, a pair of eye glasses and an umbrella."
+    },
+    "116": {
+        "objects": [
+            "sink",
+            "pizza",
+            "orange",
+            "apple",
+            "plate",
+            "donut",
+            "broccoli",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a sink including a pizza, an orange and an apple. There is also a plate including a donut, a broccoli and a sandwich."
+    },
+    "117": {
+        "objects": [
+            "plate",
+            "hot dog",
+            "carrot",
+            "banana",
+            "oven",
+            "donut",
+            "orange",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a plate containing a hot dog, a carrot and a banana. There is also an oven containing a donut, an orange and a sandwich."
+    },
+    "118": {
+        "objects": [
+            "woman",
+            "shirt",
+            "T-shirt",
+            "skateboard",
+            "oven",
+            "carrot",
+            "broccoli",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a woman with a shirt, a T-shirt and a skateboard. There is also an oven containing a carrot, a broccoli and a banana."
+    },
+    "119": {
+        "objects": [
+            "bowl",
+            "scissors",
+            "carrot",
+            "apple",
+            "woman",
+            "dress",
+            "baseball glove",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a bowl containing a pair of scissors, a carrot and an apple. There is also a woman with a dress, a baseball glove and a skateboard."
+    },
+    "120": {
+        "objects": [
+            "microwave",
+            "sandwich",
+            "apple",
+            "banana",
+            "boy",
+            "shirt",
+            "T-shirt",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a microwave containing a sandwich, an apple and a banana. There is also a boy with a shirt, a T-shirt and a skateboard."
+    },
+    "121": {
+        "objects": [
+            "plate",
+            "hot dog",
+            "carrot",
+            "broccoli",
+            "boy",
+            "coat",
+            "trousers",
+            "umbrella"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a plate containing a hot dog, a carrot and a broccoli. There is also a boy with a coat, a pair of trousers and an umbrella."
+    },
+    "122": {
+        "objects": [
+            "sink",
+            "cake",
+            "pizza",
+            "apple",
+            "man",
+            "dress",
+            "backpack",
+            "baseball glove"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a sink including a cake, a pizza and an apple. There is also a man with a dress, a backpack and a baseball glove."
+    },
+    "123": {
+        "objects": [
+            "plate",
+            "carrot",
+            "sandwich",
+            "apple",
+            "toaster",
+            "book",
+            "cake",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a plate including a carrot, a sandwich and an apple. There is also a toaster containing a book, a cake and a banana."
+    },
+    "124": {
+        "objects": [
+            "woman",
+            "dress",
+            "baseball glove",
+            "skateboard",
+            "oven",
+            "book",
+            "donut",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a woman with a dress, a baseball glove and a skateboard. There is also an oven containing a book, a donut and a broccoli."
+    },
+    "125": {
+        "objects": [
+            "microwave",
+            "toothbrush",
+            "hot dog",
+            "sandwich",
+            "woman",
+            "dress",
+            "trousers",
+            "handbag"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a microwave including a toothbrush, a hot dog and a sandwich. There is also a woman with a dress, a pair of trousers and a handbag."
+    },
+    "126": {
+        "objects": [
+            "man",
+            "T-shirt",
+            "coat",
+            "handbag",
+            "sink",
+            "book",
+            "broccoli",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a man with a T-shirt, a coat and a handbag. There is also a sink including a book, a broccoli and an apple."
+    },
+    "127": {
+        "objects": [
+            "oven",
+            "donut",
+            "orange",
+            "banana",
+            "girl",
+            "shirt",
+            "eye glasses",
+            "suitcase"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is an oven including a donut, an orange and a banana. There is also a girl with a shirt, a pair of eye glasses and a suitcase."
+    },
+    "128": {
+        "objects": [
+            "boy",
+            "dress",
+            "suitcase",
+            "umbrella",
+            "microwave",
+            "book",
+            "donut",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a boy with a dress, a suitcase and an umbrella. There is also a microwave including a book, a donut and an orange."
+    },
+    "129": {
+        "objects": [
+            "girl",
+            "shirt",
+            "eye glasses",
+            "backpack",
+            "refrigerator",
+            "scissors",
+            "book",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a girl with a shirt, a pair of eye glasses and a backpack. There is also a refrigerator including a pair of scissors, a book and an apple."
+    },
+    "130": {
+        "objects": [
+            "microwave",
+            "hot dog",
+            "broccoli",
+            "sandwich",
+            "man",
+            "shirt",
+            "backpack",
+            "suitcase"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a microwave including a hot dog, a broccoli and a sandwich. There is also a man with a shirt, a backpack and a suitcase."
+    },
+    "131": {
+        "objects": [
+            "toaster",
+            "donut",
+            "hot dog",
+            "broccoli",
+            "girl",
+            "dress",
+            "handbag",
+            "umbrella"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a toaster including a donut, a hot dog and a broccoli. There is also a girl with a dress, a handbag and an umbrella."
+    },
+    "132": {
+        "objects": [
+            "sink",
+            "hot dog",
+            "carrot",
+            "broccoli",
+            "boy",
+            "T-shirt",
+            "coat",
+            "eye glasses"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a sink including a hot dog, a carrot and a broccoli. There is also a boy with a T-shirt, a coat and a pair of eye glasses."
+    },
+    "133": {
+        "objects": [
+            "microwave",
+            "book",
+            "cake",
+            "pizza",
+            "girl",
+            "T-shirt",
+            "coat",
+            "baseball glove"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a microwave including a book, a cake and a pizza. There is also a girl with a T-shirt, a coat and a baseball glove."
+    },
+    "134": {
+        "objects": [
+            "toaster",
+            "book",
+            "donut",
+            "carrot",
+            "boy",
+            "backpack",
+            "suitcase",
+            "handbag"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a toaster containing a book, a donut and a carrot. There is also a boy with a backpack, a suitcase and a handbag."
+    },
+    "135": {
+        "objects": [
+            "plate",
+            "scissors",
+            "sandwich",
+            "apple",
+            "girl",
+            "dress",
+            "coat",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a plate including a pair of scissors, a sandwich and an apple. There is also a girl with a dress, a coat and a skateboard."
+    },
+    "136": {
+        "objects": [
+            "bowl",
+            "scissors",
+            "carrot",
+            "banana",
+            "girl",
+            "shirt",
+            "eye glasses",
+            "suitcase"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a bowl including a pair of scissors, a carrot and a banana. There is also a girl with a shirt, a pair of eye glasses and a suitcase."
+    },
+    "137": {
+        "objects": [
+            "toaster",
+            "donut",
+            "hot dog",
+            "carrot",
+            "bowl",
+            "cake",
+            "sandwich",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a toaster containing a donut, a hot dog and a carrot. There is also a bowl including a cake, a sandwich and an apple."
+    },
+    "138": {
+        "objects": [
+            "boy",
+            "T-shirt",
+            "coat",
+            "backpack",
+            "bowl",
+            "toothbrush",
+            "orange",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a boy with a T-shirt, a coat and a backpack. There is also a bowl including a toothbrush, an orange and a sandwich."
+    },
+    "139": {
+        "objects": [
+            "oven",
+            "pizza",
+            "broccoli",
+            "banana",
+            "man",
+            "shirt",
+            "backpack",
+            "suitcase"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is an oven including a pizza, a broccoli and a banana. There is also a man with a shirt, a backpack and a suitcase."
+    },
+    "140": {
+        "objects": [
+            "bowl",
+            "donut",
+            "hot dog",
+            "sandwich",
+            "girl",
+            "shirt",
+            "T-shirt",
+            "baseball glove"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a bowl including a donut, a hot dog and a sandwich. There is also a girl with a shirt, a T-shirt and a baseball glove."
+    },
+    "141": {
+        "objects": [
+            "boy",
+            "T-shirt",
+            "trousers",
+            "eye glasses",
+            "bowl",
+            "toothbrush",
+            "carrot",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a boy with a T-shirt, a pair of trousers and a pair of eye glasses. There is also a bowl including a toothbrush, a carrot and a sandwich."
+    },
+    "142": {
+        "objects": [
+            "toaster",
+            "carrot",
+            "orange",
+            "apple",
+            "girl",
+            "shirt",
+            "dress",
+            "suitcase"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a toaster containing a carrot, an orange and an apple. There is also a girl with a shirt, a dress and a suitcase."
+    },
+    "143": {
+        "objects": [
+            "baby",
+            "trousers",
+            "eye glasses",
+            "skateboard",
+            "bowl",
+            "scissors",
+            "carrot",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a baby with a pair of trousers, a pair of eye glasses and a skateboard. There is also a bowl containing a pair of scissors, a carrot and an apple."
+    },
+    "144": {
+        "objects": [
+            "microwave",
+            "scissors",
+            "cake",
+            "donut",
+            "man",
+            "shirt",
+            "trousers",
+            "eye glasses"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a microwave including a pair of scissors, a cake and a donut. There is also a man with a shirt, a pair of trousers and a pair of eye glasses."
+    },
+    "145": {
+        "objects": [
+            "oven",
+            "scissors",
+            "hot dog",
+            "apple",
+            "bowl",
+            "toothbrush",
+            "broccoli",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is an oven containing a pair of scissors, a hot dog and an apple. There is also a bowl containing a toothbrush, a broccoli and a banana."
+    },
+    "146": {
+        "objects": [
+            "refrigerator",
+            "scissors",
+            "cake",
+            "orange",
+            "baby",
+            "dress",
+            "eye glasses",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a refrigerator including a pair of scissors, a cake and an orange. There is also a baby with a dress, a pair of eye glasses and a skateboard."
+    },
+    "147": {
+        "objects": [
+            "plate",
+            "scissors",
+            "carrot",
+            "orange",
+            "girl",
+            "shirt",
+            "T-shirt",
+            "baseball glove"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a plate including a pair of scissors, a carrot and an orange. There is also a girl with a shirt, a T-shirt and a baseball glove."
+    },
+    "148": {
+        "objects": [
+            "boy",
+            "coat",
+            "eye glasses",
+            "handbag",
+            "microwave",
+            "scissors",
+            "cake",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a boy with a coat, a pair of eye glasses and a handbag. There is also a microwave including a pair of scissors, a cake and an apple."
+    },
+    "149": {
+        "objects": [
+            "toaster",
+            "book",
+            "donut",
+            "carrot",
+            "plate",
+            "scissors",
+            "cake",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 6,
+            "objects number": 8
+        },
+        "prompt": "There is a toaster containing a book, a donut and a carrot. There is also a plate containing a pair of scissors, a cake and a sandwich."
+    }
+}

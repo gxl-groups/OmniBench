@@ -1,0 +1,6602 @@
+{
+    "0": {
+        "objects": [
+            "boy",
+            "car"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a boy standing next to a car."
+    },
+    "1": {
+        "objects": [
+            "boy",
+            "car"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a boy lying beneath a car."
+    },
+    "2": {
+        "objects": [
+            "snowboard",
+            "giraffe"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "Next to the giraffe, there is a snowboard."
+    },
+    "3": {
+        "objects": [
+            "snowboard",
+            "giraffe"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe is underneath the snowboard, with the snowboard resting on top of it."
+    },
+    "4": {
+        "objects": [
+            "train",
+            "teddy bear"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The train is above the teddy bear."
+    },
+    "5": {
+        "objects": [
+            "train",
+            "teddy bear"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The teddy bear and the train are positioned side by side, with the train next to the teddy bear."
+    },
+    "6": {
+        "objects": [
+            "truck",
+            "traffic light"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a truck parked next to a traffic light."
+    },
+    "7": {
+        "objects": [
+            "truck",
+            "traffic light"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "On the left of the traffic light, there is a truck."
+    },
+    "8": {
+        "objects": [
+            "elephant",
+            "clock"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is an elephant near a clock."
+    },
+    "9": {
+        "objects": [
+            "elephant",
+            "clock"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "An elephant is positioned far away from a clock."
+    },
+    "10": {
+        "objects": [
+            "bottle",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a bottle and an apple. The bottle is positioned far away from the apple."
+    },
+    "11": {
+        "objects": [
+            "bottle",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a bottle positioned above an apple."
+    },
+    "12": {
+        "objects": [
+            "curtain",
+            "dress"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The curtain is on the right side of the dress."
+    },
+    "13": {
+        "objects": [
+            "curtain",
+            "dress"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The curtain is under the dress."
+    },
+    "14": {
+        "objects": [
+            "cake",
+            "parking meter"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a cake located to the right of a parking meter."
+    },
+    "15": {
+        "objects": [
+            "cake",
+            "parking meter"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cake is located under the parking meter."
+    },
+    "16": {
+        "objects": [
+            "giraffe",
+            "umbrella"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a giraffe standing under an umbrella."
+    },
+    "17": {
+        "objects": [
+            "giraffe",
+            "umbrella"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe is standing on top of the umbrella."
+    },
+    "18": {
+        "objects": [
+            "scissors",
+            "skis"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a pair of scissors positioned next to a pair of skis."
+    },
+    "19": {
+        "objects": [
+            "scissors",
+            "skis"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a pair of scissors positioned above a pair of skis."
+    },
+    "20": {
+        "objects": [
+            "shirt",
+            "clock"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a shirt located below a clock."
+    },
+    "21": {
+        "objects": [
+            "shirt",
+            "clock"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The clock, on the left, is beside a shirt."
+    },
+    "22": {
+        "objects": [
+            "cell phone",
+            "scissors"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cell phone and a pair of scissors are placed far away from each other."
+    },
+    "23": {
+        "objects": [
+            "cell phone",
+            "scissors"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cell phone is located to the left of the pair of scissors."
+    },
+    "24": {
+        "objects": [
+            "carrot",
+            "bottle"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The carrot is positioned above the bottle."
+    },
+    "25": {
+        "objects": [
+            "carrot",
+            "bottle"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a carrot next to a bottle."
+    },
+    "26": {
+        "objects": [
+            "toilet",
+            "bottle"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bottle is below the toilet in the room."
+    },
+    "27": {
+        "objects": [
+            "toilet",
+            "bottle"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a bottle above a toilet."
+    },
+    "28": {
+        "objects": [
+            "bottle",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a bottle positioned below a banana."
+    },
+    "29": {
+        "objects": [
+            "bottle",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "Above the banana, there is a bottle and a banana."
+    },
+    "30": {
+        "objects": [
+            "cup",
+            "bus"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a cup that is far away from a bus."
+    },
+    "31": {
+        "objects": [
+            "cup",
+            "bus"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a cup next to a bus."
+    },
+    "32": {
+        "objects": [
+            "sheep",
+            "vase"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a sheep on the left side of a vase."
+    },
+    "33": {
+        "objects": [
+            "sheep",
+            "vase"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a sheep positioned above a vase."
+    },
+    "34": {
+        "objects": [
+            "apple",
+            "boat"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is an apple and a boat, with the apple located to the left of the boat."
+    },
+    "35": {
+        "objects": [
+            "apple",
+            "boat"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is an apple and a boat, with the apple positioned far away from the boat."
+    },
+    "36": {
+        "objects": [
+            "book",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a book located above a sandwich."
+    },
+    "37": {
+        "objects": [
+            "book",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a book on the left of a sandwich."
+    },
+    "38": {
+        "objects": [
+            "fire hydrant",
+            "airplane"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The airplane is on the left of the fire hydrant."
+    },
+    "39": {
+        "objects": [
+            "fire hydrant",
+            "airplane"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a fire hydrant on top of the airplane."
+    },
+    "40": {
+        "objects": [
+            "dress",
+            "spoon"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a dress to the left of a spoon."
+    },
+    "41": {
+        "objects": [
+            "dress",
+            "spoon"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The dress and the spoon are at a distance from each other, with the dress positioned far away from the spoon."
+    },
+    "42": {
+        "objects": [
+            "fire hydrant",
+            "elephant"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "An elephant is standing with a fire hydrant placed on its back."
+    },
+    "43": {
+        "objects": [
+            "fire hydrant",
+            "elephant"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is an elephant standing near a fire hydrant, which is located at a distance from it."
+    },
+    "44": {
+        "objects": [
+            "hair drier",
+            "bird"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The hair drier is located to the left of the bird in the scene."
+    },
+    "45": {
+        "objects": [
+            "hair drier",
+            "bird"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a hair dryer positioned far away from a bird."
+    },
+    "46": {
+        "objects": [
+            "orange",
+            "bench"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is an orange and a bench. The orange is positioned far away from the bench."
+    },
+    "47": {
+        "objects": [
+            "orange",
+            "bench"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "An orange is under a bench."
+    },
+    "48": {
+        "objects": [
+            "cow",
+            "clock"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a cow next to a clock."
+    },
+    "49": {
+        "objects": [
+            "cow",
+            "clock"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "In the room, there is a cow situated at a distance from the clock."
+    },
+    "50": {
+        "objects": [
+            "bed",
+            "dog"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The dog is above a bed that is underneath it."
+    },
+    "51": {
+        "objects": [
+            "bed",
+            "dog"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bed is next to the dog."
+    },
+    "52": {
+        "objects": [
+            "teddy bear",
+            "keyboard"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The teddy bear is on the right side of the keyboard."
+    },
+    "53": {
+        "objects": [
+            "teddy bear",
+            "keyboard"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The teddy bear is positioned far away from the keyboard."
+    },
+    "54": {
+        "objects": [
+            "fork",
+            "toothbrush"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a fork on the left of a toothbrush."
+    },
+    "55": {
+        "objects": [
+            "fork",
+            "toothbrush"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The fork is positioned above the toothbrush in the scene."
+    },
+    "56": {
+        "objects": [
+            "horse",
+            "book"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The book is on top of the horse."
+    },
+    "57": {
+        "objects": [
+            "horse",
+            "book"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The horse is on the left of the book in this scene, showcasing a horse and a book."
+    },
+    "58": {
+        "objects": [
+            "man",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a man standing far away from an apple."
+    },
+    "59": {
+        "objects": [
+            "man",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a man standing next to an apple."
+    },
+    "60": {
+        "objects": [
+            "dining table",
+            "cat"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cat is on the right side of the dining table."
+    },
+    "61": {
+        "objects": [
+            "dining table",
+            "cat"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a dining table next to a cat."
+    },
+    "62": {
+        "objects": [
+            "car",
+            "laptop"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The car is located to the left of the laptop."
+    },
+    "63": {
+        "objects": [
+            "car",
+            "laptop"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a car that is far away from a laptop."
+    },
+    "64": {
+        "objects": [
+            "motorcycle",
+            "knife"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The motorcycle is located to the right of the knife."
+    },
+    "65": {
+        "objects": [
+            "motorcycle",
+            "knife"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a motorcycle positioned above a knife."
+    },
+    "66": {
+        "objects": [
+            "motorcycle",
+            "trousers"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The motorcycle is on the left side of the pair of trousers."
+    },
+    "67": {
+        "objects": [
+            "motorcycle",
+            "trousers"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The motorcycle and a pair of trousers are situated apart from each other, with the motorcycle being far away from the trousers."
+    },
+    "68": {
+        "objects": [
+            "dress",
+            "potted plant"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "On the right of the potted plant, there is a dress."
+    },
+    "69": {
+        "objects": [
+            "dress",
+            "potted plant"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The dress and the potted plant are in the same room, but they are positioned far away from each other."
+    },
+    "70": {
+        "objects": [
+            "skateboard",
+            "truck"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The skateboard is positioned above the truck."
+    },
+    "71": {
+        "objects": [
+            "skateboard",
+            "truck"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The skateboard is on the left side of the truck."
+    },
+    "72": {
+        "objects": [
+            "curtain",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a curtain situated close to a broccoli plant."
+    },
+    "73": {
+        "objects": [
+            "curtain",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a curtain draped over a broccoli."
+    },
+    "74": {
+        "objects": [
+            "man",
+            "microwave"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The man is below the microwave."
+    },
+    "75": {
+        "objects": [
+            "man",
+            "microwave"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "Next to the microwave, there is a man."
+    },
+    "76": {
+        "objects": [
+            "woman",
+            "laptop"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a woman positioned underneath a laptop."
+    },
+    "77": {
+        "objects": [
+            "woman",
+            "laptop"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "To the left of the laptop, there is a woman."
+    },
+    "78": {
+        "objects": [
+            "sports ball",
+            "truck"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The sports ball is located far away from the truck."
+    },
+    "79": {
+        "objects": [
+            "sports ball",
+            "truck"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a sports ball and a truck, with the sports ball positioned beside the truck."
+    },
+    "80": {
+        "objects": [
+            "bench",
+            "baby"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a baby sitting on a bench, with the bench positioned next to the baby."
+    },
+    "81": {
+        "objects": [
+            "bench",
+            "baby"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a bench underneath a baby."
+    },
+    "82": {
+        "objects": [
+            "bicycle",
+            "mouse"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bicycle is next to the mouse."
+    },
+    "83": {
+        "objects": [
+            "bicycle",
+            "mouse"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a mouse near a bicycle, which is positioned far away from the mouse."
+    },
+    "84": {
+        "objects": [
+            "elephant",
+            "boy"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The boy is under the elephant."
+    },
+    "85": {
+        "objects": [
+            "elephant",
+            "boy"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "An elephant is on the left side of a boy."
+    },
+    "86": {
+        "objects": [
+            "car",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The car is positioned next to the carrot on its side."
+    },
+    "87": {
+        "objects": [
+            "car",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The car is positioned far away from the carrot in the scene."
+    },
+    "88": {
+        "objects": [
+            "shirt",
+            "bed"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a shirt positioned above a bed."
+    },
+    "89": {
+        "objects": [
+            "shirt",
+            "bed"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bed and a shirt are in the room, with the shirt located near the bed."
+    },
+    "90": {
+        "objects": [
+            "snowboard",
+            "dress"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The snowboard is positioned to the left of the dress."
+    },
+    "91": {
+        "objects": [
+            "snowboard",
+            "dress"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The snowboard is placed next to the dress."
+    },
+    "92": {
+        "objects": [
+            "sink",
+            "laptop"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a sink located far away from a laptop."
+    },
+    "93": {
+        "objects": [
+            "sink",
+            "laptop"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The sink is near the laptop in the room."
+    },
+    "94": {
+        "objects": [
+            "bird",
+            "cake"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bird is to the right of the cake."
+    },
+    "95": {
+        "objects": [
+            "bird",
+            "cake"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a cake with a bird sitting on top of it."
+    },
+    "96": {
+        "objects": [
+            "book",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The book is positioned underneath the broccoli in this arrangement."
+    },
+    "97": {
+        "objects": [
+            "book",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The book is positioned above the broccoli."
+    },
+    "98": {
+        "objects": [
+            "pizza",
+            "giraffe"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe is above the pizza, and the pizza is located below the giraffe."
+    },
+    "99": {
+        "objects": [
+            "pizza",
+            "giraffe"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a pizza positioned above a giraffe."
+    },
+    "100": {
+        "objects": [
+            "coat",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The coat is positioned on the right side of the pizza."
+    },
+    "101": {
+        "objects": [
+            "cow",
+            "book"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a cow and a book in the scene, with the cow positioned at a significant distance from the book."
+    },
+    "102": {
+        "objects": [
+            "bed",
+            "sink"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bed is positioned below the sink in the room."
+    },
+    "103": {
+        "objects": [
+            "bench",
+            "frisbee"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a bench above a frisbee."
+    },
+    "104": {
+        "objects": [
+            "truck",
+            "snowboard"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The truck is located next to the snowboard."
+    },
+    "105": {
+        "objects": [
+            "bear",
+            "cake"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bear is on the right side of the cake."
+    },
+    "106": {
+        "objects": [
+            "motorcycle",
+            "oven"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a motorcycle that is positioned far away from an oven."
+    },
+    "107": {
+        "objects": [
+            "teddy bear",
+            "baseball bat"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The teddy bear is positioned below the baseball bat."
+    },
+    "108": {
+        "objects": [
+            "sink",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a sink next to a carrot."
+    },
+    "109": {
+        "objects": [
+            "bear",
+            "toothbrush"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a bear under a toothbrush."
+    },
+    "110": {
+        "objects": [
+            "suitcase",
+            "bear"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a suitcase positioned above a bear."
+    },
+    "111": {
+        "objects": [
+            "skateboard",
+            "cow"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The skateboard is positioned next to the cow."
+    },
+    "112": {
+        "objects": [
+            "carpet",
+            "eye glasses"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There are a pair of eyeglasses placed on top of a carpet."
+    },
+    "113": {
+        "objects": [
+            "donut",
+            "truck"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "On the side of the truck, there is a donut."
+    },
+    "114": {
+        "objects": [
+            "man",
+            "bird"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bird is above the man."
+    },
+    "115": {
+        "objects": [
+            "T-shirt",
+            "bird"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a T-shirt next to a bird, the T-shirt is beside the bird."
+    },
+    "116": {
+        "objects": [
+            "broccoli",
+            "bird"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bird is on the right of the broccoli."
+    },
+    "117": {
+        "objects": [
+            "bottle",
+            "toothbrush"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bottle is placed far away from the toothbrush in the composition."
+    },
+    "118": {
+        "objects": [
+            "carpet",
+            "zebra"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra is above the carpet."
+    },
+    "119": {
+        "objects": [
+            "horse",
+            "toilet"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a horse that is positioned far away from a toilet."
+    },
+    "120": {
+        "objects": [
+            "baseball bat",
+            "mouse"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The baseball bat is resting on top of the mouse."
+    },
+    "121": {
+        "objects": [
+            "hair drier",
+            "laptop"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a hair dryer placed on top of a laptop."
+    },
+    "122": {
+        "objects": [
+            "keyboard",
+            "oven"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a keyboard on the left side of the oven."
+    },
+    "123": {
+        "objects": [
+            "laptop",
+            "cake"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The laptop is to the left of the cake in the scene."
+    },
+    "124": {
+        "objects": [
+            "curtain",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The curtain is on the left side of the hot dog."
+    },
+    "125": {
+        "objects": [
+            "cow",
+            "coat"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a cow beneath a coat."
+    },
+    "126": {
+        "objects": [
+            "car",
+            "book"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The car is placed next to the book on the side."
+    },
+    "127": {
+        "objects": [
+            "eye glasses",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a pair of eyeglasses to the right of a skateboard."
+    },
+    "128": {
+        "objects": [
+            "girl",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a girl sitting on a donut."
+    },
+    "129": {
+        "objects": [
+            "cell phone",
+            "bowl"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cell phone is located to the right of the bowl."
+    },
+    "130": {
+        "objects": [
+            "sandwich",
+            "boat"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The sandwich is placed above the boat."
+    },
+    "131": {
+        "objects": [
+            "shirt",
+            "dining table"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The shirt is on the left of the dining table."
+    },
+    "132": {
+        "objects": [
+            "refrigerator",
+            "elephant"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a refrigerator below an elephant."
+    },
+    "133": {
+        "objects": [
+            "fire hydrant",
+            "mouse"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The mouse is positioned above the fire hydrant, indicating that the fire hydrant is located below the mouse."
+    },
+    "134": {
+        "objects": [
+            "woman",
+            "cat"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The woman is underneath the cat."
+    },
+    "135": {
+        "objects": [
+            "mouse",
+            "carpet"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a mouse on the right side of the carpet."
+    },
+    "136": {
+        "objects": [
+            "umbrella",
+            "dining table"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is an umbrella and a dining table, with the umbrella positioned to the right of the dining table."
+    },
+    "137": {
+        "objects": [
+            "refrigerator",
+            "tv"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The refrigerator is located to the left of the TV."
+    },
+    "138": {
+        "objects": [
+            "mouse",
+            "toothbrush"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The mouse is on the right side of the toothbrush."
+    },
+    "139": {
+        "objects": [
+            "kite",
+            "trousers"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The kite and a pair of trousers are separated by a considerable distance from each other."
+    },
+    "140": {
+        "objects": [
+            "train",
+            "traffic light"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The train is located near the traffic light."
+    },
+    "141": {
+        "objects": [
+            "couch",
+            "bowl"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The couch is on the left of the bowl, with a bowl sitting nearby."
+    },
+    "142": {
+        "objects": [
+            "dress",
+            "bicycle"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The dress is placed above the bicycle."
+    },
+    "143": {
+        "objects": [
+            "eye glasses",
+            "horse"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a pair of eyeglasses to the right of a horse."
+    },
+    "144": {
+        "objects": [
+            "potted plant",
+            "boat"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The boat is on the left of a potted plant."
+    },
+    "145": {
+        "objects": [
+            "potted plant",
+            "man"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The man is on the right of the potted plant in the room."
+    },
+    "146": {
+        "objects": [
+            "skis",
+            "hair drier"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a pair of skis on the right side of a hair dryer."
+    },
+    "147": {
+        "objects": [
+            "T-shirt",
+            "bear"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a T-shirt positioned above a bear."
+    },
+    "148": {
+        "objects": [
+            "broccoli",
+            "bed"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a bed with a broccoli placed on top of it."
+    },
+    "149": {
+        "objects": [
+            "boat",
+            "chair"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The boat is positioned on the left of the chair in the scene."
+    },
+    "150": {
+        "objects": [
+            "giraffe",
+            "truck"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe is on the right side of the truck in the scene where a giraffe and a truck appear."
+    },
+    "151": {
+        "objects": [
+            "parking meter",
+            "airplane"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a parking meter near the airplane."
+    },
+    "152": {
+        "objects": [
+            "bed",
+            "frisbee"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The frisbee is below the bed."
+    },
+    "153": {
+        "objects": [
+            "bear",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a bear positioned to the right of a carrot."
+    },
+    "154": {
+        "objects": [
+            "bird",
+            "bicycle"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bird is perched on the bicycle."
+    },
+    "155": {
+        "objects": [
+            "refrigerator",
+            "car"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The car is on the left of the refrigerator in the scene."
+    },
+    "156": {
+        "objects": [
+            "man",
+            "suitcase"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The man is standing far away from the suitcase."
+    },
+    "157": {
+        "objects": [
+            "street sign",
+            "fork"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The street sign is on the right side of the fork in the road."
+    },
+    "158": {
+        "objects": [
+            "surfboard",
+            "couch"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "On the left side of the couch, there is a surfboard and it is placed next to it."
+    },
+    "159": {
+        "objects": [
+            "laptop",
+            "bench"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a laptop on the left of a bench."
+    },
+    "160": {
+        "objects": [
+            "pizza",
+            "dress"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The pizza is located to the right of the dress in the scene."
+    },
+    "161": {
+        "objects": [
+            "zebra",
+            "remote"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a zebra on the left side of a remote control."
+    },
+    "162": {
+        "objects": [
+            "train",
+            "oven"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a train located to the right of an oven."
+    },
+    "163": {
+        "objects": [
+            "vase",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a vase sitting on top of an orange."
+    },
+    "164": {
+        "objects": [
+            "couch",
+            "truck"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The couch is positioned far away from the truck in the room."
+    },
+    "165": {
+        "objects": [
+            "suitcase",
+            "hair drier"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a suitcase on the left side of a hair dryer."
+    },
+    "166": {
+        "objects": [
+            "broccoli",
+            "dog"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a broccoli on the left side of a dog."
+    },
+    "167": {
+        "objects": [
+            "bus",
+            "surfboard"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a bus on top of a surfboard."
+    },
+    "168": {
+        "objects": [
+            "fork",
+            "horse"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a horse with a fork placed on its back."
+    },
+    "169": {
+        "objects": [
+            "book",
+            "kite"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a book on the right side of a kite."
+    },
+    "170": {
+        "objects": [
+            "vase",
+            "bed"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a bed on one side of the room, and next to the bed, there is a vase."
+    },
+    "171": {
+        "objects": [
+            "giraffe",
+            "cake"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe is next to the cake, which is a delicious dessert."
+    },
+    "172": {
+        "objects": [
+            "street sign",
+            "curtain"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a street sign positioned above a curtain on the wall."
+    },
+    "173": {
+        "objects": [
+            "teddy bear",
+            "train"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The teddy bear is placed underneath the train."
+    },
+    "174": {
+        "objects": [
+            "car",
+            "street sign"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The car is positioned above the street sign."
+    },
+    "175": {
+        "objects": [
+            "refrigerator",
+            "boy"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The refrigerator is on the left side of the boy."
+    },
+    "176": {
+        "objects": [
+            "eye glasses",
+            "street sign"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The pair of eye glasses is far away from the street sign."
+    },
+    "177": {
+        "objects": [
+            "skis",
+            "car"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The car is on the right of a pair of skis."
+    },
+    "178": {
+        "objects": [
+            "bowl",
+            "zebra"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a bowl positioned above a zebra."
+    },
+    "179": {
+        "objects": [
+            "shirt",
+            "skis"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The shirt is on the left of the skis, and there is also a pair of skis present."
+    },
+    "180": {
+        "objects": [
+            "donut",
+            "clock"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a donut located near a clock."
+    },
+    "181": {
+        "objects": [
+            "truck",
+            "giraffe"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a truck positioned to the right of a giraffe."
+    },
+    "182": {
+        "objects": [
+            "skateboard",
+            "bed"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The skateboard is positioned on top of the bed in the room."
+    },
+    "183": {
+        "objects": [
+            "trousers",
+            "baseball bat"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a pair of trousers on the left of a baseball bat."
+    },
+    "184": {
+        "objects": [
+            "chair",
+            "parking meter"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a chair located to the left of a parking meter."
+    },
+    "185": {
+        "objects": [
+            "toilet",
+            "traffic light"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The toilet is located on the left side of the traffic light."
+    },
+    "186": {
+        "objects": [
+            "zebra",
+            "baseball glove"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a zebra located to the left of a baseball glove."
+    },
+    "187": {
+        "objects": [
+            "bear",
+            "baby"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The baby and the bear are present; however, the bear is positioned far away from the baby."
+    },
+    "188": {
+        "objects": [
+            "dog",
+            "surfboard"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The dog is next to the surfboard in the image."
+    },
+    "189": {
+        "objects": [
+            "handbag",
+            "cell phone"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The handbag is on the right side of the cell phone."
+    },
+    "190": {
+        "objects": [
+            "cake",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a cake positioned next to a skateboard."
+    },
+    "191": {
+        "objects": [
+            "man",
+            "dining table"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a man sitting on the dining table."
+    },
+    "192": {
+        "objects": [
+            "broccoli",
+            "sink"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a broccoli on the side of the sink."
+    },
+    "193": {
+        "objects": [
+            "pizza",
+            "carpet"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The pizza is placed below the carpet."
+    },
+    "194": {
+        "objects": [
+            "cake",
+            "fire hydrant"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cake is positioned to the left of the fire hydrant in the scene."
+    },
+    "195": {
+        "objects": [
+            "fire hydrant",
+            "woman"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The woman is standing over the fire hydrant in the photograph."
+    },
+    "196": {
+        "objects": [
+            "knife",
+            "T-shirt"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a knife under the T-shirt."
+    },
+    "197": {
+        "objects": [
+            "fire hydrant",
+            "curtain"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The fire hydrant is located underneath the curtain."
+    },
+    "198": {
+        "objects": [
+            "remote",
+            "bus"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The remote is far away from the bus in terms of spatial distance."
+    },
+    "199": {
+        "objects": [
+            "truck",
+            "keyboard"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The keyboard is placed above the truck in the sentence, There is a truck and a keyboard, the truck is below the keyboard."
+    },
+    "200": {
+        "objects": [
+            "street sign",
+            "eye glasses"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The street sign is located to the right of the pair of eyeglasses."
+    },
+    "201": {
+        "objects": [
+            "truck",
+            "fire hydrant"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a truck positioned above a fire hydrant."
+    },
+    "202": {
+        "objects": [
+            "horse",
+            "T-shirt"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a horse positioned underneath a T-shirt."
+    },
+    "203": {
+        "objects": [
+            "truck",
+            "cow"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a truck underneath a cow."
+    },
+    "204": {
+        "objects": [
+            "refrigerator",
+            "toilet"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a refrigerator on the left side of the toilet."
+    },
+    "205": {
+        "objects": [
+            "snowboard",
+            "girl"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The girl has a snowboard on top of her."
+    },
+    "206": {
+        "objects": [
+            "zebra",
+            "book"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra is sitting on the book."
+    },
+    "207": {
+        "objects": [
+            "traffic light",
+            "kite"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a traffic light above a kite."
+    },
+    "208": {
+        "objects": [
+            "elephant",
+            "potted plant"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "An elephant stands at a distance from a potted plant."
+    },
+    "209": {
+        "objects": [
+            "bench",
+            "toilet"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The toilet is on the left of the bench."
+    },
+    "210": {
+        "objects": [
+            "girl",
+            "motorcycle"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a girl standing to the right of a motorcycle."
+    },
+    "211": {
+        "objects": [
+            "surfboard",
+            "bear"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "Next to the bear, there is a surfboard."
+    },
+    "212": {
+        "objects": [
+            "oven",
+            "cell phone"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is an oven and a cell phone. The oven is positioned to the left of the cell phone."
+    },
+    "213": {
+        "objects": [
+            "trousers",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The skateboard is on the left of a pair of trousers."
+    },
+    "214": {
+        "objects": [
+            "bench",
+            "T-shirt"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a bench positioned far away from a T-shirt."
+    },
+    "215": {
+        "objects": [
+            "banana",
+            "refrigerator"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The banana and the refrigerator are positioned next to each other."
+    },
+    "216": {
+        "objects": [
+            "fork",
+            "bus"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "On the bus, there is a fork placed on its seat."
+    },
+    "217": {
+        "objects": [
+            "baseball glove",
+            "elephant"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is an elephant next to a baseball glove."
+    },
+    "218": {
+        "objects": [
+            "cat",
+            "handbag"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a cat located to the right of a handbag."
+    },
+    "219": {
+        "objects": [
+            "potted plant",
+            "sheep"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The sheep is on top of the potted plant."
+    },
+    "220": {
+        "objects": [
+            "skateboard",
+            "vase"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The skateboard is located underneath the vase."
+    },
+    "221": {
+        "objects": [
+            "microwave",
+            "frisbee"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a microwave located above a frisbee."
+    },
+    "222": {
+        "objects": [
+            "tv",
+            "toaster"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a TV beneath a toaster."
+    },
+    "223": {
+        "objects": [
+            "fork",
+            "oven"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The fork is positioned above the oven in the scene containing both objects."
+    },
+    "224": {
+        "objects": [
+            "mouse",
+            "boy"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The mouse is far away from the boy in the scene."
+    },
+    "225": {
+        "objects": [
+            "frisbee",
+            "bird"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bird is on the left of the frisbee."
+    },
+    "226": {
+        "objects": [
+            "handbag",
+            "dress"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a handbag located far away from a dress."
+    },
+    "227": {
+        "objects": [
+            "coat",
+            "spoon"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The coat is located far away from the spoon."
+    },
+    "228": {
+        "objects": [
+            "kite",
+            "eye glasses"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a kite in the distance, positioned far away from a pair of eyeglasses nearby."
+    },
+    "229": {
+        "objects": [
+            "bus",
+            "potted plant"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a bus positioned above a potted plant."
+    },
+    "230": {
+        "objects": [
+            "bicycle",
+            "handbag"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a bicycle located to the right of a handbag."
+    },
+    "231": {
+        "objects": [
+            "remote",
+            "boat"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The boat is on the left of the remote."
+    },
+    "232": {
+        "objects": [
+            "hair drier",
+            "tv"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The hair dryer is positioned on the side of the TV, alongside other objects like a hair dryer and a TV."
+    },
+    "233": {
+        "objects": [
+            "potted plant",
+            "scissors"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The potted plant is positioned to the right of the pair of scissors."
+    },
+    "234": {
+        "objects": [
+            "train",
+            "zebra"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The train is positioned above the zebra."
+    },
+    "235": {
+        "objects": [
+            "donut",
+            "coat"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a donut placed above a coat."
+    },
+    "236": {
+        "objects": [
+            "woman",
+            "fork"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a woman standing on top of a fork."
+    },
+    "237": {
+        "objects": [
+            "giraffe",
+            "car"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a giraffe that is far away from a car."
+    },
+    "238": {
+        "objects": [
+            "suitcase",
+            "trousers"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a suitcase located to the right of a pair of trousers."
+    },
+    "239": {
+        "objects": [
+            "tv",
+            "suitcase"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a TV located beneath a suitcase."
+    },
+    "240": {
+        "objects": [
+            "cake",
+            "elephant"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cake is far away from the elephant in the distance."
+    },
+    "241": {
+        "objects": [
+            "woman",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The woman is far away from the hot dog."
+    },
+    "242": {
+        "objects": [
+            "eye glasses",
+            "vase"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a pair of eyeglasses situated beneath a vase."
+    },
+    "243": {
+        "objects": [
+            "kite",
+            "bench"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a kite to the right of a bench."
+    },
+    "244": {
+        "objects": [
+            "broccoli",
+            "curtain"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "To the left of the curtain, there is a broccoli."
+    },
+    "245": {
+        "objects": [
+            "airplane",
+            "elephant"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "An airplane is next to an elephant."
+    },
+    "246": {
+        "objects": [
+            "teddy bear",
+            "spoon"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The teddy bear and the spoon are placed apart from each other, the teddy bear being positioned at a distance from the spoon."
+    },
+    "247": {
+        "objects": [
+            "cow",
+            "bottle"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a cow on the left side of a bottle."
+    },
+    "248": {
+        "objects": [
+            "truck",
+            "sports ball"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The truck is positioned above the sports ball."
+    },
+    "249": {
+        "objects": [
+            "oven",
+            "baseball bat"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The oven is under the baseball bat in the room."
+    },
+    "250": {
+        "objects": [
+            "scissors",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a pair of scissors positioned above the orange."
+    },
+    "251": {
+        "objects": [
+            "airplane",
+            "tv"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The airplane is far away from the TV."
+    },
+    "252": {
+        "objects": [
+            "horse",
+            "handbag"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a horse next to a handbag."
+    },
+    "253": {
+        "objects": [
+            "surfboard",
+            "airplane"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The surfboard is positioned above the airplane."
+    },
+    "254": {
+        "objects": [
+            "dining table",
+            "bicycle"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a dining table and a bicycle, with the dining table positioned on the right side of the bicycle."
+    },
+    "255": {
+        "objects": [
+            "cup",
+            "tv"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cup is located far away from the TV in the room."
+    },
+    "256": {
+        "objects": [
+            "boy",
+            "suitcase"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a boy standing to the left of a suitcase."
+    },
+    "257": {
+        "objects": [
+            "clock",
+            "eye glasses"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The clock is positioned to the right of the pair of eyeglasses."
+    },
+    "258": {
+        "objects": [
+            "boy",
+            "cow"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The boy is above the cow."
+    },
+    "259": {
+        "objects": [
+            "dining table",
+            "giraffe"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The dining table is positioned below a giraffe."
+    },
+    "260": {
+        "objects": [
+            "vase",
+            "curtain"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a vase positioned far away from the curtain."
+    },
+    "261": {
+        "objects": [
+            "teddy bear",
+            "T-shirt"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The teddy bear is positioned underneath the T-shirt."
+    },
+    "262": {
+        "objects": [
+            "laptop",
+            "tennis racket"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a laptop, a tennis racket, the laptop is on the right of the tennis racket."
+    },
+    "263": {
+        "objects": [
+            "skis",
+            "woman"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The woman is standing to the right of a pair of skis."
+    },
+    "264": {
+        "objects": [
+            "dress",
+            "street sign"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a dress hanging on a street sign."
+    },
+    "265": {
+        "objects": [
+            "coat",
+            "bench"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a coat placed on top of a bench."
+    },
+    "266": {
+        "objects": [
+            "dining table",
+            "cell phone"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The dining table is on the right side of the cell phone."
+    },
+    "267": {
+        "objects": [
+            "curtain",
+            "giraffe"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe is standing to the right of a curtain, which is positioned on the left side of the giraffe."
+    },
+    "268": {
+        "objects": [
+            "vase",
+            "snowboard"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The vase is positioned to the right of the snowboard, there is also a snowboard in the scene."
+    },
+    "269": {
+        "objects": [
+            "bird",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a bird on the left side of a hot dog."
+    },
+    "270": {
+        "objects": [
+            "train",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The train is positioned above the broccoli."
+    },
+    "271": {
+        "objects": [
+            "baseball bat",
+            "cake"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The baseball bat is positioned to the left of the cake."
+    },
+    "272": {
+        "objects": [
+            "woman",
+            "oven"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a woman standing to the right of an oven."
+    },
+    "273": {
+        "objects": [
+            "baseball glove",
+            "knife"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The baseball glove is positioned far away from the knife."
+    },
+    "274": {
+        "objects": [
+            "bear",
+            "curtain"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a bear positioned far away from a curtain."
+    },
+    "275": {
+        "objects": [
+            "shirt",
+            "cell phone"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The shirt is resting on top of the cell phone."
+    },
+    "276": {
+        "objects": [
+            "horse",
+            "suitcase"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a horse positioned far away from a suitcase."
+    },
+    "277": {
+        "objects": [
+            "boat",
+            "fire hydrant"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a boat positioned above a fire hydrant."
+    },
+    "278": {
+        "objects": [
+            "bowl",
+            "book"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bowl is below the book on the table."
+    },
+    "279": {
+        "objects": [
+            "bed",
+            "sheep"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The sheep is on the left of the bed, which is positioned next to it."
+    },
+    "280": {
+        "objects": [
+            "boy",
+            "shirt"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The boy is wearing a shirt."
+    },
+    "281": {
+        "objects": [
+            "fork",
+            "couch"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The fork is located under the couch."
+    },
+    "282": {
+        "objects": [
+            "laptop",
+            "coat"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a laptop on the right side of a coat."
+    },
+    "283": {
+        "objects": [
+            "baseball glove",
+            "chair"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The baseball glove is located to the right of the chair."
+    },
+    "284": {
+        "objects": [
+            "girl",
+            "plate"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The girl is on the right side of the plate."
+    },
+    "285": {
+        "objects": [
+            "girl",
+            "refrigerator"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A girl is standing beside a refrigerator."
+    },
+    "286": {
+        "objects": [
+            "tv",
+            "carpet"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a TV positioned far away from the carpet."
+    },
+    "287": {
+        "objects": [
+            "toothbrush",
+            "bird"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The toothbrush is located far away from the bird in the scene."
+    },
+    "288": {
+        "objects": [
+            "sports ball",
+            "toaster"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The sports ball is located to the right of the toaster."
+    },
+    "289": {
+        "objects": [
+            "dress",
+            "chair"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "On the right of the chair, there is a dress."
+    },
+    "290": {
+        "objects": [
+            "curtain",
+            "suitcase"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a suitcase with a curtain on top of it."
+    },
+    "291": {
+        "objects": [
+            "trousers",
+            "train"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a pair of trousers far away from the train."
+    },
+    "292": {
+        "objects": [
+            "girl",
+            "trousers"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "To the left of a pair of trousers, there is a girl."
+    },
+    "293": {
+        "objects": [
+            "clock",
+            "giraffe"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe is on the left of the clock."
+    },
+    "294": {
+        "objects": [
+            "tv",
+            "dog"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The dog and the TV are placed apart from each other, with the TV situated at a distance from the dog."
+    },
+    "295": {
+        "objects": [
+            "street sign",
+            "elephant"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "An elephant is standing above a street sign."
+    },
+    "296": {
+        "objects": [
+            "toilet",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The toilet is located to the right of the broccoli."
+    },
+    "297": {
+        "objects": [
+            "backpack",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The banana is on the left of the backpack."
+    },
+    "298": {
+        "objects": [
+            "parking meter",
+            "microwave"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The microwave is located below the parking meter."
+    },
+    "299": {
+        "objects": [
+            "horse",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The horse is far away from the carrot on the other side."
+    },
+    "300": {
+        "objects": [
+            "T-shirt",
+            "trousers"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The T-shirt is on the right side of the pair of trousers."
+    },
+    "301": {
+        "objects": [
+            "T-shirt",
+            "trousers"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The T-shirt is positioned next to the pair of trousers."
+    },
+    "302": {
+        "objects": [
+            "boat",
+            "motorcycle"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The motorcycle is on top of the boat."
+    },
+    "303": {
+        "objects": [
+            "boat",
+            "motorcycle"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a motorcycle with a boat positioned on top of it."
+    },
+    "304": {
+        "objects": [
+            "dining table",
+            "carpet"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The dining table is placed on top of the carpet in the room."
+    },
+    "305": {
+        "objects": [
+            "dining table",
+            "carpet"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The dining table is on the left of the carpet in the room."
+    },
+    "306": {
+        "objects": [
+            "carrot",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a carrot next to a broccoli."
+    },
+    "307": {
+        "objects": [
+            "carrot",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The broccoli is on the left of the carrot."
+    },
+    "308": {
+        "objects": [
+            "toilet",
+            "curtain"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The toilet is situated far away from the curtain in the room."
+    },
+    "309": {
+        "objects": [
+            "toilet",
+            "curtain"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a curtain on the left, and on the right of the curtain, there is a toilet."
+    },
+    "310": {
+        "objects": [
+            "baseball bat",
+            "snowboard"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The baseball bat is placed on top of the snowboard."
+    },
+    "311": {
+        "objects": [
+            "baseball bat",
+            "snowboard"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The baseball bat is located far from the snowboard in the scene."
+    },
+    "312": {
+        "objects": [
+            "cow",
+            "sheep"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a cow to the left of a sheep."
+    },
+    "313": {
+        "objects": [
+            "cow",
+            "sheep"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cow is positioned next to the sheep in the field."
+    },
+    "314": {
+        "objects": [
+            "train",
+            "motorcycle"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a train on top of a motorcycle."
+    },
+    "315": {
+        "objects": [
+            "train",
+            "motorcycle"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The train is positioned alongside the motorcycle."
+    },
+    "316": {
+        "objects": [
+            "boat",
+            "bus"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The boat is situated beside the bus, with the boat positioned next to the bus."
+    },
+    "317": {
+        "objects": [
+            "boat",
+            "bus"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The boat is on the left side of the bus."
+    },
+    "318": {
+        "objects": [
+            "mouse",
+            "laptop"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a mouse located underneath a laptop."
+    },
+    "319": {
+        "objects": [
+            "mouse",
+            "laptop"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a mouse positioned at a distance from the laptop."
+    },
+    "320": {
+        "objects": [
+            "carrot",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a carrot resting on top of a banana."
+    },
+    "321": {
+        "objects": [
+            "carrot",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The carrot is on the left of the banana."
+    },
+    "322": {
+        "objects": [
+            "mouse",
+            "tv"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a mouse under the TV."
+    },
+    "323": {
+        "objects": [
+            "mouse",
+            "tv"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a mouse on the left side of a TV."
+    },
+    "324": {
+        "objects": [
+            "bicycle",
+            "car"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a bicycle and a car, with the bicycle positioned on the right side of the car."
+    },
+    "325": {
+        "objects": [
+            "bicycle",
+            "car"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bicycle and the car are in the same area, but they are quite far apart from each other."
+    },
+    "326": {
+        "objects": [
+            "cup",
+            "bottle"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a cup on top of a bottle."
+    },
+    "327": {
+        "objects": [
+            "cup",
+            "bottle"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a cup next to a bottle, with the cup positioned beside the bottle."
+    },
+    "328": {
+        "objects": [
+            "broccoli",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a broccoli next to an apple."
+    },
+    "329": {
+        "objects": [
+            "broccoli",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a broccoli and an apple, with the broccoli positioned on top of the apple."
+    },
+    "330": {
+        "objects": [
+            "toilet",
+            "dining table"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The toilet is located beneath the dining table."
+    },
+    "331": {
+        "objects": [
+            "toilet",
+            "dining table"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a dining table with a toilet situated on its side."
+    },
+    "332": {
+        "objects": [
+            "boat",
+            "truck"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a boat on the left side of a truck."
+    },
+    "333": {
+        "objects": [
+            "boat",
+            "truck"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The truck is on the left of the boat in the picture."
+    },
+    "334": {
+        "objects": [
+            "toothbrush",
+            "vase"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The toothbrush is on the left side of the vase, alongside a vase and a toothbrush."
+    },
+    "335": {
+        "objects": [
+            "toothbrush",
+            "vase"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The toothbrush and the vase are positioned with some distance between them."
+    },
+    "336": {
+        "objects": [
+            "bus",
+            "car"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a bus on the right side of a car."
+    },
+    "337": {
+        "objects": [
+            "bus",
+            "car"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a bus next to a car."
+    },
+    "338": {
+        "objects": [
+            "hair drier",
+            "clock"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a hairdryer next to the clock."
+    },
+    "339": {
+        "objects": [
+            "hair drier",
+            "clock"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "On the right of the clock, there is a hair dryer and it is placed next to it."
+    },
+    "340": {
+        "objects": [
+            "chair",
+            "curtain"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a chair on top of the curtain."
+    },
+    "341": {
+        "objects": [
+            "chair",
+            "curtain"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a chair positioned to the left of a curtain."
+    },
+    "342": {
+        "objects": [
+            "fork",
+            "cup"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a fork and a cup, with the fork positioned to the right of the cup."
+    },
+    "343": {
+        "objects": [
+            "fork",
+            "cup"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The fork is positioned far away from the cup."
+    },
+    "344": {
+        "objects": [
+            "donut",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a donut placed on top of an apple."
+    },
+    "345": {
+        "objects": [
+            "donut",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a donut beneath an apple."
+    },
+    "346": {
+        "objects": [
+            "surfboard",
+            "frisbee"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The surfboard and frisbee are placed at a distance from each other, with the surfboard being far away from the frisbee."
+    },
+    "347": {
+        "objects": [
+            "surfboard",
+            "frisbee"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The frisbee is on the left of the surfboard in the scene where they are placed, along with a frisbee and a surfboard."
+    },
+    "348": {
+        "objects": [
+            "donut",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a sandwich with a donut located to the right of it."
+    },
+    "349": {
+        "objects": [
+            "donut",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a donut on the left side of a sandwich."
+    },
+    "350": {
+        "objects": [
+            "scissors",
+            "clock"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The pair of scissors is far away from the clock in the room."
+    },
+    "351": {
+        "objects": [
+            "scissors",
+            "clock"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The pair of scissors is near the clock."
+    },
+    "352": {
+        "objects": [
+            "scissors",
+            "vase"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The pair of scissors is near the vase."
+    },
+    "353": {
+        "objects": [
+            "scissors",
+            "vase"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The pair of scissors is far away from the vase on the table."
+    },
+    "354": {
+        "objects": [
+            "sheep",
+            "horse"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The sheep is positioned above the horse in the scene."
+    },
+    "355": {
+        "objects": [
+            "sheep",
+            "horse"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a sheep on the right side of a horse."
+    },
+    "356": {
+        "objects": [
+            "spoon",
+            "bottle"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a spoon and a bottle, with the spoon positioned far away from the bottle."
+    },
+    "357": {
+        "objects": [
+            "spoon",
+            "bottle"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "Above the bottle, there is a spoon and a bottle, the spoon is positioned vertically above the bottle."
+    },
+    "358": {
+        "objects": [
+            "bear",
+            "sheep"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bear is on the left of the sheep in the scene."
+    },
+    "359": {
+        "objects": [
+            "bear",
+            "sheep"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a bear on the right of a sheep."
+    },
+    "360": {
+        "objects": [
+            "surfboard",
+            "skis"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The surfboard is located to the right of the pair of skis."
+    },
+    "361": {
+        "objects": [
+            "surfboard",
+            "skis"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The surfboard is positioned next to the pair of skis."
+    },
+    "362": {
+        "objects": [
+            "bed",
+            "curtain"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bed is located beneath the curtain."
+    },
+    "363": {
+        "objects": [
+            "bed",
+            "curtain"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bed is positioned next to the curtain in the room."
+    },
+    "364": {
+        "objects": [
+            "bed",
+            "chair"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "To the left of the chair, there is a bed."
+    },
+    "365": {
+        "objects": [
+            "bed",
+            "chair"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bed is positioned far away from the chair in the room."
+    },
+    "366": {
+        "objects": [
+            "bowl",
+            "cup"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bowl is positioned next to the cup on the table."
+    },
+    "367": {
+        "objects": [
+            "bowl",
+            "cup"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cup and the bowl are positioned next to each other, with the cup on the left and the bowl on the right."
+    },
+    "368": {
+        "objects": [
+            "boat",
+            "train"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a boat situated underneath a train."
+    },
+    "369": {
+        "objects": [
+            "boat",
+            "train"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The boat is on the train, which may be sailing on water or moving on tracks."
+    },
+    "370": {
+        "objects": [
+            "sink",
+            "oven"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The sink is positioned far away from the oven in the kitchen."
+    },
+    "371": {
+        "objects": [
+            "sink",
+            "oven"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The sink is located under the oven in the kitchen."
+    },
+    "372": {
+        "objects": [
+            "refrigerator",
+            "toaster"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a refrigerator on the right side of a toaster."
+    },
+    "373": {
+        "objects": [
+            "refrigerator",
+            "toaster"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The refrigerator is placed underneath the toaster in the room."
+    },
+    "374": {
+        "objects": [
+            "toothbrush",
+            "hair drier"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The toothbrush is far away from the hairdryer on the counter."
+    },
+    "375": {
+        "objects": [
+            "toothbrush",
+            "hair drier"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The toothbrush is positioned above the hair dryer in the arrangement of items."
+    },
+    "376": {
+        "objects": [
+            "zebra",
+            "dog"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a zebra and a dog. The zebra is on top of the dog."
+    },
+    "377": {
+        "objects": [
+            "zebra",
+            "dog"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra is positioned to the left of the dog in the scene, alongside other animals."
+    },
+    "378": {
+        "objects": [
+            "baseball glove",
+            "kite"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The baseball glove is next to the kite."
+    },
+    "379": {
+        "objects": [
+            "baseball glove",
+            "kite"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The baseball glove is positioned to the left of the kite."
+    },
+    "380": {
+        "objects": [
+            "knife",
+            "cup"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "Prompt."
+    },
+    "381": {
+        "objects": [
+            "knife",
+            "cup"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a knife located near a cup."
+    },
+    "382": {
+        "objects": [
+            "airplane",
+            "car"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is an airplane on top of a car."
+    },
+    "383": {
+        "objects": [
+            "airplane",
+            "car"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "An airplane is on the left side of a car."
+    },
+    "384": {
+        "objects": [
+            "remote",
+            "tv"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "On the TV, there is a remote control."
+    },
+    "385": {
+        "objects": [
+            "remote",
+            "tv"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The remote is placed on the side of the TV."
+    },
+    "386": {
+        "objects": [
+            "baseball bat",
+            "sports ball"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The baseball bat is located to the right of the sports ball."
+    },
+    "387": {
+        "objects": [
+            "baseball bat",
+            "sports ball"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The baseball bat is positioned beside the sports ball in the room."
+    },
+    "388": {
+        "objects": [
+            "baseball glove",
+            "snowboard"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The baseball glove is positioned to the left of the snowboard in the room."
+    },
+    "389": {
+        "objects": [
+            "baseball glove",
+            "snowboard"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The baseball glove and the snowboard are positioned far away from each other."
+    },
+    "390": {
+        "objects": [
+            "pizza",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The pizza is next to the broccoli on its side."
+    },
+    "391": {
+        "objects": [
+            "pizza",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The pizza is located to the right of the broccoli on the table."
+    },
+    "392": {
+        "objects": [
+            "man",
+            "girl"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a man standing close to a girl."
+    },
+    "393": {
+        "objects": [
+            "man",
+            "girl"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a man standing to the right of a girl."
+    },
+    "394": {
+        "objects": [
+            "cell phone",
+            "tv"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a cell phone on the left side of a TV."
+    },
+    "395": {
+        "objects": [
+            "cell phone",
+            "tv"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a cell phone near the TV."
+    },
+    "396": {
+        "objects": [
+            "bear",
+            "elephant"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "In the scene, there is a bear and an elephant, with the bear positioned on top of the elephant."
+    },
+    "397": {
+        "objects": [
+            "bear",
+            "elephant"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a bear and an elephant, with the bear positioned next to the elephant."
+    },
+    "398": {
+        "objects": [
+            "toothbrush",
+            "scissors"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The toothbrush is placed on top of the pair of scissors."
+    },
+    "399": {
+        "objects": [
+            "toothbrush",
+            "scissors"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The toothbrush is positioned on the left of the pair of scissors."
+    },
+    "400": {
+        "objects": [
+            "elephant",
+            "cat"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "An elephant is positioned on the left side of a cat."
+    },
+    "401": {
+        "objects": [
+            "dress",
+            "coat"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a dress that is positioned far away from a coat."
+    },
+    "402": {
+        "objects": [
+            "potted plant",
+            "curtain"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a potted plant positioned below a curtain."
+    },
+    "403": {
+        "objects": [
+            "bus",
+            "bicycle"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bus is on the left of the bicycle."
+    },
+    "404": {
+        "objects": [
+            "cake",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a cake that is far away from an apple."
+    },
+    "405": {
+        "objects": [
+            "dog",
+            "bird"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bird is above the dog in the sentence 'there is a dog, a bird, the dog is under the bird'."
+    },
+    "406": {
+        "objects": [
+            "surfboard",
+            "sports ball"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The surfboard is on the left side of the sports ball."
+    },
+    "407": {
+        "objects": [
+            "remote",
+            "mouse"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The remote is located below the mouse on the table."
+    },
+    "408": {
+        "objects": [
+            "fire hydrant",
+            "parking meter"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The fire hydrant is on the left of the parking meter."
+    },
+    "409": {
+        "objects": [
+            "elephant",
+            "bird"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is an elephant and a bird, with the elephant positioned below the bird."
+    },
+    "410": {
+        "objects": [
+            "horse",
+            "dog"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The dog is on top of the horse."
+    },
+    "411": {
+        "objects": [
+            "cow",
+            "dog"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a cow on the left side of a dog."
+    },
+    "412": {
+        "objects": [
+            "train",
+            "bus"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The train is positioned below the bus in the transportation lineup."
+    },
+    "413": {
+        "objects": [
+            "motorcycle",
+            "bicycle"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a motorcycle located next to a bicycle."
+    },
+    "414": {
+        "objects": [
+            "hot dog",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The hot dog is on the side of the carrot."
+    },
+    "415": {
+        "objects": [
+            "surfboard",
+            "kite"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The surfboard is positioned beneath the kite in the scene."
+    },
+    "416": {
+        "objects": [
+            "chair",
+            "carpet"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a chair placed on a carpet."
+    },
+    "417": {
+        "objects": [
+            "bear",
+            "dog"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a bear underneath a dog."
+    },
+    "418": {
+        "objects": [
+            "cake",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cake is placed on top of the orange."
+    },
+    "419": {
+        "objects": [
+            "shirt",
+            "T-shirt"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There are two shirts, a shirt and a T-shirt, situated next to each other horizontally. The shirt is positioned on the left side of the T-shirt."
+    },
+    "420": {
+        "objects": [
+            "giraffe",
+            "sheep"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a giraffe on the left side of a sheep."
+    },
+    "421": {
+        "objects": [
+            "toilet",
+            "couch"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a couch and a toilet, with the toilet positioned to the left of the couch."
+    },
+    "422": {
+        "objects": [
+            "tennis racket",
+            "kite"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The tennis racket is located below the kite."
+    },
+    "423": {
+        "objects": [
+            "cake",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a cake and a pizza, and the cake is located near the pizza."
+    },
+    "424": {
+        "objects": [
+            "baseball bat",
+            "skis"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a baseball bat located to the left of a pair of skis."
+    },
+    "425": {
+        "objects": [
+            "spoon",
+            "knife"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a spoon next to a knife, with the spoon positioned on the side of the knife."
+    },
+    "426": {
+        "objects": [
+            "sports ball",
+            "frisbee"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The frisbee is next to the sports ball, and there is a sports ball along with it."
+    },
+    "427": {
+        "objects": [
+            "man",
+            "baby"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The man is beneath the baby in the scene."
+    },
+    "428": {
+        "objects": [
+            "eye glasses",
+            "umbrella"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a pair of eyeglasses positioned above the umbrella."
+    },
+    "429": {
+        "objects": [
+            "baseball bat",
+            "frisbee"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The baseball bat is positioned next to the frisbee."
+    },
+    "430": {
+        "objects": [
+            "kite",
+            "sports ball"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The sports ball is on top of the kite."
+    },
+    "431": {
+        "objects": [
+            "sandwich",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a sandwich and an apple, with the sandwich placed on top of the apple."
+    },
+    "432": {
+        "objects": [
+            "woman",
+            "baby"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a woman on the left side of a baby."
+    },
+    "433": {
+        "objects": [
+            "giraffe",
+            "elephant"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe is on the right side of the elephant."
+    },
+    "434": {
+        "objects": [
+            "truck",
+            "train"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a truck and a train. The truck is positioned far away from the train."
+    },
+    "435": {
+        "objects": [
+            "carrot",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The sandwich is below the carrot in the arrangement of objects on the table."
+    },
+    "436": {
+        "objects": [
+            "couch",
+            "chair"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a chair above a couch."
+    },
+    "437": {
+        "objects": [
+            "suitcase",
+            "backpack"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a suitcase positioned above a backpack."
+    },
+    "438": {
+        "objects": [
+            "cow",
+            "cat"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a cow on the right side of a cat."
+    },
+    "439": {
+        "objects": [
+            "cell phone",
+            "remote"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cell phone is next to the remote control."
+    },
+    "440": {
+        "objects": [
+            "traffic light",
+            "parking meter"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The traffic light is located above the parking meter."
+    },
+    "441": {
+        "objects": [
+            "potted plant",
+            "couch"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The potted plant is on the side of the couch."
+    },
+    "442": {
+        "objects": [
+            "sports ball",
+            "snowboard"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The sports ball is positioned to the right of the snowboard."
+    },
+    "443": {
+        "objects": [
+            "tennis racket",
+            "sports ball"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The tennis racket is positioned far away from the sports ball."
+    },
+    "444": {
+        "objects": [
+            "surfboard",
+            "snowboard"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The surfboard is positioned to the right of the snowboard."
+    },
+    "445": {
+        "objects": [
+            "hot dog",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The hot dog is located to the right of the banana."
+    },
+    "446": {
+        "objects": [
+            "shirt",
+            "dress"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a shirt and a dress, with the shirt positioned far away from the dress."
+    },
+    "447": {
+        "objects": [
+            "zebra",
+            "bear"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra is located far away from the bear."
+    },
+    "448": {
+        "objects": [
+            "bowl",
+            "knife"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bowl is located far away from the knife in the scene, which also includes a knife."
+    },
+    "449": {
+        "objects": [
+            "laptop",
+            "tv"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The laptop is placed beside the TV."
+    },
+    "450": {
+        "objects": [
+            "boat",
+            "car"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a boat located near the car."
+    },
+    "451": {
+        "objects": [
+            "skateboard",
+            "baseball glove"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The skateboard and the baseball glove are positioned far apart from each other."
+    },
+    "452": {
+        "objects": [
+            "bed",
+            "carpet"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a bed under the carpet."
+    },
+    "453": {
+        "objects": [
+            "boat",
+            "bicycle"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The boat is on the bicycle beside it."
+    },
+    "454": {
+        "objects": [
+            "hot dog",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The hot dog is placed next to the broccoli."
+    },
+    "455": {
+        "objects": [
+            "broccoli",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The sandwich and the broccoli are positioned next to each other, with the broccoli situated to the side of the sandwich."
+    },
+    "456": {
+        "objects": [
+            "book",
+            "vase"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a book placed above a vase."
+    },
+    "457": {
+        "objects": [
+            "baseball glove",
+            "skis"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The baseball glove and the pair of skis are spatially far apart from each other in the given scenario."
+    },
+    "458": {
+        "objects": [
+            "refrigerator",
+            "microwave"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The refrigerator is positioned to the left of the microwave in the room, with both appliances in clear view."
+    },
+    "459": {
+        "objects": [
+            "cake",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cake and the hot dog are located at different positions, with the cake being far away from the hot dog."
+    },
+    "460": {
+        "objects": [
+            "zebra",
+            "cow"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra is positioned to the left of the cow within the scene."
+    },
+    "461": {
+        "objects": [
+            "sink",
+            "toaster"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The toaster is on the right of the sink."
+    },
+    "462": {
+        "objects": [
+            "donut",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a donut positioned below a banana."
+    },
+    "463": {
+        "objects": [
+            "baseball glove",
+            "sports ball"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The baseball glove is located beside the sports ball in the image."
+    },
+    "464": {
+        "objects": [
+            "airplane",
+            "motorcycle"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "An airplane is flying above a motorcycle."
+    },
+    "465": {
+        "objects": [
+            "scissors",
+            "book"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a pair of scissors to the right of a book."
+    },
+    "466": {
+        "objects": [
+            "girl",
+            "baby"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a girl standing next to a baby."
+    },
+    "467": {
+        "objects": [
+            "dining table",
+            "bed"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "A dining table is placed on top of a bed."
+    },
+    "468": {
+        "objects": [
+            "skateboard",
+            "skis"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The skateboard and the pair of skis are positioned apart from each other, with the skateboard situated at a distance from the skis."
+    },
+    "469": {
+        "objects": [
+            "skateboard",
+            "frisbee"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The skateboard is under the frisbee, and there is also a frisbee present."
+    },
+    "470": {
+        "objects": [
+            "sink",
+            "microwave"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The sink is located next to the microwave in the room."
+    },
+    "471": {
+        "objects": [
+            "orange",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The orange is under the banana in the arrangement containing an orange and a banana."
+    },
+    "472": {
+        "objects": [
+            "refrigerator",
+            "oven"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The refrigerator is located far away from the oven in the kitchen."
+    },
+    "473": {
+        "objects": [
+            "coat",
+            "trousers"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The coat is on the right of the trousers."
+    },
+    "474": {
+        "objects": [
+            "microwave",
+            "toaster"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The microwave is situated far away from the toaster in the kitchen."
+    },
+    "475": {
+        "objects": [
+            "broccoli",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a broccoli and an orange, with the broccoli being far away from the orange."
+    },
+    "476": {
+        "objects": [
+            "bench",
+            "parking meter"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bench is located underneath the parking meter."
+    },
+    "477": {
+        "objects": [
+            "elephant",
+            "sheep"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is an elephant and a sheep, with the elephant positioned under the sheep."
+    },
+    "478": {
+        "objects": [
+            "giraffe",
+            "cat"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a giraffe on the right side of a cat."
+    },
+    "479": {
+        "objects": [
+            "truck",
+            "car"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a truck positioned on top of a car."
+    },
+    "480": {
+        "objects": [
+            "keyboard",
+            "tv"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a keyboard positioned far away from the TV."
+    },
+    "481": {
+        "objects": [
+            "sheep",
+            "cat"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cat and the sheep are present in the scene, with the sheep being positioned far away from the cat."
+    },
+    "482": {
+        "objects": [
+            "skateboard",
+            "snowboard"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "To the right of the snowboard, there is a skateboard."
+    },
+    "483": {
+        "objects": [
+            "giraffe",
+            "cow"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a giraffe standing on top of a cow."
+    },
+    "484": {
+        "objects": [
+            "toilet",
+            "potted plant"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The potted plant is on the left of the toilet in the room."
+    },
+    "485": {
+        "objects": [
+            "pizza",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a pizza and an orange. The pizza is positioned far away from the orange."
+    },
+    "486": {
+        "objects": [
+            "toilet",
+            "chair"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The toilet is positioned above the chair in the room."
+    },
+    "487": {
+        "objects": [
+            "horse",
+            "bird"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bird and the horse are positioned such that the horse is on the left side of the bird."
+    },
+    "488": {
+        "objects": [
+            "dining table",
+            "chair"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a chair above the dining table."
+    },
+    "489": {
+        "objects": [
+            "couch",
+            "curtain"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The couch is on the curtain, beside it lays a couch."
+    },
+    "490": {
+        "objects": [
+            "microwave",
+            "oven"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The microwave is located to the right of the oven."
+    },
+    "491": {
+        "objects": [
+            "tennis racket",
+            "frisbee"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The tennis racket is positioned to the left of the frisbee among the items displayed."
+    },
+    "492": {
+        "objects": [
+            "bowl",
+            "fork"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bowl is positioned above the fork on the table."
+    },
+    "493": {
+        "objects": [
+            "clock",
+            "teddy bear"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a clock located above a teddy bear."
+    },
+    "494": {
+        "objects": [
+            "potted plant",
+            "chair"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a chair and a potted plant in the room, with the potted plant positioned to the right of the chair."
+    },
+    "495": {
+        "objects": [
+            "truck",
+            "airplane"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The truck is on the right of the airplane, and there is also an airplane in the scene."
+    },
+    "496": {
+        "objects": [
+            "eye glasses",
+            "backpack"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The backpack is on the right of a pair of eye glasses in the scene."
+    },
+    "497": {
+        "objects": [
+            "donut",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a donut sitting on top of a pizza."
+    },
+    "498": {
+        "objects": [
+            "umbrella",
+            "backpack"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is an umbrella positioned above a backpack on the ground."
+    },
+    "499": {
+        "objects": [
+            "man",
+            "woman"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The man is on the right of the woman."
+    },
+    "500": {
+        "objects": [
+            "hair drier",
+            "scissors"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The pair of scissors is above the hair drier in the arrangement of objects."
+    },
+    "501": {
+        "objects": [
+            "sports ball",
+            "skis"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a sports ball located to the right of a pair of skis."
+    },
+    "502": {
+        "objects": [
+            "hair drier",
+            "teddy bear"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The hair dryer is near the teddy bear in the scene."
+    },
+    "503": {
+        "objects": [
+            "giraffe",
+            "horse"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a giraffe next to a horse."
+    },
+    "504": {
+        "objects": [
+            "cake",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a cake and a carrot, and the cake is located a distance away from the carrot."
+    },
+    "505": {
+        "objects": [
+            "couch",
+            "carpet"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The couch is situated below the carpet in the room."
+    },
+    "506": {
+        "objects": [
+            "toothbrush",
+            "teddy bear"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "Toothbrush is placed to the left of the teddy bear."
+    },
+    "507": {
+        "objects": [
+            "kite",
+            "snowboard"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The kite is on the left side of the snowboard."
+    },
+    "508": {
+        "objects": [
+            "zebra",
+            "bird"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a zebra and a bird, with the zebra positioned on top of the bird."
+    },
+    "509": {
+        "objects": [
+            "man",
+            "boy"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a man standing close to a boy."
+    },
+    "510": {
+        "objects": [
+            "carrot",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a carrot and an apple. The carrot is under the apple."
+    },
+    "511": {
+        "objects": [
+            "woman",
+            "boy"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The woman is standing beside the boy."
+    },
+    "512": {
+        "objects": [
+            "truck",
+            "bicycle"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a truck to the left of a bicycle."
+    },
+    "513": {
+        "objects": [
+            "remote",
+            "laptop"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "On the left side of the laptop, there is a remote."
+    },
+    "514": {
+        "objects": [
+            "giraffe",
+            "bear"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe is positioned to the right of the bear in the scene, where both animals are present."
+    },
+    "515": {
+        "objects": [
+            "donut",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The donut is beside the carrot on the side."
+    },
+    "516": {
+        "objects": [
+            "train",
+            "airplane"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a train positioned below an airplane."
+    },
+    "517": {
+        "objects": [
+            "potted plant",
+            "carpet"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a potted plant located beneath a carpet."
+    },
+    "518": {
+        "objects": [
+            "surfboard",
+            "baseball glove"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a surfboard and a baseball glove; the surfboard is positioned far away from the baseball glove."
+    },
+    "519": {
+        "objects": [
+            "skateboard",
+            "sports ball"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The skateboard is on the left of the sports ball, and there is also a sports ball present."
+    },
+    "520": {
+        "objects": [
+            "elephant",
+            "dog"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The dog is above the elephant as they stand together."
+    },
+    "521": {
+        "objects": [
+            "suitcase",
+            "handbag"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The handbag is above the suitcase in the room."
+    },
+    "522": {
+        "objects": [
+            "baseball bat",
+            "kite"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The baseball bat is far away from the kite."
+    },
+    "523": {
+        "objects": [
+            "suitcase",
+            "eye glasses"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The eye glasses are below the suitcase, as the suitcase is positioned above them."
+    },
+    "524": {
+        "objects": [
+            "horse",
+            "cat"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a horse and a cat, with the horse positioned to the right of the cat."
+    },
+    "525": {
+        "objects": [
+            "zebra",
+            "cat"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a zebra beside a cat."
+    },
+    "526": {
+        "objects": [
+            "book",
+            "teddy bear"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a book on the left side of a teddy bear."
+    },
+    "527": {
+        "objects": [
+            "street sign",
+            "traffic light"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "On the left of the traffic light, there is a street sign that is positioned nearby."
+    },
+    "528": {
+        "objects": [
+            "orange",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is an orange and an apple placed next to each other, with the orange positioned beside the apple."
+    },
+    "529": {
+        "objects": [
+            "bear",
+            "cow"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a bear that is far away from a cow."
+    },
+    "530": {
+        "objects": [
+            "toilet",
+            "carpet"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The toilet is situated on the left side of the carpet in the room."
+    },
+    "531": {
+        "objects": [
+            "baseball glove",
+            "frisbee"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a baseball glove beside a frisbee."
+    },
+    "532": {
+        "objects": [
+            "hair drier",
+            "vase"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a hair dryer and a vase in the room, with the hair dryer positioned to the right of the vase."
+    },
+    "533": {
+        "objects": [
+            "shirt",
+            "trousers"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The shirt is on the left side of the trousers."
+    },
+    "534": {
+        "objects": [
+            "hot dog",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The hot dog is on the left of the orange."
+    },
+    "535": {
+        "objects": [
+            "donut",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a donut on the left of an orange."
+    },
+    "536": {
+        "objects": [
+            "tennis racket",
+            "baseball bat"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The tennis racket is positioned far away from the baseball bat."
+    },
+    "537": {
+        "objects": [
+            "skateboard",
+            "baseball bat"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The skateboard is below the baseball bat in the given arrangement."
+    },
+    "538": {
+        "objects": [
+            "zebra",
+            "elephant"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra is on the right side of the elephant."
+    },
+    "539": {
+        "objects": [
+            "toothbrush",
+            "book"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a toothbrush located far away from a book."
+    },
+    "540": {
+        "objects": [
+            "kite",
+            "frisbee"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a kite resting on top of a frisbee."
+    },
+    "541": {
+        "objects": [
+            "oven",
+            "toaster"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is an oven next to a toaster."
+    },
+    "542": {
+        "objects": [
+            "giraffe",
+            "zebra"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a giraffe on the right side of a zebra."
+    },
+    "543": {
+        "objects": [
+            "spoon",
+            "cup"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cup is on the right of the spoon."
+    },
+    "544": {
+        "objects": [
+            "handbag",
+            "backpack"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The handbag is placed next to the backpack."
+    },
+    "545": {
+        "objects": [
+            "orange",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "An orange is next to a sandwich on the table."
+    },
+    "546": {
+        "objects": [
+            "pizza",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a pizza and an apple. The pizza is located to the left of the apple."
+    },
+    "547": {
+        "objects": [
+            "dining table",
+            "curtain"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The dining table is positioned to the right of the curtain in the room."
+    },
+    "548": {
+        "objects": [
+            "motorcycle",
+            "car"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The motorcycle is located far away from the car."
+    },
+    "549": {
+        "objects": [
+            "tennis racket",
+            "snowboard"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "On the left of the snowboard, there is a tennis racket along with another tennis racket and a snowboard."
+    },
+    "550": {
+        "objects": [
+            "zebra",
+            "sheep"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra is on top of the sheep, with the two animals standing close together."
+    },
+    "551": {
+        "objects": [
+            "plate",
+            "bottle"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a plate above a bottle."
+    },
+    "552": {
+        "objects": [
+            "bus",
+            "airplane"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a bus underneath an airplane."
+    },
+    "553": {
+        "objects": [
+            "cup",
+            "plate"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a cup next to the plate on the table."
+    },
+    "554": {
+        "objects": [
+            "truck",
+            "motorcycle"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a truck and a motorcycle, with the truck positioned beside the motorcycle."
+    },
+    "555": {
+        "objects": [
+            "tennis racket",
+            "baseball glove"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The tennis racket is to the right of the baseball glove."
+    },
+    "556": {
+        "objects": [
+            "truck",
+            "bus"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The truck is positioned above the bus in the given scene, where both vehicles are present."
+    },
+    "557": {
+        "objects": [
+            "knife",
+            "bottle"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a knife positioned to the right of a bottle."
+    },
+    "558": {
+        "objects": [
+            "carpet",
+            "curtain"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a carpet to the right of a curtain."
+    },
+    "559": {
+        "objects": [
+            "bench",
+            "street sign"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bench is located to the right of the street sign."
+    },
+    "560": {
+        "objects": [
+            "hair drier",
+            "book"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The hair drier is on the right of the book, next to it there is also a book."
+    },
+    "561": {
+        "objects": [
+            "pizza",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a pizza and a banana, with the pizza positioned under the banana."
+    },
+    "562": {
+        "objects": [
+            "keyboard",
+            "mouse"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The keyboard is positioned to the left of the mouse on the desktop."
+    },
+    "563": {
+        "objects": [
+            "cow",
+            "bird"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cow and the bird are in the same location, but they are separated by a considerable distance."
+    },
+    "564": {
+        "objects": [
+            "cake",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a cake that is located far away from a sandwich."
+    },
+    "565": {
+        "objects": [
+            "tennis racket",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The tennis racket is located below the skateboard, with both objects present in the scene."
+    },
+    "566": {
+        "objects": [
+            "T-shirt",
+            "coat"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The coat is on the left of the T-shirt."
+    },
+    "567": {
+        "objects": [
+            "knife",
+            "plate"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The knife is located to the left of the plate within the scene."
+    },
+    "568": {
+        "objects": [
+            "bear",
+            "bird"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a bear on the left side of a bird."
+    },
+    "569": {
+        "objects": [
+            "cake",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a cake on the right side of a donut."
+    },
+    "570": {
+        "objects": [
+            "bus",
+            "motorcycle"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a bus on the left side of a motorcycle."
+    },
+    "571": {
+        "objects": [
+            "street sign",
+            "parking meter"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a parking meter next to the street sign."
+    },
+    "572": {
+        "objects": [
+            "baseball glove",
+            "baseball bat"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The baseball glove and baseball bat are positioned apart from each other, with the baseball glove situated at a considerable distance from the baseball bat."
+    },
+    "573": {
+        "objects": [
+            "pizza",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a pizza and a sandwich. The pizza is positioned above the sandwich."
+    },
+    "574": {
+        "objects": [
+            "cell phone",
+            "laptop"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cell phone is far away from the laptop on the table."
+    },
+    "575": {
+        "objects": [
+            "fire hydrant",
+            "traffic light"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The fire hydrant is positioned above the traffic light."
+    },
+    "576": {
+        "objects": [
+            "tennis racket",
+            "surfboard"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The tennis racket is positioned to the right of the surfboard."
+    },
+    "577": {
+        "objects": [
+            "zebra",
+            "horse"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a zebra positioned far away from a horse."
+    },
+    "578": {
+        "objects": [
+            "donut",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The donut is under the hot dog."
+    },
+    "579": {
+        "objects": [
+            "bowl",
+            "spoon"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a bowl positioned above a spoon."
+    },
+    "580": {
+        "objects": [
+            "keyboard",
+            "laptop"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The laptop is positioned on the left, while the keyboard is located on the right of it."
+    },
+    "581": {
+        "objects": [
+            "cat",
+            "bird"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cat is positioned on the right side of the bird among the various objects present."
+    },
+    "582": {
+        "objects": [
+            "bear",
+            "cat"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a bear and a cat, with the bear positioned near the cat."
+    },
+    "583": {
+        "objects": [
+            "toothbrush",
+            "clock"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a toothbrush placed on top of a clock."
+    },
+    "584": {
+        "objects": [
+            "tennis racket",
+            "skis"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The tennis racket is positioned below a pair of skis in the given space."
+    },
+    "585": {
+        "objects": [
+            "scissors",
+            "teddy bear"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The scissors is on the right of the teddy bear, alongside a pair of scissors and a teddy bear."
+    },
+    "586": {
+        "objects": [
+            "vase",
+            "teddy bear"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a vase positioned at a distance from a teddy bear."
+    },
+    "587": {
+        "objects": [
+            "pizza",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "There is a pizza and a hot dog, with the pizza positioned next to the hot dog."
+    },
+    "588": {
+        "objects": [
+            "dress",
+            "T-shirt"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The dress is located to the left of the T-shirt."
+    },
+    "589": {
+        "objects": [
+            "woman",
+            "girl"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The woman is on the right of the girl in the room."
+    },
+    "590": {
+        "objects": [
+            "boat",
+            "airplane"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The boat is positioned far away from the airplane in the scene."
+    },
+    "591": {
+        "objects": [
+            "bench",
+            "traffic light"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bench is located under the traffic light, which is positioned above it."
+    },
+    "592": {
+        "objects": [
+            "bear",
+            "horse"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The horse is above the bear in the scene, depicting a spatial relationship between the two animals."
+    },
+    "593": {
+        "objects": [
+            "boy",
+            "baby"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The baby is underneath the boy."
+    },
+    "594": {
+        "objects": [
+            "bench",
+            "fire hydrant"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The fire hydrant is below the bench in the scene."
+    },
+    "595": {
+        "objects": [
+            "sandwich",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The sandwich is positioned above the banana on the table."
+    },
+    "596": {
+        "objects": [
+            "keyboard",
+            "remote"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The keyboard is located below the remote on the table."
+    },
+    "597": {
+        "objects": [
+            "dress",
+            "trousers"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The dress is positioned above the pair of trousers."
+    },
+    "598": {
+        "objects": [
+            "hot dog",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The hot dog is positioned to the right of the sandwich in the image."
+    },
+    "599": {
+        "objects": [
+            "fork",
+            "bottle"
+        ],
+        "tags": {
+            "relationships number": 1,
+            "objects number": 2
+        },
+        "prompt": "The fork is under the bottle, and there is also a bottle and a fork present in the scene."
+    }
+}

@@ -1,0 +1,2802 @@
+{
+    "0": {
+        "objects": [
+            "carpet",
+            "curtain",
+            "spoon",
+            "boat",
+            "bottle",
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A carpet made of resin, a velvet curtain, a spoon made of stone, a boat made of synthetic fabrics, a bottle made of fabric, and a dining table made of stone."
+    },
+    "1": {
+        "objects": [
+            "carpet",
+            "curtain",
+            "spoon",
+            "car",
+            "potted plant",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A carpet made of stone, a curtain made of rattan, a spoon made of wool, a car with a leather interior, a potted plant made of concrete, and a chair made of bamboo."
+    },
+    "2": {
+        "objects": [
+            "carpet",
+            "curtain",
+            "spoon",
+            "airplane",
+            "boat",
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A marble rug, a velvet curtain, a linen spoon, a ceramic airplane made of clay, a boat made of carbon fiber, and a motorcycle made of fabric."
+    },
+    "3": {
+        "objects": [
+            "carpet",
+            "curtain",
+            "spoon",
+            "dining table",
+            "chair",
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A metallic carpet, a curtain made of acrylic, a spoon made of acrylic, a glass dining table made of glass, a chair made of glass, and a glass bowl."
+    },
+    "4": {
+        "objects": [
+            "carpet",
+            "curtain",
+            "spoon",
+            "airplane",
+            "boat",
+            "knife"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A ceramic rug, a velvet curtain, a cotton spoon, an airplane made of wood, a boat made of carbon fiber, and a knife made of stone."
+    },
+    "5": {
+        "objects": [
+            "boat",
+            "chair",
+            "truck",
+            "spoon",
+            "motorcycle",
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A boat made of resin, a velvet chair, a truck made of stone, a spoon made of resin, a motorcycle made of stainless steel, and a wooden toilet."
+    },
+    "6": {
+        "objects": [
+            "boat",
+            "chair",
+            "truck",
+            "car",
+            "knife",
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A boat made of stone, a rattan chair, a truck made of wool, a car made of fabric, a wooden knife, and a bowl made of granite."
+    },
+    "7": {
+        "objects": [
+            "boat",
+            "chair",
+            "truck",
+            "fork",
+            "carpet",
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A boat made of marble, a velvet chair, a truck made of linen, a wooden fork, a carpet made of leather, and a wooden spoon."
+    },
+    "8": {
+        "objects": [
+            "boat",
+            "chair",
+            "truck",
+            "cup",
+            "bed",
+            "train"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A metallic boat, an acrylic chair, an acrylic truck, a ceramic cup, a bed made of wicker, and a wooden train."
+    },
+    "9": {
+        "objects": [
+            "boat",
+            "chair",
+            "truck",
+            "carpet",
+            "spoon",
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A ceramic boat, a velvet chair, a truck made of cotton, a wooden carpet, a spoon made of bamboo, and a dining table made of concrete."
+    },
+    "10": {
+        "objects": [
+            "plate",
+            "carpet",
+            "bowl",
+            "bus",
+            "spoon",
+            "cup"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A resin plate, a velvety carpet, a bowl made of stone, a ceramic bus, a wooden spoon, and a metal cup."
+    },
+    "11": {
+        "objects": [
+            "plate",
+            "carpet",
+            "bowl",
+            "truck",
+            "airplane",
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A stone plate, a rattan carpet, a bowl made of wool, a metal truck, a fabric-covered airplane, and a motorcycle made of fabric."
+    },
+    "12": {
+        "objects": [
+            "plate",
+            "carpet",
+            "bowl",
+            "cup",
+            "fork",
+            "boat"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A marble plate, a velvet carpet, a linen bowl, a ceramic cup, a ceramic fork, and a boat made of resin."
+    },
+    "13": {
+        "objects": [
+            "plate",
+            "carpet",
+            "bowl",
+            "bus",
+            "fork",
+            "boat"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A metallic plate, an acrylic carpet, a bowl made of acrylic, a bus made of fabric, a golden fork, and a steel boat made of steel."
+    },
+    "14": {
+        "objects": [
+            "plate",
+            "carpet",
+            "bowl",
+            "fork",
+            "dining table",
+            "cup"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A ceramic plate, a velvet carpet, a bowl made of cotton, a fork made of stainless steel, a marble dining table, and a cup made of stone."
+    },
+    "15": {
+        "objects": [
+            "car",
+            "boat",
+            "couch",
+            "bed",
+            "bottle",
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A resin car, a velvet boat, a couch made of stone, a wooden bed, a plastic bottle, and a ceramic spoon."
+    },
+    "16": {
+        "objects": [
+            "car",
+            "boat",
+            "couch",
+            "motorcycle",
+            "carpet",
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A stone car, a boat made of rattan, a woolen couch, an aluminum motorcycle, an acrylic carpet, and a potted plant made of metal."
+    },
+    "17": {
+        "objects": [
+            "car",
+            "boat",
+            "couch",
+            "bus",
+            "truck",
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A marble car, a velvet boat, a linen couch, a bus made of leather, a rubber toy truck, and a plastic bowl."
+    },
+    "18": {
+        "objects": [
+            "car",
+            "boat",
+            "couch",
+            "spoon",
+            "chair",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A metal car, a boat made of acrylic, a couch made of acrylic, a wooden spoon, a chair made of bamboo, and a curtain made of velvet."
+    },
+    "19": {
+        "objects": [
+            "car",
+            "boat",
+            "couch",
+            "truck",
+            "cup",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A ceramic car, a velvet boat, a cotton couch, a wooden truck, a plastic cup, and a bottle made of resin."
+    },
+    "20": {
+        "objects": [
+            "couch",
+            "chair",
+            "spoon",
+            "train",
+            "cup",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A resin couch, a velvet chair, a stone spoon, a ceramic train, a wooden cup, and a ceramic bottle made of clay."
+    },
+    "21": {
+        "objects": [
+            "couch",
+            "chair",
+            "spoon",
+            "bed",
+            "curtain",
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A stone couch, a rattan chair, a spoon made of wool, a bed made of stone, a curtain made of linen, and an aluminum motorcycle."
+    },
+    "22": {
+        "objects": [
+            "couch",
+            "chair",
+            "spoon",
+            "truck",
+            "boat",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A marble couch, a velvet chair, a spoon made of linen, a truck made of plastic, an aluminum boat, and a curtain made of velvet."
+    },
+    "23": {
+        "objects": [
+            "couch",
+            "chair",
+            "spoon",
+            "toilet",
+            "bus",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A metallic couch, an acrylic chair, a spoon made of acrylic, a toilet made of tiles, a rubber-made bus, and a canvas curtain."
+    },
+    "24": {
+        "objects": [
+            "couch",
+            "chair",
+            "spoon",
+            "car",
+            "curtain",
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A ceramic couch, a velvet chair, a spoon made of cotton, a car made of fabric, a curtain made of stone, and a toilet made of marble."
+    },
+    "25": {
+        "objects": [
+            "spoon",
+            "chair",
+            "bottle",
+            "potted plant",
+            "bus",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A resin spoon, a velvet chair, a stone bottle, a potted plant made of wicker, a ceramic bus, and a cotton carpet."
+    },
+    "26": {
+        "objects": [
+            "spoon",
+            "chair",
+            "bottle",
+            "toilet",
+            "bowl",
+            "fork"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A spoon made of stone, a rattan chair, a bottle made of wool, a toilet made of stainless steel, a bowl made of granite, and a copper fork."
+    },
+    "27": {
+        "objects": [
+            "spoon",
+            "chair",
+            "bottle",
+            "bed",
+            "bowl",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A marble spoon, a velvet chair, a bottle made of linen, a glass bed made of glass, a porcelain bowl made of porcelain, and a carpet made of wool."
+    },
+    "28": {
+        "objects": [
+            "spoon",
+            "chair",
+            "bottle",
+            "knife",
+            "fork",
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A metallic spoon, an acrylic chair, an acrylic bottle, a knife made of stone, a copper fork, and a metallic motorcycle."
+    },
+    "29": {
+        "objects": [
+            "spoon",
+            "chair",
+            "bottle",
+            "bed",
+            "toilet",
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A ceramic spoon, a velvet chair, a bottle made of cotton, a bed made of wicker, a toilet made of granite, and a glass airplane."
+    },
+    "30": {
+        "objects": [
+            "motorcycle",
+            "spoon",
+            "car",
+            "chair",
+            "truck",
+            "boat"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A resin motorcycle, a velvet spoon, a stone car, a chair made of glass, a metal truck, and a boat made of copper."
+    },
+    "31": {
+        "objects": [
+            "motorcycle",
+            "spoon",
+            "car",
+            "toilet",
+            "fork",
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A motorcycle made of stone, a spoon made of rattan, a car made of wool, a wooden toilet, a fork made of silver, and a potted plant made of fabric."
+    },
+    "32": {
+        "objects": [
+            "motorcycle",
+            "spoon",
+            "car",
+            "train",
+            "potted plant",
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A marble motorcycle, a velvet spoon, a car made of linen, a wooden train, a potted plant made of wicker, and a copper bowl."
+    },
+    "33": {
+        "objects": [
+            "motorcycle",
+            "spoon",
+            "car",
+            "bus",
+            "airplane",
+            "truck"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A metal motorcycle, a spoon made of acrylic, a car made of acrylic, a bus made of concrete, a metallic airplane, and a wooden truck."
+    },
+    "34": {
+        "objects": [
+            "motorcycle",
+            "spoon",
+            "car",
+            "cup",
+            "boat",
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A ceramic motorcycle, a velvet spoon, a cotton car, a metal cup, a boat made of canvas, and a potted plant made of terracotta."
+    },
+    "35": {
+        "objects": [
+            "bed",
+            "dining table",
+            "bottle",
+            "bowl",
+            "knife",
+            "train"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A resin bed, a velvet dining table, a stone bottle, a copper bowl, a knife made of bone, and a train made of leather."
+    },
+    "36": {
+        "objects": [
+            "bed",
+            "dining table",
+            "bottle",
+            "knife",
+            "toilet",
+            "boat"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A stone bed, a rattan dining table, a bottle made of wool, a knife made of stone, a toilet made of resin, and a boat made of canvas."
+    },
+    "37": {
+        "objects": [
+            "bed",
+            "dining table",
+            "bottle",
+            "spoon",
+            "knife",
+            "car"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A marble bed, a velvet dining table, a bottle made of linen, a wooden spoon, a knife made of ceramic, and a car made of glass."
+    },
+    "38": {
+        "objects": [
+            "bed",
+            "dining table",
+            "bottle",
+            "cup",
+            "spoon",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A metal bed, an acrylic dining table, a bottle made of acrylic, a cup made of leather, a wooden spoon, and a bamboo carpet made of natural fibers."
+    },
+    "39": {
+        "objects": [
+            "bed",
+            "dining table",
+            "bottle",
+            "toilet",
+            "train",
+            "boat"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A ceramic bed, a velvet dining table, a cotton bottle, a ceramic toilet, a train made of leather, and a boat made of canvas."
+    },
+    "40": {
+        "objects": [
+            "knife",
+            "carpet",
+            "boat",
+            "bed",
+            "toilet",
+            "truck"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A resin knife, a velvet carpet, a boat made of stone, a bed made of stone, a toilet made of brass, and a metal truck."
+    },
+    "41": {
+        "objects": [
+            "knife",
+            "carpet",
+            "boat",
+            "curtain",
+            "toilet",
+            "train"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A stone knife, a rattan carpet, a boat made of wool, a curtain made of nylon, a chrome toilet, and a wooden train."
+    },
+    "42": {
+        "objects": [
+            "knife",
+            "carpet",
+            "boat",
+            "cup",
+            "bowl",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A marble knife, a velvet carpet, a linen boat, a cup made of stone, a porcelain bowl made of porcelain, and a curtain made of lace."
+    },
+    "43": {
+        "objects": [
+            "knife",
+            "carpet",
+            "boat",
+            "motorcycle",
+            "train",
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A metallic knife, a carpet made of acrylic, a boat made of acrylic, a motorcycle made of stainless steel, a rubber train, and a fabric-covered airplane."
+    },
+    "44": {
+        "objects": [
+            "knife",
+            "carpet",
+            "boat",
+            "chair",
+            "train",
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A ceramic knife, a velvet carpet, a cotton boat, a chair made of plastic, a ceramic train, and a potted plant made of ceramic."
+    },
+    "45": {
+        "objects": [
+            "boat",
+            "car",
+            "bowl",
+            "airplane",
+            "knife",
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A boat made of resin, a car with velvet upholstery, a bowl made of stone, a foam airplane, an ivory-handled knife, and a toilet made of glass."
+    },
+    "46": {
+        "objects": [
+            "boat",
+            "car",
+            "bowl",
+            "knife",
+            "curtain",
+            "cup"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A boat made of stone, a car made of rattan, a bowl made of wool, an ivory-handled knife, a curtain made of polyester, and a cup made of stone."
+    },
+    "47": {
+        "objects": [
+            "boat",
+            "car",
+            "bowl",
+            "curtain",
+            "motorcycle",
+            "train"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A boat made of marble, a car with velvet upholstery, a bowl made of linen, a canvas curtain, a motorcycle made of stainless steel, and a wooden train."
+    },
+    "48": {
+        "objects": [
+            "boat",
+            "car",
+            "bowl",
+            "carpet",
+            "knife",
+            "fork"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A metallic boat, an acrylic car, an acrylic bowl made of acrylic, a carpet made of fabric, a wooden knife, and a ceramic fork."
+    },
+    "49": {
+        "objects": [
+            "boat",
+            "car",
+            "bowl",
+            "truck",
+            "bus",
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A ceramic boat, a velvety car, a bowl made of cotton, a truck made of glass, a wooden bus, and a glass dining table made of glass."
+    },
+    "50": {
+        "objects": [
+            "bowl",
+            "couch",
+            "airplane",
+            "chair",
+            "truck",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A resin bowl, a velvet couch, an airplane made of stone, a rattan chair, a truck made of glass, and a bottle made of bamboo."
+    },
+    "51": {
+        "objects": [
+            "bowl",
+            "couch",
+            "airplane",
+            "bottle",
+            "dining table",
+            "car"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A stone bowl, a rattan couch, an airplane made of wool, a glass bottle, a dining table made of granite, and a car made of glass."
+    },
+    "52": {
+        "objects": [
+            "bowl",
+            "couch",
+            "airplane",
+            "knife",
+            "motorcycle",
+            "car"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A marble bowl, a velvet couch, an airplane made of linen, an ivory-handled knife, a motorcycle made of stainless steel, and an aluminum car."
+    },
+    "53": {
+        "objects": [
+            "bowl",
+            "couch",
+            "airplane",
+            "motorcycle",
+            "truck",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A metal bowl, a couch made of acrylic, an airplane made of acrylic, a motorcycle made of rubber, a rubber toy truck, and a cotton carpet."
+    },
+    "54": {
+        "objects": [
+            "bowl",
+            "couch",
+            "airplane",
+            "toilet",
+            "truck",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A ceramic bowl, a velvet couch, a cotton airplane, a toilet made of stainless steel, a truck made of leather, and a carpet made of fabric."
+    },
+    "55": {
+        "objects": [
+            "bus",
+            "cup",
+            "bottle",
+            "motorcycle",
+            "car",
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A resin bus, a velvet cup, a stone bottle, a motorcycle made of rubber, a car made of fabric, and a metal dining table."
+    },
+    "56": {
+        "objects": [
+            "bus",
+            "cup",
+            "bottle",
+            "toilet",
+            "car",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A bus made of stone, a rattan cup a bottle made of wool, a toilet made of glass, a car with a suede interior, and a curtain made of suede."
+    },
+    "57": {
+        "objects": [
+            "bus",
+            "cup",
+            "bottle",
+            "train",
+            "motorcycle",
+            "fork"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A marble bus, a velvet cup, a linen bottle, a wooden train, a motorcycle made of leather, and a wooden fork."
+    },
+    "58": {
+        "objects": [
+            "bus",
+            "cup",
+            "bottle",
+            "airplane",
+            "toilet",
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A metallic bus, an acrylic cup, a bottle made of acrylic, a foam airplane, a toilet made of resin, and an ivory spoon made of ivory."
+    },
+    "59": {
+        "objects": [
+            "bus",
+            "cup",
+            "bottle",
+            "chair",
+            "potted plant",
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A ceramic bus, a velvet cup, a cotton bottle, a chair made of velvet, a potted plant made of fabric, and a silver spoon."
+    },
+    "60": {
+        "objects": [
+            "chair",
+            "potted plant",
+            "bottle",
+            "cup",
+            "car",
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A resin chair, a potted plant in velvet, a bottle made of stone, a wooden cup, a car made of metal, and a motorcycle made of carbon fiber."
+    },
+    "61": {
+        "objects": [
+            "chair",
+            "potted plant",
+            "bottle",
+            "truck",
+            "fork",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A stone chair, a potted plant made of rattan, a bottle made of wool, a metal truck, a plastic fork made of plastic, and an acrylic carpet."
+    },
+    "62": {
+        "objects": [
+            "chair",
+            "potted plant",
+            "bottle",
+            "airplane",
+            "curtain",
+            "car"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A chair made of marble, a potted plant made of velvet, a bottle made of linen, a rubber airplane, a curtain made of wool, and an aluminum car."
+    },
+    "63": {
+        "objects": [
+            "chair",
+            "potted plant",
+            "bottle",
+            "bowl",
+            "airplane",
+            "bus"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A metal chair, a potted plant made of acrylic, a bottle made of acrylic, a copper bowl, a plastic airplane, and an aluminum bus."
+    },
+    "64": {
+        "objects": [
+            "chair",
+            "potted plant",
+            "bottle",
+            "spoon",
+            "truck",
+            "bus"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A ceramic chair, a velvet potted plant, a cotton bottle, a silver spoon, a ceramic truck, and an aluminum bus."
+    },
+    "65": {
+        "objects": [
+            "train",
+            "bottle",
+            "truck",
+            "knife",
+            "cup",
+            "bed"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A resin train, a velvet bottle, a truck made of stone, a knife made of stone, a cup made of stone, and a bed made of concrete."
+    },
+    "66": {
+        "objects": [
+            "train",
+            "bottle",
+            "truck",
+            "bus",
+            "car",
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A stone train, a bottle made of rattan, a wool truck, a ceramic bus, a car made of rubber, and a wooden motorcycle."
+    },
+    "67": {
+        "objects": [
+            "train",
+            "bottle",
+            "truck",
+            "airplane",
+            "spoon",
+            "boat"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A marble train, a velvet bottle, a linen truck, a metallic airplane, a spoon made of bamboo, and a boat made of carbon fiber."
+    },
+    "68": {
+        "objects": [
+            "train",
+            "bottle",
+            "truck",
+            "boat",
+            "knife",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A metallic train, a bottle made of acrylic, a truck made of acrylic, a boat made of brass, a carbon-fiber knife, and a carpet made of fabric."
+    },
+    "69": {
+        "objects": [
+            "train",
+            "bottle",
+            "truck",
+            "carpet",
+            "knife",
+            "boat"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A ceramic train, a velvet bottle, a truck made of cotton, a plastic carpet, a wooden knife, and a boat made of leather."
+    },
+    "70": {
+        "objects": [
+            "cup",
+            "carpet",
+            "bowl",
+            "knife",
+            "potted plant",
+            "train"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A cup made of resin, a velvet carpet, a bowl made of stone, a knife made of stone, a potted plant made of terracotta, and a train made of foam."
+    },
+    "71": {
+        "objects": [
+            "cup",
+            "carpet",
+            "bowl",
+            "dining table",
+            "truck",
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A cup made of stone, a rattan carpet, a bowl made of wool, a dining table made of acrylic, a truck made of plastic, and a glass airplane."
+    },
+    "72": {
+        "objects": [
+            "cup",
+            "carpet",
+            "bowl",
+            "potted plant",
+            "bottle",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A cup made of marble, a carpet made of velvet, a bowl made of linen, a potted plant made of metal, a plastic bottle, and a rattan chair."
+    },
+    "73": {
+        "objects": [
+            "cup",
+            "carpet",
+            "bowl",
+            "car",
+            "boat",
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A metal cup, a carpet made of acrylic, an acrylic bowl, a car made of marble, a boat made of copper, and a wooden motorcycle."
+    },
+    "74": {
+        "objects": [
+            "cup",
+            "carpet",
+            "bowl",
+            "bus",
+            "knife",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A ceramic cup, a velvet carpet, a bowl made of cotton, a plastic bus, a wooden knife, and a bottle made of bamboo."
+    },
+    "75": {
+        "objects": [
+            "carpet",
+            "knife",
+            "bicycle",
+            "fork",
+            "car",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A resin carpet, a velvet knife, a stone bicycle, a fork made of brass, a car made of rubber, and a plastic bottle."
+    },
+    "76": {
+        "objects": [
+            "carpet",
+            "knife",
+            "bicycle",
+            "airplane",
+            "truck",
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A carpet made of stone, a knife made of rattan, a bicycle made of wool, a glass airplane, a truck made of plastic, and a plastic bowl."
+    },
+    "77": {
+        "objects": [
+            "carpet",
+            "knife",
+            "bicycle",
+            "curtain",
+            "toilet",
+            "truck"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A marble carpet, a velvet knife, a linen bicycle, a curtain made of suede, a toilet made of resin, and a wooden truck."
+    },
+    "78": {
+        "objects": [
+            "carpet",
+            "knife",
+            "bicycle",
+            "dining table",
+            "spoon",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A metallic carpet, a knife made of acrylic, a bicycle made of acrylic, a dining table made of stone, a spoon made of bamboo, and a chair made of acrylic."
+    },
+    "79": {
+        "objects": [
+            "carpet",
+            "knife",
+            "bicycle",
+            "truck",
+            "bed",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A ceramic carpet, a velvet knife, a bicycle made of cotton, a wooden truck, a bed upholstered in fabric, and a bottle made of bamboo."
+    },
+    "80": {
+        "objects": [
+            "bowl",
+            "cup",
+            "toilet",
+            "bed",
+            "truck",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A resin bowl, a velvet cup, a stone toilet, a wooden bed, a truck made of fabric, and a canvas curtain."
+    },
+    "81": {
+        "objects": [
+            "bowl",
+            "cup",
+            "toilet",
+            "boat",
+            "carpet",
+            "bus"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A bowl made of stone, a cup made of rattan, a toilet made of wool, a boat made of carbon fiber, a carpet made of stone, and a ceramic bus."
+    },
+    "82": {
+        "objects": [
+            "bowl",
+            "cup",
+            "toilet",
+            "motorcycle",
+            "curtain",
+            "truck"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A marble bowl, a velvet cup, a linen toilet, a motorcycle made of leather, a curtain made of silk, and a truck made of glass."
+    },
+    "83": {
+        "objects": [
+            "bowl",
+            "cup",
+            "toilet",
+            "knife",
+            "truck",
+            "car"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A metallic bowl, an acrylic cup, an acrylic toilet, a leather knife, a truck made of fabric, and a car with a suede interior."
+    },
+    "84": {
+        "objects": [
+            "bowl",
+            "cup",
+            "toilet",
+            "dining table",
+            "fork",
+            "bed"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A ceramic bowl, a velvet cup, a cotton toilet paper, a dining table made of stone, a ceramic fork, and a bed upholstered in fabric."
+    },
+    "85": {
+        "objects": [
+            "motorcycle",
+            "bus",
+            "plate",
+            "bottle",
+            "bed",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A resin motorcycle, a velvet-covered bus, a stone plate, a plastic bottle, a bed upholstered in fabric, and a plastic carpet."
+    },
+    "86": {
+        "objects": [
+            "motorcycle",
+            "bus",
+            "plate",
+            "dining table",
+            "bowl",
+            "cup"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A motorcycle made of stone, a bus made of rattan, a plate made of wool, a dining table made of concrete, an aluminum bowl, and a bamboo cup."
+    },
+    "87": {
+        "objects": [
+            "motorcycle",
+            "bus",
+            "plate",
+            "dining table",
+            "truck",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A marble motorcycle, a velvet-covered bus, a linen plate, a ceramic dining table, a wooden truck, and a chair made of bamboo."
+    },
+    "88": {
+        "objects": [
+            "motorcycle",
+            "bus",
+            "plate",
+            "cup",
+            "toilet",
+            "fork"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A metal motorcycle, a bus made of acrylic, a plate made of acrylic, a metal cup, a toilet made of marble, and a ceramic fork."
+    },
+    "89": {
+        "objects": [
+            "motorcycle",
+            "bus",
+            "plate",
+            "potted plant",
+            "airplane",
+            "boat"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A motorcycle made of ceramic, a bus covered in velvet, a plate made of cotton, a potted plant made of concrete, a wooden airplane, and an aluminum boat."
+    },
+    "90": {
+        "objects": [
+            "carpet",
+            "curtain",
+            "cup",
+            "boat",
+            "potted plant",
+            "knife"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A resin carpet, a velvet curtain, a stone cup, a boat made of synthetic fabrics, a potted plant in a glass container, and a carbon-fiber knife."
+    },
+    "91": {
+        "objects": [
+            "carpet",
+            "curtain",
+            "cup",
+            "airplane",
+            "bed",
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A stone carpet, a rattan curtain, a cup made of wool, a fabric-covered airplane, a bed made of bamboo, and a wooden motorcycle."
+    },
+    "92": {
+        "objects": [
+            "carpet",
+            "curtain",
+            "cup",
+            "fork",
+            "bed",
+            "knife"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A marble rug, a velvet curtain, a linen cup, an aluminum fork, a bed made of metal, and a knife made of bone."
+    },
+    "93": {
+        "objects": [
+            "carpet",
+            "curtain",
+            "cup",
+            "dining table",
+            "chair",
+            "car"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A metallic carpet, an acrylic curtain, an acrylic cup, a marble dining table, an upholstered chair made of fabric, and a car with a suede interior."
+    },
+    "94": {
+        "objects": [
+            "carpet",
+            "curtain",
+            "cup",
+            "boat",
+            "truck",
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A ceramic carpet, a velvet curtain, a cup made of cotton, a boat made of synthetic fabrics, a ceramic truck, and a copper bowl."
+    },
+    "95": {
+        "objects": [
+            "couch",
+            "bed",
+            "train",
+            "bottle",
+            "knife",
+            "boat"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A resin couch, a velvet bed, a stone train, a plastic bottle, a plastic knife, and a boat made of resin."
+    },
+    "96": {
+        "objects": [
+            "couch",
+            "bed",
+            "train",
+            "cup",
+            "bus",
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A stone couch, a rattan bed, a train made of wool, a bamboo cup, a ceramic bus, and a spoon made of stainless steel."
+    },
+    "97": {
+        "objects": [
+            "couch",
+            "bed",
+            "train",
+            "dining table",
+            "carpet",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A marble couch, a velvet bed, a linen train, a metal dining table, a carpet made of wool, and a curtain made of silk."
+    },
+    "98": {
+        "objects": [
+            "couch",
+            "bed",
+            "train",
+            "bus",
+            "curtain",
+            "truck"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A metallic couch, a bed made of acrylic, a train made of acrylic, a plastic bus, a curtain made of silk, and a wooden truck."
+    },
+    "99": {
+        "objects": [
+            "couch",
+            "bed",
+            "train",
+            "spoon",
+            "dining table",
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A ceramic couch, a velvet bed, a cotton train, a ceramic spoon, a dining table made of acrylic, and a porcelain bowl made of porcelain."
+    },
+    "100": {
+        "objects": [
+            "boat",
+            "airplane",
+            "motorcycle",
+            "bed",
+            "truck",
+            "car"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A brass boat, a glass airplane, a motorcycle made of fabric, a wooden bed, a truck made of plastic, and a car made of glass."
+    },
+    "101": {
+        "objects": [
+            "boat",
+            "airplane",
+            "motorcycle",
+            "truck",
+            "dining table",
+            "bus"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A boat made of resin, an airplane made of wood, a motorcycle made of ceramic, a ceramic truck, a metal dining table, and a bus made of leather."
+    },
+    "102": {
+        "objects": [
+            "boat",
+            "airplane",
+            "motorcycle",
+            "dining table",
+            "bed",
+            "car"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "An aluminum boat, a wooden airplane, a rubber motorcycle, a glass dining table made of glass, a bed made of rattan, and a car made of rubber."
+    },
+    "103": {
+        "objects": [
+            "boat",
+            "airplane",
+            "motorcycle",
+            "knife",
+            "carpet",
+            "cup"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A steel boat, an airplane made of leather, a stainless steel motorcycle, a metallic knife, a wooden carpet, and a plastic cup."
+    },
+    "104": {
+        "objects": [
+            "boat",
+            "airplane",
+            "motorcycle",
+            "dining table",
+            "bottle",
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A copper boat, a plastic airplane, a chrome-plated motorcycle, a dining table made of stone, a wooden bottle, and a potted plant made of ceramic."
+    },
+    "105": {
+        "objects": [
+            "bus",
+            "motorcycle",
+            "bicycle",
+            "bowl",
+            "boat",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "An aluminum bus, a motorcycle made of carbon fiber, a plastic bicycle, a bowl made of granite, a steel boat made of steel, and a carpet made of wool."
+    },
+    "106": {
+        "objects": [
+            "bus",
+            "motorcycle",
+            "bicycle",
+            "dining table",
+            "bed",
+            "car"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A bus with a fabric exterior, a ceramic motorcycle, a bicycle made of fabric, a dining table made of stone, a bed made of metal, and a car made of fabric."
+    },
+    "107": {
+        "objects": [
+            "bus",
+            "motorcycle",
+            "bicycle",
+            "carpet",
+            "spoon",
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "An aluminum bus, a rubber motorcycle, a bicycle made of glass, a plastic carpet, a wooden spoon, and a marble dining table."
+    },
+    "108": {
+        "objects": [
+            "bus",
+            "motorcycle",
+            "bicycle",
+            "carpet",
+            "cup",
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A ceramic bus, a ceramic motorcycle, a rubber bicycle, a carpet made of leather, a metal cup, and a ceramic airplane made of clay."
+    },
+    "109": {
+        "objects": [
+            "bus",
+            "motorcycle",
+            "bicycle",
+            "airplane",
+            "potted plant",
+            "truck"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A ceramic bus, a carbon-fiber motorcycle, a ceramic bicycle, a metallic airplane, a potted plant in a glass container, and a foam-filled truck."
+    },
+    "110": {
+        "objects": [
+            "boat",
+            "bus",
+            "airplane",
+            "cup",
+            "curtain",
+            "knife"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A wooden boat, a concrete bus, an airplane made of leather, a cup made of paper, a canvas curtain, and a carbon-fiber knife."
+    },
+    "111": {
+        "objects": [
+            "boat",
+            "bus",
+            "airplane",
+            "bowl",
+            "motorcycle",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A copper boat, a bamboo bus, a glass airplane, a bowl made of granite, a motorcycle made of leather, and a chair made of fabric."
+    },
+    "112": {
+        "objects": [
+            "boat",
+            "bus",
+            "airplane",
+            "spoon",
+            "bottle",
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A canvas boat, a plastic bus, a glass airplane, a brass spoon, a bottle made of resin, and a toilet made of glass."
+    },
+    "113": {
+        "objects": [
+            "boat",
+            "bus",
+            "airplane",
+            "bottle",
+            "toilet",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "An aluminum boat, a fabric-covered bus, a ceramic airplane, a bottle made of leather, a toilet made of marble, and a carpet made of leather."
+    },
+    "114": {
+        "objects": [
+            "boat",
+            "bus",
+            "airplane",
+            "potted plant",
+            "train",
+            "knife"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A boat made of synthetic fabrics, a bus made of bamboo, an airplane made of rubber, a potted plant made of terracotta, a wooden train, and an ivory-handled knife."
+    },
+    "115": {
+        "objects": [
+            "bed",
+            "couch",
+            "chair",
+            "dining table",
+            "potted plant",
+            "train"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A wicker bed, a velvet couch, a glass chair, a ceramic dining table, a potted plant made of plastic, and a train made of fabric."
+    },
+    "116": {
+        "objects": [
+            "bed",
+            "couch",
+            "chair",
+            "knife",
+            "bottle",
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A metallic bed, a linen couch, a microfiber chair, a plastic knife, a bottle made of leather, and an aluminum motorcycle."
+    },
+    "117": {
+        "objects": [
+            "bed",
+            "couch",
+            "chair",
+            "toilet",
+            "bus",
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A stone bed, an acrylic couch, a microfiber chair, a toilet made of brass, a bus made of fiberglass, and a spoon made of bamboo."
+    },
+    "118": {
+        "objects": [
+            "bed",
+            "couch",
+            "chair",
+            "motorcycle",
+            "train",
+            "fork"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A bamboo bed, a woolen couch, an upholstered chair, a motorcycle made of rubber, a train made of foam, and a copper fork."
+    },
+    "119": {
+        "objects": [
+            "bed",
+            "couch",
+            "chair",
+            "bottle",
+            "bowl",
+            "boat"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A velvet bed, a chenille couch, a metal chair, a bottle made of paper, a copper bowl, and a boat made of canvas."
+    },
+    "120": {
+        "objects": [
+            "boat",
+            "train",
+            "bicycle",
+            "car",
+            "bottle",
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A wooden boat, a wooden train, a fabric bicycle, a car with a leather interior, a wooden bottle, and a wooden motorcycle."
+    },
+    "121": {
+        "objects": [
+            "boat",
+            "train",
+            "bicycle",
+            "fork",
+            "car",
+            "truck"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A brass boat, a ceramic train, a rubber bicycle, a fork made of brass, a car made of glass, and a wooden truck."
+    },
+    "122": {
+        "objects": [
+            "boat",
+            "train",
+            "bicycle",
+            "chair",
+            "spoon",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A boat made of carbon fiber, a wooden train, a leather bicycle, a chair made of wicker, a ceramic spoon, and a carpet made of stone."
+    },
+    "123": {
+        "objects": [
+            "boat",
+            "train",
+            "bicycle",
+            "airplane",
+            "dining table",
+            "cup"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A boat made of leather, a glass train, a bicycle made of stone, a plastic airplane, a resin dining table, and a cup made of silicone."
+    },
+    "124": {
+        "objects": [
+            "boat",
+            "train",
+            "bicycle",
+            "bottle",
+            "motorcycle",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A boat made of carbon fiber, a train made of foam, a bicycle made of ceramic, a bottle made of paper, a motorcycle made of rubber, and a chair made of wicker."
+    },
+    "125": {
+        "objects": [
+            "boat",
+            "airplane",
+            "car",
+            "cup",
+            "dining table",
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A leather boat, a ceramic airplane, a suede-covered car, a cup made of silicone, a dining table made of acrylic, and a metallic motorcycle."
+    },
+    "126": {
+        "objects": [
+            "boat",
+            "airplane",
+            "car",
+            "fork",
+            "carpet",
+            "train"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A wooden boat, an ceramic airplane, a car made of glass, a copper fork, a wooden carpet, and a train made of leather."
+    },
+    "127": {
+        "objects": [
+            "boat",
+            "airplane",
+            "car",
+            "toilet",
+            "carpet",
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A carbon fiber boat, a wooden airplane, a fabric-covered car, a toilet made of brass, a carpet made of concrete, and a motorcycle made of stainless steel."
+    },
+    "128": {
+        "objects": [
+            "boat",
+            "airplane",
+            "car",
+            "bed",
+            "potted plant",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "An aluminum boat, a wooden airplane, a car made of fabric, a bed made of bamboo, a potted plant made of fabric, and a wooden carpet."
+    },
+    "129": {
+        "objects": [
+            "boat",
+            "airplane",
+            "car",
+            "bus",
+            "bowl",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A wooden boat, a wooden airplane, a chrome car, a rubber-made bus, a bowl made of granite, and a chair made of plastic."
+    },
+    "130": {
+        "objects": [
+            "bowl",
+            "fork",
+            "plate",
+            "bus",
+            "dining table",
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A copper bowl, a plastic fork, a fabric plate, a bus made of leather, a dining table made of stone, and a potted plant made of wood."
+    },
+    "131": {
+        "objects": [
+            "bowl",
+            "fork",
+            "plate",
+            "airplane",
+            "motorcycle",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A copper bowl, a ceramic fork, a plate made of bone, a rubber airplane, a metallic motorcycle, and a wooden bottle."
+    },
+    "132": {
+        "objects": [
+            "bowl",
+            "fork",
+            "plate",
+            "airplane",
+            "train",
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A bamboo bowl, a silver fork, a plate made of fabric, an airplane made of wood, a train made of leather, and a spoon made of bamboo."
+    },
+    "133": {
+        "objects": [
+            "bowl",
+            "fork",
+            "plate",
+            "toilet",
+            "train",
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A bowl made of brass, a fork made of copper, a plate made of wood, a chrome toilet, a train made of leather, and a ceramic spoon."
+    },
+    "134": {
+        "objects": [
+            "bowl",
+            "fork",
+            "plate",
+            "bottle",
+            "motorcycle",
+            "knife"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A bamboo bowl, a bone fork, a plastic plate, a bottle made of bamboo, a motorcycle made of rubber, and a plastic knife."
+    },
+    "135": {
+        "objects": [
+            "airplane",
+            "bicycle",
+            "car",
+            "toilet",
+            "bottle",
+            "bus"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A metal airplane, a plastic bicycle, a plastic car, a toilet made of glass, a bottle made of silicone, and a bus made of concrete."
+    },
+    "136": {
+        "objects": [
+            "airplane",
+            "bicycle",
+            "car",
+            "boat",
+            "bus",
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A rubber airplane, a fabric bicycle, a car made of velvet, a boat made of copper, a bus made of fiberglass, and a potted plant made of plastic."
+    },
+    "137": {
+        "objects": [
+            "airplane",
+            "bicycle",
+            "car",
+            "bed",
+            "chair",
+            "cup"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A plastic airplane, a stone bicycle, an acrylic car, a bed made of bamboo, a rattan chair, and a bamboo cup."
+    },
+    "138": {
+        "objects": [
+            "airplane",
+            "bicycle",
+            "car",
+            "bus",
+            "motorcycle",
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A foam airplane, a glass bicycle, a car made of rubber, an aluminum bus, a motorcycle made of carbon fiber, and a toilet made of glass."
+    },
+    "139": {
+        "objects": [
+            "airplane",
+            "bicycle",
+            "car",
+            "potted plant",
+            "spoon",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A wooden airplane, a rubber bicycle, a rubber car, a potted plant made of stone, a spoon made of titanium, and a carpet made of leather."
+    },
+    "140": {
+        "objects": [
+            "toilet",
+            "potted plant",
+            "carpet",
+            "truck",
+            "chair",
+            "bus"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A toilet made of glass, a potted plant made of stone, a carpet made of stone, a metal truck, an upholstered chair made of fabric, and a bus made of fiberglass."
+    },
+    "141": {
+        "objects": [
+            "toilet",
+            "potted plant",
+            "carpet",
+            "bottle",
+            "train",
+            "truck"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A toilet made of resin, a potted plant made of wicker, a carpet made of wood, a bottle made of leather, a metallic train, and a wooden truck."
+    },
+    "142": {
+        "objects": [
+            "toilet",
+            "potted plant",
+            "carpet",
+            "dining table",
+            "spoon",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A tiled toilet, a terracotta potted plant, a glass rug, a resin dining table, an ivory spoon made of ivory, and a curtain made of velvet."
+    },
+    "143": {
+        "objects": [
+            "toilet",
+            "potted plant",
+            "carpet",
+            "boat",
+            "car",
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "An acrylic toilet, a fabric potted plant, a plastic carpet, a boat made of synthetic fabrics, an aluminum car, and a spoon made of stainless steel."
+    },
+    "144": {
+        "objects": [
+            "toilet",
+            "potted plant",
+            "carpet",
+            "chair",
+            "airplane",
+            "fork"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A granite toilet, a glass potted plant, a carpet made of stone, a chair made of plastic, a foam airplane, and a fork made of silver."
+    },
+    "145": {
+        "objects": [
+            "bowl",
+            "cup",
+            "plate",
+            "bed",
+            "bus",
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "An acrylic bowl, a glass cup, a leather plate, a bed upholstered in fabric, a bamboo bus, and a glass dining table made of glass."
+    },
+    "146": {
+        "objects": [
+            "bowl",
+            "cup",
+            "plate",
+            "dining table",
+            "fork",
+            "knife"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A brass bowl, a plastic cup, a plate made of leather, a marble dining table, a fork made of bone, and a carbon-fiber knife."
+    },
+    "147": {
+        "objects": [
+            "bowl",
+            "cup",
+            "plate",
+            "airplane",
+            "potted plant",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A brass bowl, a silicone cup, a copper plate, a wooden airplane, a potted plant made of terracotta, and a cotton carpet."
+    },
+    "148": {
+        "objects": [
+            "bowl",
+            "cup",
+            "plate",
+            "spoon",
+            "car",
+            "train"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A glass bowl, a cup made of leather, a plate made of marble, a wooden spoon, an aluminum car, and a train made of glass."
+    },
+    "149": {
+        "objects": [
+            "bowl",
+            "cup",
+            "plate",
+            "bottle",
+            "toilet",
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A glass bowl, a metal cup, a copper plate, a glass bottle, a wooden toilet, and a metallic airplane."
+    },
+    "150": {
+        "objects": [
+            "toilet",
+            "couch",
+            "chair",
+            "cup",
+            "dining table",
+            "train"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A glass toilet, a linen couch, an upholstered chair, a cup made of stone, a marble dining table, and a metallic train."
+    },
+    "151": {
+        "objects": [
+            "toilet",
+            "couch",
+            "chair",
+            "bed",
+            "train",
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A toilet made of stainless steel, a couch made of stone, a chair made of microfiber, a bed made of velvet, a rubber train, and a motorcycle made of rubber."
+    },
+    "152": {
+        "objects": [
+            "toilet",
+            "couch",
+            "chair",
+            "dining table",
+            "boat",
+            "bed"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A concrete toilet, a woolen couch, a velvet chair, a dining table made of acrylic, a steel boat made of steel, and a glass bed made of glass."
+    },
+    "153": {
+        "objects": [
+            "toilet",
+            "couch",
+            "chair",
+            "fork",
+            "truck",
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A stainless steel toilet, a wooden couch, a chair made of stone, a fork made of bone, a wooden truck, and an aluminum motorcycle."
+    },
+    "154": {
+        "objects": [
+            "toilet",
+            "couch",
+            "chair",
+            "truck",
+            "motorcycle",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A porcelain toilet, a woolen couch, a chair made of fabric, a ceramic truck, a metallic motorcycle, and a carpet made of fabric."
+    },
+    "155": {
+        "objects": [
+            "dining table",
+            "potted plant",
+            "carpet",
+            "bed",
+            "bus",
+            "cup"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A marble dining table, a plastic potted plant, an acrylic carpet, a bed made of concrete, a bus made of fiberglass, and a metal cup."
+    },
+    "156": {
+        "objects": [
+            "dining table",
+            "potted plant",
+            "carpet",
+            "bed",
+            "toilet",
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A metal dining table, a metal potted plant, a carpet made of fabric, a wooden bed, a toilet made of resin, and an aluminum bowl."
+    },
+    "157": {
+        "objects": [
+            "dining table",
+            "potted plant",
+            "carpet",
+            "truck",
+            "bottle",
+            "train"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A stone dining table, a terracotta potted plant, a carpet made of glass, a ceramic truck, a bottle made of resin, and a plastic train toy."
+    },
+    "158": {
+        "objects": [
+            "dining table",
+            "potted plant",
+            "carpet",
+            "chair",
+            "boat",
+            "knife"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A granite dining table, a potted plant made of concrete, a carpet made of plastic, a chair made of plastic, a boat made of synthetic fabrics, and a wooden knife."
+    },
+    "159": {
+        "objects": [
+            "dining table",
+            "potted plant",
+            "carpet",
+            "train",
+            "chair",
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A metal dining table, a ceramic potted plant, a metal rug, a ceramic train, a chair made of bamboo, and a foam airplane."
+    },
+    "160": {
+        "objects": [
+            "dining table",
+            "potted plant",
+            "couch",
+            "boat",
+            "toilet",
+            "cup"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A metal dining table, a stone potted plant, a metal couch, a boat made of copper, a toilet made of resin, and a metal cup."
+    },
+    "161": {
+        "objects": [
+            "dining table",
+            "potted plant",
+            "couch",
+            "cup",
+            "carpet",
+            "car"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A wooden dining table, a plastic potted plant, a rattan couch, a metal cup, a carpet made of fabric, and an acrylic car."
+    },
+    "162": {
+        "objects": [
+            "dining table",
+            "potted plant",
+            "couch",
+            "curtain",
+            "chair",
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A marble dining table, a wicker potted plant, a microfiber couch, a curtain made of silk, a chair made of microfiber, and a toilet made of tiles."
+    },
+    "163": {
+        "objects": [
+            "dining table",
+            "potted plant",
+            "couch",
+            "airplane",
+            "chair",
+            "cup"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "An acrylic dining table, a potted plant made of fabric, a fabric couch, a rubber airplane, an upholstered chair made of fabric, and a bamboo cup."
+    },
+    "164": {
+        "objects": [
+            "dining table",
+            "potted plant",
+            "couch",
+            "motorcycle",
+            "train",
+            "knife"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A wooden dining table, a ceramic potted plant, a velvet couch, a motorcycle made of rubber, a wooden train, and a knife made of stone."
+    },
+    "165": {
+        "objects": [
+            "bowl",
+            "spoon",
+            "plate",
+            "knife",
+            "potted plant",
+            "car"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A ceramic bowl, a titanium spoon, a plastic plate, a metallic knife, a potted plant made of stone, and a car made of fabric."
+    },
+    "166": {
+        "objects": [
+            "bowl",
+            "spoon",
+            "plate",
+            "knife",
+            "truck",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "An aluminum bowl, an aluminum spoon, a plate made of resin, a glass knife, a metal truck, and a bottle made of resin."
+    },
+    "167": {
+        "objects": [
+            "bowl",
+            "spoon",
+            "plate",
+            "train",
+            "cup",
+            "bus"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A wooden bowl, a ceramic spoon, a wooden plate, a wooden train, a cup made of paper, and a plastic bus."
+    },
+    "168": {
+        "objects": [
+            "bowl",
+            "spoon",
+            "plate",
+            "carpet",
+            "potted plant",
+            "bus"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A copper bowl, a spoon made of resin, a granite plate, a carpet made of leather, a potted plant made of metal, and a bamboo bus."
+    },
+    "169": {
+        "objects": [
+            "bowl",
+            "spoon",
+            "plate",
+            "fork",
+            "car",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "An aluminum bowl, a bamboo spoon, a ceramic plate, a fork made of stainless steel, a ceramic car, and a bottle made of paper."
+    },
+    "170": {
+        "objects": [
+            "toilet",
+            "bed",
+            "chair",
+            "bus",
+            "fork",
+            "train"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A toilet made of glass, a fabric bed, an acrylic chair, a rubber-made bus, a fork made of brass, and a wooden train."
+    },
+    "171": {
+        "objects": [
+            "toilet",
+            "bed",
+            "chair",
+            "bus",
+            "dining table",
+            "cup"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A wooden toilet, a bamboo bed, a leather chair, a rubber-made bus, a dining table made of concrete, and a cup made of stone."
+    },
+    "172": {
+        "objects": [
+            "toilet",
+            "bed",
+            "chair",
+            "potted plant",
+            "bowl",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A marble toilet, a wicker bed, a bamboo chair, a potted plant made of wood, a plastic bowl, and a curtain made of lace."
+    },
+    "173": {
+        "objects": [
+            "toilet",
+            "bed",
+            "chair",
+            "carpet",
+            "knife",
+            "boat"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A brass toilet, a metal bed, a chair made of plastic, a wooden carpet, a knife made of bone, and a wooden boat."
+    },
+    "174": {
+        "objects": [
+            "toilet",
+            "bed",
+            "chair",
+            "potted plant",
+            "spoon",
+            "knife"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A chrome toilet, a glass bed, an acrylic chair, a potted plant made of plastic, an ivory spoon made of ivory, and a glass knife."
+    },
+    "175": {
+        "objects": [
+            "boat",
+            "train",
+            "bus",
+            "spoon",
+            "curtain",
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A wooden boat, a wooden train, an aluminum bus, a spoon made of bamboo, a curtain made of suede, and a potted plant made of fabric."
+    },
+    "176": {
+        "objects": [
+            "boat",
+            "train",
+            "bus",
+            "fork",
+            "truck",
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A brass boat, a train made of leather, a concrete bus, a copper fork, a truck made of plastic, and a wooden bowl."
+    },
+    "177": {
+        "objects": [
+            "boat",
+            "train",
+            "bus",
+            "bottle",
+            "airplane",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A resin boat, a ceramic train, a glass bus, a bottle made of paper, a metallic airplane, and a curtain made of suede."
+    },
+    "178": {
+        "objects": [
+            "boat",
+            "train",
+            "bus",
+            "bed",
+            "toilet",
+            "knife"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A boat made of synthetic fabrics, a rubber train, a concrete bus, a bed made of bamboo, a toilet made of glass, and a metallic knife."
+    },
+    "179": {
+        "objects": [
+            "boat",
+            "train",
+            "bus",
+            "motorcycle",
+            "airplane",
+            "cup"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A wooden boat, a wooden train, a glass bus, a motorcycle made of carbon fiber, a glass airplane, and a metal cup."
+    },
+    "180": {
+        "objects": [
+            "toilet",
+            "dining table",
+            "chair",
+            "potted plant",
+            "fork",
+            "train"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A stainless steel toilet, a marble dining table, a leather chair, a potted plant made of ceramic, a ceramic fork, and a rubber train."
+    },
+    "181": {
+        "objects": [
+            "toilet",
+            "dining table",
+            "chair",
+            "spoon",
+            "car",
+            "boat"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A ceramic toilet, a metal dining table, an acrylic chair. Made of metal, a silver spoon, an aluminum car, and a boat made of copper."
+    },
+    "182": {
+        "objects": [
+            "toilet",
+            "dining table",
+            "chair",
+            "truck",
+            "train",
+            "boat"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A marble toilet, a ceramic dining table, a velvet chair, a foam-filled truck, a train made of leather, and a boat made of canvas."
+    },
+    "183": {
+        "objects": [
+            "toilet",
+            "dining table",
+            "chair",
+            "potted plant",
+            "truck",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A toilet made of glass, a dining table made of marble, a bamboo chair, a potted plant made of stone, a ceramic truck, and a curtain made of nylon."
+    },
+    "184": {
+        "objects": [
+            "toilet",
+            "dining table",
+            "chair",
+            "airplane",
+            "cup",
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A glass toilet, a ceramic dining table, a ceramic chair, a ceramic airplane made of clay, a plastic cup, and a potted plant made of concrete."
+    },
+    "185": {
+        "objects": [
+            "boat",
+            "train",
+            "airplane",
+            "bus",
+            "dining table",
+            "knife"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "An aluminum boat, a rubber train, a rubber airplane, a bamboo bus, a dining table made of stone, and a knife made of stone."
+    },
+    "186": {
+        "objects": [
+            "boat",
+            "train",
+            "airplane",
+            "chair",
+            "dining table",
+            "cup"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "An aluminum boat, a wooden train, a wooden airplane, a rattan chair, a wooden dining table, and a ceramic cup."
+    },
+    "187": {
+        "objects": [
+            "boat",
+            "train",
+            "airplane",
+            "potted plant",
+            "toilet",
+            "knife"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A boat made of synthetic fabrics, a plastic train, a foam airplane, a potted plant in a glass container, a toilet made of marble, and a knife made of ceramic."
+    },
+    "188": {
+        "objects": [
+            "boat",
+            "train",
+            "airplane",
+            "truck",
+            "bed",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A boat made of resin, a train made of fabric, an airplane made of leather, a wooden truck, a bed made of metal, and a bottle made of bamboo."
+    },
+    "189": {
+        "objects": [
+            "boat",
+            "train",
+            "airplane",
+            "dining table",
+            "spoon",
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A copper boat, a wooden train, a wooden airplane, a metal dining table, a wooden spoon, and an aluminum bowl."
+    },
+    "190": {
+        "objects": [
+            "train",
+            "bicycle",
+            "car",
+            "knife",
+            "dining table",
+            "boat"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A leather train, a glass bicycle, a wooden car, a metallic knife, a wooden dining table, and an aluminum boat."
+    },
+    "191": {
+        "objects": [
+            "train",
+            "bicycle",
+            "car",
+            "truck",
+            "bowl",
+            "boat"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A glass train, a plastic bicycle, a car made of ceramics, a truck made of leather, an aluminum bowl, and a boat made of carbon fiber."
+    },
+    "192": {
+        "objects": [
+            "train",
+            "bicycle",
+            "car",
+            "carpet",
+            "curtain",
+            "fork"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A wooden train, a rubber bicycle, a metal car, a carpet made of wool, a canvas curtain, and a ceramic fork."
+    },
+    "193": {
+        "objects": [
+            "train",
+            "bicycle",
+            "car",
+            "motorcycle",
+            "potted plant",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "Train made of leather, a bicycle made of fabric, a car made of wood, a motorcycle made of stainless steel, a potted plant made of concrete, and a curtain made of suede."
+    },
+    "194": {
+        "objects": [
+            "train",
+            "bicycle",
+            "car",
+            "toilet",
+            "truck",
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A ceramic train, a carbon fiber bicycle, a car made of glass, a ceramic toilet, a rubber toy truck, and a plastic bowl."
+    },
+    "195": {
+        "objects": [
+            "train",
+            "motorcycle",
+            "bicycle",
+            "boat",
+            "bed",
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A ceramic train, a chrome motorcycle, a metal bicycle, a boat made of canvas, a glass bed made of glass, and a wooden dining table."
+    },
+    "196": {
+        "objects": [
+            "train",
+            "motorcycle",
+            "bicycle",
+            "fork",
+            "carpet",
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A metallic train, a plastic motorcycle, a bicycle made of stone, a fork made of silver, a carpet made of stone, and a ceramic spoon."
+    },
+    "197": {
+        "objects": [
+            "train",
+            "motorcycle",
+            "bicycle",
+            "bottle",
+            "chair",
+            "cup"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A plastic train, a chrome motorcycle, a stone bicycle, a wooden bottle, an upholstered chair made of fabric, and a metal cup."
+    },
+    "198": {
+        "objects": [
+            "train",
+            "motorcycle",
+            "bicycle",
+            "curtain",
+            "bowl",
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A plastic train, a metallic motorcycle, a bicycle made of ceramic, a curtain made of silk, a bamboo bowl, and a potted plant made of terracotta."
+    },
+    "199": {
+        "objects": [
+            "train",
+            "motorcycle",
+            "bicycle",
+            "chair",
+            "car",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 6
+        },
+        "prompt": "A wooden train, an aluminum motorcycle, a leather bicycle, an upholstered chair made of fabric, an aluminum car, and a curtain made of wool."
+    }
+}

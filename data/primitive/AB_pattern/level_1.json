@@ -1,0 +1,902 @@
+{
+    "0": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A paisley carpet."
+    },
+    "1": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A floral carpet."
+    },
+    "2": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A plaid carpet."
+    },
+    "3": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A checked carpet."
+    },
+    "4": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A herringbone carpet."
+    },
+    "5": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A camouflage carpet."
+    },
+    "6": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A geometric carpet."
+    },
+    "7": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A plain carpet."
+    },
+    "8": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A polka-dotted carpet."
+    },
+    "9": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A striped carpet."
+    },
+    "10": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A floral dining table."
+    },
+    "11": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A geometric dining table."
+    },
+    "12": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A plain dining table."
+    },
+    "13": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A paisley dining table."
+    },
+    "14": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A polka-dotted dining table."
+    },
+    "15": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A herringbone dining table."
+    },
+    "16": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A striped dining table."
+    },
+    "17": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A checked dining table."
+    },
+    "18": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A camouflage dining table."
+    },
+    "19": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A plaid dining table."
+    },
+    "20": {
+        "objects": [
+            "T-shirt"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A polka-dotted T-shirt."
+    },
+    "21": {
+        "objects": [
+            "T-shirt"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A plain T-shirt."
+    },
+    "22": {
+        "objects": [
+            "T-shirt"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A camouflage T-shirt."
+    },
+    "23": {
+        "objects": [
+            "T-shirt"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A paisley T-shirt."
+    },
+    "24": {
+        "objects": [
+            "T-shirt"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A floral T-shirt."
+    },
+    "25": {
+        "objects": [
+            "T-shirt"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A striped T-shirt."
+    },
+    "26": {
+        "objects": [
+            "T-shirt"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A herringbone T-shirt."
+    },
+    "27": {
+        "objects": [
+            "T-shirt"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A plaid T-shirt."
+    },
+    "28": {
+        "objects": [
+            "T-shirt"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A checked T-shirt."
+    },
+    "29": {
+        "objects": [
+            "T-shirt"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A geometric T-shirt."
+    },
+    "30": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A plaid bed."
+    },
+    "31": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A striped bed."
+    },
+    "32": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A floral bed."
+    },
+    "33": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A polka-dotted bed."
+    },
+    "34": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A camouflage bed."
+    },
+    "35": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A checked bed."
+    },
+    "36": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A plain bed."
+    },
+    "37": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A paisley bed."
+    },
+    "38": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A geometric bed."
+    },
+    "39": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A herringbone bed."
+    },
+    "40": {
+        "objects": [
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pair of polka-dotted trousers."
+    },
+    "41": {
+        "objects": [
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pair of geometric trousers."
+    },
+    "42": {
+        "objects": [
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pair of paisley trousers."
+    },
+    "43": {
+        "objects": [
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pair of plain trousers."
+    },
+    "44": {
+        "objects": [
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pair of checked trousers."
+    },
+    "45": {
+        "objects": [
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pair of striped trousers."
+    },
+    "46": {
+        "objects": [
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pair of plaid trousers."
+    },
+    "47": {
+        "objects": [
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pair of floral trousers."
+    },
+    "48": {
+        "objects": [
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pair of camouflage trousers."
+    },
+    "49": {
+        "objects": [
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pair of herringbone trousers."
+    },
+    "50": {
+        "objects": [
+            "coat"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A plain coat."
+    },
+    "51": {
+        "objects": [
+            "coat"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A floral coat."
+    },
+    "52": {
+        "objects": [
+            "coat"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A camouflage coat."
+    },
+    "53": {
+        "objects": [
+            "coat"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A checked coat."
+    },
+    "54": {
+        "objects": [
+            "coat"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A plaid coat."
+    },
+    "55": {
+        "objects": [
+            "coat"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A herringbone coat."
+    },
+    "56": {
+        "objects": [
+            "coat"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A polka-dotted coat."
+    },
+    "57": {
+        "objects": [
+            "coat"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A paisley coat."
+    },
+    "58": {
+        "objects": [
+            "coat"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A geometric coat."
+    },
+    "59": {
+        "objects": [
+            "coat"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A striped coat."
+    },
+    "60": {
+        "objects": [
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A geometric curtain."
+    },
+    "61": {
+        "objects": [
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A plain curtain."
+    },
+    "62": {
+        "objects": [
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A striped curtain."
+    },
+    "63": {
+        "objects": [
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A paisley curtain."
+    },
+    "64": {
+        "objects": [
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A checked curtain."
+    },
+    "65": {
+        "objects": [
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A polka-dotted curtain."
+    },
+    "66": {
+        "objects": [
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A floral curtain."
+    },
+    "67": {
+        "objects": [
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A herringbone curtain."
+    },
+    "68": {
+        "objects": [
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A plaid curtain."
+    },
+    "69": {
+        "objects": [
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A camouflage curtain."
+    },
+    "70": {
+        "objects": [
+            "dress"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A paisley dress."
+    },
+    "71": {
+        "objects": [
+            "dress"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A floral dress."
+    },
+    "72": {
+        "objects": [
+            "dress"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A plain dress."
+    },
+    "73": {
+        "objects": [
+            "dress"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A plaid dress."
+    },
+    "74": {
+        "objects": [
+            "dress"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A geometric dress."
+    },
+    "75": {
+        "objects": [
+            "dress"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A camouflage dress."
+    },
+    "76": {
+        "objects": [
+            "dress"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A herringbone dress."
+    },
+    "77": {
+        "objects": [
+            "dress"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A polka-dotted dress."
+    },
+    "78": {
+        "objects": [
+            "dress"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A striped dress."
+    },
+    "79": {
+        "objects": [
+            "dress"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A checked dress."
+    },
+    "80": {
+        "objects": [
+            "shirt"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A striped shirt."
+    },
+    "81": {
+        "objects": [
+            "shirt"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A geometric shirt."
+    },
+    "82": {
+        "objects": [
+            "shirt"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A floral shirt."
+    },
+    "83": {
+        "objects": [
+            "shirt"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A camouflage shirt."
+    },
+    "84": {
+        "objects": [
+            "shirt"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A plaid shirt."
+    },
+    "85": {
+        "objects": [
+            "shirt"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A polka-dotted shirt."
+    },
+    "86": {
+        "objects": [
+            "shirt"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A paisley shirt."
+    },
+    "87": {
+        "objects": [
+            "shirt"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A plain shirt."
+    },
+    "88": {
+        "objects": [
+            "shirt"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A checked shirt."
+    },
+    "89": {
+        "objects": [
+            "shirt"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A herringbone shirt."
+    },
+    "90": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A striped chair."
+    },
+    "91": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A camouflage chair."
+    },
+    "92": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A paisley chair."
+    },
+    "93": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A floral chair."
+    },
+    "94": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A geometric chair."
+    },
+    "95": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A checked chair."
+    },
+    "96": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A plaid chair."
+    },
+    "97": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A plain chair."
+    },
+    "98": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A herringbone chair."
+    },
+    "99": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A polka-dotted chair."
+    }
+}

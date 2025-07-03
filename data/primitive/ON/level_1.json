@@ -1,0 +1,6002 @@
+{
+    "0": {
+        "objects": [
+            "hot dog"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The hot dog is not white."
+    },
+    "1": {
+        "objects": [
+            "hot dog"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The hot dog is not green."
+    },
+    "2": {
+        "objects": [
+            "hot dog"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The hot dog is not yellow."
+    },
+    "3": {
+        "objects": [
+            "hot dog"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The hot dog is not blue."
+    },
+    "4": {
+        "objects": [
+            "hot dog"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The hot dog is not in sight."
+    },
+    "5": {
+        "objects": [
+            "hot dog"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The hot dog is not red."
+    },
+    "6": {
+        "objects": [
+            "toothbrush"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The toothbrush is not white."
+    },
+    "7": {
+        "objects": [
+            "toothbrush"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The toothbrush is not pink."
+    },
+    "8": {
+        "objects": [
+            "toothbrush"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The toothbrush is not green."
+    },
+    "9": {
+        "objects": [
+            "toothbrush"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The toothbrush is not black."
+    },
+    "10": {
+        "objects": [
+            "toothbrush"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The toothbrush is not blue."
+    },
+    "11": {
+        "objects": [
+            "toothbrush"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The toothbrush is not in sight."
+    },
+    "12": {
+        "objects": [
+            "baby"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The baby is not sad."
+    },
+    "13": {
+        "objects": [
+            "baby"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The baby is not angry."
+    },
+    "14": {
+        "objects": [
+            "baby"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The baby is not afraid."
+    },
+    "15": {
+        "objects": [
+            "baby"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The baby is not happy."
+    },
+    "16": {
+        "objects": [
+            "baby"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The baby is not in sight."
+    },
+    "17": {
+        "objects": [
+            "baby"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The baby is not calm."
+    },
+    "18": {
+        "objects": [
+            "boy"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The boy is not angry."
+    },
+    "19": {
+        "objects": [
+            "boy"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The boy is not afraid."
+    },
+    "20": {
+        "objects": [
+            "boy"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The boy is not happy."
+    },
+    "21": {
+        "objects": [
+            "boy"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The boy is not in sight."
+    },
+    "22": {
+        "objects": [
+            "boy"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The boy is not calm."
+    },
+    "23": {
+        "objects": [
+            "boy"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The boy is not surprised."
+    },
+    "24": {
+        "objects": [
+            "truck"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The truck is not made of fabric."
+    },
+    "25": {
+        "objects": [
+            "truck"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The truck is not white."
+    },
+    "26": {
+        "objects": [
+            "truck"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The truck is not black."
+    },
+    "27": {
+        "objects": [
+            "truck"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The truck is not blue."
+    },
+    "28": {
+        "objects": [
+            "truck"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The truck is not in sight."
+    },
+    "29": {
+        "objects": [
+            "truck"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The truck is not made of leather."
+    },
+    "30": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The chair is not made of metallic."
+    },
+    "31": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The chair is not plain."
+    },
+    "32": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The chair is not made of plastic."
+    },
+    "33": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The chair is not checked."
+    },
+    "34": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The chair is not upholstered."
+    },
+    "35": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The chair is not floral."
+    },
+    "36": {
+        "objects": [
+            "book"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The book is not white."
+    },
+    "37": {
+        "objects": [
+            "book"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The book is not pink."
+    },
+    "38": {
+        "objects": [
+            "book"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The book is not purple."
+    },
+    "39": {
+        "objects": [
+            "book"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The book is not black."
+    },
+    "40": {
+        "objects": [
+            "book"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The book is not yellow."
+    },
+    "41": {
+        "objects": [
+            "book"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The book is not in sight."
+    },
+    "42": {
+        "objects": [
+            "man"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The man is not sad."
+    },
+    "43": {
+        "objects": [
+            "man"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The man is not angry."
+    },
+    "44": {
+        "objects": [
+            "man"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The man is not happy."
+    },
+    "45": {
+        "objects": [
+            "man"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The man is not in sight."
+    },
+    "46": {
+        "objects": [
+            "man"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The man is not calm."
+    },
+    "47": {
+        "objects": [
+            "man"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The man is not surprised."
+    },
+    "48": {
+        "objects": [
+            "hair drier"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The hair drier is not green."
+    },
+    "49": {
+        "objects": [
+            "hair drier"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The hair drier is not black."
+    },
+    "50": {
+        "objects": [
+            "hair drier"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The hair drier is not yellow."
+    },
+    "51": {
+        "objects": [
+            "hair drier"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The hair drier is not blue."
+    },
+    "52": {
+        "objects": [
+            "hair drier"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The hair drier is not in sight."
+    },
+    "53": {
+        "objects": [
+            "hair drier"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The hair drier is not red."
+    },
+    "54": {
+        "objects": [
+            "microwave"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The microwave is not pink."
+    },
+    "55": {
+        "objects": [
+            "microwave"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The microwave is not white."
+    },
+    "56": {
+        "objects": [
+            "microwave"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The microwave is not black."
+    },
+    "57": {
+        "objects": [
+            "microwave"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The microwave is not yellow."
+    },
+    "58": {
+        "objects": [
+            "microwave"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The microwave is not in sight."
+    },
+    "59": {
+        "objects": [
+            "microwave"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The microwave is not red."
+    },
+    "60": {
+        "objects": [
+            "apple"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The apple is not pink."
+    },
+    "61": {
+        "objects": [
+            "apple"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The apple is not white."
+    },
+    "62": {
+        "objects": [
+            "apple"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The apple is not purple."
+    },
+    "63": {
+        "objects": [
+            "apple"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The apple is not yellow."
+    },
+    "64": {
+        "objects": [
+            "apple"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The apple is not in sight."
+    },
+    "65": {
+        "objects": [
+            "apple"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The apple is not red."
+    },
+    "66": {
+        "objects": [
+            "suitcase"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The suitcase is not purple."
+    },
+    "67": {
+        "objects": [
+            "suitcase"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The suitcase is not black."
+    },
+    "68": {
+        "objects": [
+            "suitcase"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The suitcase is not yellow."
+    },
+    "69": {
+        "objects": [
+            "suitcase"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The suitcase is not blue."
+    },
+    "70": {
+        "objects": [
+            "suitcase"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The suitcase is not in sight."
+    },
+    "71": {
+        "objects": [
+            "suitcase"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The suitcase is not red."
+    },
+    "72": {
+        "objects": [
+            "baseball bat"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The baseball bat is not pink."
+    },
+    "73": {
+        "objects": [
+            "baseball bat"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The baseball bat is not white."
+    },
+    "74": {
+        "objects": [
+            "baseball bat"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The baseball bat is not black."
+    },
+    "75": {
+        "objects": [
+            "baseball bat"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The baseball bat is not purple."
+    },
+    "76": {
+        "objects": [
+            "baseball bat"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The baseball bat is not blue."
+    },
+    "77": {
+        "objects": [
+            "baseball bat"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The baseball bat is not in sight."
+    },
+    "78": {
+        "objects": [
+            "plate"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The plate is not made of fabric."
+    },
+    "79": {
+        "objects": [
+            "plate"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The plate is not yellow."
+    },
+    "80": {
+        "objects": [
+            "plate"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The plate is not heart-shaped."
+    },
+    "81": {
+        "objects": [
+            "plate"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The plate is not in sight."
+    },
+    "82": {
+        "objects": [
+            "plate"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The plate is not diamond."
+    },
+    "83": {
+        "objects": [
+            "plate"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The plate is not rectangular."
+    },
+    "84": {
+        "objects": [
+            "snowboard"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The snowboard is not white."
+    },
+    "85": {
+        "objects": [
+            "snowboard"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The snowboard is not pink."
+    },
+    "86": {
+        "objects": [
+            "snowboard"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The snowboard is not green."
+    },
+    "87": {
+        "objects": [
+            "snowboard"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The snowboard is not black."
+    },
+    "88": {
+        "objects": [
+            "snowboard"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The snowboard is not in sight."
+    },
+    "89": {
+        "objects": [
+            "snowboard"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The snowboard is not red."
+    },
+    "90": {
+        "objects": [
+            "bottle"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The bottle is not pink."
+    },
+    "91": {
+        "objects": [
+            "bottle"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The bottle is not star-shaped."
+    },
+    "92": {
+        "objects": [
+            "bottle"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The bottle is not pentagonal."
+    },
+    "93": {
+        "objects": [
+            "bottle"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The bottle is not crescentic."
+    },
+    "94": {
+        "objects": [
+            "bottle"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The bottle is not in sight."
+    },
+    "95": {
+        "objects": [
+            "bottle"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The bottle is not red."
+    },
+    "96": {
+        "objects": [
+            "remote"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The remote is not white."
+    },
+    "97": {
+        "objects": [
+            "remote"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The remote is not black."
+    },
+    "98": {
+        "objects": [
+            "remote"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The remote is not yellow."
+    },
+    "99": {
+        "objects": [
+            "remote"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The remote is not blue."
+    },
+    "100": {
+        "objects": [
+            "remote"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The remote is not in sight."
+    },
+    "101": {
+        "objects": [
+            "remote"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The remote is not red."
+    },
+    "102": {
+        "objects": [
+            "curtain"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The curtain is not made of metallic."
+    },
+    "103": {
+        "objects": [
+            "curtain"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The curtain is not made of suede."
+    },
+    "104": {
+        "objects": [
+            "curtain"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The curtain is not green."
+    },
+    "105": {
+        "objects": [
+            "curtain"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The curtain is not made of canvas."
+    },
+    "106": {
+        "objects": [
+            "curtain"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The curtain is not red."
+    },
+    "107": {
+        "objects": [
+            "curtain"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The curtain is not paisley."
+    },
+    "108": {
+        "objects": [
+            "giraffe"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The giraffe is not white."
+    },
+    "109": {
+        "objects": [
+            "giraffe"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The giraffe is not green."
+    },
+    "110": {
+        "objects": [
+            "giraffe"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The giraffe is not yellow."
+    },
+    "111": {
+        "objects": [
+            "giraffe"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The giraffe is not happy."
+    },
+    "112": {
+        "objects": [
+            "giraffe"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The giraffe is not blue."
+    },
+    "113": {
+        "objects": [
+            "giraffe"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The giraffe is not in sight."
+    },
+    "114": {
+        "objects": [
+            "sandwich"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The sandwich is not pink."
+    },
+    "115": {
+        "objects": [
+            "sandwich"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The sandwich is not white."
+    },
+    "116": {
+        "objects": [
+            "sandwich"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The sandwich is not black."
+    },
+    "117": {
+        "objects": [
+            "sandwich"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The sandwich is not purple."
+    },
+    "118": {
+        "objects": [
+            "sandwich"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The sandwich is not in sight."
+    },
+    "119": {
+        "objects": [
+            "sandwich"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The sandwich is not red."
+    },
+    "120": {
+        "objects": [
+            "backpack"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The backpack is not crescentic."
+    },
+    "121": {
+        "objects": [
+            "backpack"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The backpack is not yellow."
+    },
+    "122": {
+        "objects": [
+            "backpack"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The backpack is not round."
+    },
+    "123": {
+        "objects": [
+            "backpack"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The backpack is not in sight."
+    },
+    "124": {
+        "objects": [
+            "backpack"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The backpack is not red."
+    },
+    "125": {
+        "objects": [
+            "backpack"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The backpack is not rectangular."
+    },
+    "126": {
+        "objects": [
+            "traffic light"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The traffic light is not pink."
+    },
+    "127": {
+        "objects": [
+            "traffic light"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The traffic light is not white."
+    },
+    "128": {
+        "objects": [
+            "traffic light"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The traffic light is not green."
+    },
+    "129": {
+        "objects": [
+            "traffic light"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The traffic light is not black."
+    },
+    "130": {
+        "objects": [
+            "traffic light"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The traffic light is not in sight."
+    },
+    "131": {
+        "objects": [
+            "traffic light"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The traffic light is not red."
+    },
+    "132": {
+        "objects": [
+            "vase"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The vase is not pink."
+    },
+    "133": {
+        "objects": [
+            "vase"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The vase is not white."
+    },
+    "134": {
+        "objects": [
+            "vase"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The vase is not green."
+    },
+    "135": {
+        "objects": [
+            "vase"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The vase is not yellow."
+    },
+    "136": {
+        "objects": [
+            "vase"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The vase is not blue."
+    },
+    "137": {
+        "objects": [
+            "vase"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The vase is not in sight."
+    },
+    "138": {
+        "objects": [
+            "trousers"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The trousers is not floral."
+    },
+    "139": {
+        "objects": [
+            "trousers"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The trousers is not purple."
+    },
+    "140": {
+        "objects": [
+            "trousers"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The trousers is not in sight."
+    },
+    "141": {
+        "objects": [
+            "trousers"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The trousers is not camouflage."
+    },
+    "142": {
+        "objects": [
+            "trousers"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The trousers is not red."
+    },
+    "143": {
+        "objects": [
+            "trousers"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The trousers is not stripes."
+    },
+    "144": {
+        "objects": [
+            "refrigerator"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The refrigerator is not white."
+    },
+    "145": {
+        "objects": [
+            "refrigerator"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The refrigerator is not pink."
+    },
+    "146": {
+        "objects": [
+            "refrigerator"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The refrigerator is not purple."
+    },
+    "147": {
+        "objects": [
+            "refrigerator"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The refrigerator is not yellow."
+    },
+    "148": {
+        "objects": [
+            "refrigerator"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The refrigerator is not in sight."
+    },
+    "149": {
+        "objects": [
+            "refrigerator"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The refrigerator is not red."
+    },
+    "150": {
+        "objects": [
+            "fire hydrant"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The fire hydrant is not white."
+    },
+    "151": {
+        "objects": [
+            "fire hydrant"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The fire hydrant is not black."
+    },
+    "152": {
+        "objects": [
+            "fire hydrant"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The fire hydrant is not purple."
+    },
+    "153": {
+        "objects": [
+            "fire hydrant"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The fire hydrant is not blue."
+    },
+    "154": {
+        "objects": [
+            "fire hydrant"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The fire hydrant is not in sight."
+    },
+    "155": {
+        "objects": [
+            "fire hydrant"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The fire hydrant is not red."
+    },
+    "156": {
+        "objects": [
+            "bench"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The bench is not white."
+    },
+    "157": {
+        "objects": [
+            "bench"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The bench is not pink."
+    },
+    "158": {
+        "objects": [
+            "bench"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The bench is not black."
+    },
+    "159": {
+        "objects": [
+            "bench"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The bench is not crescentic."
+    },
+    "160": {
+        "objects": [
+            "bench"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The bench is not hexagonal."
+    },
+    "161": {
+        "objects": [
+            "bench"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The bench is not in sight."
+    },
+    "162": {
+        "objects": [
+            "skis"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The skis is not white."
+    },
+    "163": {
+        "objects": [
+            "skis"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The skis is not black."
+    },
+    "164": {
+        "objects": [
+            "skis"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The skis is not purple."
+    },
+    "165": {
+        "objects": [
+            "skis"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The skis is not yellow."
+    },
+    "166": {
+        "objects": [
+            "skis"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The skis is not blue."
+    },
+    "167": {
+        "objects": [
+            "skis"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The skis is not in sight."
+    },
+    "168": {
+        "objects": [
+            "sports ball"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The sports ball is not white."
+    },
+    "169": {
+        "objects": [
+            "sports ball"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The sports ball is not green."
+    },
+    "170": {
+        "objects": [
+            "sports ball"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The sports ball is not black."
+    },
+    "171": {
+        "objects": [
+            "sports ball"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The sports ball is not blue."
+    },
+    "172": {
+        "objects": [
+            "sports ball"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The sports ball is not in sight."
+    },
+    "173": {
+        "objects": [
+            "sports ball"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The sports ball is not red."
+    },
+    "174": {
+        "objects": [
+            "couch"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The couch is not made of linen."
+    },
+    "175": {
+        "objects": [
+            "couch"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The couch is not made of leather."
+    },
+    "176": {
+        "objects": [
+            "couch"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The couch is not green."
+    },
+    "177": {
+        "objects": [
+            "couch"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The couch is not purple."
+    },
+    "178": {
+        "objects": [
+            "couch"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The couch is not in sight."
+    },
+    "179": {
+        "objects": [
+            "couch"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The couch is not red."
+    },
+    "180": {
+        "objects": [
+            "kite"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The kite is not pink."
+    },
+    "181": {
+        "objects": [
+            "kite"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The kite is not yellow."
+    },
+    "182": {
+        "objects": [
+            "kite"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The kite is not blue."
+    },
+    "183": {
+        "objects": [
+            "kite"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The kite is not in sight."
+    },
+    "184": {
+        "objects": [
+            "kite"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The kite is not diamond."
+    },
+    "185": {
+        "objects": [
+            "kite"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The kite is not square."
+    },
+    "186": {
+        "objects": [
+            "mouse"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The mouse is not pink."
+    },
+    "187": {
+        "objects": [
+            "mouse"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The mouse is not white."
+    },
+    "188": {
+        "objects": [
+            "mouse"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The mouse is not green."
+    },
+    "189": {
+        "objects": [
+            "mouse"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The mouse is not black."
+    },
+    "190": {
+        "objects": [
+            "mouse"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The mouse is not yellow."
+    },
+    "191": {
+        "objects": [
+            "mouse"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The mouse is not in sight."
+    },
+    "192": {
+        "objects": [
+            "tennis racket"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The tennis racket is not pink."
+    },
+    "193": {
+        "objects": [
+            "tennis racket"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The tennis racket is not white."
+    },
+    "194": {
+        "objects": [
+            "tennis racket"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The tennis racket is not purple."
+    },
+    "195": {
+        "objects": [
+            "tennis racket"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The tennis racket is not yellow."
+    },
+    "196": {
+        "objects": [
+            "tennis racket"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The tennis racket is not blue."
+    },
+    "197": {
+        "objects": [
+            "tennis racket"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The tennis racket is not in sight."
+    },
+    "198": {
+        "objects": [
+            "zebra"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The zebra is not angry."
+    },
+    "199": {
+        "objects": [
+            "zebra"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The zebra is not afraid."
+    },
+    "200": {
+        "objects": [
+            "zebra"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The zebra is not happy."
+    },
+    "201": {
+        "objects": [
+            "zebra"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The zebra is not blue."
+    },
+    "202": {
+        "objects": [
+            "zebra"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The zebra is not in sight."
+    },
+    "203": {
+        "objects": [
+            "zebra"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The zebra is not red."
+    },
+    "204": {
+        "objects": [
+            "frisbee"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The frisbee is not green."
+    },
+    "205": {
+        "objects": [
+            "frisbee"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The frisbee is not black."
+    },
+    "206": {
+        "objects": [
+            "frisbee"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The frisbee is not yellow."
+    },
+    "207": {
+        "objects": [
+            "frisbee"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The frisbee is not blue."
+    },
+    "208": {
+        "objects": [
+            "frisbee"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The frisbee is not in sight."
+    },
+    "209": {
+        "objects": [
+            "frisbee"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The frisbee is not red."
+    },
+    "210": {
+        "objects": [
+            "clock"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The clock is not white."
+    },
+    "211": {
+        "objects": [
+            "clock"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The clock is not black."
+    },
+    "212": {
+        "objects": [
+            "clock"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The clock is not crescentic."
+    },
+    "213": {
+        "objects": [
+            "clock"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The clock is not in sight."
+    },
+    "214": {
+        "objects": [
+            "clock"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The clock is not red."
+    },
+    "215": {
+        "objects": [
+            "clock"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The clock is not rectangular."
+    },
+    "216": {
+        "objects": [
+            "toilet"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The toilet is not made of porcelain."
+    },
+    "217": {
+        "objects": [
+            "toilet"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The toilet is not green."
+    },
+    "218": {
+        "objects": [
+            "toilet"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The toilet is not purple."
+    },
+    "219": {
+        "objects": [
+            "toilet"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The toilet is not made of acrylic."
+    },
+    "220": {
+        "objects": [
+            "toilet"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The toilet is not in sight."
+    },
+    "221": {
+        "objects": [
+            "toilet"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The toilet is not red."
+    },
+    "222": {
+        "objects": [
+            "car"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The car is not made of metallic."
+    },
+    "223": {
+        "objects": [
+            "car"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The car is not made of wooden."
+    },
+    "224": {
+        "objects": [
+            "car"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The car is not black."
+    },
+    "225": {
+        "objects": [
+            "car"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The car is not purple."
+    },
+    "226": {
+        "objects": [
+            "car"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The car is not yellow."
+    },
+    "227": {
+        "objects": [
+            "car"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The car is not in sight."
+    },
+    "228": {
+        "objects": [
+            "bicycle"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The bicycle is not made of metallic."
+    },
+    "229": {
+        "objects": [
+            "bicycle"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The bicycle is not white."
+    },
+    "230": {
+        "objects": [
+            "bicycle"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The bicycle is not green."
+    },
+    "231": {
+        "objects": [
+            "bicycle"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The bicycle is not purple."
+    },
+    "232": {
+        "objects": [
+            "bicycle"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The bicycle is not made of rubber."
+    },
+    "233": {
+        "objects": [
+            "bicycle"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The bicycle is not in sight."
+    },
+    "234": {
+        "objects": [
+            "bird"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The bird is not sad."
+    },
+    "235": {
+        "objects": [
+            "bird"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The bird is not green."
+    },
+    "236": {
+        "objects": [
+            "bird"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The bird is not purple."
+    },
+    "237": {
+        "objects": [
+            "bird"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The bird is not in sight."
+    },
+    "238": {
+        "objects": [
+            "bird"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The bird is not calm."
+    },
+    "239": {
+        "objects": [
+            "bird"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The bird is not surprised."
+    },
+    "240": {
+        "objects": [
+            "coat"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The coat is not plain."
+    },
+    "241": {
+        "objects": [
+            "coat"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The coat is not green."
+    },
+    "242": {
+        "objects": [
+            "coat"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The coat is not purple."
+    },
+    "243": {
+        "objects": [
+            "coat"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The coat is not in sight."
+    },
+    "244": {
+        "objects": [
+            "coat"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The coat is not camouflage."
+    },
+    "245": {
+        "objects": [
+            "coat"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The coat is not paisley."
+    },
+    "246": {
+        "objects": [
+            "street sign"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The street sign is not pink."
+    },
+    "247": {
+        "objects": [
+            "street sign"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The street sign is not green."
+    },
+    "248": {
+        "objects": [
+            "street sign"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The street sign is not purple."
+    },
+    "249": {
+        "objects": [
+            "street sign"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The street sign is not diamond-shaped."
+    },
+    "250": {
+        "objects": [
+            "street sign"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The street sign is not in sight."
+    },
+    "251": {
+        "objects": [
+            "street sign"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The street sign is not square."
+    },
+    "252": {
+        "objects": [
+            "umbrella"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The umbrella is not white."
+    },
+    "253": {
+        "objects": [
+            "umbrella"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The umbrella is not pink."
+    },
+    "254": {
+        "objects": [
+            "umbrella"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The umbrella is not black."
+    },
+    "255": {
+        "objects": [
+            "umbrella"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The umbrella is not yellow."
+    },
+    "256": {
+        "objects": [
+            "umbrella"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The umbrella is not in sight."
+    },
+    "257": {
+        "objects": [
+            "umbrella"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The umbrella is not red."
+    },
+    "258": {
+        "objects": [
+            "woman"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The woman is not angry."
+    },
+    "259": {
+        "objects": [
+            "woman"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The woman is not afraid."
+    },
+    "260": {
+        "objects": [
+            "woman"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The woman is not happy."
+    },
+    "261": {
+        "objects": [
+            "woman"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The woman is not in sight."
+    },
+    "262": {
+        "objects": [
+            "woman"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The woman is not calm."
+    },
+    "263": {
+        "objects": [
+            "woman"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The woman is not surprised."
+    },
+    "264": {
+        "objects": [
+            "cell phone"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The cell phone is not white."
+    },
+    "265": {
+        "objects": [
+            "cell phone"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The cell phone is not pink."
+    },
+    "266": {
+        "objects": [
+            "cell phone"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The cell phone is not green."
+    },
+    "267": {
+        "objects": [
+            "cell phone"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The cell phone is not purple."
+    },
+    "268": {
+        "objects": [
+            "cell phone"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The cell phone is not blue."
+    },
+    "269": {
+        "objects": [
+            "cell phone"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The cell phone is not in sight."
+    },
+    "270": {
+        "objects": [
+            "dog"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The dog is not purple."
+    },
+    "271": {
+        "objects": [
+            "dog"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The dog is not black."
+    },
+    "272": {
+        "objects": [
+            "dog"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The dog is not afraid."
+    },
+    "273": {
+        "objects": [
+            "dog"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The dog is not in sight."
+    },
+    "274": {
+        "objects": [
+            "dog"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The dog is not red."
+    },
+    "275": {
+        "objects": [
+            "dog"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The dog is not surprised."
+    },
+    "276": {
+        "objects": [
+            "spoon"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The spoon is not made of plastic."
+    },
+    "277": {
+        "objects": [
+            "spoon"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The spoon is not made of bamboo."
+    },
+    "278": {
+        "objects": [
+            "spoon"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The spoon is not made of titanium."
+    },
+    "279": {
+        "objects": [
+            "spoon"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The spoon is not black."
+    },
+    "280": {
+        "objects": [
+            "spoon"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The spoon is not made of steel."
+    },
+    "281": {
+        "objects": [
+            "spoon"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The spoon is not in sight."
+    },
+    "282": {
+        "objects": [
+            "laptop"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The laptop is not white."
+    },
+    "283": {
+        "objects": [
+            "laptop"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The laptop is not green."
+    },
+    "284": {
+        "objects": [
+            "laptop"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The laptop is not black."
+    },
+    "285": {
+        "objects": [
+            "laptop"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The laptop is not purple."
+    },
+    "286": {
+        "objects": [
+            "laptop"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The laptop is not in sight."
+    },
+    "287": {
+        "objects": [
+            "laptop"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The laptop is not red."
+    },
+    "288": {
+        "objects": [
+            "sheep"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The sheep is not white."
+    },
+    "289": {
+        "objects": [
+            "sheep"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The sheep is not happy."
+    },
+    "290": {
+        "objects": [
+            "sheep"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The sheep is not blue."
+    },
+    "291": {
+        "objects": [
+            "sheep"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The sheep is not in sight."
+    },
+    "292": {
+        "objects": [
+            "sheep"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The sheep is not red."
+    },
+    "293": {
+        "objects": [
+            "sheep"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The sheep is not surprised."
+    },
+    "294": {
+        "objects": [
+            "sink"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The sink is not oval."
+    },
+    "295": {
+        "objects": [
+            "sink"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The sink is not green."
+    },
+    "296": {
+        "objects": [
+            "sink"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The sink is not black."
+    },
+    "297": {
+        "objects": [
+            "sink"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The sink is not yellow."
+    },
+    "298": {
+        "objects": [
+            "sink"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The sink is not hexagonal."
+    },
+    "299": {
+        "objects": [
+            "sink"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The sink is not in sight."
+    },
+    "300": {
+        "objects": [
+            "dress"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The dress is not plaid."
+    },
+    "301": {
+        "objects": [
+            "dress"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The dress is not black."
+    },
+    "302": {
+        "objects": [
+            "dress"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The dress is not in sight."
+    },
+    "303": {
+        "objects": [
+            "dress"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The dress is not camouflage."
+    },
+    "304": {
+        "objects": [
+            "dress"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The dress is not paisley."
+    },
+    "305": {
+        "objects": [
+            "dress"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The dress is not stripes."
+    },
+    "306": {
+        "objects": [
+            "bus"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The bus is not white."
+    },
+    "307": {
+        "objects": [
+            "bus"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The bus is not made of wooden."
+    },
+    "308": {
+        "objects": [
+            "bus"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The bus is not made of rubber."
+    },
+    "309": {
+        "objects": [
+            "bus"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The bus is not ceramic."
+    },
+    "310": {
+        "objects": [
+            "bus"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The bus is not in sight."
+    },
+    "311": {
+        "objects": [
+            "bus"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The bus is not red."
+    },
+    "312": {
+        "objects": [
+            "bowl"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The bowl is not octagonal."
+    },
+    "313": {
+        "objects": [
+            "bowl"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The bowl is not green."
+    },
+    "314": {
+        "objects": [
+            "bowl"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The bowl is not yellow."
+    },
+    "315": {
+        "objects": [
+            "bowl"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The bowl is not made of brass."
+    },
+    "316": {
+        "objects": [
+            "bowl"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The bowl is not round."
+    },
+    "317": {
+        "objects": [
+            "bowl"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The bowl is not in sight."
+    },
+    "318": {
+        "objects": [
+            "elephant"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The elephant is not sad."
+    },
+    "319": {
+        "objects": [
+            "elephant"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The elephant is not purple."
+    },
+    "320": {
+        "objects": [
+            "elephant"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The elephant is not angry."
+    },
+    "321": {
+        "objects": [
+            "elephant"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The elephant is not in sight."
+    },
+    "322": {
+        "objects": [
+            "elephant"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The elephant is not calm."
+    },
+    "323": {
+        "objects": [
+            "elephant"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The elephant is not red."
+    },
+    "324": {
+        "objects": [
+            "eye glasses"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The eye glasses is not pink."
+    },
+    "325": {
+        "objects": [
+            "eye glasses"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The eye glasses is not green."
+    },
+    "326": {
+        "objects": [
+            "eye glasses"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The eye glasses is not black."
+    },
+    "327": {
+        "objects": [
+            "eye glasses"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The eye glasses is not blue."
+    },
+    "328": {
+        "objects": [
+            "eye glasses"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The eye glasses is not in sight."
+    },
+    "329": {
+        "objects": [
+            "eye glasses"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The eye glasses is not red."
+    },
+    "330": {
+        "objects": [
+            "T-shirt"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The T-shirt is not black."
+    },
+    "331": {
+        "objects": [
+            "T-shirt"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The T-shirt is not checked."
+    },
+    "332": {
+        "objects": [
+            "T-shirt"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The T-shirt is not in sight."
+    },
+    "333": {
+        "objects": [
+            "T-shirt"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The T-shirt is not camouflage."
+    },
+    "334": {
+        "objects": [
+            "T-shirt"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The T-shirt is not floral."
+    },
+    "335": {
+        "objects": [
+            "T-shirt"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The T-shirt is not paisley."
+    },
+    "336": {
+        "objects": [
+            "skateboard"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The skateboard is not pink."
+    },
+    "337": {
+        "objects": [
+            "skateboard"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The skateboard is not green."
+    },
+    "338": {
+        "objects": [
+            "skateboard"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The skateboard is not purple."
+    },
+    "339": {
+        "objects": [
+            "skateboard"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The skateboard is not black."
+    },
+    "340": {
+        "objects": [
+            "skateboard"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The skateboard is not yellow."
+    },
+    "341": {
+        "objects": [
+            "skateboard"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The skateboard is not in sight."
+    },
+    "342": {
+        "objects": [
+            "handbag"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The handbag is not pink."
+    },
+    "343": {
+        "objects": [
+            "handbag"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The handbag is not round."
+    },
+    "344": {
+        "objects": [
+            "handbag"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The handbag is not green."
+    },
+    "345": {
+        "objects": [
+            "handbag"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The handbag is not triangular."
+    },
+    "346": {
+        "objects": [
+            "handbag"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The handbag is not blue."
+    },
+    "347": {
+        "objects": [
+            "handbag"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The handbag is not rectangular."
+    },
+    "348": {
+        "objects": [
+            "knife"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The knife is not white."
+    },
+    "349": {
+        "objects": [
+            "knife"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The knife is not made of ivory."
+    },
+    "350": {
+        "objects": [
+            "knife"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The knife is not black."
+    },
+    "351": {
+        "objects": [
+            "knife"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The knife is not purple."
+    },
+    "352": {
+        "objects": [
+            "knife"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The knife is not made of glass."
+    },
+    "353": {
+        "objects": [
+            "knife"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The knife is not in sight."
+    },
+    "354": {
+        "objects": [
+            "tv"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The tv is not pink."
+    },
+    "355": {
+        "objects": [
+            "tv"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The tv is not white."
+    },
+    "356": {
+        "objects": [
+            "tv"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The tv is not green."
+    },
+    "357": {
+        "objects": [
+            "tv"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The tv is not black."
+    },
+    "358": {
+        "objects": [
+            "tv"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The tv is not blue."
+    },
+    "359": {
+        "objects": [
+            "tv"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The tv is not in sight."
+    },
+    "360": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The dining table is not pink."
+    },
+    "361": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The dining table is not black."
+    },
+    "362": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The dining table is not purple."
+    },
+    "363": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The dining table is not blue."
+    },
+    "364": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The dining table is not in sight."
+    },
+    "365": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The dining table is not square."
+    },
+    "366": {
+        "objects": [
+            "cat"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The cat is not black."
+    },
+    "367": {
+        "objects": [
+            "cat"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The cat is not yellow."
+    },
+    "368": {
+        "objects": [
+            "cat"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The cat is not afraid."
+    },
+    "369": {
+        "objects": [
+            "cat"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The cat is not happy."
+    },
+    "370": {
+        "objects": [
+            "cat"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The cat is not in sight."
+    },
+    "371": {
+        "objects": [
+            "cat"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The cat is not red."
+    },
+    "372": {
+        "objects": [
+            "cake"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The cake is not octagonal."
+    },
+    "373": {
+        "objects": [
+            "cake"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The cake is not white."
+    },
+    "374": {
+        "objects": [
+            "cake"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The cake is not black."
+    },
+    "375": {
+        "objects": [
+            "cake"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The cake is not purple."
+    },
+    "376": {
+        "objects": [
+            "cake"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The cake is not yellow."
+    },
+    "377": {
+        "objects": [
+            "cake"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The cake is not in sight."
+    },
+    "378": {
+        "objects": [
+            "broccoli"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The broccoli is not black."
+    },
+    "379": {
+        "objects": [
+            "broccoli"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The broccoli is not purple."
+    },
+    "380": {
+        "objects": [
+            "broccoli"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The broccoli is not yellow."
+    },
+    "381": {
+        "objects": [
+            "broccoli"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The broccoli is not blue."
+    },
+    "382": {
+        "objects": [
+            "broccoli"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The broccoli is not in sight."
+    },
+    "383": {
+        "objects": [
+            "broccoli"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The broccoli is not red."
+    },
+    "384": {
+        "objects": [
+            "baseball glove"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The baseball glove is not white."
+    },
+    "385": {
+        "objects": [
+            "baseball glove"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The baseball glove is not purple."
+    },
+    "386": {
+        "objects": [
+            "baseball glove"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The baseball glove is not black."
+    },
+    "387": {
+        "objects": [
+            "baseball glove"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The baseball glove is not yellow."
+    },
+    "388": {
+        "objects": [
+            "baseball glove"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The baseball glove is not blue."
+    },
+    "389": {
+        "objects": [
+            "baseball glove"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The baseball glove is not in sight."
+    },
+    "390": {
+        "objects": [
+            "cow"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The cow is not sad."
+    },
+    "391": {
+        "objects": [
+            "cow"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The cow is not green."
+    },
+    "392": {
+        "objects": [
+            "cow"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The cow is not angry."
+    },
+    "393": {
+        "objects": [
+            "cow"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The cow is not afraid."
+    },
+    "394": {
+        "objects": [
+            "cow"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The cow is not happy."
+    },
+    "395": {
+        "objects": [
+            "cow"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The cow is not in sight."
+    },
+    "396": {
+        "objects": [
+            "banana"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The banana is not white."
+    },
+    "397": {
+        "objects": [
+            "banana"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The banana is not purple."
+    },
+    "398": {
+        "objects": [
+            "banana"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The banana is not black."
+    },
+    "399": {
+        "objects": [
+            "banana"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The banana is not yellow."
+    },
+    "400": {
+        "objects": [
+            "banana"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The banana is not blue."
+    },
+    "401": {
+        "objects": [
+            "banana"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The banana is not in sight."
+    },
+    "402": {
+        "objects": [
+            "girl"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The girl is not sad."
+    },
+    "403": {
+        "objects": [
+            "girl"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The girl is not angry."
+    },
+    "404": {
+        "objects": [
+            "girl"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The girl is not afraid."
+    },
+    "405": {
+        "objects": [
+            "girl"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The girl is not happy."
+    },
+    "406": {
+        "objects": [
+            "girl"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The girl is not in sight."
+    },
+    "407": {
+        "objects": [
+            "girl"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The girl is not calm."
+    },
+    "408": {
+        "objects": [
+            "motorcycle"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The motorcycle is not made of metallic."
+    },
+    "409": {
+        "objects": [
+            "motorcycle"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The motorcycle is not made of wooden."
+    },
+    "410": {
+        "objects": [
+            "motorcycle"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The motorcycle is not green."
+    },
+    "411": {
+        "objects": [
+            "motorcycle"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The motorcycle is not made of rubber."
+    },
+    "412": {
+        "objects": [
+            "motorcycle"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The motorcycle is not made of steel."
+    },
+    "413": {
+        "objects": [
+            "motorcycle"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The motorcycle is not red."
+    },
+    "414": {
+        "objects": [
+            "donut"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The donut is not white."
+    },
+    "415": {
+        "objects": [
+            "donut"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The donut is not pink."
+    },
+    "416": {
+        "objects": [
+            "donut"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The donut is not black."
+    },
+    "417": {
+        "objects": [
+            "donut"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The donut is not blue."
+    },
+    "418": {
+        "objects": [
+            "donut"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The donut is not in sight."
+    },
+    "419": {
+        "objects": [
+            "donut"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The donut is not red."
+    },
+    "420": {
+        "objects": [
+            "parking meter"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The parking meter is not white."
+    },
+    "421": {
+        "objects": [
+            "parking meter"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The parking meter is not green."
+    },
+    "422": {
+        "objects": [
+            "parking meter"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The parking meter is not purple."
+    },
+    "423": {
+        "objects": [
+            "parking meter"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The parking meter is not black."
+    },
+    "424": {
+        "objects": [
+            "parking meter"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The parking meter is not in sight."
+    },
+    "425": {
+        "objects": [
+            "parking meter"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The parking meter is not red."
+    },
+    "426": {
+        "objects": [
+            "oven"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The oven is not white."
+    },
+    "427": {
+        "objects": [
+            "oven"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The oven is not pink."
+    },
+    "428": {
+        "objects": [
+            "oven"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The oven is not black."
+    },
+    "429": {
+        "objects": [
+            "oven"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The oven is not blue."
+    },
+    "430": {
+        "objects": [
+            "oven"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The oven is not in sight."
+    },
+    "431": {
+        "objects": [
+            "oven"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The oven is not red."
+    },
+    "432": {
+        "objects": [
+            "pizza"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The pizza is not white."
+    },
+    "433": {
+        "objects": [
+            "pizza"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The pizza is not green."
+    },
+    "434": {
+        "objects": [
+            "pizza"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The pizza is not purple."
+    },
+    "435": {
+        "objects": [
+            "pizza"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The pizza is not yellow."
+    },
+    "436": {
+        "objects": [
+            "pizza"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The pizza is not in sight."
+    },
+    "437": {
+        "objects": [
+            "pizza"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The pizza is not red."
+    },
+    "438": {
+        "objects": [
+            "teddy bear"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The teddy bear is not pink."
+    },
+    "439": {
+        "objects": [
+            "teddy bear"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The teddy bear is not purple."
+    },
+    "440": {
+        "objects": [
+            "teddy bear"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The teddy bear is not black."
+    },
+    "441": {
+        "objects": [
+            "teddy bear"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The teddy bear is not yellow."
+    },
+    "442": {
+        "objects": [
+            "teddy bear"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The teddy bear is not blue."
+    },
+    "443": {
+        "objects": [
+            "teddy bear"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The teddy bear is not in sight."
+    },
+    "444": {
+        "objects": [
+            "potted plant"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The potted plant is not made of plastic."
+    },
+    "445": {
+        "objects": [
+            "potted plant"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The potted plant is not made of concrete."
+    },
+    "446": {
+        "objects": [
+            "potted plant"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The potted plant is not purple."
+    },
+    "447": {
+        "objects": [
+            "potted plant"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The potted plant is not blue."
+    },
+    "448": {
+        "objects": [
+            "potted plant"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The potted plant is not in sight."
+    },
+    "449": {
+        "objects": [
+            "potted plant"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The potted plant is not red."
+    },
+    "450": {
+        "objects": [
+            "orange"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The orange is not white."
+    },
+    "451": {
+        "objects": [
+            "orange"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The orange is not pink."
+    },
+    "452": {
+        "objects": [
+            "orange"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The orange is not green."
+    },
+    "453": {
+        "objects": [
+            "orange"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The orange is not black."
+    },
+    "454": {
+        "objects": [
+            "orange"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The orange is not in sight."
+    },
+    "455": {
+        "objects": [
+            "orange"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The orange is not red."
+    },
+    "456": {
+        "objects": [
+            "scissors"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The scissors is not green."
+    },
+    "457": {
+        "objects": [
+            "scissors"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The scissors is not purple."
+    },
+    "458": {
+        "objects": [
+            "scissors"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The scissors is not black."
+    },
+    "459": {
+        "objects": [
+            "scissors"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The scissors is not yellow."
+    },
+    "460": {
+        "objects": [
+            "scissors"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The scissors is not in sight."
+    },
+    "461": {
+        "objects": [
+            "scissors"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The scissors is not red."
+    },
+    "462": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The bed is not herringbone."
+    },
+    "463": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The bed is not purple."
+    },
+    "464": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The bed is not upholstered."
+    },
+    "465": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The bed is not in sight."
+    },
+    "466": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The bed is not red."
+    },
+    "467": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The bed is not paisley."
+    },
+    "468": {
+        "objects": [
+            "keyboard"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The keyboard is not pink."
+    },
+    "469": {
+        "objects": [
+            "keyboard"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The keyboard is not green."
+    },
+    "470": {
+        "objects": [
+            "keyboard"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The keyboard is not purple."
+    },
+    "471": {
+        "objects": [
+            "keyboard"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The keyboard is not blue."
+    },
+    "472": {
+        "objects": [
+            "keyboard"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The keyboard is not in sight."
+    },
+    "473": {
+        "objects": [
+            "keyboard"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The keyboard is not red."
+    },
+    "474": {
+        "objects": [
+            "surfboard"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The surfboard is not white."
+    },
+    "475": {
+        "objects": [
+            "surfboard"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The surfboard is not green."
+    },
+    "476": {
+        "objects": [
+            "surfboard"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The surfboard is not purple."
+    },
+    "477": {
+        "objects": [
+            "surfboard"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The surfboard is not yellow."
+    },
+    "478": {
+        "objects": [
+            "surfboard"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The surfboard is not blue."
+    },
+    "479": {
+        "objects": [
+            "surfboard"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The surfboard is not in sight."
+    },
+    "480": {
+        "objects": [
+            "horse"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The horse is not green."
+    },
+    "481": {
+        "objects": [
+            "horse"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The horse is not angry."
+    },
+    "482": {
+        "objects": [
+            "horse"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The horse is not afraid."
+    },
+    "483": {
+        "objects": [
+            "horse"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The horse is not in sight."
+    },
+    "484": {
+        "objects": [
+            "horse"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The horse is not calm."
+    },
+    "485": {
+        "objects": [
+            "horse"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The horse is not surprised."
+    },
+    "486": {
+        "objects": [
+            "shirt"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The shirt is not plain."
+    },
+    "487": {
+        "objects": [
+            "shirt"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The shirt is not polka dots."
+    },
+    "488": {
+        "objects": [
+            "shirt"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The shirt is not herringbone."
+    },
+    "489": {
+        "objects": [
+            "shirt"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The shirt is not checked."
+    },
+    "490": {
+        "objects": [
+            "shirt"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The shirt is not yellow."
+    },
+    "491": {
+        "objects": [
+            "shirt"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The shirt is not in sight."
+    },
+    "492": {
+        "objects": [
+            "toaster"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The toaster is not pink."
+    },
+    "493": {
+        "objects": [
+            "toaster"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The toaster is not green."
+    },
+    "494": {
+        "objects": [
+            "toaster"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The toaster is not purple."
+    },
+    "495": {
+        "objects": [
+            "toaster"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The toaster is not yellow."
+    },
+    "496": {
+        "objects": [
+            "toaster"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The toaster is not in sight."
+    },
+    "497": {
+        "objects": [
+            "toaster"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The toaster is not red."
+    },
+    "498": {
+        "objects": [
+            "bear"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The bear is not white."
+    },
+    "499": {
+        "objects": [
+            "bear"
+        ],
+        "tags": {
+            "negations number": 1,
+            "spatials number": 0,
+            "att_self number": 1,
+            "objects number": 1
+        },
+        "prompt": "The bear is not black."
+    }
+}

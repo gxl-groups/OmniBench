@@ -1,0 +1,6602 @@
+{
+    "0": {
+        "objects": [
+            "bus",
+            "bicycle"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bus seems taller than the bicycle."
+    },
+    "1": {
+        "objects": [
+            "bus",
+            "bicycle"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bus is larger than the bicycle."
+    },
+    "2": {
+        "objects": [
+            "bus",
+            "bicycle"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bus seems smaller than the bicycle."
+    },
+    "3": {
+        "objects": [
+            "bus",
+            "bicycle"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bus seems shorter than the bicycle."
+    },
+    "4": {
+        "objects": [
+            "giraffe",
+            "cow"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe appears weaker than the cow."
+    },
+    "5": {
+        "objects": [
+            "giraffe",
+            "cow"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe looks taller than the cow."
+    },
+    "6": {
+        "objects": [
+            "giraffe",
+            "cow"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe appears larger than the cow."
+    },
+    "7": {
+        "objects": [
+            "giraffe",
+            "cow"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe is stronger than the cow."
+    },
+    "8": {
+        "objects": [
+            "sheep",
+            "dog"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The sheep appears taller than the dog."
+    },
+    "9": {
+        "objects": [
+            "sheep",
+            "dog"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The sheep seems stronger than the dog."
+    },
+    "10": {
+        "objects": [
+            "sheep",
+            "dog"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The sheep looks smaller than the dog."
+    },
+    "11": {
+        "objects": [
+            "sheep",
+            "dog"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The sheep is larger than the dog."
+    },
+    "12": {
+        "objects": [
+            "cup",
+            "book"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cup is larger than the book."
+    },
+    "13": {
+        "objects": [
+            "cup",
+            "book"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cup is smaller than the book."
+    },
+    "14": {
+        "objects": [
+            "suitcase",
+            "handbag"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The suitcase is smaller than the handbag."
+    },
+    "15": {
+        "objects": [
+            "suitcase",
+            "handbag"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The suitcase appears narrower than the handbag."
+    },
+    "16": {
+        "objects": [
+            "suitcase",
+            "handbag"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The suitcase is larger than the handbag."
+    },
+    "17": {
+        "objects": [
+            "suitcase",
+            "handbag"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The suitcase appears wider than the handbag."
+    },
+    "18": {
+        "objects": [
+            "giraffe",
+            "horse"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe is smaller than the horse."
+    },
+    "19": {
+        "objects": [
+            "giraffe",
+            "horse"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe seems weaker than the horse."
+    },
+    "20": {
+        "objects": [
+            "giraffe",
+            "horse"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe appears taller than the horse."
+    },
+    "21": {
+        "objects": [
+            "giraffe",
+            "horse"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe is stronger than the horse."
+    },
+    "22": {
+        "objects": [
+            "orange",
+            "clock"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The orange appears larger than the clock."
+    },
+    "23": {
+        "objects": [
+            "orange",
+            "clock"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The orange appears smaller than the clock."
+    },
+    "24": {
+        "objects": [
+            "giraffe",
+            "sheep"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe appears stronger than the sheep."
+    },
+    "25": {
+        "objects": [
+            "giraffe",
+            "sheep"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe is weaker than the sheep."
+    },
+    "26": {
+        "objects": [
+            "giraffe",
+            "sheep"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe appears larger than the sheep."
+    },
+    "27": {
+        "objects": [
+            "giraffe",
+            "sheep"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe is shorter than the sheep."
+    },
+    "28": {
+        "objects": [
+            "cup",
+            "clock"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cup is larger than the clock."
+    },
+    "29": {
+        "objects": [
+            "cup",
+            "clock"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cup appears smaller than the clock."
+    },
+    "30": {
+        "objects": [
+            "bowl",
+            "donut"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bowl is smaller than the donut."
+    },
+    "31": {
+        "objects": [
+            "bowl",
+            "donut"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bowl is larger than the donut."
+    },
+    "32": {
+        "objects": [
+            "clock",
+            "book"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The clock appears larger than the book."
+    },
+    "33": {
+        "objects": [
+            "clock",
+            "book"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The clock is smaller than the book."
+    },
+    "34": {
+        "objects": [
+            "suitcase",
+            "backpack"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The suitcase is smaller than the backpack."
+    },
+    "35": {
+        "objects": [
+            "suitcase",
+            "backpack"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The suitcase is larger than the backpack."
+    },
+    "36": {
+        "objects": [
+            "suitcase",
+            "backpack"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The suitcase seems wider than the backpack."
+    },
+    "37": {
+        "objects": [
+            "suitcase",
+            "backpack"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The suitcase seems narrower than the backpack."
+    },
+    "38": {
+        "objects": [
+            "truck",
+            "bicycle"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The truck appears larger than the bicycle."
+    },
+    "39": {
+        "objects": [
+            "truck",
+            "bicycle"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The truck looks taller than the bicycle."
+    },
+    "40": {
+        "objects": [
+            "truck",
+            "bicycle"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The truck is shorter than the bicycle."
+    },
+    "41": {
+        "objects": [
+            "truck",
+            "bicycle"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The truck is smaller than the bicycle."
+    },
+    "42": {
+        "objects": [
+            "surfboard",
+            "snowboard"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The surfboard is shorter than the snowboard."
+    },
+    "43": {
+        "objects": [
+            "surfboard",
+            "snowboard"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The surfboard looks older than the snowboard."
+    },
+    "44": {
+        "objects": [
+            "surfboard",
+            "snowboard"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The surfboard is newer than the snowboard."
+    },
+    "45": {
+        "objects": [
+            "surfboard",
+            "snowboard"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The surfboard seems longer than the snowboard."
+    },
+    "46": {
+        "objects": [
+            "sports ball",
+            "frisbee"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The sports ball seems newer than the frisbee."
+    },
+    "47": {
+        "objects": [
+            "sports ball",
+            "frisbee"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The sports ball is smaller than the frisbee."
+    },
+    "48": {
+        "objects": [
+            "sports ball",
+            "frisbee"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The sports ball appears older than the frisbee."
+    },
+    "49": {
+        "objects": [
+            "sports ball",
+            "frisbee"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The sports ball appears larger than the frisbee."
+    },
+    "50": {
+        "objects": [
+            "backpack",
+            "microwave"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The backpack seems smaller than the microwave."
+    },
+    "51": {
+        "objects": [
+            "backpack",
+            "microwave"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The backpack appears larger than the microwave."
+    },
+    "52": {
+        "objects": [
+            "backpack",
+            "microwave"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The backpack looks wider than the microwave."
+    },
+    "53": {
+        "objects": [
+            "backpack",
+            "microwave"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The backpack is narrower than the microwave."
+    },
+    "54": {
+        "objects": [
+            "bowl",
+            "cake"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bowl appears larger than the cake."
+    },
+    "55": {
+        "objects": [
+            "bowl",
+            "cake"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bowl appears smaller than the cake."
+    },
+    "56": {
+        "objects": [
+            "plate",
+            "donut"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The plate looks smaller than the donut."
+    },
+    "57": {
+        "objects": [
+            "plate",
+            "donut"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The plate seems larger than the donut."
+    },
+    "58": {
+        "objects": [
+            "dog",
+            "bird"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The dog is shorter than the bird."
+    },
+    "59": {
+        "objects": [
+            "dog",
+            "bird"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The dog appears stronger than the bird."
+    },
+    "60": {
+        "objects": [
+            "dog",
+            "bird"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The dog looks taller than the bird."
+    },
+    "61": {
+        "objects": [
+            "dog",
+            "bird"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The dog seems smaller than the bird."
+    },
+    "62": {
+        "objects": [
+            "baseball glove",
+            "kite"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The baseball glove looks older than the kite."
+    },
+    "63": {
+        "objects": [
+            "baseball glove",
+            "kite"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The baseball glove is smaller than the kite."
+    },
+    "64": {
+        "objects": [
+            "baseball glove",
+            "kite"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The baseball glove looks newer than the kite."
+    },
+    "65": {
+        "objects": [
+            "baseball glove",
+            "kite"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The baseball glove seems larger than the kite."
+    },
+    "66": {
+        "objects": [
+            "hot dog",
+            "carrot"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The hot dog appears shorter than the carrot."
+    },
+    "67": {
+        "objects": [
+            "hot dog",
+            "carrot"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The hot dog is longer than the carrot."
+    },
+    "68": {
+        "objects": [
+            "zebra",
+            "cow"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra is smaller than the cow."
+    },
+    "69": {
+        "objects": [
+            "zebra",
+            "cow"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra seems shorter than the cow."
+    },
+    "70": {
+        "objects": [
+            "zebra",
+            "cow"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra seems stronger than the cow."
+    },
+    "71": {
+        "objects": [
+            "zebra",
+            "cow"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra looks taller than the cow."
+    },
+    "72": {
+        "objects": [
+            "suitcase",
+            "microwave"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The suitcase seems wider than the microwave."
+    },
+    "73": {
+        "objects": [
+            "suitcase",
+            "microwave"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The suitcase looks narrower than the microwave."
+    },
+    "74": {
+        "objects": [
+            "suitcase",
+            "microwave"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The suitcase seems smaller than the microwave."
+    },
+    "75": {
+        "objects": [
+            "suitcase",
+            "microwave"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The suitcase seems larger than the microwave."
+    },
+    "76": {
+        "objects": [
+            "cake",
+            "clock"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cake appears smaller than the clock."
+    },
+    "77": {
+        "objects": [
+            "cake",
+            "clock"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cake looks larger than the clock."
+    },
+    "78": {
+        "objects": [
+            "sheep",
+            "cat"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The sheep appears taller than the cat."
+    },
+    "79": {
+        "objects": [
+            "sheep",
+            "cat"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The sheep appears stronger than the cat."
+    },
+    "80": {
+        "objects": [
+            "sheep",
+            "cat"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The sheep appears smaller than the cat."
+    },
+    "81": {
+        "objects": [
+            "sheep",
+            "cat"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The sheep is weaker than the cat."
+    },
+    "82": {
+        "objects": [
+            "dog",
+            "cat"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The dog is weaker than the cat."
+    },
+    "83": {
+        "objects": [
+            "dog",
+            "cat"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The dog appears stronger than the cat."
+    },
+    "84": {
+        "objects": [
+            "dog",
+            "cat"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The dog is taller than the cat."
+    },
+    "85": {
+        "objects": [
+            "dog",
+            "cat"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The dog appears larger than the cat."
+    },
+    "86": {
+        "objects": [
+            "pizza",
+            "book"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The pizza seems smaller than the book."
+    },
+    "87": {
+        "objects": [
+            "pizza",
+            "book"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The pizza is larger than the book."
+    },
+    "88": {
+        "objects": [
+            "dress",
+            "trousers"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The dress looks larger than the trousers."
+    },
+    "89": {
+        "objects": [
+            "dress",
+            "trousers"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The dress is smaller than the trousers."
+    },
+    "90": {
+        "objects": [
+            "dress",
+            "trousers"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The dress appears warmer than the trousers."
+    },
+    "91": {
+        "objects": [
+            "dress",
+            "trousers"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The dress is thicker than the trousers."
+    },
+    "92": {
+        "objects": [
+            "knife",
+            "carrot"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The knife is shorter than the carrot."
+    },
+    "93": {
+        "objects": [
+            "knife",
+            "carrot"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The knife seems longer than the carrot."
+    },
+    "94": {
+        "objects": [
+            "spoon",
+            "toothbrush"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The spoon seems longer than the toothbrush."
+    },
+    "95": {
+        "objects": [
+            "spoon",
+            "toothbrush"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The spoon is shorter than the toothbrush."
+    },
+    "96": {
+        "objects": [
+            "fire hydrant",
+            "traffic light"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The fire hydrant looks larger than the traffic light."
+    },
+    "97": {
+        "objects": [
+            "fire hydrant",
+            "traffic light"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The fire hydrant looks taller than the traffic light."
+    },
+    "98": {
+        "objects": [
+            "fire hydrant",
+            "traffic light"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The fire hydrant appears shorter than the traffic light."
+    },
+    "99": {
+        "objects": [
+            "fire hydrant",
+            "traffic light"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The fire hydrant appears smaller than the traffic light."
+    },
+    "100": {
+        "objects": [
+            "elephant",
+            "cat"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The elephant seems weaker than the cat."
+    },
+    "101": {
+        "objects": [
+            "elephant",
+            "cat"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The elephant is stronger than the cat."
+    },
+    "102": {
+        "objects": [
+            "elephant",
+            "cat"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The elephant appears taller than the cat."
+    },
+    "103": {
+        "objects": [
+            "elephant",
+            "cat"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The elephant seems smaller than the cat."
+    },
+    "104": {
+        "objects": [
+            "donut",
+            "pizza"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The donut is larger than the pizza."
+    },
+    "105": {
+        "objects": [
+            "donut",
+            "pizza"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The donut appears smaller than the pizza."
+    },
+    "106": {
+        "objects": [
+            "traffic light",
+            "parking meter"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The traffic light is smaller than the parking meter."
+    },
+    "107": {
+        "objects": [
+            "traffic light",
+            "parking meter"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The traffic light is larger than the parking meter."
+    },
+    "108": {
+        "objects": [
+            "traffic light",
+            "parking meter"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The traffic light looks taller than the parking meter."
+    },
+    "109": {
+        "objects": [
+            "traffic light",
+            "parking meter"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The traffic light is shorter than the parking meter."
+    },
+    "110": {
+        "objects": [
+            "cup",
+            "donut"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cup seems larger than the donut."
+    },
+    "111": {
+        "objects": [
+            "cup",
+            "donut"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cup is smaller than the donut."
+    },
+    "112": {
+        "objects": [
+            "knife",
+            "toothbrush"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The knife appears longer than the toothbrush."
+    },
+    "113": {
+        "objects": [
+            "knife",
+            "toothbrush"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The knife looks shorter than the toothbrush."
+    },
+    "114": {
+        "objects": [
+            "bowl",
+            "clock"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bowl looks larger than the clock."
+    },
+    "115": {
+        "objects": [
+            "bowl",
+            "clock"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bowl seems smaller than the clock."
+    },
+    "116": {
+        "objects": [
+            "shirt",
+            "T-shirt"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The shirt appears shorter than the T-shirt."
+    },
+    "117": {
+        "objects": [
+            "shirt",
+            "T-shirt"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The shirt appears longer than the T-shirt."
+    },
+    "118": {
+        "objects": [
+            "shirt",
+            "T-shirt"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The shirt looks cooler than the T-shirt."
+    },
+    "119": {
+        "objects": [
+            "shirt",
+            "T-shirt"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The shirt appears thicker than the T-shirt."
+    },
+    "120": {
+        "objects": [
+            "cake",
+            "book"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cake looks larger than the book."
+    },
+    "121": {
+        "objects": [
+            "cake",
+            "book"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cake appears smaller than the book."
+    },
+    "122": {
+        "objects": [
+            "cow",
+            "bird"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cow looks taller than the bird."
+    },
+    "123": {
+        "objects": [
+            "cow",
+            "bird"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cow looks smaller than the bird."
+    },
+    "124": {
+        "objects": [
+            "cow",
+            "bird"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cow is larger than the bird."
+    },
+    "125": {
+        "objects": [
+            "cow",
+            "bird"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cow looks weaker than the bird."
+    },
+    "126": {
+        "objects": [
+            "giraffe",
+            "bear"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe is weaker than the bear."
+    },
+    "127": {
+        "objects": [
+            "giraffe",
+            "bear"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe looks smaller than the bear."
+    },
+    "128": {
+        "objects": [
+            "giraffe",
+            "bear"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe seems shorter than the bear."
+    },
+    "129": {
+        "objects": [
+            "giraffe",
+            "bear"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe seems stronger than the bear."
+    },
+    "130": {
+        "objects": [
+            "horse",
+            "dog"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The horse appears taller than the dog."
+    },
+    "131": {
+        "objects": [
+            "horse",
+            "dog"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The horse looks stronger than the dog."
+    },
+    "132": {
+        "objects": [
+            "horse",
+            "dog"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The horse is larger than the dog."
+    },
+    "133": {
+        "objects": [
+            "horse",
+            "dog"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The horse is smaller than the dog."
+    },
+    "134": {
+        "objects": [
+            "bicycle",
+            "car"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bicycle looks shorter than the car."
+    },
+    "135": {
+        "objects": [
+            "bicycle",
+            "car"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bicycle looks taller than the car."
+    },
+    "136": {
+        "objects": [
+            "bicycle",
+            "car"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bicycle seems smaller than the car."
+    },
+    "137": {
+        "objects": [
+            "bicycle",
+            "car"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bicycle appears larger than the car."
+    },
+    "138": {
+        "objects": [
+            "microwave",
+            "oven"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The microwave looks larger than the oven."
+    },
+    "139": {
+        "objects": [
+            "microwave",
+            "oven"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The microwave looks wider than the oven."
+    },
+    "140": {
+        "objects": [
+            "microwave",
+            "oven"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The microwave is narrower than the oven."
+    },
+    "141": {
+        "objects": [
+            "microwave",
+            "oven"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The microwave seems smaller than the oven."
+    },
+    "142": {
+        "objects": [
+            "cup",
+            "apple"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cup is smaller than the apple."
+    },
+    "143": {
+        "objects": [
+            "cup",
+            "apple"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cup looks larger than the apple."
+    },
+    "144": {
+        "objects": [
+            "microwave",
+            "toaster"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The microwave seems wider than the toaster."
+    },
+    "145": {
+        "objects": [
+            "microwave",
+            "toaster"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The microwave is narrower than the toaster."
+    },
+    "146": {
+        "objects": [
+            "microwave",
+            "toaster"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The microwave appears larger than the toaster."
+    },
+    "147": {
+        "objects": [
+            "microwave",
+            "toaster"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The microwave is smaller than the toaster."
+    },
+    "148": {
+        "objects": [
+            "plate",
+            "book"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The plate is larger than the book."
+    },
+    "149": {
+        "objects": [
+            "plate",
+            "book"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The plate appears smaller than the book."
+    },
+    "150": {
+        "objects": [
+            "boy",
+            "baby"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The boy looks thinner than the baby."
+    },
+    "151": {
+        "objects": [
+            "boy",
+            "baby"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The boy is stronger than the baby."
+    },
+    "152": {
+        "objects": [
+            "boy",
+            "baby"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The boy seems older than the baby."
+    },
+    "153": {
+        "objects": [
+            "boy",
+            "baby"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The boy looks taller than the baby."
+    },
+    "154": {
+        "objects": [
+            "plate",
+            "pizza"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The plate is smaller than the pizza."
+    },
+    "155": {
+        "objects": [
+            "plate",
+            "pizza"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The plate appears larger than the pizza."
+    },
+    "156": {
+        "objects": [
+            "elephant",
+            "cow"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The elephant looks larger than the cow."
+    },
+    "157": {
+        "objects": [
+            "elephant",
+            "cow"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The elephant appears shorter than the cow."
+    },
+    "158": {
+        "objects": [
+            "elephant",
+            "cow"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The elephant seems smaller than the cow."
+    },
+    "159": {
+        "objects": [
+            "elephant",
+            "cow"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The elephant looks taller than the cow."
+    },
+    "160": {
+        "objects": [
+            "snowboard",
+            "skis"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The snowboard looks older than the skis."
+    },
+    "161": {
+        "objects": [
+            "snowboard",
+            "skis"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The snowboard appears newer than the skis."
+    },
+    "162": {
+        "objects": [
+            "snowboard",
+            "skis"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The snowboard looks shorter than the skis."
+    },
+    "163": {
+        "objects": [
+            "snowboard",
+            "skis"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The snowboard appears longer than the skis."
+    },
+    "164": {
+        "objects": [
+            "baseball glove",
+            "frisbee"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The baseball glove looks smaller than the frisbee."
+    },
+    "165": {
+        "objects": [
+            "baseball glove",
+            "frisbee"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The baseball glove seems newer than the frisbee."
+    },
+    "166": {
+        "objects": [
+            "baseball glove",
+            "frisbee"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The baseball glove appears larger than the frisbee."
+    },
+    "167": {
+        "objects": [
+            "baseball glove",
+            "frisbee"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The baseball glove looks older than the frisbee."
+    },
+    "168": {
+        "objects": [
+            "suitcase",
+            "oven"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The suitcase seems smaller than the oven."
+    },
+    "169": {
+        "objects": [
+            "suitcase",
+            "oven"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The suitcase looks wider than the oven."
+    },
+    "170": {
+        "objects": [
+            "suitcase",
+            "oven"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The suitcase is larger than the oven."
+    },
+    "171": {
+        "objects": [
+            "suitcase",
+            "oven"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The suitcase is narrower than the oven."
+    },
+    "172": {
+        "objects": [
+            "sheep",
+            "horse"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The sheep is taller than the horse."
+    },
+    "173": {
+        "objects": [
+            "sheep",
+            "horse"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The sheep seems smaller than the horse."
+    },
+    "174": {
+        "objects": [
+            "sheep",
+            "horse"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The sheep is shorter than the horse."
+    },
+    "175": {
+        "objects": [
+            "sheep",
+            "horse"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The sheep is stronger than the horse."
+    },
+    "176": {
+        "objects": [
+            "donut",
+            "broccoli"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The donut looks larger than the broccoli."
+    },
+    "177": {
+        "objects": [
+            "donut",
+            "broccoli"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The donut is smaller than the broccoli."
+    },
+    "178": {
+        "objects": [
+            "coat",
+            "trousers"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The coat looks shorter than the trousers."
+    },
+    "179": {
+        "objects": [
+            "coat",
+            "trousers"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The coat seems thicker than the trousers."
+    },
+    "180": {
+        "objects": [
+            "coat",
+            "trousers"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The coat appears smaller than the trousers."
+    },
+    "181": {
+        "objects": [
+            "coat",
+            "trousers"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The coat looks warmer than the trousers."
+    },
+    "182": {
+        "objects": [
+            "pizza",
+            "clock"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The pizza seems smaller than the clock."
+    },
+    "183": {
+        "objects": [
+            "pizza",
+            "clock"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The pizza is larger than the clock."
+    },
+    "184": {
+        "objects": [
+            "handbag",
+            "toaster"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The handbag looks wider than the toaster."
+    },
+    "185": {
+        "objects": [
+            "handbag",
+            "toaster"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The handbag appears narrower than the toaster."
+    },
+    "186": {
+        "objects": [
+            "handbag",
+            "toaster"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The handbag seems smaller than the toaster."
+    },
+    "187": {
+        "objects": [
+            "handbag",
+            "toaster"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The handbag is larger than the toaster."
+    },
+    "188": {
+        "objects": [
+            "elephant",
+            "bird"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The elephant is weaker than the bird."
+    },
+    "189": {
+        "objects": [
+            "elephant",
+            "bird"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The elephant is shorter than the bird."
+    },
+    "190": {
+        "objects": [
+            "elephant",
+            "bird"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The elephant appears larger than the bird."
+    },
+    "191": {
+        "objects": [
+            "elephant",
+            "bird"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The elephant appears smaller than the bird."
+    },
+    "192": {
+        "objects": [
+            "donut",
+            "clock"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The donut looks larger than the clock."
+    },
+    "193": {
+        "objects": [
+            "donut",
+            "clock"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The donut appears smaller than the clock."
+    },
+    "194": {
+        "objects": [
+            "truck",
+            "motorcycle"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The truck appears taller than the motorcycle."
+    },
+    "195": {
+        "objects": [
+            "truck",
+            "motorcycle"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The truck is smaller than the motorcycle."
+    },
+    "196": {
+        "objects": [
+            "truck",
+            "motorcycle"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The truck is shorter than the motorcycle."
+    },
+    "197": {
+        "objects": [
+            "truck",
+            "motorcycle"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The truck looks larger than the motorcycle."
+    },
+    "198": {
+        "objects": [
+            "man",
+            "woman"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The man seems thinner than the woman."
+    },
+    "199": {
+        "objects": [
+            "man",
+            "woman"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The man appears taller than the woman."
+    },
+    "200": {
+        "objects": [
+            "man",
+            "woman"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The man is weaker than the woman."
+    },
+    "201": {
+        "objects": [
+            "man",
+            "woman"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The man looks stronger than the woman."
+    },
+    "202": {
+        "objects": [
+            "fork",
+            "banana"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The fork is longer than the banana."
+    },
+    "203": {
+        "objects": [
+            "fork",
+            "banana"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The fork is shorter than the banana."
+    },
+    "204": {
+        "objects": [
+            "zebra",
+            "dog"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra appears stronger than the dog."
+    },
+    "205": {
+        "objects": [
+            "zebra",
+            "dog"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra seems smaller than the dog."
+    },
+    "206": {
+        "objects": [
+            "zebra",
+            "dog"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra looks taller than the dog."
+    },
+    "207": {
+        "objects": [
+            "zebra",
+            "dog"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra seems larger than the dog."
+    },
+    "208": {
+        "objects": [
+            "donut",
+            "book"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The donut is larger than the book."
+    },
+    "209": {
+        "objects": [
+            "donut",
+            "book"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The donut appears smaller than the book."
+    },
+    "210": {
+        "objects": [
+            "girl",
+            "baby"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The girl looks older than the baby."
+    },
+    "211": {
+        "objects": [
+            "girl",
+            "baby"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The girl looks fatter than the baby."
+    },
+    "212": {
+        "objects": [
+            "girl",
+            "baby"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The girl appears shorter than the baby."
+    },
+    "213": {
+        "objects": [
+            "girl",
+            "baby"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The girl is stronger than the baby."
+    },
+    "214": {
+        "objects": [
+            "giraffe",
+            "elephant"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe is taller than the elephant."
+    },
+    "215": {
+        "objects": [
+            "giraffe",
+            "elephant"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe appears larger than the elephant."
+    },
+    "216": {
+        "objects": [
+            "giraffe",
+            "elephant"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe seems smaller than the elephant."
+    },
+    "217": {
+        "objects": [
+            "giraffe",
+            "elephant"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe seems weaker than the elephant."
+    },
+    "218": {
+        "objects": [
+            "giraffe",
+            "dog"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe is taller than the dog."
+    },
+    "219": {
+        "objects": [
+            "giraffe",
+            "dog"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe is stronger than the dog."
+    },
+    "220": {
+        "objects": [
+            "giraffe",
+            "dog"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe looks larger than the dog."
+    },
+    "221": {
+        "objects": [
+            "giraffe",
+            "dog"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe seems shorter than the dog."
+    },
+    "222": {
+        "objects": [
+            "shirt",
+            "dress"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The shirt is shorter than the dress."
+    },
+    "223": {
+        "objects": [
+            "shirt",
+            "dress"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The shirt looks warmer than the dress."
+    },
+    "224": {
+        "objects": [
+            "shirt",
+            "dress"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The shirt looks cooler than the dress."
+    },
+    "225": {
+        "objects": [
+            "shirt",
+            "dress"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The shirt seems smaller than the dress."
+    },
+    "226": {
+        "objects": [
+            "knife",
+            "banana"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The knife is shorter than the banana."
+    },
+    "227": {
+        "objects": [
+            "knife",
+            "banana"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The knife is longer than the banana."
+    },
+    "228": {
+        "objects": [
+            "zebra",
+            "elephant"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra is taller than the elephant."
+    },
+    "229": {
+        "objects": [
+            "zebra",
+            "elephant"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra seems shorter than the elephant."
+    },
+    "230": {
+        "objects": [
+            "zebra",
+            "elephant"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra is smaller than the elephant."
+    },
+    "231": {
+        "objects": [
+            "zebra",
+            "elephant"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra is stronger than the elephant."
+    },
+    "232": {
+        "objects": [
+            "suitcase",
+            "toaster"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The suitcase is wider than the toaster."
+    },
+    "233": {
+        "objects": [
+            "suitcase",
+            "toaster"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The suitcase looks smaller than the toaster."
+    },
+    "234": {
+        "objects": [
+            "suitcase",
+            "toaster"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The suitcase seems larger than the toaster."
+    },
+    "235": {
+        "objects": [
+            "suitcase",
+            "toaster"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The suitcase appears narrower than the toaster."
+    },
+    "236": {
+        "objects": [
+            "baseball bat",
+            "snowboard"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The baseball bat is older than the snowboard."
+    },
+    "237": {
+        "objects": [
+            "baseball bat",
+            "snowboard"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The baseball bat looks longer than the snowboard."
+    },
+    "238": {
+        "objects": [
+            "baseball bat",
+            "snowboard"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The baseball bat seems shorter than the snowboard."
+    },
+    "239": {
+        "objects": [
+            "baseball bat",
+            "snowboard"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The baseball bat is newer than the snowboard."
+    },
+    "240": {
+        "objects": [
+            "apple",
+            "clock"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The apple seems smaller than the clock."
+    },
+    "241": {
+        "objects": [
+            "apple",
+            "clock"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The apple appears larger than the clock."
+    },
+    "242": {
+        "objects": [
+            "bowl",
+            "orange"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bowl is smaller than the orange."
+    },
+    "243": {
+        "objects": [
+            "bowl",
+            "orange"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bowl appears larger than the orange."
+    },
+    "244": {
+        "objects": [
+            "giraffe",
+            "cat"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe looks stronger than the cat."
+    },
+    "245": {
+        "objects": [
+            "giraffe",
+            "cat"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe is weaker than the cat."
+    },
+    "246": {
+        "objects": [
+            "giraffe",
+            "cat"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe looks larger than the cat."
+    },
+    "247": {
+        "objects": [
+            "giraffe",
+            "cat"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe seems shorter than the cat."
+    },
+    "248": {
+        "objects": [
+            "zebra",
+            "bird"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra is taller than the bird."
+    },
+    "249": {
+        "objects": [
+            "zebra",
+            "bird"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra seems stronger than the bird."
+    },
+    "250": {
+        "objects": [
+            "zebra",
+            "bird"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra is larger than the bird."
+    },
+    "251": {
+        "objects": [
+            "zebra",
+            "bird"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra is shorter than the bird."
+    },
+    "252": {
+        "objects": [
+            "T-shirt",
+            "trousers"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The T-shirt looks warmer than the trousers."
+    },
+    "253": {
+        "objects": [
+            "T-shirt",
+            "trousers"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The T-shirt seems thicker than the trousers."
+    },
+    "254": {
+        "objects": [
+            "T-shirt",
+            "trousers"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The T-shirt is smaller than the trousers."
+    },
+    "255": {
+        "objects": [
+            "T-shirt",
+            "trousers"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The T-shirt seems shorter than the trousers."
+    },
+    "256": {
+        "objects": [
+            "cow",
+            "horse"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cow seems larger than the horse."
+    },
+    "257": {
+        "objects": [
+            "cow",
+            "horse"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cow is weaker than the horse."
+    },
+    "258": {
+        "objects": [
+            "cow",
+            "horse"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cow is stronger than the horse."
+    },
+    "259": {
+        "objects": [
+            "cow",
+            "horse"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cow is smaller than the horse."
+    },
+    "260": {
+        "objects": [
+            "orange",
+            "book"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The orange looks larger than the book."
+    },
+    "261": {
+        "objects": [
+            "orange",
+            "book"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The orange is smaller than the book."
+    },
+    "262": {
+        "objects": [
+            "man",
+            "boy"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The man seems stronger than the boy."
+    },
+    "263": {
+        "objects": [
+            "man",
+            "boy"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The man appears weaker than the boy."
+    },
+    "264": {
+        "objects": [
+            "man",
+            "boy"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The man appears taller than the boy."
+    },
+    "265": {
+        "objects": [
+            "man",
+            "boy"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The man looks younger than the boy."
+    },
+    "266": {
+        "objects": [
+            "boy",
+            "girl"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The boy appears younger than the girl."
+    },
+    "267": {
+        "objects": [
+            "boy",
+            "girl"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The boy appears shorter than the girl."
+    },
+    "268": {
+        "objects": [
+            "boy",
+            "girl"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The boy seems weaker than the girl."
+    },
+    "269": {
+        "objects": [
+            "boy",
+            "girl"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The boy appears fatter than the girl."
+    },
+    "270": {
+        "objects": [
+            "cow",
+            "dog"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cow appears stronger than the dog."
+    },
+    "271": {
+        "objects": [
+            "cow",
+            "dog"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cow is weaker than the dog."
+    },
+    "272": {
+        "objects": [
+            "cow",
+            "dog"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cow seems shorter than the dog."
+    },
+    "273": {
+        "objects": [
+            "cow",
+            "dog"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cow seems larger than the dog."
+    },
+    "274": {
+        "objects": [
+            "bus",
+            "car"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bus seems taller than the car."
+    },
+    "275": {
+        "objects": [
+            "bus",
+            "car"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bus seems smaller than the car."
+    },
+    "276": {
+        "objects": [
+            "bus",
+            "car"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bus looks larger than the car."
+    },
+    "277": {
+        "objects": [
+            "bus",
+            "car"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bus looks shorter than the car."
+    },
+    "278": {
+        "objects": [
+            "pizza",
+            "apple"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The pizza is smaller than the apple."
+    },
+    "279": {
+        "objects": [
+            "pizza",
+            "apple"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The pizza seems larger than the apple."
+    },
+    "280": {
+        "objects": [
+            "knife",
+            "fork"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The knife is shorter than the fork."
+    },
+    "281": {
+        "objects": [
+            "knife",
+            "fork"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The knife looks longer than the fork."
+    },
+    "282": {
+        "objects": [
+            "donut",
+            "apple"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The donut is smaller than the apple."
+    },
+    "283": {
+        "objects": [
+            "donut",
+            "apple"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The donut seems larger than the apple."
+    },
+    "284": {
+        "objects": [
+            "woman",
+            "girl"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The woman looks shorter than the girl."
+    },
+    "285": {
+        "objects": [
+            "woman",
+            "girl"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The woman is younger than the girl."
+    },
+    "286": {
+        "objects": [
+            "woman",
+            "girl"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The woman looks taller than the girl."
+    },
+    "287": {
+        "objects": [
+            "woman",
+            "girl"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The woman seems stronger than the girl."
+    },
+    "288": {
+        "objects": [
+            "zebra",
+            "bear"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra appears larger than the bear."
+    },
+    "289": {
+        "objects": [
+            "zebra",
+            "bear"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra appears smaller than the bear."
+    },
+    "290": {
+        "objects": [
+            "zebra",
+            "bear"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra is shorter than the bear."
+    },
+    "291": {
+        "objects": [
+            "zebra",
+            "bear"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra looks taller than the bear."
+    },
+    "292": {
+        "objects": [
+            "baseball bat",
+            "skis"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The baseball bat appears shorter than the skis."
+    },
+    "293": {
+        "objects": [
+            "baseball bat",
+            "skis"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The baseball bat looks longer than the skis."
+    },
+    "294": {
+        "objects": [
+            "baseball bat",
+            "skis"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The baseball bat seems newer than the skis."
+    },
+    "295": {
+        "objects": [
+            "baseball bat",
+            "skis"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The baseball bat seems older than the skis."
+    },
+    "296": {
+        "objects": [
+            "elephant",
+            "dog"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The elephant seems stronger than the dog."
+    },
+    "297": {
+        "objects": [
+            "elephant",
+            "dog"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The elephant is shorter than the dog."
+    },
+    "298": {
+        "objects": [
+            "elephant",
+            "dog"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The elephant appears weaker than the dog."
+    },
+    "299": {
+        "objects": [
+            "elephant",
+            "dog"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The elephant is taller than the dog."
+    },
+    "300": {
+        "objects": [
+            "man",
+            "baby"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The man is older than the baby."
+    },
+    "301": {
+        "objects": [
+            "man",
+            "baby"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The man seems younger than the baby."
+    },
+    "302": {
+        "objects": [
+            "man",
+            "baby"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The man is stronger than the baby."
+    },
+    "303": {
+        "objects": [
+            "man",
+            "baby"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The man looks thinner than the baby."
+    },
+    "304": {
+        "objects": [
+            "skateboard",
+            "skis"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The skateboard looks older than the skis."
+    },
+    "305": {
+        "objects": [
+            "skateboard",
+            "skis"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The skateboard seems longer than the skis."
+    },
+    "306": {
+        "objects": [
+            "skateboard",
+            "skis"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The skateboard seems shorter than the skis."
+    },
+    "307": {
+        "objects": [
+            "skateboard",
+            "skis"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The skateboard seems newer than the skis."
+    },
+    "308": {
+        "objects": [
+            "spoon",
+            "fork"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The spoon is shorter than the fork."
+    },
+    "309": {
+        "objects": [
+            "spoon",
+            "fork"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The spoon is longer than the fork."
+    },
+    "310": {
+        "objects": [
+            "elephant",
+            "horse"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The elephant appears smaller than the horse."
+    },
+    "311": {
+        "objects": [
+            "elephant",
+            "horse"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The elephant appears shorter than the horse."
+    },
+    "312": {
+        "objects": [
+            "elephant",
+            "horse"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The elephant looks larger than the horse."
+    },
+    "313": {
+        "objects": [
+            "elephant",
+            "horse"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The elephant looks stronger than the horse."
+    },
+    "314": {
+        "objects": [
+            "bear",
+            "cat"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bear is larger than the cat."
+    },
+    "315": {
+        "objects": [
+            "bear",
+            "cat"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bear seems weaker than the cat."
+    },
+    "316": {
+        "objects": [
+            "bear",
+            "cat"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bear is smaller than the cat."
+    },
+    "317": {
+        "objects": [
+            "bear",
+            "cat"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bear is taller than the cat."
+    },
+    "318": {
+        "objects": [
+            "hot dog",
+            "toothbrush"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The hot dog appears longer than the toothbrush."
+    },
+    "319": {
+        "objects": [
+            "hot dog",
+            "toothbrush"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The hot dog seems shorter than the toothbrush."
+    },
+    "320": {
+        "objects": [
+            "cake",
+            "pizza"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cake is larger than the pizza."
+    },
+    "321": {
+        "objects": [
+            "cake",
+            "pizza"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cake looks smaller than the pizza."
+    },
+    "322": {
+        "objects": [
+            "pizza",
+            "orange"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The pizza looks smaller than the orange."
+    },
+    "323": {
+        "objects": [
+            "pizza",
+            "orange"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The pizza seems larger than the orange."
+    },
+    "324": {
+        "objects": [
+            "woman",
+            "baby"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The woman seems older than the baby."
+    },
+    "325": {
+        "objects": [
+            "woman",
+            "baby"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The woman seems thinner than the baby."
+    },
+    "326": {
+        "objects": [
+            "woman",
+            "baby"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The woman looks taller than the baby."
+    },
+    "327": {
+        "objects": [
+            "woman",
+            "baby"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The woman appears stronger than the baby."
+    },
+    "328": {
+        "objects": [
+            "shirt",
+            "coat"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The shirt looks smaller than the coat."
+    },
+    "329": {
+        "objects": [
+            "shirt",
+            "coat"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The shirt looks shorter than the coat."
+    },
+    "330": {
+        "objects": [
+            "shirt",
+            "coat"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The shirt appears cooler than the coat."
+    },
+    "331": {
+        "objects": [
+            "shirt",
+            "coat"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The shirt is larger than the coat."
+    },
+    "332": {
+        "objects": [
+            "cake",
+            "donut"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cake looks larger than the donut."
+    },
+    "333": {
+        "objects": [
+            "cake",
+            "donut"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cake appears smaller than the donut."
+    },
+    "334": {
+        "objects": [
+            "fork",
+            "hot dog"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The fork looks shorter than the hot dog."
+    },
+    "335": {
+        "objects": [
+            "fork",
+            "hot dog"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The fork looks longer than the hot dog."
+    },
+    "336": {
+        "objects": [
+            "T-shirt",
+            "coat"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The T-shirt looks longer than the coat."
+    },
+    "337": {
+        "objects": [
+            "T-shirt",
+            "coat"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The T-shirt seems warmer than the coat."
+    },
+    "338": {
+        "objects": [
+            "T-shirt",
+            "coat"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The T-shirt is shorter than the coat."
+    },
+    "339": {
+        "objects": [
+            "T-shirt",
+            "coat"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The T-shirt appears larger than the coat."
+    },
+    "340": {
+        "objects": [
+            "backpack",
+            "toaster"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The backpack appears wider than the toaster."
+    },
+    "341": {
+        "objects": [
+            "backpack",
+            "toaster"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The backpack looks larger than the toaster."
+    },
+    "342": {
+        "objects": [
+            "backpack",
+            "toaster"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The backpack appears smaller than the toaster."
+    },
+    "343": {
+        "objects": [
+            "backpack",
+            "toaster"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The backpack seems narrower than the toaster."
+    },
+    "344": {
+        "objects": [
+            "bus",
+            "motorcycle"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bus seems taller than the motorcycle."
+    },
+    "345": {
+        "objects": [
+            "bus",
+            "motorcycle"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bus is larger than the motorcycle."
+    },
+    "346": {
+        "objects": [
+            "bus",
+            "motorcycle"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bus looks smaller than the motorcycle."
+    },
+    "347": {
+        "objects": [
+            "bus",
+            "motorcycle"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bus seems shorter than the motorcycle."
+    },
+    "348": {
+        "objects": [
+            "truck",
+            "bus"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The truck seems shorter than the bus."
+    },
+    "349": {
+        "objects": [
+            "truck",
+            "bus"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The truck looks larger than the bus."
+    },
+    "350": {
+        "objects": [
+            "truck",
+            "bus"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The truck looks smaller than the bus."
+    },
+    "351": {
+        "objects": [
+            "truck",
+            "bus"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The truck looks taller than the bus."
+    },
+    "352": {
+        "objects": [
+            "baseball glove",
+            "sports ball"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The baseball glove seems smaller than the sports ball."
+    },
+    "353": {
+        "objects": [
+            "baseball glove",
+            "sports ball"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The baseball glove appears older than the sports ball."
+    },
+    "354": {
+        "objects": [
+            "baseball glove",
+            "sports ball"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The baseball glove is newer than the sports ball."
+    },
+    "355": {
+        "objects": [
+            "baseball glove",
+            "sports ball"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The baseball glove looks larger than the sports ball."
+    },
+    "356": {
+        "objects": [
+            "zebra",
+            "sheep"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra looks larger than the sheep."
+    },
+    "357": {
+        "objects": [
+            "zebra",
+            "sheep"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra appears taller than the sheep."
+    },
+    "358": {
+        "objects": [
+            "zebra",
+            "sheep"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra is stronger than the sheep."
+    },
+    "359": {
+        "objects": [
+            "zebra",
+            "sheep"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra seems weaker than the sheep."
+    },
+    "360": {
+        "objects": [
+            "bear",
+            "dog"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bear looks weaker than the dog."
+    },
+    "361": {
+        "objects": [
+            "bear",
+            "dog"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bear looks taller than the dog."
+    },
+    "362": {
+        "objects": [
+            "bear",
+            "dog"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bear is larger than the dog."
+    },
+    "363": {
+        "objects": [
+            "bear",
+            "dog"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bear looks smaller than the dog."
+    },
+    "364": {
+        "objects": [
+            "cup",
+            "plate"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cup looks smaller than the plate."
+    },
+    "365": {
+        "objects": [
+            "cup",
+            "plate"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cup seems larger than the plate."
+    },
+    "366": {
+        "objects": [
+            "carrot",
+            "banana"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The carrot looks longer than the banana."
+    },
+    "367": {
+        "objects": [
+            "carrot",
+            "banana"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The carrot is shorter than the banana."
+    },
+    "368": {
+        "objects": [
+            "giraffe",
+            "bird"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe seems larger than the bird."
+    },
+    "369": {
+        "objects": [
+            "giraffe",
+            "bird"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe seems shorter than the bird."
+    },
+    "370": {
+        "objects": [
+            "giraffe",
+            "bird"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe seems weaker than the bird."
+    },
+    "371": {
+        "objects": [
+            "giraffe",
+            "bird"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe appears stronger than the bird."
+    },
+    "372": {
+        "objects": [
+            "street sign",
+            "fire hydrant"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The street sign appears taller than the fire hydrant."
+    },
+    "373": {
+        "objects": [
+            "street sign",
+            "fire hydrant"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The street sign seems larger than the fire hydrant."
+    },
+    "374": {
+        "objects": [
+            "street sign",
+            "fire hydrant"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The street sign looks smaller than the fire hydrant."
+    },
+    "375": {
+        "objects": [
+            "street sign",
+            "fire hydrant"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The street sign looks shorter than the fire hydrant."
+    },
+    "376": {
+        "objects": [
+            "backpack",
+            "oven"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The backpack is smaller than the oven."
+    },
+    "377": {
+        "objects": [
+            "backpack",
+            "oven"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The backpack seems larger than the oven."
+    },
+    "378": {
+        "objects": [
+            "backpack",
+            "oven"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The backpack looks narrower than the oven."
+    },
+    "379": {
+        "objects": [
+            "backpack",
+            "oven"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The backpack looks wider than the oven."
+    },
+    "380": {
+        "objects": [
+            "handbag",
+            "microwave"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The handbag seems wider than the microwave."
+    },
+    "381": {
+        "objects": [
+            "handbag",
+            "microwave"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The handbag is smaller than the microwave."
+    },
+    "382": {
+        "objects": [
+            "handbag",
+            "microwave"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The handbag appears narrower than the microwave."
+    },
+    "383": {
+        "objects": [
+            "handbag",
+            "microwave"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The handbag is larger than the microwave."
+    },
+    "384": {
+        "objects": [
+            "spoon",
+            "knife"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The spoon is longer than the knife."
+    },
+    "385": {
+        "objects": [
+            "spoon",
+            "knife"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The spoon looks shorter than the knife."
+    },
+    "386": {
+        "objects": [
+            "kite",
+            "frisbee"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The kite seems larger than the frisbee."
+    },
+    "387": {
+        "objects": [
+            "kite",
+            "frisbee"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The kite looks smaller than the frisbee."
+    },
+    "388": {
+        "objects": [
+            "kite",
+            "frisbee"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The kite appears newer than the frisbee."
+    },
+    "389": {
+        "objects": [
+            "kite",
+            "frisbee"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The kite is older than the frisbee."
+    },
+    "390": {
+        "objects": [
+            "shirt",
+            "trousers"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The shirt appears thicker than the trousers."
+    },
+    "391": {
+        "objects": [
+            "shirt",
+            "trousers"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The shirt looks warmer than the trousers."
+    },
+    "392": {
+        "objects": [
+            "shirt",
+            "trousers"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The shirt appears smaller than the trousers."
+    },
+    "393": {
+        "objects": [
+            "shirt",
+            "trousers"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The shirt seems shorter than the trousers."
+    },
+    "394": {
+        "objects": [
+            "broccoli",
+            "clock"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The broccoli looks smaller than the clock."
+    },
+    "395": {
+        "objects": [
+            "broccoli",
+            "clock"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The broccoli seems larger than the clock."
+    },
+    "396": {
+        "objects": [
+            "orange",
+            "apple"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The orange seems smaller than the apple."
+    },
+    "397": {
+        "objects": [
+            "orange",
+            "apple"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The orange seems larger than the apple."
+    },
+    "398": {
+        "objects": [
+            "plate",
+            "clock"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The plate appears smaller than the clock."
+    },
+    "399": {
+        "objects": [
+            "plate",
+            "clock"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The plate appears larger than the clock."
+    },
+    "400": {
+        "objects": [
+            "horse",
+            "bird"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The horse seems larger than the bird."
+    },
+    "401": {
+        "objects": [
+            "horse",
+            "bird"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The horse appears stronger than the bird."
+    },
+    "402": {
+        "objects": [
+            "horse",
+            "bird"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The horse appears smaller than the bird."
+    },
+    "403": {
+        "objects": [
+            "horse",
+            "bird"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The horse looks taller than the bird."
+    },
+    "404": {
+        "objects": [
+            "banana",
+            "toothbrush"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The banana appears longer than the toothbrush."
+    },
+    "405": {
+        "objects": [
+            "banana",
+            "toothbrush"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The banana is shorter than the toothbrush."
+    },
+    "406": {
+        "objects": [
+            "surfboard",
+            "skis"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The surfboard appears longer than the skis."
+    },
+    "407": {
+        "objects": [
+            "surfboard",
+            "skis"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The surfboard looks newer than the skis."
+    },
+    "408": {
+        "objects": [
+            "surfboard",
+            "skis"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The surfboard seems older than the skis."
+    },
+    "409": {
+        "objects": [
+            "surfboard",
+            "skis"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The surfboard appears shorter than the skis."
+    },
+    "410": {
+        "objects": [
+            "cake",
+            "apple"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cake looks smaller than the apple."
+    },
+    "411": {
+        "objects": [
+            "cake",
+            "apple"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cake looks larger than the apple."
+    },
+    "412": {
+        "objects": [
+            "broccoli",
+            "apple"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The broccoli looks smaller than the apple."
+    },
+    "413": {
+        "objects": [
+            "broccoli",
+            "apple"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The broccoli appears larger than the apple."
+    },
+    "414": {
+        "objects": [
+            "dress",
+            "coat"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The dress looks larger than the coat."
+    },
+    "415": {
+        "objects": [
+            "dress",
+            "coat"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The dress looks warmer than the coat."
+    },
+    "416": {
+        "objects": [
+            "dress",
+            "coat"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The dress looks shorter than the coat."
+    },
+    "417": {
+        "objects": [
+            "dress",
+            "coat"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The dress seems cooler than the coat."
+    },
+    "418": {
+        "objects": [
+            "cup",
+            "broccoli"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cup is larger than the broccoli."
+    },
+    "419": {
+        "objects": [
+            "cup",
+            "broccoli"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cup looks smaller than the broccoli."
+    },
+    "420": {
+        "objects": [
+            "horse",
+            "cat"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The horse seems smaller than the cat."
+    },
+    "421": {
+        "objects": [
+            "horse",
+            "cat"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The horse is larger than the cat."
+    },
+    "422": {
+        "objects": [
+            "horse",
+            "cat"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The horse is taller than the cat."
+    },
+    "423": {
+        "objects": [
+            "horse",
+            "cat"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The horse looks stronger than the cat."
+    },
+    "424": {
+        "objects": [
+            "bear",
+            "sheep"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bear looks shorter than the sheep."
+    },
+    "425": {
+        "objects": [
+            "bear",
+            "sheep"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bear seems larger than the sheep."
+    },
+    "426": {
+        "objects": [
+            "bear",
+            "sheep"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bear looks stronger than the sheep."
+    },
+    "427": {
+        "objects": [
+            "bear",
+            "sheep"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bear looks taller than the sheep."
+    },
+    "428": {
+        "objects": [
+            "spoon",
+            "hot dog"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The spoon is shorter than the hot dog."
+    },
+    "429": {
+        "objects": [
+            "spoon",
+            "hot dog"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The spoon seems longer than the hot dog."
+    },
+    "430": {
+        "objects": [
+            "cow",
+            "cat"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cow is larger than the cat."
+    },
+    "431": {
+        "objects": [
+            "cow",
+            "cat"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cow seems stronger than the cat."
+    },
+    "432": {
+        "objects": [
+            "cow",
+            "cat"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cow looks taller than the cat."
+    },
+    "433": {
+        "objects": [
+            "cow",
+            "cat"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cow is shorter than the cat."
+    },
+    "434": {
+        "objects": [
+            "man",
+            "girl"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The man seems older than the girl."
+    },
+    "435": {
+        "objects": [
+            "man",
+            "girl"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The man seems taller than the girl."
+    },
+    "436": {
+        "objects": [
+            "man",
+            "girl"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The man seems thinner than the girl."
+    },
+    "437": {
+        "objects": [
+            "man",
+            "girl"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The man looks younger than the girl."
+    },
+    "438": {
+        "objects": [
+            "giraffe",
+            "zebra"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe looks stronger than the zebra."
+    },
+    "439": {
+        "objects": [
+            "giraffe",
+            "zebra"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe appears larger than the zebra."
+    },
+    "440": {
+        "objects": [
+            "giraffe",
+            "zebra"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe seems weaker than the zebra."
+    },
+    "441": {
+        "objects": [
+            "giraffe",
+            "zebra"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The giraffe is shorter than the zebra."
+    },
+    "442": {
+        "objects": [
+            "sheep",
+            "bird"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The sheep seems stronger than the bird."
+    },
+    "443": {
+        "objects": [
+            "sheep",
+            "bird"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The sheep is weaker than the bird."
+    },
+    "444": {
+        "objects": [
+            "sheep",
+            "bird"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The sheep is taller than the bird."
+    },
+    "445": {
+        "objects": [
+            "sheep",
+            "bird"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The sheep looks larger than the bird."
+    },
+    "446": {
+        "objects": [
+            "bear",
+            "bird"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bear appears smaller than the bird."
+    },
+    "447": {
+        "objects": [
+            "bear",
+            "bird"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bear appears shorter than the bird."
+    },
+    "448": {
+        "objects": [
+            "bear",
+            "bird"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bear is taller than the bird."
+    },
+    "449": {
+        "objects": [
+            "bear",
+            "bird"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bear seems weaker than the bird."
+    },
+    "450": {
+        "objects": [
+            "street sign",
+            "parking meter"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The street sign seems larger than the parking meter."
+    },
+    "451": {
+        "objects": [
+            "street sign",
+            "parking meter"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The street sign looks smaller than the parking meter."
+    },
+    "452": {
+        "objects": [
+            "street sign",
+            "parking meter"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The street sign looks shorter than the parking meter."
+    },
+    "453": {
+        "objects": [
+            "street sign",
+            "parking meter"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The street sign appears taller than the parking meter."
+    },
+    "454": {
+        "objects": [
+            "skateboard",
+            "surfboard"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The skateboard is longer than the surfboard."
+    },
+    "455": {
+        "objects": [
+            "skateboard",
+            "surfboard"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The skateboard is older than the surfboard."
+    },
+    "456": {
+        "objects": [
+            "skateboard",
+            "surfboard"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The skateboard looks newer than the surfboard."
+    },
+    "457": {
+        "objects": [
+            "skateboard",
+            "surfboard"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The skateboard is shorter than the surfboard."
+    },
+    "458": {
+        "objects": [
+            "cow",
+            "sheep"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cow appears larger than the sheep."
+    },
+    "459": {
+        "objects": [
+            "cow",
+            "sheep"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cow seems shorter than the sheep."
+    },
+    "460": {
+        "objects": [
+            "cow",
+            "sheep"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cow looks stronger than the sheep."
+    },
+    "461": {
+        "objects": [
+            "cow",
+            "sheep"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cow is weaker than the sheep."
+    },
+    "462": {
+        "objects": [
+            "cat",
+            "bird"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cat is taller than the bird."
+    },
+    "463": {
+        "objects": [
+            "cat",
+            "bird"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cat looks smaller than the bird."
+    },
+    "464": {
+        "objects": [
+            "cat",
+            "bird"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cat appears weaker than the bird."
+    },
+    "465": {
+        "objects": [
+            "cat",
+            "bird"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cat seems larger than the bird."
+    },
+    "466": {
+        "objects": [
+            "bowl",
+            "broccoli"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bowl is larger than the broccoli."
+    },
+    "467": {
+        "objects": [
+            "bowl",
+            "broccoli"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bowl appears smaller than the broccoli."
+    },
+    "468": {
+        "objects": [
+            "street sign",
+            "traffic light"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The street sign seems shorter than the traffic light."
+    },
+    "469": {
+        "objects": [
+            "street sign",
+            "traffic light"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The street sign is taller than the traffic light."
+    },
+    "470": {
+        "objects": [
+            "street sign",
+            "traffic light"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The street sign is larger than the traffic light."
+    },
+    "471": {
+        "objects": [
+            "street sign",
+            "traffic light"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The street sign looks smaller than the traffic light."
+    },
+    "472": {
+        "objects": [
+            "plate",
+            "cake"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The plate seems larger than the cake."
+    },
+    "473": {
+        "objects": [
+            "plate",
+            "cake"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The plate appears smaller than the cake."
+    },
+    "474": {
+        "objects": [
+            "apple",
+            "book"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The apple appears larger than the book."
+    },
+    "475": {
+        "objects": [
+            "apple",
+            "book"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The apple looks smaller than the book."
+    },
+    "476": {
+        "objects": [
+            "skateboard",
+            "snowboard"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The skateboard seems older than the snowboard."
+    },
+    "477": {
+        "objects": [
+            "skateboard",
+            "snowboard"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The skateboard appears longer than the snowboard."
+    },
+    "478": {
+        "objects": [
+            "skateboard",
+            "snowboard"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The skateboard seems newer than the snowboard."
+    },
+    "479": {
+        "objects": [
+            "skateboard",
+            "snowboard"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The skateboard seems shorter than the snowboard."
+    },
+    "480": {
+        "objects": [
+            "bowl",
+            "plate"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bowl appears smaller than the plate."
+    },
+    "481": {
+        "objects": [
+            "bowl",
+            "plate"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bowl looks larger than the plate."
+    },
+    "482": {
+        "objects": [
+            "plate",
+            "orange"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The plate looks larger than the orange."
+    },
+    "483": {
+        "objects": [
+            "plate",
+            "orange"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The plate is smaller than the orange."
+    },
+    "484": {
+        "objects": [
+            "plate",
+            "apple"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The plate looks larger than the apple."
+    },
+    "485": {
+        "objects": [
+            "plate",
+            "apple"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The plate is smaller than the apple."
+    },
+    "486": {
+        "objects": [
+            "spoon",
+            "banana"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The spoon is longer than the banana."
+    },
+    "487": {
+        "objects": [
+            "spoon",
+            "banana"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The spoon is shorter than the banana."
+    },
+    "488": {
+        "objects": [
+            "kite",
+            "sports ball"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The kite looks smaller than the sports ball."
+    },
+    "489": {
+        "objects": [
+            "kite",
+            "sports ball"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The kite is larger than the sports ball."
+    },
+    "490": {
+        "objects": [
+            "kite",
+            "sports ball"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The kite is newer than the sports ball."
+    },
+    "491": {
+        "objects": [
+            "kite",
+            "sports ball"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The kite appears older than the sports ball."
+    },
+    "492": {
+        "objects": [
+            "spoon",
+            "carrot"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The spoon appears longer than the carrot."
+    },
+    "493": {
+        "objects": [
+            "spoon",
+            "carrot"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The spoon seems shorter than the carrot."
+    },
+    "494": {
+        "objects": [
+            "cup",
+            "pizza"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cup seems smaller than the pizza."
+    },
+    "495": {
+        "objects": [
+            "cup",
+            "pizza"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cup appears larger than the pizza."
+    },
+    "496": {
+        "objects": [
+            "cake",
+            "broccoli"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cake seems larger than the broccoli."
+    },
+    "497": {
+        "objects": [
+            "cake",
+            "broccoli"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cake seems smaller than the broccoli."
+    },
+    "498": {
+        "objects": [
+            "bowl",
+            "book"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bowl looks smaller than the book."
+    },
+    "499": {
+        "objects": [
+            "bowl",
+            "book"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bowl appears larger than the book."
+    },
+    "500": {
+        "objects": [
+            "zebra",
+            "cat"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra appears larger than the cat."
+    },
+    "501": {
+        "objects": [
+            "zebra",
+            "cat"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra looks smaller than the cat."
+    },
+    "502": {
+        "objects": [
+            "zebra",
+            "cat"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra appears stronger than the cat."
+    },
+    "503": {
+        "objects": [
+            "zebra",
+            "cat"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra seems taller than the cat."
+    },
+    "504": {
+        "objects": [
+            "elephant",
+            "sheep"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The elephant looks taller than the sheep."
+    },
+    "505": {
+        "objects": [
+            "elephant",
+            "sheep"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The elephant looks stronger than the sheep."
+    },
+    "506": {
+        "objects": [
+            "elephant",
+            "sheep"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The elephant looks weaker than the sheep."
+    },
+    "507": {
+        "objects": [
+            "elephant",
+            "sheep"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The elephant looks shorter than the sheep."
+    },
+    "508": {
+        "objects": [
+            "bear",
+            "horse"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bear appears taller than the horse."
+    },
+    "509": {
+        "objects": [
+            "bear",
+            "horse"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bear looks stronger than the horse."
+    },
+    "510": {
+        "objects": [
+            "bear",
+            "horse"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bear appears smaller than the horse."
+    },
+    "511": {
+        "objects": [
+            "bear",
+            "horse"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bear seems larger than the horse."
+    },
+    "512": {
+        "objects": [
+            "dress",
+            "T-shirt"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The dress looks thicker than the T-shirt."
+    },
+    "513": {
+        "objects": [
+            "dress",
+            "T-shirt"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The dress is cooler than the T-shirt."
+    },
+    "514": {
+        "objects": [
+            "dress",
+            "T-shirt"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The dress appears shorter than the T-shirt."
+    },
+    "515": {
+        "objects": [
+            "dress",
+            "T-shirt"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The dress seems smaller than the T-shirt."
+    },
+    "516": {
+        "objects": [
+            "knife",
+            "hot dog"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The knife is shorter than the hot dog."
+    },
+    "517": {
+        "objects": [
+            "knife",
+            "hot dog"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The knife appears longer than the hot dog."
+    },
+    "518": {
+        "objects": [
+            "woman",
+            "boy"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The woman looks weaker than the boy."
+    },
+    "519": {
+        "objects": [
+            "woman",
+            "boy"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The woman appears thinner than the boy."
+    },
+    "520": {
+        "objects": [
+            "woman",
+            "boy"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The woman looks older than the boy."
+    },
+    "521": {
+        "objects": [
+            "woman",
+            "boy"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The woman appears younger than the boy."
+    },
+    "522": {
+        "objects": [
+            "cup",
+            "orange"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cup looks larger than the orange."
+    },
+    "523": {
+        "objects": [
+            "cup",
+            "orange"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cup seems smaller than the orange."
+    },
+    "524": {
+        "objects": [
+            "cup",
+            "cake"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cup is larger than the cake."
+    },
+    "525": {
+        "objects": [
+            "cup",
+            "cake"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cup appears smaller than the cake."
+    },
+    "526": {
+        "objects": [
+            "broccoli",
+            "book"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The broccoli seems smaller than the book."
+    },
+    "527": {
+        "objects": [
+            "broccoli",
+            "book"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The broccoli looks larger than the book."
+    },
+    "528": {
+        "objects": [
+            "bear",
+            "elephant"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bear seems larger than the elephant."
+    },
+    "529": {
+        "objects": [
+            "bear",
+            "elephant"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bear seems smaller than the elephant."
+    },
+    "530": {
+        "objects": [
+            "bear",
+            "elephant"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bear seems shorter than the elephant."
+    },
+    "531": {
+        "objects": [
+            "bear",
+            "elephant"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bear seems stronger than the elephant."
+    },
+    "532": {
+        "objects": [
+            "bowl",
+            "cup"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bowl is smaller than the cup."
+    },
+    "533": {
+        "objects": [
+            "bowl",
+            "cup"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bowl looks larger than the cup."
+    },
+    "534": {
+        "objects": [
+            "carrot",
+            "toothbrush"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The carrot seems shorter than the toothbrush."
+    },
+    "535": {
+        "objects": [
+            "carrot",
+            "toothbrush"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The carrot is longer than the toothbrush."
+    },
+    "536": {
+        "objects": [
+            "bowl",
+            "apple"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bowl appears smaller than the apple."
+    },
+    "537": {
+        "objects": [
+            "bowl",
+            "apple"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bowl seems larger than the apple."
+    },
+    "538": {
+        "objects": [
+            "fire hydrant",
+            "parking meter"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The fire hydrant seems larger than the parking meter."
+    },
+    "539": {
+        "objects": [
+            "fire hydrant",
+            "parking meter"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The fire hydrant looks shorter than the parking meter."
+    },
+    "540": {
+        "objects": [
+            "fire hydrant",
+            "parking meter"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The fire hydrant seems taller than the parking meter."
+    },
+    "541": {
+        "objects": [
+            "fire hydrant",
+            "parking meter"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The fire hydrant appears smaller than the parking meter."
+    },
+    "542": {
+        "objects": [
+            "plate",
+            "broccoli"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The plate seems larger than the broccoli."
+    },
+    "543": {
+        "objects": [
+            "plate",
+            "broccoli"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The plate is smaller than the broccoli."
+    },
+    "544": {
+        "objects": [
+            "skateboard",
+            "baseball bat"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The skateboard is shorter than the baseball bat."
+    },
+    "545": {
+        "objects": [
+            "skateboard",
+            "baseball bat"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The skateboard is older than the baseball bat."
+    },
+    "546": {
+        "objects": [
+            "skateboard",
+            "baseball bat"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The skateboard appears newer than the baseball bat."
+    },
+    "547": {
+        "objects": [
+            "skateboard",
+            "baseball bat"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The skateboard is longer than the baseball bat."
+    },
+    "548": {
+        "objects": [
+            "surfboard",
+            "baseball bat"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The surfboard is longer than the baseball bat."
+    },
+    "549": {
+        "objects": [
+            "surfboard",
+            "baseball bat"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The surfboard looks older than the baseball bat."
+    },
+    "550": {
+        "objects": [
+            "surfboard",
+            "baseball bat"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The surfboard looks shorter than the baseball bat."
+    },
+    "551": {
+        "objects": [
+            "surfboard",
+            "baseball bat"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The surfboard is newer than the baseball bat."
+    },
+    "552": {
+        "objects": [
+            "motorcycle",
+            "bicycle"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The motorcycle is smaller than the bicycle."
+    },
+    "553": {
+        "objects": [
+            "motorcycle",
+            "bicycle"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The motorcycle appears shorter than the bicycle."
+    },
+    "554": {
+        "objects": [
+            "motorcycle",
+            "bicycle"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The motorcycle is taller than the bicycle."
+    },
+    "555": {
+        "objects": [
+            "motorcycle",
+            "bicycle"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The motorcycle is larger than the bicycle."
+    },
+    "556": {
+        "objects": [
+            "fork",
+            "toothbrush"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The fork seems shorter than the toothbrush."
+    },
+    "557": {
+        "objects": [
+            "fork",
+            "toothbrush"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The fork looks longer than the toothbrush."
+    },
+    "558": {
+        "objects": [
+            "cake",
+            "orange"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cake looks larger than the orange."
+    },
+    "559": {
+        "objects": [
+            "cake",
+            "orange"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The cake is smaller than the orange."
+    },
+    "560": {
+        "objects": [
+            "zebra",
+            "horse"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra appears stronger than the horse."
+    },
+    "561": {
+        "objects": [
+            "zebra",
+            "horse"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra looks larger than the horse."
+    },
+    "562": {
+        "objects": [
+            "zebra",
+            "horse"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra looks shorter than the horse."
+    },
+    "563": {
+        "objects": [
+            "zebra",
+            "horse"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The zebra appears taller than the horse."
+    },
+    "564": {
+        "objects": [
+            "broccoli",
+            "orange"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The broccoli appears smaller than the orange."
+    },
+    "565": {
+        "objects": [
+            "broccoli",
+            "orange"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The broccoli is larger than the orange."
+    },
+    "566": {
+        "objects": [
+            "truck",
+            "car"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The truck is smaller than the car."
+    },
+    "567": {
+        "objects": [
+            "truck",
+            "car"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The truck seems taller than the car."
+    },
+    "568": {
+        "objects": [
+            "truck",
+            "car"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The truck seems shorter than the car."
+    },
+    "569": {
+        "objects": [
+            "truck",
+            "car"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The truck looks larger than the car."
+    },
+    "570": {
+        "objects": [
+            "hot dog",
+            "banana"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The hot dog appears longer than the banana."
+    },
+    "571": {
+        "objects": [
+            "hot dog",
+            "banana"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The hot dog appears shorter than the banana."
+    },
+    "572": {
+        "objects": [
+            "oven",
+            "toaster"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The oven looks smaller than the toaster."
+    },
+    "573": {
+        "objects": [
+            "oven",
+            "toaster"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The oven looks larger than the toaster."
+    },
+    "574": {
+        "objects": [
+            "oven",
+            "toaster"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The oven is wider than the toaster."
+    },
+    "575": {
+        "objects": [
+            "oven",
+            "toaster"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The oven is narrower than the toaster."
+    },
+    "576": {
+        "objects": [
+            "handbag",
+            "oven"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The handbag is narrower than the oven."
+    },
+    "577": {
+        "objects": [
+            "handbag",
+            "oven"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The handbag is smaller than the oven."
+    },
+    "578": {
+        "objects": [
+            "handbag",
+            "oven"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The handbag is larger than the oven."
+    },
+    "579": {
+        "objects": [
+            "handbag",
+            "oven"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The handbag looks wider than the oven."
+    },
+    "580": {
+        "objects": [
+            "handbag",
+            "backpack"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The handbag appears narrower than the backpack."
+    },
+    "581": {
+        "objects": [
+            "handbag",
+            "backpack"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The handbag seems wider than the backpack."
+    },
+    "582": {
+        "objects": [
+            "handbag",
+            "backpack"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The handbag looks smaller than the backpack."
+    },
+    "583": {
+        "objects": [
+            "handbag",
+            "backpack"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The handbag seems larger than the backpack."
+    },
+    "584": {
+        "objects": [
+            "pizza",
+            "broccoli"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The pizza is larger than the broccoli."
+    },
+    "585": {
+        "objects": [
+            "pizza",
+            "broccoli"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The pizza seems smaller than the broccoli."
+    },
+    "586": {
+        "objects": [
+            "motorcycle",
+            "car"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The motorcycle appears smaller than the car."
+    },
+    "587": {
+        "objects": [
+            "motorcycle",
+            "car"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The motorcycle is larger than the car."
+    },
+    "588": {
+        "objects": [
+            "motorcycle",
+            "car"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The motorcycle seems shorter than the car."
+    },
+    "589": {
+        "objects": [
+            "motorcycle",
+            "car"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The motorcycle looks taller than the car."
+    },
+    "590": {
+        "objects": [
+            "donut",
+            "orange"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The donut looks smaller than the orange."
+    },
+    "591": {
+        "objects": [
+            "donut",
+            "orange"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The donut is larger than the orange."
+    },
+    "592": {
+        "objects": [
+            "bear",
+            "cow"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bear is smaller than the cow."
+    },
+    "593": {
+        "objects": [
+            "bear",
+            "cow"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bear seems shorter than the cow."
+    },
+    "594": {
+        "objects": [
+            "bear",
+            "cow"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bear is larger than the cow."
+    },
+    "595": {
+        "objects": [
+            "bear",
+            "cow"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bear appears weaker than the cow."
+    },
+    "596": {
+        "objects": [
+            "bowl",
+            "pizza"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bowl is larger than the pizza."
+    },
+    "597": {
+        "objects": [
+            "bowl",
+            "pizza"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The bowl appears smaller than the pizza."
+    },
+    "598": {
+        "objects": [
+            "fork",
+            "carrot"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The fork is longer than the carrot."
+    },
+    "599": {
+        "objects": [
+            "fork",
+            "carrot"
+        ],
+        "tags": {
+            "comparisons number": 1,
+            "objects number": 2
+        },
+        "prompt": "The fork is shorter than the carrot."
+    }
+}

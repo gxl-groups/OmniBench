@@ -1,0 +1,2002 @@
+{
+    "0": {
+        "objects": [
+            "motorcycle",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A glass motorcycle and a carpet made of wood."
+    },
+    "1": {
+        "objects": [
+            "motorcycle",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A motorcycle made of fabric and a wooden carpet."
+    },
+    "2": {
+        "objects": [
+            "motorcycle",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A motorcycle made of leather and a carpet made of concrete."
+    },
+    "3": {
+        "objects": [
+            "motorcycle",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A motorcycle with rubber parts and a carpet made of ceramic."
+    },
+    "4": {
+        "objects": [
+            "motorcycle",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A foam motorcycle and a glass carpet."
+    },
+    "5": {
+        "objects": [
+            "plate",
+            "car"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A glass plate and a wooden car."
+    },
+    "6": {
+        "objects": [
+            "plate",
+            "car"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A plate covered in fabric and a wooden car."
+    },
+    "7": {
+        "objects": [
+            "plate",
+            "car"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A plate made of leather and a car made of concrete."
+    },
+    "8": {
+        "objects": [
+            "plate",
+            "car"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A rubber plate and a car made of ceramic."
+    },
+    "9": {
+        "objects": [
+            "plate",
+            "car"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A foam plate and a glass car."
+    },
+    "10": {
+        "objects": [
+            "carpet",
+            "bus"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A carpet made of glass and a wooden bus."
+    },
+    "11": {
+        "objects": [
+            "carpet",
+            "bus"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A carpet made of fabric and a wooden bus."
+    },
+    "12": {
+        "objects": [
+            "carpet",
+            "bus"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A leather carpet and a concrete bus."
+    },
+    "13": {
+        "objects": [
+            "carpet",
+            "bus"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A rubber carpet and a ceramic bus."
+    },
+    "14": {
+        "objects": [
+            "carpet",
+            "bus"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A foam carpet and a glass bus."
+    },
+    "15": {
+        "objects": [
+            "boat",
+            "bed"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A glass boat and a wooden bed."
+    },
+    "16": {
+        "objects": [
+            "boat",
+            "bed"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A wooden boat and a fabric bed."
+    },
+    "17": {
+        "objects": [
+            "boat",
+            "bed"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A leather boat and a concrete bed."
+    },
+    "18": {
+        "objects": [
+            "boat",
+            "bed"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A rubber boat and a bed made of ceramic."
+    },
+    "19": {
+        "objects": [
+            "boat",
+            "bed"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A foam boat and a glass bed."
+    },
+    "20": {
+        "objects": [
+            "spoon",
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A glass spoon and a wooden potted plant."
+    },
+    "21": {
+        "objects": [
+            "spoon",
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A spoon made of fabric and a potted plant made of wood."
+    },
+    "22": {
+        "objects": [
+            "spoon",
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A spoon made of leather and a potted plant made of concrete."
+    },
+    "23": {
+        "objects": [
+            "spoon",
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A rubber spoon and a ceramic potted plant."
+    },
+    "24": {
+        "objects": [
+            "spoon",
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A spoon made of foam and a potted plant in a glass container."
+    },
+    "25": {
+        "objects": [
+            "car",
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A car made of glass and a potted plant made of wood."
+    },
+    "26": {
+        "objects": [
+            "car",
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A car with fabric upholstery and a potted plant made of wood."
+    },
+    "27": {
+        "objects": [
+            "car",
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A leather-upholstered car and a concrete potted plant."
+    },
+    "28": {
+        "objects": [
+            "car",
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A car made of rubber and a potted plant made of ceramic."
+    },
+    "29": {
+        "objects": [
+            "car",
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A foam car and a glass-potted plant."
+    },
+    "30": {
+        "objects": [
+            "dining table",
+            "fork"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A glass dining table and a wooden fork."
+    },
+    "31": {
+        "objects": [
+            "dining table",
+            "fork"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A wooden dining table and a fabric fork."
+    },
+    "32": {
+        "objects": [
+            "dining table",
+            "fork"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A dining table made of leather and a fork made of concrete."
+    },
+    "33": {
+        "objects": [
+            "dining table",
+            "fork"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A rubber dining table and a fork made of ceramic."
+    },
+    "34": {
+        "objects": [
+            "dining table",
+            "fork"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A foam dining table and a glass fork."
+    },
+    "35": {
+        "objects": [
+            "bus",
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A glass bus and a wooden potted plant."
+    },
+    "36": {
+        "objects": [
+            "bus",
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A fabric-covered bus and a potted plant made of wood."
+    },
+    "37": {
+        "objects": [
+            "bus",
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A bus with leather seats and a potted plant made of concrete."
+    },
+    "38": {
+        "objects": [
+            "bus",
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A rubberized bus and a potted plant made of ceramic."
+    },
+    "39": {
+        "objects": [
+            "bus",
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A foam bus and a glass potted plant."
+    },
+    "40": {
+        "objects": [
+            "potted plant",
+            "boat"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A potted plant in a glass container and a wooden boat."
+    },
+    "41": {
+        "objects": [
+            "potted plant",
+            "boat"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A fabric potted plant and a wooden boat."
+    },
+    "42": {
+        "objects": [
+            "potted plant",
+            "boat"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A potted plant made of leather and a boat made of concrete."
+    },
+    "43": {
+        "objects": [
+            "potted plant",
+            "boat"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A rubber potted plant and a boat made of ceramic."
+    },
+    "44": {
+        "objects": [
+            "potted plant",
+            "boat"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A foam potted plant and a glass boat."
+    },
+    "45": {
+        "objects": [
+            "plate",
+            "bed"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A glass plate and a wooden bed."
+    },
+    "46": {
+        "objects": [
+            "plate",
+            "bed"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A fabric plate and a wooden bed."
+    },
+    "47": {
+        "objects": [
+            "plate",
+            "bed"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A plate made of leather and a bed made of concrete."
+    },
+    "48": {
+        "objects": [
+            "plate",
+            "bed"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A rubber plate and a bed made of ceramic."
+    },
+    "49": {
+        "objects": [
+            "plate",
+            "bed"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A foam plate and a glass bed."
+    },
+    "50": {
+        "objects": [
+            "airplane",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A glass airplane and a wooden bottle made of wood."
+    },
+    "51": {
+        "objects": [
+            "airplane",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A wooden airplane and a fabric bottle."
+    },
+    "52": {
+        "objects": [
+            "airplane",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A leather airplane and a concrete bottle."
+    },
+    "53": {
+        "objects": [
+            "airplane",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A rubber airplane and a ceramic bottle."
+    },
+    "54": {
+        "objects": [
+            "airplane",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A foam airplane and a glass bottle."
+    },
+    "55": {
+        "objects": [
+            "toilet",
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A glass toilet and a wooden spoon."
+    },
+    "56": {
+        "objects": [
+            "toilet",
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A cloth toilet and a wooden spoon."
+    },
+    "57": {
+        "objects": [
+            "toilet",
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A leather toilet seat and a concrete spoon."
+    },
+    "58": {
+        "objects": [
+            "toilet",
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A rubber toilet and a spoon made of ceramic."
+    },
+    "59": {
+        "objects": [
+            "toilet",
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A foam toilet and a glass spoon."
+    },
+    "60": {
+        "objects": [
+            "fork",
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A glass fork and a wooden dining table."
+    },
+    "61": {
+        "objects": [
+            "fork",
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A wooden dining table and a fork made of fabric."
+    },
+    "62": {
+        "objects": [
+            "fork",
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A fork made of leather and a dining table made of concrete."
+    },
+    "63": {
+        "objects": [
+            "fork",
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A rubberized fork and a dining table made of ceramic."
+    },
+    "64": {
+        "objects": [
+            "fork",
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A foam fork and a glass dining table."
+    },
+    "65": {
+        "objects": [
+            "cup",
+            "couch"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A glass cup and a wooden couch."
+    },
+    "66": {
+        "objects": [
+            "cup",
+            "couch"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A fabric cup and a wooden couch."
+    },
+    "67": {
+        "objects": [
+            "cup",
+            "couch"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A cup made of leather and a couch made of concrete."
+    },
+    "68": {
+        "objects": [
+            "cup",
+            "couch"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A cup made of rubber and a couch made of ceramic."
+    },
+    "69": {
+        "objects": [
+            "cup",
+            "couch"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A foam cup and a glass-covered couch."
+    },
+    "70": {
+        "objects": [
+            "curtain",
+            "knife"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A glass curtain and a wooden knife."
+    },
+    "71": {
+        "objects": [
+            "curtain",
+            "knife"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A fabric curtain and a wooden knife."
+    },
+    "72": {
+        "objects": [
+            "curtain",
+            "knife"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A curtain made of leather and a knife made of concrete."
+    },
+    "73": {
+        "objects": [
+            "curtain",
+            "knife"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A rubber curtain and a ceramic knife."
+    },
+    "74": {
+        "objects": [
+            "curtain",
+            "knife"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A foam curtain and a glass knife."
+    },
+    "75": {
+        "objects": [
+            "truck",
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A glass truck and a wooden bowl."
+    },
+    "76": {
+        "objects": [
+            "truck",
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A fabric truck and a wooden bowl."
+    },
+    "77": {
+        "objects": [
+            "truck",
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A truck made of leather and a concrete bowl."
+    },
+    "78": {
+        "objects": [
+            "truck",
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A rubber truck and a ceramic bowl."
+    },
+    "79": {
+        "objects": [
+            "truck",
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A foam-filled truck and a glass bowl."
+    },
+    "80": {
+        "objects": [
+            "bicycle",
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A glass bicycle and a wooden toilet."
+    },
+    "81": {
+        "objects": [
+            "bicycle",
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A bicycle with a fabric frame and a wooden toilet."
+    },
+    "82": {
+        "objects": [
+            "bicycle",
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A bicycle made of leather and a concrete toilet."
+    },
+    "83": {
+        "objects": [
+            "bicycle",
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A rubber bicycle and a toilet made of ceramic."
+    },
+    "84": {
+        "objects": [
+            "bicycle",
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A foam-wrapped bicycle and a glass toilet."
+    },
+    "85": {
+        "objects": [
+            "potted plant",
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A potted plant in a glass container and a bicycle made of wood."
+    },
+    "86": {
+        "objects": [
+            "potted plant",
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A potted plant made of fabric and a wooden bicycle."
+    },
+    "87": {
+        "objects": [
+            "potted plant",
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A potted plant in a leather pot and a bicycle made of concrete."
+    },
+    "88": {
+        "objects": [
+            "potted plant",
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A potted plant made of rubber and a bicycle made of ceramic."
+    },
+    "89": {
+        "objects": [
+            "potted plant",
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A foam potted plant and a glass bicycle."
+    },
+    "90": {
+        "objects": [
+            "curtain",
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A glass curtain and a wooden bicycle."
+    },
+    "91": {
+        "objects": [
+            "curtain",
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A fabric curtain and a wooden bicycle."
+    },
+    "92": {
+        "objects": [
+            "curtain",
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A curtain made of leather and a bicycle made of concrete."
+    },
+    "93": {
+        "objects": [
+            "curtain",
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A rubber curtain and a bicycle made of ceramic."
+    },
+    "94": {
+        "objects": [
+            "curtain",
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A curtain made of foam and a bicycle made of glass."
+    },
+    "95": {
+        "objects": [
+            "truck",
+            "cup"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A glass truck and a wooden cup."
+    },
+    "96": {
+        "objects": [
+            "truck",
+            "cup"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A truck made of fabric and a wooden cup."
+    },
+    "97": {
+        "objects": [
+            "truck",
+            "cup"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A truck made of leather and a cup made of concrete."
+    },
+    "98": {
+        "objects": [
+            "truck",
+            "cup"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A rubber truck and a ceramic cup."
+    },
+    "99": {
+        "objects": [
+            "truck",
+            "cup"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A foam truck and a glass cup."
+    },
+    "100": {
+        "objects": [
+            "truck",
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A truck made of glass and an airplane made of metal."
+    },
+    "101": {
+        "objects": [
+            "truck",
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A truck made of glass and an airplane made of wood."
+    },
+    "102": {
+        "objects": [
+            "truck",
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A rubber truck and a wooden airplane."
+    },
+    "103": {
+        "objects": [
+            "truck",
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A wooden truck and a foam airplane."
+    },
+    "104": {
+        "objects": [
+            "truck",
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A metallic truck and an airplane made of leather."
+    },
+    "105": {
+        "objects": [
+            "fork",
+            "plate"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A brass fork and a resin plate."
+    },
+    "106": {
+        "objects": [
+            "fork",
+            "plate"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A titanium fork and a stainless steel plate."
+    },
+    "107": {
+        "objects": [
+            "fork",
+            "plate"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A copper fork and a ceramic plate."
+    },
+    "108": {
+        "objects": [
+            "fork",
+            "plate"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A golden fork and a brass plate."
+    },
+    "109": {
+        "objects": [
+            "fork",
+            "plate"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A stainless steel fork and a plastic plate."
+    },
+    "110": {
+        "objects": [
+            "dining table",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A ceramic dining table and a microfiber chair."
+    },
+    "111": {
+        "objects": [
+            "dining table",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "An acrylic dining table and an upholstered chair."
+    },
+    "112": {
+        "objects": [
+            "dining table",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A metal dining table and a wicker chair."
+    },
+    "113": {
+        "objects": [
+            "dining table",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A dining table made of metal and an acrylic chair."
+    },
+    "114": {
+        "objects": [
+            "dining table",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "An acrylic dining table and a ceramic chair."
+    },
+    "115": {
+        "objects": [
+            "plate",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A granite plate and a silicone bottle."
+    },
+    "116": {
+        "objects": [
+            "plate",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "An aluminum plate and a bottle made of ceramic."
+    },
+    "117": {
+        "objects": [
+            "plate",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A glass plate and a bamboo bottle."
+    },
+    "118": {
+        "objects": [
+            "plate",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A wooden plate and a bottle made of paper."
+    },
+    "119": {
+        "objects": [
+            "plate",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A leather plate and a paper bottle."
+    },
+    "120": {
+        "objects": [
+            "couch",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "An acrylic couch and a chair made of glass."
+    },
+    "121": {
+        "objects": [
+            "couch",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A bamboo couch and a velvet chair."
+    },
+    "122": {
+        "objects": [
+            "couch",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A leather couch and a leather chair."
+    },
+    "123": {
+        "objects": [
+            "couch",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A bamboo couch and a wicker chair."
+    },
+    "124": {
+        "objects": [
+            "couch",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A rattan couch and a ceramic chair."
+    },
+    "125": {
+        "objects": [
+            "spoon",
+            "plate"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A wooden spoon and a copper plate."
+    },
+    "126": {
+        "objects": [
+            "spoon",
+            "plate"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A spoon made of brass and a copper plate."
+    },
+    "127": {
+        "objects": [
+            "spoon",
+            "plate"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A ceramic spoon and a plate made of resin."
+    },
+    "128": {
+        "objects": [
+            "spoon",
+            "plate"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A spoon made of glass and a copper plate."
+    },
+    "129": {
+        "objects": [
+            "spoon",
+            "plate"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "An aluminum spoon and a plate made of copper."
+    },
+    "130": {
+        "objects": [
+            "spoon",
+            "knife"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A copper spoon and a metal knife."
+    },
+    "131": {
+        "objects": [
+            "spoon",
+            "knife"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "An aluminum spoon and a plastic knife."
+    },
+    "132": {
+        "objects": [
+            "spoon",
+            "knife"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A copper spoon and a knife made of ceramic."
+    },
+    "133": {
+        "objects": [
+            "spoon",
+            "knife"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A copper spoon and a knife made of bone."
+    },
+    "134": {
+        "objects": [
+            "spoon",
+            "knife"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A silver spoon and a plastic knife."
+    },
+    "135": {
+        "objects": [
+            "bowl",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "An aluminum bowl and a fabric-covered bottle."
+    },
+    "136": {
+        "objects": [
+            "bowl",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A bamboo bowl and a bottle made of fabric."
+    },
+    "137": {
+        "objects": [
+            "bowl",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A bowl made of bamboo and a bottle made of leather."
+    },
+    "138": {
+        "objects": [
+            "bowl",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "An acrylic bowl and a bottle made of wood."
+    },
+    "139": {
+        "objects": [
+            "bowl",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A copper bowl and a wooden bottle."
+    },
+    "140": {
+        "objects": [
+            "toilet",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A resin toilet and a plastic carpet."
+    },
+    "141": {
+        "objects": [
+            "toilet",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A porcelain toilet and a carpet made of leather."
+    },
+    "142": {
+        "objects": [
+            "toilet",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "An acrylic toilet and a carpet made of cotton."
+    },
+    "143": {
+        "objects": [
+            "toilet",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "An acrylic toilet and a carpet made of fabric."
+    },
+    "144": {
+        "objects": [
+            "toilet",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A toilet made of resin and a carpet made of bamboo."
+    },
+    "145": {
+        "objects": [
+            "cup",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A porcelain cup and a bottle made of bamboo."
+    },
+    "146": {
+        "objects": [
+            "cup",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A wooden cup and a rubber bottle."
+    },
+    "147": {
+        "objects": [
+            "cup",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A clay cup and a plastic bottle."
+    },
+    "148": {
+        "objects": [
+            "cup",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A silicone cup and a bottle made of paper."
+    },
+    "149": {
+        "objects": [
+            "cup",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A silicone cup and a ceramic bottle."
+    },
+    "150": {
+        "objects": [
+            "chair",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A bamboo chair and a leather carpet."
+    },
+    "151": {
+        "objects": [
+            "chair",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A chair made of ceramic and a carpet made of concrete."
+    },
+    "152": {
+        "objects": [
+            "chair",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A leather chair and an acrylic carpet."
+    },
+    "153": {
+        "objects": [
+            "chair",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A metallic chair and a carpet made of leather."
+    },
+    "154": {
+        "objects": [
+            "chair",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "Acrylic chair and a tiled carpet."
+    },
+    "155": {
+        "objects": [
+            "spoon",
+            "cup"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A plastic spoon and a silicone cup."
+    },
+    "156": {
+        "objects": [
+            "spoon",
+            "cup"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A plastic spoon and a cup made of clay."
+    },
+    "157": {
+        "objects": [
+            "spoon",
+            "cup"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A plastic spoon and a paper cup."
+    },
+    "158": {
+        "objects": [
+            "spoon",
+            "cup"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A spoon made of bone and a porcelain cup."
+    },
+    "159": {
+        "objects": [
+            "spoon",
+            "cup"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A resin spoon and a cup made of bamboo."
+    },
+    "160": {
+        "objects": [
+            "train",
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A foam train and a plastic motorcycle."
+    },
+    "161": {
+        "objects": [
+            "train",
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A plastic train and a motorcycle made of chrome."
+    },
+    "162": {
+        "objects": [
+            "train",
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A train with a leather exterior and a motorcycle made of rubber."
+    },
+    "163": {
+        "objects": [
+            "train",
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A foam train and a motorcycle made of fabric."
+    },
+    "164": {
+        "objects": [
+            "train",
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A wooden train and a ceramic motorcycle."
+    },
+    "165": {
+        "objects": [
+            "potted plant",
+            "couch"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A ceramic potted plant and a couch made of leather."
+    },
+    "166": {
+        "objects": [
+            "potted plant",
+            "couch"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A potted plant made of fabric and an acrylic couch."
+    },
+    "167": {
+        "objects": [
+            "potted plant",
+            "couch"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A potted plant made of fabric and a woolen couch."
+    },
+    "168": {
+        "objects": [
+            "potted plant",
+            "couch"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A wooden potted plant and a couch made of polyester."
+    },
+    "169": {
+        "objects": [
+            "potted plant",
+            "couch"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A potted plant in a wicker container and a couch made of fabric."
+    },
+    "170": {
+        "objects": [
+            "motorcycle",
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A motorcycle made of fabric and a bicycle made of rubber."
+    },
+    "171": {
+        "objects": [
+            "motorcycle",
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A motorcycle made of stone and a wooden bicycle."
+    },
+    "172": {
+        "objects": [
+            "motorcycle",
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A plastic motorcycle and a wooden bicycle."
+    },
+    "173": {
+        "objects": [
+            "motorcycle",
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A leather motorcycle and a bicycle made of carbon fiber."
+    },
+    "174": {
+        "objects": [
+            "motorcycle",
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A ceramic motorcycle and a glass bicycle."
+    },
+    "175": {
+        "objects": [
+            "bowl",
+            "cup"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A ceramic bowl and a cup made of paper."
+    },
+    "176": {
+        "objects": [
+            "bowl",
+            "cup"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A wooden bowl and a porcelain cup."
+    },
+    "177": {
+        "objects": [
+            "bowl",
+            "cup"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A bowl made of clay and a glass cup."
+    },
+    "178": {
+        "objects": [
+            "bowl",
+            "cup"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "An acrylic bowl and a silicone cup."
+    },
+    "179": {
+        "objects": [
+            "bowl",
+            "cup"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A wooden bowl and a ceramic cup."
+    },
+    "180": {
+        "objects": [
+            "truck",
+            "car"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A glass truck and an acrylic car."
+    },
+    "181": {
+        "objects": [
+            "truck",
+            "car"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A rubber truck and an acrylic car."
+    },
+    "182": {
+        "objects": [
+            "truck",
+            "car"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A fabric truck and a marble car."
+    },
+    "183": {
+        "objects": [
+            "truck",
+            "car"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A ceramic truck and a glass car."
+    },
+    "184": {
+        "objects": [
+            "truck",
+            "car"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A truck made of leather and a car made of marble."
+    },
+    "185": {
+        "objects": [
+            "truck",
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A fabric truck and a carbon fiber bicycle."
+    },
+    "186": {
+        "objects": [
+            "truck",
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A wooden truck and a rubber bicycle."
+    },
+    "187": {
+        "objects": [
+            "truck",
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A glass truck and a leather bicycle."
+    },
+    "188": {
+        "objects": [
+            "truck",
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A ceramic truck and a plastic bicycle."
+    },
+    "189": {
+        "objects": [
+            "truck",
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A wooden truck and a wooden bicycle."
+    },
+    "190": {
+        "objects": [
+            "knife",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A leather knife and a ceramic bottle."
+    },
+    "191": {
+        "objects": [
+            "knife",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A plastic knife and a bottle made of resin."
+    },
+    "192": {
+        "objects": [
+            "knife",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A ceramic knife and a bottle made of leather."
+    },
+    "193": {
+        "objects": [
+            "knife",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A carbon fiber knife and a bottle made of silicone."
+    },
+    "194": {
+        "objects": [
+            "knife",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A knife made of carbon fiber and a bottle made of paper."
+    },
+    "195": {
+        "objects": [
+            "toilet",
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A granite toilet and a wooden dining table."
+    },
+    "196": {
+        "objects": [
+            "toilet",
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A porcelain toilet and a dining table made of marble."
+    },
+    "197": {
+        "objects": [
+            "toilet",
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A toilet made of granite and a dining table made of concrete."
+    },
+    "198": {
+        "objects": [
+            "toilet",
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "An acrylic toilet and a dining table made of metal."
+    },
+    "199": {
+        "objects": [
+            "toilet",
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 2
+        },
+        "prompt": "A tile toilet and a glass dining table."
+    }
+}

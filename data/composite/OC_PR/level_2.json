@@ -1,0 +1,3902 @@
+{
+    "0": {
+        "objects": [
+            "toaster",
+            "pizza",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a toaster containing three pizzas and nine hot dogs."
+    },
+    "1": {
+        "objects": [
+            "toaster",
+            "pizza",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a toaster containing two pizzas and two hot dogs."
+    },
+    "2": {
+        "objects": [
+            "toaster",
+            "pizza",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a toaster containing two pizzas and two hot dogs."
+    },
+    "3": {
+        "objects": [
+            "refrigerator",
+            "donut",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a refrigerator containing three donuts and two pizzas."
+    },
+    "4": {
+        "objects": [
+            "refrigerator",
+            "donut",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a refrigerator containing two donuts and four pizzas."
+    },
+    "5": {
+        "objects": [
+            "refrigerator",
+            "donut",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a refrigerator containing three donuts and five pizzas."
+    },
+    "6": {
+        "objects": [
+            "refrigerator",
+            "sandwich",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a refrigerator including seven sandwiches and four apples."
+    },
+    "7": {
+        "objects": [
+            "refrigerator",
+            "sandwich",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a refrigerator including two sandwiches and five apples."
+    },
+    "8": {
+        "objects": [
+            "refrigerator",
+            "sandwich",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a refrigerator including five sandwiches and two apples."
+    },
+    "9": {
+        "objects": [
+            "plate",
+            "carrot",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a plate including two carrots and four apples."
+    },
+    "10": {
+        "objects": [
+            "plate",
+            "carrot",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a plate including six carrots and five apples."
+    },
+    "11": {
+        "objects": [
+            "plate",
+            "carrot",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a plate including five carrots and two apples."
+    },
+    "12": {
+        "objects": [
+            "refrigerator",
+            "hot dog",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a refrigerator containing three hot dogs and five apples."
+    },
+    "13": {
+        "objects": [
+            "refrigerator",
+            "hot dog",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a refrigerator containing nine hot dogs and three apples."
+    },
+    "14": {
+        "objects": [
+            "refrigerator",
+            "hot dog",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a refrigerator containing three hot dogs and nine apples."
+    },
+    "15": {
+        "objects": [
+            "plate",
+            "book",
+            "cake"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a plate containing five books and five cakes."
+    },
+    "16": {
+        "objects": [
+            "plate",
+            "book",
+            "cake"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a plate containing three books and five cakes."
+    },
+    "17": {
+        "objects": [
+            "plate",
+            "book",
+            "cake"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a plate containing eight books and three cakes."
+    },
+    "18": {
+        "objects": [
+            "microwave",
+            "book",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a microwave containing four books and five bananas."
+    },
+    "19": {
+        "objects": [
+            "microwave",
+            "book",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a microwave containing three books and six bananas."
+    },
+    "20": {
+        "objects": [
+            "microwave",
+            "book",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a microwave containing two books and two bananas."
+    },
+    "21": {
+        "objects": [
+            "toaster",
+            "sandwich",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a toaster containing two sandwiches and eight bananas."
+    },
+    "22": {
+        "objects": [
+            "toaster",
+            "sandwich",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a toaster containing two sandwiches and two bananas."
+    },
+    "23": {
+        "objects": [
+            "toaster",
+            "sandwich",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a toaster containing two sandwiches and eight bananas."
+    },
+    "24": {
+        "objects": [
+            "refrigerator",
+            "donut",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a refrigerator including two donuts and two apples."
+    },
+    "25": {
+        "objects": [
+            "refrigerator",
+            "donut",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a refrigerator including seven donuts and three apples."
+    },
+    "26": {
+        "objects": [
+            "refrigerator",
+            "donut",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a refrigerator including two donuts and three apples."
+    },
+    "27": {
+        "objects": [
+            "sink",
+            "donut",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a sink including two donuts and four sandwiches."
+    },
+    "28": {
+        "objects": [
+            "sink",
+            "donut",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a sink including four donuts and six sandwiches."
+    },
+    "29": {
+        "objects": [
+            "sink",
+            "donut",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a sink including eight donuts and two sandwiches."
+    },
+    "30": {
+        "objects": [
+            "microwave",
+            "book",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a microwave containing five books and six sandwiches."
+    },
+    "31": {
+        "objects": [
+            "microwave",
+            "book",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a microwave containing six books and six sandwiches."
+    },
+    "32": {
+        "objects": [
+            "microwave",
+            "book",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a microwave containing three books and two sandwiches."
+    },
+    "33": {
+        "objects": [
+            "refrigerator",
+            "toothbrush",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a refrigerator including two toothbrushes and two pizzas."
+    },
+    "34": {
+        "objects": [
+            "refrigerator",
+            "toothbrush",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a refrigerator including three toothbrushes and three pizzas."
+    },
+    "35": {
+        "objects": [
+            "refrigerator",
+            "toothbrush",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a refrigerator including five toothbrushes and two pizzas."
+    },
+    "36": {
+        "objects": [
+            "bowl",
+            "book",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a bowl containing two books and two hot dogs."
+    },
+    "37": {
+        "objects": [
+            "bowl",
+            "book",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a bowl containing four books and four hot dogs."
+    },
+    "38": {
+        "objects": [
+            "bowl",
+            "book",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a bowl containing nine books and three hot dogs."
+    },
+    "39": {
+        "objects": [
+            "bowl",
+            "scissors",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a bowl including five of green scissors and two bananas."
+    },
+    "40": {
+        "objects": [
+            "bowl",
+            "scissors",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a bowl including three of green scissors and four bananas."
+    },
+    "41": {
+        "objects": [
+            "bowl",
+            "scissors",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a bowl including six of scissors and five bananas."
+    },
+    "42": {
+        "objects": [
+            "bowl",
+            "broccoli",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a heart-shaped bowl including six broccolis and five bananas."
+    },
+    "43": {
+        "objects": [
+            "bowl",
+            "broccoli",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a heart-shaped bowl including ten broccolis and two bananas."
+    },
+    "44": {
+        "objects": [
+            "bowl",
+            "broccoli",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a bowl including seven broccolis and five bananas."
+    },
+    "45": {
+        "objects": [
+            "microwave",
+            "pizza",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a microwave including three pizzas and two oranges."
+    },
+    "46": {
+        "objects": [
+            "microwave",
+            "pizza",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a microwave including two pizzas and three oranges."
+    },
+    "47": {
+        "objects": [
+            "microwave",
+            "pizza",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a microwave including seven pizzas and two oranges."
+    },
+    "48": {
+        "objects": [
+            "toaster",
+            "donut",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a toaster containing six donuts and two carrots."
+    },
+    "49": {
+        "objects": [
+            "toaster",
+            "donut",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a toaster containing two donuts and four carrots."
+    },
+    "50": {
+        "objects": [
+            "toaster",
+            "donut",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a toaster containing two donuts and six carrots."
+    },
+    "51": {
+        "objects": [
+            "toaster",
+            "carrot",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a toaster containing five carrots and seven sandwiches."
+    },
+    "52": {
+        "objects": [
+            "toaster",
+            "carrot",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a toaster containing three carrots and seven sandwiches."
+    },
+    "53": {
+        "objects": [
+            "toaster",
+            "carrot",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a toaster containing eight carrots and four sandwiches."
+    },
+    "54": {
+        "objects": [
+            "sink",
+            "carrot",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a sink including four carrots and three sandwiches."
+    },
+    "55": {
+        "objects": [
+            "sink",
+            "carrot",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a sink including eight carrots and two sandwiches."
+    },
+    "56": {
+        "objects": [
+            "sink",
+            "carrot",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is an sink including three carrots and two sandwiches."
+    },
+    "57": {
+        "objects": [
+            "toaster",
+            "cake",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a toaster including three diamond-shaped cakes and two sandwiches."
+    },
+    "58": {
+        "objects": [
+            "toaster",
+            "cake",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a toaster including two diamond-shaped cakes and six sandwiches."
+    },
+    "59": {
+        "objects": [
+            "toaster",
+            "cake",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a toaster including two cakes and two sandwiches."
+    },
+    "60": {
+        "objects": [
+            "microwave",
+            "scissors",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a microwave including nine of scissors and two pizzas."
+    },
+    "61": {
+        "objects": [
+            "microwave",
+            "scissors",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a microwave including four of scissors and five pizzas."
+    },
+    "62": {
+        "objects": [
+            "microwave",
+            "scissors",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a microwave including six of red scissors and three pizzas."
+    },
+    "63": {
+        "objects": [
+            "oven",
+            "pizza",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a oven including five pizzas and four carrots."
+    },
+    "64": {
+        "objects": [
+            "oven",
+            "pizza",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a oven including three pizzas and eight carrots."
+    },
+    "65": {
+        "objects": [
+            "oven",
+            "pizza",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a oven including four pizzas and five carrots."
+    },
+    "66": {
+        "objects": [
+            "plate",
+            "book",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a plate containing two books and nine apples."
+    },
+    "67": {
+        "objects": [
+            "plate",
+            "book",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a plate containing two books and ten apples."
+    },
+    "68": {
+        "objects": [
+            "plate",
+            "book",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a plate containing four books and two apples."
+    },
+    "69": {
+        "objects": [
+            "refrigerator",
+            "carrot",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a refrigerator including six carrots and three oranges."
+    },
+    "70": {
+        "objects": [
+            "refrigerator",
+            "carrot",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a refrigerator including three carrots and two oranges."
+    },
+    "71": {
+        "objects": [
+            "refrigerator",
+            "carrot",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a refrigerator including ten carrots and two oranges."
+    },
+    "72": {
+        "objects": [
+            "toaster",
+            "book",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a toaster containing three books and four hot dogs."
+    },
+    "73": {
+        "objects": [
+            "toaster",
+            "book",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a toaster containing five books and two hot dogs."
+    },
+    "74": {
+        "objects": [
+            "toaster",
+            "book",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a toaster containing three books and five hot dogs."
+    },
+    "75": {
+        "objects": [
+            "plate",
+            "donut",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a plate including three donuts and two hot dogs."
+    },
+    "76": {
+        "objects": [
+            "plate",
+            "donut",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a plate including two donuts and two hot dogs."
+    },
+    "77": {
+        "objects": [
+            "plate",
+            "donut",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a plate including two donuts and five hot dogs."
+    },
+    "78": {
+        "objects": [
+            "toaster",
+            "sandwich",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a toaster including seven sandwiches and two apples."
+    },
+    "79": {
+        "objects": [
+            "toaster",
+            "sandwich",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a toaster including seven sandwiches and three apples."
+    },
+    "80": {
+        "objects": [
+            "toaster",
+            "sandwich",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a toaster including four sandwiches and five apples."
+    },
+    "81": {
+        "objects": [
+            "plate",
+            "book",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a plate containing four books and three oranges."
+    },
+    "82": {
+        "objects": [
+            "plate",
+            "book",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a plate containing six books and four oranges."
+    },
+    "83": {
+        "objects": [
+            "plate",
+            "book",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a plate containing two books and three oranges."
+    },
+    "84": {
+        "objects": [
+            "plate",
+            "scissors",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a plate including four of green scissors and two oranges."
+    },
+    "85": {
+        "objects": [
+            "plate",
+            "scissors",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a plate including two of green scissors and three oranges."
+    },
+    "86": {
+        "objects": [
+            "plate",
+            "scissors",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a star-shaped plate including two of white scissors and two oranges."
+    },
+    "87": {
+        "objects": [
+            "toaster",
+            "scissors",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a toaster containing four of black scissors and three bananas."
+    },
+    "88": {
+        "objects": [
+            "toaster",
+            "scissors",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a toaster containing two of black scissors and four bananas."
+    },
+    "89": {
+        "objects": [
+            "toaster",
+            "scissors",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a toaster containing three of blue scissors and four bananas."
+    },
+    "90": {
+        "objects": [
+            "microwave",
+            "book",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a microwave containing two books and three carrots."
+    },
+    "91": {
+        "objects": [
+            "microwave",
+            "book",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a microwave containing four books and six carrots."
+    },
+    "92": {
+        "objects": [
+            "microwave",
+            "book",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a microwave containing three books and three carrots."
+    },
+    "93": {
+        "objects": [
+            "plate",
+            "carrot",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a plate including three carrots and eight oranges."
+    },
+    "94": {
+        "objects": [
+            "plate",
+            "carrot",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a plate including six carrots and two oranges."
+    },
+    "95": {
+        "objects": [
+            "plate",
+            "carrot",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a plate including three carrots and three oranges."
+    },
+    "96": {
+        "objects": [
+            "plate",
+            "toothbrush",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a plate containing six toothbrushes and four bananas."
+    },
+    "97": {
+        "objects": [
+            "plate",
+            "toothbrush",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a plate containing four toothbrushes and six bananas."
+    },
+    "98": {
+        "objects": [
+            "plate",
+            "toothbrush",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a plate containing two toothbrushes and two bananas."
+    },
+    "99": {
+        "objects": [
+            "sink",
+            "cake",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a sink including three heart-shaped cakes and six donuts."
+    },
+    "100": {
+        "objects": [
+            "sink",
+            "cake",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a sink including two heart-shaped cakes and five donuts."
+    },
+    "101": {
+        "objects": [
+            "sink",
+            "cake",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a sink including two cakes and two donuts."
+    },
+    "102": {
+        "objects": [
+            "toaster",
+            "broccoli",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a toaster containing two broccolis and three bananas."
+    },
+    "103": {
+        "objects": [
+            "toaster",
+            "broccoli",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a toaster containing two broccolis and nine bananas."
+    },
+    "104": {
+        "objects": [
+            "toaster",
+            "broccoli",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a toaster containing two broccolis and two bananas."
+    },
+    "105": {
+        "objects": [
+            "oven",
+            "toothbrush",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a oven containing four toothbrushes and two sandwiches."
+    },
+    "106": {
+        "objects": [
+            "oven",
+            "toothbrush",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a oven containing four toothbrushes and four sandwiches."
+    },
+    "107": {
+        "objects": [
+            "oven",
+            "toothbrush",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a oven containing three toothbrushes and three sandwiches."
+    },
+    "108": {
+        "objects": [
+            "toaster",
+            "pizza",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a toaster including five pizzas and six bananas."
+    },
+    "109": {
+        "objects": [
+            "toaster",
+            "pizza",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a toaster including four pizzas and two bananas."
+    },
+    "110": {
+        "objects": [
+            "toaster",
+            "pizza",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a toaster including two pizzas and two bananas."
+    },
+    "111": {
+        "objects": [
+            "oven",
+            "toothbrush",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a oven containing four toothbrushes and eight oranges."
+    },
+    "112": {
+        "objects": [
+            "oven",
+            "toothbrush",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a oven containing four toothbrushes and three oranges."
+    },
+    "113": {
+        "objects": [
+            "oven",
+            "toothbrush",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a oven containing four toothbrushes and four oranges."
+    },
+    "114": {
+        "objects": [
+            "toaster",
+            "book",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a toaster containing two books and two carrots."
+    },
+    "115": {
+        "objects": [
+            "toaster",
+            "book",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a toaster containing three books and two carrots."
+    },
+    "116": {
+        "objects": [
+            "toaster",
+            "book",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a toaster containing three books and five carrots."
+    },
+    "117": {
+        "objects": [
+            "toaster",
+            "hot dog",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a toaster containing three hot dogs and four apples."
+    },
+    "118": {
+        "objects": [
+            "toaster",
+            "hot dog",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a toaster containing two hot dogs and three apples."
+    },
+    "119": {
+        "objects": [
+            "toaster",
+            "hot dog",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a toaster containing two hot dogs and five apples."
+    },
+    "120": {
+        "objects": [
+            "sink",
+            "broccoli",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a diamond-shaped sink containing three broccolis and two oranges."
+    },
+    "121": {
+        "objects": [
+            "sink",
+            "broccoli",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a diamond-shaped sink containing six broccolis and two oranges."
+    },
+    "122": {
+        "objects": [
+            "sink",
+            "broccoli",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a sink containing six broccolis and two oranges."
+    },
+    "123": {
+        "objects": [
+            "microwave",
+            "toothbrush",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a microwave including three toothbrushes and two donuts."
+    },
+    "124": {
+        "objects": [
+            "microwave",
+            "toothbrush",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a microwave including two toothbrushes and two donuts."
+    },
+    "125": {
+        "objects": [
+            "microwave",
+            "toothbrush",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a microwave including five toothbrushes and four donuts."
+    },
+    "126": {
+        "objects": [
+            "plate",
+            "orange",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a heart-shaped plate including four oranges and three sandwiches."
+    },
+    "127": {
+        "objects": [
+            "plate",
+            "orange",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a heart-shaped plate including eight oranges and three sandwiches."
+    },
+    "128": {
+        "objects": [
+            "plate",
+            "orange",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a plate including four oranges and four sandwiches."
+    },
+    "129": {
+        "objects": [
+            "oven",
+            "book",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a oven containing two books and two donuts."
+    },
+    "130": {
+        "objects": [
+            "oven",
+            "book",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a oven containing nine books and three donuts."
+    },
+    "131": {
+        "objects": [
+            "oven",
+            "book",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a oven containing five books and four donuts."
+    },
+    "132": {
+        "objects": [
+            "toaster",
+            "hot dog",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a toaster including six hot dogs and three sandwiches."
+    },
+    "133": {
+        "objects": [
+            "toaster",
+            "hot dog",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a toaster including two hot dogs and four sandwiches."
+    },
+    "134": {
+        "objects": [
+            "toaster",
+            "hot dog",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a toaster including two hot dogs and four sandwiches."
+    },
+    "135": {
+        "objects": [
+            "refrigerator",
+            "scissors",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a refrigerator including two of purple scissors and seven oranges."
+    },
+    "136": {
+        "objects": [
+            "refrigerator",
+            "scissors",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a refrigerator including eight of purple scissors and two oranges."
+    },
+    "137": {
+        "objects": [
+            "refrigerator",
+            "scissors",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a refrigerator including seven of scissors and four oranges."
+    },
+    "138": {
+        "objects": [
+            "refrigerator",
+            "carrot",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a refrigerator including three carrots and seven sandwiches."
+    },
+    "139": {
+        "objects": [
+            "refrigerator",
+            "carrot",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a refrigerator including five carrots and two sandwiches."
+    },
+    "140": {
+        "objects": [
+            "refrigerator",
+            "carrot",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a refrigerator including seven carrots and four sandwiches."
+    },
+    "141": {
+        "objects": [
+            "refrigerator",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a refrigerator containing two apples and two bananas."
+    },
+    "142": {
+        "objects": [
+            "refrigerator",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a refrigerator containing four apples and seven bananas."
+    },
+    "143": {
+        "objects": [
+            "refrigerator",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a refrigerator containing four apples and two bananas."
+    },
+    "144": {
+        "objects": [
+            "toaster",
+            "hot dog",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a toaster including two hot dogs and two broccolis."
+    },
+    "145": {
+        "objects": [
+            "toaster",
+            "hot dog",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a toaster including three hot dogs and two broccolis."
+    },
+    "146": {
+        "objects": [
+            "toaster",
+            "hot dog",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a toaster including four hot dogs and three broccolis."
+    },
+    "147": {
+        "objects": [
+            "toaster",
+            "cake",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a toaster containing four cakes and four hot dogs."
+    },
+    "148": {
+        "objects": [
+            "toaster",
+            "cake",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a toaster containing four cakes and eight hot dogs."
+    },
+    "149": {
+        "objects": [
+            "toaster",
+            "cake",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a toaster containing five cakes and two hot dogs."
+    },
+    "150": {
+        "objects": [
+            "oven",
+            "book",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a oven including four books and four oranges."
+    },
+    "151": {
+        "objects": [
+            "oven",
+            "book",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a oven including two books and two oranges."
+    },
+    "152": {
+        "objects": [
+            "oven",
+            "book",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a oven including six books and four oranges."
+    },
+    "153": {
+        "objects": [
+            "toaster",
+            "broccoli",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a toaster including three broccolis and three apples."
+    },
+    "154": {
+        "objects": [
+            "toaster",
+            "broccoli",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a toaster including three broccolis and six apples."
+    },
+    "155": {
+        "objects": [
+            "toaster",
+            "broccoli",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a toaster including five broccolis and two apples."
+    },
+    "156": {
+        "objects": [
+            "plate",
+            "toothbrush",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a plate containing two toothbrushes and three hot dogs."
+    },
+    "157": {
+        "objects": [
+            "plate",
+            "toothbrush",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a plate containing six toothbrushes and three hot dogs."
+    },
+    "158": {
+        "objects": [
+            "plate",
+            "toothbrush",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a plate containing five toothbrushes and four hot dogs."
+    },
+    "159": {
+        "objects": [
+            "microwave",
+            "book",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a microwave including five books and six hot dogs."
+    },
+    "160": {
+        "objects": [
+            "microwave",
+            "book",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a microwave including two books and three hot dogs."
+    },
+    "161": {
+        "objects": [
+            "microwave",
+            "book",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a microwave including six books and two hot dogs."
+    },
+    "162": {
+        "objects": [
+            "bowl",
+            "book",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a bowl containing two books and four pizzas."
+    },
+    "163": {
+        "objects": [
+            "bowl",
+            "book",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a bowl containing nine books and three pizzas."
+    },
+    "164": {
+        "objects": [
+            "bowl",
+            "book",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a bowl containing two books and three pizzas."
+    },
+    "165": {
+        "objects": [
+            "sink",
+            "scissors",
+            "book"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a sink containing ten of white scissors and two books."
+    },
+    "166": {
+        "objects": [
+            "sink",
+            "scissors",
+            "book"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a sink containing five of white scissors and seven books."
+    },
+    "167": {
+        "objects": [
+            "sink",
+            "scissors",
+            "book"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a sink containing three of pink scissors and three books."
+    },
+    "168": {
+        "objects": [
+            "plate",
+            "cake",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is an plate containing two cakes and seven donuts."
+    },
+    "169": {
+        "objects": [
+            "plate",
+            "cake",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is an plate containing two cakes and nine donuts."
+    },
+    "170": {
+        "objects": [
+            "plate",
+            "cake",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a plate containing four cakes and seven donuts."
+    },
+    "171": {
+        "objects": [
+            "sink",
+            "toothbrush",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a diamond-shaped sink including four toothbrushes and two pizzas."
+    },
+    "172": {
+        "objects": [
+            "sink",
+            "toothbrush",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a diamond-shaped sink including six toothbrushes and four pizzas."
+    },
+    "173": {
+        "objects": [
+            "sink",
+            "toothbrush",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a sink including five toothbrushes and three pizzas."
+    },
+    "174": {
+        "objects": [
+            "bowl",
+            "hot dog",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a bowl including three hot dogs and seven sandwiches."
+    },
+    "175": {
+        "objects": [
+            "bowl",
+            "hot dog",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a bowl including eight hot dogs and four sandwiches."
+    },
+    "176": {
+        "objects": [
+            "bowl",
+            "hot dog",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a heart-shaped bowl including two hot dogs and two sandwiches."
+    },
+    "177": {
+        "objects": [
+            "toaster",
+            "toothbrush",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a toaster containing four toothbrushes and four carrots."
+    },
+    "178": {
+        "objects": [
+            "toaster",
+            "toothbrush",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a toaster containing eight toothbrushes and two carrots."
+    },
+    "179": {
+        "objects": [
+            "toaster",
+            "toothbrush",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a toaster containing three toothbrushes and three carrots."
+    },
+    "180": {
+        "objects": [
+            "plate",
+            "toothbrush",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a plate including seven toothbrushes and two sandwiches."
+    },
+    "181": {
+        "objects": [
+            "plate",
+            "toothbrush",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a plate including two toothbrushes and two sandwiches."
+    },
+    "182": {
+        "objects": [
+            "plate",
+            "toothbrush",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a plate including two toothbrushes and four sandwiches."
+    },
+    "183": {
+        "objects": [
+            "plate",
+            "toothbrush",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a plate including three toothbrushes and four sandwiches."
+    },
+    "184": {
+        "objects": [
+            "toaster",
+            "cake",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a toaster containing three cakes and seven broccolis."
+    },
+    "185": {
+        "objects": [
+            "toaster",
+            "cake",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a toaster containing five cakes and four broccolis."
+    },
+    "186": {
+        "objects": [
+            "toaster",
+            "cake",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a toaster containing seven diamond-shaped cakes and three broccolis."
+    },
+    "187": {
+        "objects": [
+            "toaster",
+            "cake",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a toaster containing six diamond-shaped cakes and four broccolis."
+    },
+    "188": {
+        "objects": [
+            "sink",
+            "sandwich",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a sink containing nine sandwiches and two bananas."
+    },
+    "189": {
+        "objects": [
+            "sink",
+            "sandwich",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a sink containing four sandwiches and five bananas."
+    },
+    "190": {
+        "objects": [
+            "sink",
+            "sandwich",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a sink containing three sandwiches and four bananas."
+    },
+    "191": {
+        "objects": [
+            "sink",
+            "sandwich",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a sink containing two sandwiches and two bananas."
+    },
+    "192": {
+        "objects": [
+            "refrigerator",
+            "toothbrush",
+            "cake"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a refrigerator containing six toothbrushes and two cakes."
+    },
+    "193": {
+        "objects": [
+            "refrigerator",
+            "toothbrush",
+            "cake"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a refrigerator containing three toothbrushes and three cakes."
+    },
+    "194": {
+        "objects": [
+            "refrigerator",
+            "toothbrush",
+            "cake"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a refrigerator containing two toothbrushes and two cakes."
+    },
+    "195": {
+        "objects": [
+            "refrigerator",
+            "toothbrush",
+            "cake"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a refrigerator containing three toothbrushes and two cakes."
+    },
+    "196": {
+        "objects": [
+            "refrigerator",
+            "scissors",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a refrigerator containing three of green scissors and four pizzas."
+    },
+    "197": {
+        "objects": [
+            "refrigerator",
+            "scissors",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a refrigerator containing two of green scissors and four pizzas."
+    },
+    "198": {
+        "objects": [
+            "refrigerator",
+            "scissors",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a refrigerator containing four of blue scissors and six pizzas."
+    },
+    "199": {
+        "objects": [
+            "refrigerator",
+            "scissors",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a refrigerator containing five of blue scissors and four pizzas."
+    },
+    "200": {
+        "objects": [
+            "microwave",
+            "cake",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a microwave containing six cakes and two sandwiches."
+    },
+    "201": {
+        "objects": [
+            "microwave",
+            "cake",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a microwave containing three cakes and two sandwiches."
+    },
+    "202": {
+        "objects": [
+            "microwave",
+            "cake",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a microwave containing three cakes and two sandwiches."
+    },
+    "203": {
+        "objects": [
+            "microwave",
+            "cake",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a microwave containing two cakes and four sandwiches."
+    },
+    "204": {
+        "objects": [
+            "bowl",
+            "carrot",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a bowl including two carrots and eight sandwiches."
+    },
+    "205": {
+        "objects": [
+            "bowl",
+            "carrot",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a bowl including four carrots and eight sandwiches."
+    },
+    "206": {
+        "objects": [
+            "bowl",
+            "carrot",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is an bowl including three carrots and three sandwiches."
+    },
+    "207": {
+        "objects": [
+            "bowl",
+            "carrot",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is an bowl including five carrots and three sandwiches."
+    },
+    "208": {
+        "objects": [
+            "bowl",
+            "carrot",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a bowl containing six carrots and three apples."
+    },
+    "209": {
+        "objects": [
+            "bowl",
+            "carrot",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a bowl containing four carrots and two apples."
+    },
+    "210": {
+        "objects": [
+            "bowl",
+            "carrot",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a bowl containing eight carrots and two apples."
+    },
+    "211": {
+        "objects": [
+            "bowl",
+            "carrot",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a bowl containing three carrots and seven apples."
+    },
+    "212": {
+        "objects": [
+            "bowl",
+            "scissors",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a bowl containing two of scissors and four oranges."
+    },
+    "213": {
+        "objects": [
+            "bowl",
+            "scissors",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a bowl containing two of scissors and seven oranges."
+    },
+    "214": {
+        "objects": [
+            "bowl",
+            "scissors",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a bowl containing two of purple scissors and nine oranges."
+    },
+    "215": {
+        "objects": [
+            "bowl",
+            "scissors",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a bowl containing six of purple scissors and five oranges."
+    },
+    "216": {
+        "objects": [
+            "bowl",
+            "toothbrush",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is an bowl including two toothbrushes and eight bananas."
+    },
+    "217": {
+        "objects": [
+            "bowl",
+            "toothbrush",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is an bowl including two toothbrushes and three bananas."
+    },
+    "218": {
+        "objects": [
+            "bowl",
+            "toothbrush",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a bowl including four toothbrushes and six bananas."
+    },
+    "219": {
+        "objects": [
+            "bowl",
+            "toothbrush",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a bowl including seven toothbrushes and three bananas."
+    },
+    "220": {
+        "objects": [
+            "sink",
+            "toothbrush",
+            "book"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is an sink including two toothbrushes and four books."
+    },
+    "221": {
+        "objects": [
+            "sink",
+            "toothbrush",
+            "book"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is an sink including two toothbrushes and two books."
+    },
+    "222": {
+        "objects": [
+            "sink",
+            "toothbrush",
+            "book"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a sink including two toothbrushes and eight books."
+    },
+    "223": {
+        "objects": [
+            "sink",
+            "toothbrush",
+            "book"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a sink including five toothbrushes and four books."
+    },
+    "224": {
+        "objects": [
+            "toaster",
+            "toothbrush",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a toaster containing two toothbrushes and two donuts."
+    },
+    "225": {
+        "objects": [
+            "toaster",
+            "toothbrush",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a toaster containing five toothbrushes and six donuts."
+    },
+    "226": {
+        "objects": [
+            "toaster",
+            "toothbrush",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a toaster containing four toothbrushes and two donuts."
+    },
+    "227": {
+        "objects": [
+            "toaster",
+            "toothbrush",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a toaster containing three toothbrushes and eight donuts."
+    },
+    "228": {
+        "objects": [
+            "sink",
+            "toothbrush",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a sink containing seven toothbrushes and four donuts."
+    },
+    "229": {
+        "objects": [
+            "sink",
+            "toothbrush",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a sink containing two toothbrushes and four donuts."
+    },
+    "230": {
+        "objects": [
+            "sink",
+            "toothbrush",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a sink containing two toothbrushes and eight donuts."
+    },
+    "231": {
+        "objects": [
+            "sink",
+            "toothbrush",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a sink containing three toothbrushes and two donuts."
+    },
+    "232": {
+        "objects": [
+            "plate",
+            "carrot",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a plate containing two carrots and ten sandwiches."
+    },
+    "233": {
+        "objects": [
+            "plate",
+            "carrot",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a plate containing three carrots and five sandwiches."
+    },
+    "234": {
+        "objects": [
+            "plate",
+            "carrot",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a plate containing ten carrots and two sandwiches."
+    },
+    "235": {
+        "objects": [
+            "plate",
+            "carrot",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a plate containing two carrots and three sandwiches."
+    },
+    "236": {
+        "objects": [
+            "refrigerator",
+            "book",
+            "cake"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a refrigerator containing six books and six cakes."
+    },
+    "237": {
+        "objects": [
+            "refrigerator",
+            "book",
+            "cake"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a refrigerator containing four books and three cakes."
+    },
+    "238": {
+        "objects": [
+            "refrigerator",
+            "book",
+            "cake"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a refrigerator containing eight books and two cakes."
+    },
+    "239": {
+        "objects": [
+            "refrigerator",
+            "book",
+            "cake"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a refrigerator containing five books and three cakes."
+    },
+    "240": {
+        "objects": [
+            "bowl",
+            "donut",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a heart-shaped bowl including two donuts and two hot dogs."
+    },
+    "241": {
+        "objects": [
+            "bowl",
+            "donut",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a heart-shaped bowl including four donuts and three hot dogs."
+    },
+    "242": {
+        "objects": [
+            "bowl",
+            "donut",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a bowl including five donuts and two hot dogs."
+    },
+    "243": {
+        "objects": [
+            "bowl",
+            "donut",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a bowl including three donuts and five hot dogs."
+    },
+    "244": {
+        "objects": [
+            "oven",
+            "scissors",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a oven including eight of red scissors and four donuts."
+    },
+    "245": {
+        "objects": [
+            "oven",
+            "scissors",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a oven including two of red scissors and two donuts."
+    },
+    "246": {
+        "objects": [
+            "oven",
+            "scissors",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a oven including two of blue scissors and two donuts."
+    },
+    "247": {
+        "objects": [
+            "oven",
+            "scissors",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a oven including three of blue scissors and three donuts."
+    },
+    "248": {
+        "objects": [
+            "toaster",
+            "hot dog",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a toaster containing two hot dogs and two oranges."
+    },
+    "249": {
+        "objects": [
+            "toaster",
+            "hot dog",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a toaster containing nine hot dogs and two oranges."
+    },
+    "250": {
+        "objects": [
+            "toaster",
+            "hot dog",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a toaster containing four hot dogs and two oranges."
+    },
+    "251": {
+        "objects": [
+            "toaster",
+            "hot dog",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a toaster containing two hot dogs and five oranges."
+    },
+    "252": {
+        "objects": [
+            "bowl",
+            "donut",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a diamond-shaped bowl containing two donuts and two carrots."
+    },
+    "253": {
+        "objects": [
+            "bowl",
+            "donut",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a diamond-shaped bowl containing seven donuts and three carrots."
+    },
+    "254": {
+        "objects": [
+            "bowl",
+            "donut",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a bowl containing seven donuts and four carrots."
+    },
+    "255": {
+        "objects": [
+            "bowl",
+            "donut",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a bowl containing ten donuts and two carrots."
+    },
+    "256": {
+        "objects": [
+            "plate",
+            "toothbrush",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is an plate containing six toothbrushes and two carrots."
+    },
+    "257": {
+        "objects": [
+            "plate",
+            "toothbrush",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is an plate containing two toothbrushes and four carrots."
+    },
+    "258": {
+        "objects": [
+            "plate",
+            "toothbrush",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a plate containing four toothbrushes and four carrots."
+    },
+    "259": {
+        "objects": [
+            "plate",
+            "toothbrush",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a plate containing six toothbrushes and two carrots."
+    },
+    "260": {
+        "objects": [
+            "oven",
+            "cake",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a oven containing seven cakes and three pizzas."
+    },
+    "261": {
+        "objects": [
+            "oven",
+            "cake",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a oven containing three cakes and two pizzas."
+    },
+    "262": {
+        "objects": [
+            "oven",
+            "cake",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a oven containing four cakes and two pizzas."
+    },
+    "263": {
+        "objects": [
+            "oven",
+            "cake",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a oven containing two cakes and six pizzas."
+    },
+    "264": {
+        "objects": [
+            "oven",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a oven including three apples and two bananas."
+    },
+    "265": {
+        "objects": [
+            "oven",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a oven including three apples and three bananas."
+    },
+    "266": {
+        "objects": [
+            "oven",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a oven including two apples and four bananas."
+    },
+    "267": {
+        "objects": [
+            "oven",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a oven including four apples and three bananas."
+    },
+    "268": {
+        "objects": [
+            "refrigerator",
+            "toothbrush",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a refrigerator including two toothbrushes and ten sandwiches."
+    },
+    "269": {
+        "objects": [
+            "refrigerator",
+            "toothbrush",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "There is a refrigerator including two toothbrushes and two sandwiches."
+    },
+    "270": {
+        "objects": [
+            "refrigerator",
+            "toothbrush",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a refrigerator including four toothbrushes and three sandwiches."
+    },
+    "271": {
+        "objects": [
+            "refrigerator",
+            "toothbrush",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a refrigerator including two toothbrushes and seven sandwiches."
+    },
+    "272": {
+        "objects": [
+            "refrigerator",
+            "scissors",
+            "book"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a refrigerator containing three of red scissors and two books."
+    },
+    "273": {
+        "objects": [
+            "refrigerator",
+            "scissors",
+            "book"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a refrigerator containing two of red scissors and four books."
+    },
+    "274": {
+        "objects": [
+            "refrigerator",
+            "scissors",
+            "book"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a refrigerator containing three of white scissors and two books."
+    },
+    "275": {
+        "objects": [
+            "refrigerator",
+            "scissors",
+            "book"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a refrigerator containing three of white scissors and six books."
+    },
+    "276": {
+        "objects": [
+            "bowl",
+            "toothbrush",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a bowl containing five toothbrushes and four apples."
+    },
+    "277": {
+        "objects": [
+            "bowl",
+            "toothbrush",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a bowl containing four toothbrushes and four apples."
+    },
+    "278": {
+        "objects": [
+            "bowl",
+            "toothbrush",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a bowl containing three toothbrushes and five apples."
+    },
+    "279": {
+        "objects": [
+            "bowl",
+            "toothbrush",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a bowl containing two toothbrushes and five apples."
+    },
+    "280": {
+        "objects": [
+            "sink",
+            "toothbrush",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a sink including four toothbrushes and four oranges."
+    },
+    "281": {
+        "objects": [
+            "sink",
+            "toothbrush",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a sink including two toothbrushes and six oranges."
+    },
+    "282": {
+        "objects": [
+            "sink",
+            "toothbrush",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a sink including two toothbrushes and three oranges."
+    },
+    "283": {
+        "objects": [
+            "sink",
+            "toothbrush",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a sink including six toothbrushes and six oranges."
+    },
+    "284": {
+        "objects": [
+            "oven",
+            "book",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a oven including two books and three apples."
+    },
+    "285": {
+        "objects": [
+            "oven",
+            "book",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a oven including three books and four apples."
+    },
+    "286": {
+        "objects": [
+            "oven",
+            "book",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a oven including three books and two apples."
+    },
+    "287": {
+        "objects": [
+            "oven",
+            "book",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a oven including seven books and four apples."
+    },
+    "288": {
+        "objects": [
+            "oven",
+            "book",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 11
+        },
+        "prompt": "There is a oven containing seven books and four sandwiches."
+    },
+    "289": {
+        "objects": [
+            "oven",
+            "book",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a oven containing eight books and two sandwiches."
+    },
+    "290": {
+        "objects": [
+            "oven",
+            "book",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a oven containing two books and four sandwiches."
+    },
+    "291": {
+        "objects": [
+            "oven",
+            "book",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 8
+        },
+        "prompt": "There is a oven containing six books and two sandwiches."
+    },
+    "292": {
+        "objects": [
+            "refrigerator",
+            "orange",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a refrigerator including three oranges and three bananas."
+    },
+    "293": {
+        "objects": [
+            "refrigerator",
+            "orange",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 7
+        },
+        "prompt": "There is a refrigerator including three oranges and four bananas."
+    },
+    "294": {
+        "objects": [
+            "refrigerator",
+            "orange",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a refrigerator including three oranges and three bananas."
+    },
+    "295": {
+        "objects": [
+            "refrigerator",
+            "orange",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 10
+        },
+        "prompt": "There is a refrigerator including two oranges and eight bananas."
+    },
+    "296": {
+        "objects": [
+            "bowl",
+            "toothbrush",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 6
+        },
+        "prompt": "There is a bowl containing two toothbrushes and four hot dogs."
+    },
+    "297": {
+        "objects": [
+            "bowl",
+            "toothbrush",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 5
+        },
+        "prompt": "There is a bowl containing three toothbrushes and two hot dogs."
+    },
+    "298": {
+        "objects": [
+            "bowl",
+            "toothbrush",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 9
+        },
+        "prompt": "There is a bowl containing three toothbrushes and six hot dogs."
+    },
+    "299": {
+        "objects": [
+            "bowl",
+            "toothbrush",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 2,
+            "objects number": 3,
+            "sum numeracy": 12
+        },
+        "prompt": "There is a bowl containing four toothbrushes and eight hot dogs."
+    }
+}

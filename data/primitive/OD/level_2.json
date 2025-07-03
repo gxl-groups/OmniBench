@@ -1,0 +1,5642 @@
+{
+    "0": {
+        "objects": [
+            "airplane",
+            "laptop"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two airplanes, one is below the laptop and the other one is near the laptop."
+    },
+    "1": {
+        "objects": [
+            "laptop",
+            "snowboard"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two laptops; one is above the snowboard, and the other is on the right of the snowboard."
+    },
+    "2": {
+        "objects": [
+            "motorcycle",
+            "plate"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two motorcycles; one is near the plate, and the other is on the right of the plate."
+    },
+    "3": {
+        "objects": [
+            "cup",
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two cups, one cup is located far away from the bicycle, while the other cup is positioned on the right side of the bicycle."
+    },
+    "4": {
+        "objects": [
+            "suitcase",
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two suitcases; one suitcase is located on the left of the spoon, and the other suitcase is positioned under the spoon."
+    },
+    "5": {
+        "objects": [
+            "baby",
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two babies, one is on the right of the airplane, and the other is on the left of the airplane."
+    },
+    "6": {
+        "objects": [
+            "train",
+            "women"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two trains in relation to the women, one train is on the right of the women and the other train is below the women."
+    },
+    "7": {
+        "objects": [
+            "cake",
+            "cell phone"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two cakes in the scene, one cake is positioned far away from the cell phone, while the other cake is placed above the cell phone."
+    },
+    "8": {
+        "objects": [
+            "cup",
+            "boat"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two cups; one cup is far away from the boat, and the other cup is on the right of the boat."
+    },
+    "9": {
+        "objects": [
+            "bird",
+            "T-shirt"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There is one bird on the left of the T-shirt and another bird near the T-shirt."
+    },
+    "10": {
+        "objects": [
+            "vase",
+            "handbag"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There is a vase near the handbag and another vase is to the left of the handbag."
+    },
+    "11": {
+        "objects": [
+            "cake",
+            "bear"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two cakes, one cake is above the bear and one cake is under the bear."
+    },
+    "12": {
+        "objects": [
+            "surfboard",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There is a surfboard on the side of the bird and another surfboard on the left of the bird."
+    },
+    "13": {
+        "objects": [
+            "coat",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two coats, one is above the carpet and the other is under the carpet."
+    },
+    "14": {
+        "objects": [
+            "baseball glove",
+            "plate"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There is a baseball glove on the left of the plate, and another baseball glove is far away from the plate."
+    },
+    "15": {
+        "objects": [
+            "toothbrush",
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two toothbrushes, one toothbrush is below the bowl, and the other toothbrush is far away from the bowl."
+    },
+    "16": {
+        "objects": [
+            "plate",
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There is one plate on the right of the sandwich, and another plate next to the sandwich."
+    },
+    "17": {
+        "objects": [
+            "scissors",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two pairs of scissors in the room: one pair is far away from the banana, and the other pair is on the right of the banana."
+    },
+    "18": {
+        "objects": [
+            "train",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two trains, one train is below the frisbee, and the other train is above the frisbee."
+    },
+    "19": {
+        "objects": [
+            "girl",
+            "coat"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two girls in the room; one girl is on the left of the coat and the other girl is under the coat."
+    },
+    "20": {
+        "objects": [
+            "eye glasses",
+            "bear"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two pairs of eyeglasses; one pair is far away from the bear, and the other pair is above the bear."
+    },
+    "21": {
+        "objects": [
+            "umbrella",
+            "kite"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There is one umbrella positioned next to the kite, while another umbrella is located on the left side of the kite."
+    },
+    "22": {
+        "objects": [
+            "surfboard",
+            "eye glasses"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two surfboards, one surfboard is far away from the eyeglasses, and one surfboard is below the eyeglasses."
+    },
+    "23": {
+        "objects": [
+            "T-shirt",
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two T-shirts, one T-shirt is located on the right side of the potted plant, and the other T-shirt is positioned next to the potted plant."
+    },
+    "24": {
+        "objects": [
+            "hair drier",
+            "cup"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two hair dryers, one is on the right of the cup, and the other is below the cup."
+    },
+    "25": {
+        "objects": [
+            "car",
+            "fire hydrant"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There is one car on the left of the fire hydrant and another car on the right of the fire hydrant."
+    },
+    "26": {
+        "objects": [
+            "zebra",
+            "parking meter"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two zebras in the vicinity, one zebra is positioned far away from the parking meter, while the other zebra is positioned above the parking meter."
+    },
+    "27": {
+        "objects": [
+            "toaster",
+            "remote"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two toasters positioned differently relative to the remote control; one toaster is below the remote, and the other toaster is on top of the remote."
+    },
+    "28": {
+        "objects": [
+            "orange",
+            "tv"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two oranges, one orange is on the TV and the other one is below the TV."
+    },
+    "29": {
+        "objects": [
+            "eye glasses",
+            "fire hydrant"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two pairs of eyeglasses; one pair is near the fire hydrant, and the other pair is far away from it."
+    },
+    "30": {
+        "objects": [
+            "remote",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two remotes, one remote is far away from the curtain, and one remote is below the curtain."
+    },
+    "31": {
+        "objects": [
+            "bird",
+            "bench"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two birds, one bird is next to the bench and the other bird is above the bench."
+    },
+    "32": {
+        "objects": [
+            "truck",
+            "microwave"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two trucks, one truck is far away from the microwave, and the other truck is on the right of the microwave."
+    },
+    "33": {
+        "objects": [
+            "cow",
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two cows, one cow is on top of the spoon, and the other cow is below the spoon."
+    },
+    "34": {
+        "objects": [
+            "teddy bear",
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two teddy bears; one is on the left of the bicycle, and the other is next to the bicycle."
+    },
+    "35": {
+        "objects": [
+            "umbrella",
+            "couch"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two umbrellas, one is on the left of the couch and the other is below the couch."
+    },
+    "36": {
+        "objects": [
+            "handbag",
+            "snowboard"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There is one handbag far away from the snowboard, and another handbag is on the left of the snowboard."
+    },
+    "37": {
+        "objects": [
+            "toothbrush",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There is one toothbrush on the cat, and another toothbrush is on the left of the cat."
+    },
+    "38": {
+        "objects": [
+            "traffic light",
+            "toaster"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "To the left of the toaster, there is one traffic light, and next to the toaster, there is another traffic light."
+    },
+    "39": {
+        "objects": [
+            "cup",
+            "street sign"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two cups, one cup is on top of the street sign, and another cup is positioned to the right of the street sign."
+    },
+    "40": {
+        "objects": [
+            "teddy bear",
+            "street sign"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two teddy bears; one is located below the street sign, and the other one is situated far away from the street sign."
+    },
+    "41": {
+        "objects": [
+            "bus",
+            "elephant"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two buses in relation to the elephant; one bus is positioned next to the elephant, and the other bus is placed on top of the elephant."
+    },
+    "42": {
+        "objects": [
+            "apple",
+            "train"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There is one apple on the train and another apple is positioned to the right of the train."
+    },
+    "43": {
+        "objects": [
+            "parking meter",
+            "giraffe"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two parking meters in relation to the giraffe - one is far away from the giraffe, and the other is below the giraffe."
+    },
+    "44": {
+        "objects": [
+            "fire hydrant",
+            "train"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "One fire hydrant is located on the right side of the train, while another fire hydrant is situated far from the train."
+    },
+    "45": {
+        "objects": [
+            "couch",
+            "cup"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two couches; one is on the left of the cup, and the other is on the right of the cup."
+    },
+    "46": {
+        "objects": [
+            "baby",
+            "bus"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There is one baby below the bus, and another baby is on the left of the bus."
+    },
+    "47": {
+        "objects": [
+            "bird",
+            "fork"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two birds, one bird is on the right side of the fork, and the other bird is beside the fork."
+    },
+    "48": {
+        "objects": [
+            "baby",
+            "zebra"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two babies in the scene; one baby is far away from the zebra while the other baby is below the zebra."
+    },
+    "49": {
+        "objects": [
+            "frisbee",
+            "giraffe"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two frisbees, one frisbee is positioned above the giraffe and the other is positioned next to the giraffe."
+    },
+    "50": {
+        "objects": [
+            "pizza",
+            "laptop"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two pizzas, one is on the left of the laptop and the other is above the laptop."
+    },
+    "51": {
+        "objects": [
+            "baseball bat",
+            "bear"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two baseball bats in the vicinity of the bear, one is situated underneath it, while the other is positioned at the side of the bear."
+    },
+    "52": {
+        "objects": [
+            "carrot",
+            "toaster"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two carrots, one carrot is far away from the toaster, and the other carrot is underneath the toaster."
+    },
+    "53": {
+        "objects": [
+            "cow",
+            "clock"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two cows in the scene; one cow is positioned under the clock, while the other cow is situated on the left side of the clock."
+    },
+    "54": {
+        "objects": [
+            "snowboard",
+            "suitcase"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two snowboards, one is on the suitcase, and the other is on the left of the suitcase."
+    },
+    "55": {
+        "objects": [
+            "knife",
+            "carrot"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two knives, one knife is above the carrot, and the other knife is on the left of the carrot."
+    },
+    "56": {
+        "objects": [
+            "motorcycle",
+            "cell phone"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two motorcycles, one is on the side of the cell phone and the other is under the cell phone."
+    },
+    "57": {
+        "objects": [
+            "cat",
+            "carrot"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two cats, one cat is near the carrot, and the other cat is far away from the carrot."
+    },
+    "58": {
+        "objects": [
+            "airplane",
+            "cup"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two airplanes, one is far away from the cup, and the other is next to the cup."
+    },
+    "59": {
+        "objects": [
+            "microwave",
+            "street sign"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two microwaves; one is on the right of the street sign, and the other is under the street sign."
+    },
+    "60": {
+        "objects": [
+            "banana",
+            "cell phone"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two bananas positioned on either side of the cell phone – one on the right and one on the left."
+    },
+    "61": {
+        "objects": [
+            "toaster",
+            "cake"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two toasters in relation to the cake; one toaster is underneath it, while the other toaster is positioned to the left of it."
+    },
+    "62": {
+        "objects": [
+            "handbag",
+            "cow"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two handbags: one is on the side of the cow, and the other is on the right of the cow."
+    },
+    "63": {
+        "objects": [
+            "skateboard",
+            "parking meter"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There is one skateboard under the parking meter, while another skateboard is located near the parking meter."
+    },
+    "64": {
+        "objects": [
+            "vase",
+            "umbrella"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two vases, one vase is under the umbrella, and the other vase is far away from the umbrella."
+    },
+    "65": {
+        "objects": [
+            "trousers",
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There is one pair of trousers on the potted plant, and another pair of trousers is on the left of the potted plant."
+    },
+    "66": {
+        "objects": [
+            "keyboard",
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two keyboards, one is above the potted plant and the other is far away from the potted plant."
+    },
+    "67": {
+        "objects": [
+            "zebra",
+            "bus"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two zebras, one zebra is on the left of the bus, and the other zebra is near the bus."
+    },
+    "68": {
+        "objects": [
+            "fire hydrant",
+            "bed"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There is a fire hydrant on the left of the bed and another fire hydrant on the right of the bed."
+    },
+    "69": {
+        "objects": [
+            "snowboard",
+            "dress"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two snowboards - one is far away from the dress, and the other is on the left of the dress."
+    },
+    "70": {
+        "objects": [
+            "kite",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "On the left of the frisbee, there is one kite, while another kite is positioned far away from the frisbee."
+    },
+    "71": {
+        "objects": [
+            "baseball bat",
+            "sports ball"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two baseball bats positioned relative to the sports ball; one is on the right side, and the other is above it."
+    },
+    "72": {
+        "objects": [
+            "suitcase",
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two suitcases; one is next to the backpack, and the other is on the left of the backpack."
+    },
+    "73": {
+        "objects": [
+            "zebra",
+            "bear"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There is a zebra on the right of the bear, and another zebra near the bear."
+    },
+    "74": {
+        "objects": [
+            "train",
+            "bus"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two trains - one is on the right of the bus, and the other is on the left of the bus."
+    },
+    "75": {
+        "objects": [
+            "broccoli",
+            "apple"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There is one broccoli near the apple, and one broccoli far away from the apple."
+    },
+    "76": {
+        "objects": [
+            "bicycle",
+            "car"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "On the left side of the car, there is one bicycle, and on the right side of the car, there is another bicycle."
+    },
+    "77": {
+        "objects": [
+            "orange",
+            "apple"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There is an orange on the left of the apple and another orange next to the apple."
+    },
+    "78": {
+        "objects": [
+            "horse",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two horses, one is on the right of the cat and the other one is near the cat."
+    },
+    "79": {
+        "objects": [
+            "bed",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "In the room, there are two beds; one bed is far away from the carpet, while the other bed is situated on the left side of the carpet."
+    },
+    "80": {
+        "objects": [
+            "tennis racket",
+            "baseball bat"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There is a tennis racket on top of the baseball bat, and another tennis racket is nearby."
+    },
+    "81": {
+        "objects": [
+            "skateboard",
+            "skis"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two skateboards, one is positioned on the right of the skis, while the other one is placed above the skis."
+    },
+    "82": {
+        "objects": [
+            "refrigerator",
+            "oven"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two refrigerators in the kitchen; one is on the left of the oven, and the other is above the oven."
+    },
+    "83": {
+        "objects": [
+            "cake",
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two cakes, one cake is above the sandwich and the other cake is near the sandwich."
+    },
+    "84": {
+        "objects": [
+            "giraffe",
+            "horse"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two giraffes; one is far away from the horse, and one is below the horse."
+    },
+    "85": {
+        "objects": [
+            "keyboard",
+            "laptop"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two keyboards - one is on the side of the laptop, and the other one is on top of the laptop."
+    },
+    "86": {
+        "objects": [
+            "hot dog",
+            "carrot"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "One hot dog is on the left of the carrot, while another hot dog is far away from the carrot."
+    },
+    "87": {
+        "objects": [
+            "hot dog",
+            "apple"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There is a hot dog under the apple and another hot dog on the left of the apple."
+    },
+    "88": {
+        "objects": [
+            "toilet",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two toilets, one is above the curtain and the other is on the right of the curtain."
+    },
+    "89": {
+        "objects": [
+            "women",
+            "boy"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two women; one is standing to the right of the boy, and the other is positioned under the boy."
+    },
+    "90": {
+        "objects": [
+            "train",
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There is one train on the side of the airplane, and another train is on top of the airplane."
+    },
+    "91": {
+        "objects": [
+            "skateboard",
+            "baseball bat"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two skateboards, one skateboard is below the baseball bat, and the other skateboard is beside the baseball bat."
+    },
+    "92": {
+        "objects": [
+            "baseball glove",
+            "sports ball"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two baseball gloves positioned in relation to the sports ball; one baseball glove is on the right side of the sports ball, while the other baseball glove is located further away from the sports ball."
+    },
+    "93": {
+        "objects": [
+            "tennis racket",
+            "skateboard"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two tennis rackets, one of them is near the skateboard while the other one is far away from the skateboard."
+    },
+    "94": {
+        "objects": [
+            "street sign",
+            "traffic light"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two street signs, one is on the right of the traffic light and one is on the left of the traffic light."
+    },
+    "95": {
+        "objects": [
+            "pizza",
+            "carrot"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two pizzas, one pizza is far away from the carrot, and the other pizza is on the side of the carrot."
+    },
+    "96": {
+        "objects": [
+            "cow",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two cows in the scene, one cow is far away from the cat and the other cow is positioned below the cat."
+    },
+    "97": {
+        "objects": [
+            "spoon",
+            "knife"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two spoons, one spoon is on the left of the knife, and the other spoon is beside the knife."
+    },
+    "98": {
+        "objects": [
+            "broccoli",
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two broccoli pieces, one broccoli is below the sandwich and the other broccoli is near the sandwich."
+    },
+    "99": {
+        "objects": [
+            "elephant",
+            "cow"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There is an elephant under the cow, and another elephant is on top of the cow."
+    },
+    "100": {
+        "objects": [
+            "donut",
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two donuts, one donut is on the side of the sandwich, and the other donut is located far away from the sandwich."
+    },
+    "101": {
+        "objects": [
+            "book",
+            "vase"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There is one book near the vase and another book above the vase."
+    },
+    "102": {
+        "objects": [
+            "scissors",
+            "book"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two pairs of scissors, one pair is far away from the book and the other pair is on the right of the book."
+    },
+    "103": {
+        "objects": [
+            "dining table",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two dining tables, one is on the right of the curtain, and the other is on the side of the curtain."
+    },
+    "104": {
+        "objects": [
+            "boy",
+            "girl"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two boys - one is far away from the girl and the other is on the right of the girl."
+    },
+    "105": {
+        "objects": [
+            "elephant",
+            "horse"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two elephants, one of them is far away from the horse, while the other elephant is positioned on the right side of the horse."
+    },
+    "106": {
+        "objects": [
+            "clock",
+            "book"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two clocks; one is on the left of the book, and the other is under the book."
+    },
+    "107": {
+        "objects": [
+            "coat",
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There is a coat to the left of the trousers and another coat under the trousers."
+    },
+    "108": {
+        "objects": [
+            "carrot",
+            "orange"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There is one carrot positioned on the right of the orange, while another carrot is located next to the orange."
+    },
+    "109": {
+        "objects": [
+            "dining table",
+            "bed"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two dining tables in the room: one is on the right of the bed, and the other one is on top of the bed."
+    },
+    "110": {
+        "objects": [
+            "toilet",
+            "couch"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two toilets in the room - one is on the right of the couch and the other is below the couch."
+    },
+    "111": {
+        "objects": [
+            "truck",
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two trucks in the scene; one truck is positioned above the airplane, and the other truck is located to the right of the airplane."
+    },
+    "112": {
+        "objects": [
+            "toothbrush",
+            "hair drier"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two toothbrushes, one is to the right and one is to the left of the hairdryer."
+    },
+    "113": {
+        "objects": [
+            "orange",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two oranges; one orange is far away from the banana, and the other orange is above the banana."
+    },
+    "114": {
+        "objects": [
+            "bed",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two beds, one is on the right of the chair and the other is on the left of the chair."
+    },
+    "115": {
+        "objects": [
+            "hot dog",
+            "orange"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two hot dogs, one is on top of the orange and the other is on the right of the orange."
+    },
+    "116": {
+        "objects": [
+            "hair drier",
+            "vase"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two hair dryers in relation to the vase; one hair dryer is positioned above the vase, while the other hair dryer is placed on the side of the vase."
+    },
+    "117": {
+        "objects": [
+            "zebra",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two zebras, one zebra is under the cat, and one zebra is above the cat."
+    },
+    "118": {
+        "objects": [
+            "bear",
+            "sheep"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two bears in relation to the sheep – one bear is above the sheep, and the other bear is positioned to the right of the sheep."
+    },
+    "119": {
+        "objects": [
+            "bed",
+            "couch"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two beds, one is next to the couch and the other is on the left of the couch."
+    },
+    "120": {
+        "objects": [
+            "cell phone",
+            "mouse"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two cell phones; one cell phone is on the left of the mouse, and the other cell phone is on top of the mouse."
+    },
+    "121": {
+        "objects": [
+            "handbag",
+            "eye glasses"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two handbags, one handbag is below the eye glasses, the other handbag is far away from the eye glasses."
+    },
+    "122": {
+        "objects": [
+            "cow",
+            "sheep"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two cows, one cow is far away from the sheep, while the other cow is next to the sheep."
+    },
+    "123": {
+        "objects": [
+            "orange",
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two oranges, one is on the left of the sandwich, and the other is on the side of the sandwich."
+    },
+    "124": {
+        "objects": [
+            "cake",
+            "broccoli"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two cakes, one cake is on the side of the broccoli, and the other cake is far away from the broccoli."
+    },
+    "125": {
+        "objects": [
+            "pizza",
+            "apple"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two pizzas, one pizza is near the apple, and the other pizza is far away from the apple."
+    },
+    "126": {
+        "objects": [
+            "cell phone",
+            "laptop"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two cell phones, one is near the laptop and the other is below the laptop."
+    },
+    "127": {
+        "objects": [
+            "knife",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two knives, one knife is far away from the bottle, and the other knife is below the bottle."
+    },
+    "128": {
+        "objects": [
+            "donut",
+            "orange"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two donuts, one donut is below the orange, while the other donut is next to the orange."
+    },
+    "129": {
+        "objects": [
+            "toothbrush",
+            "vase"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two toothbrushes, one toothbrush is far away from the vase, and the other toothbrush is near the vase."
+    },
+    "130": {
+        "objects": [
+            "baseball bat",
+            "skis"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There is a baseball bat on the right of the skis and another baseball bat next to the skis."
+    },
+    "131": {
+        "objects": [
+            "hot dog",
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two hot dogs; one hot dog is on the side of the sandwich, while the other hot dog is located far away from the sandwich."
+    },
+    "132": {
+        "objects": [
+            "shirt",
+            "coat"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There is one shirt under the coat, and another shirt is far away from the coat."
+    },
+    "133": {
+        "objects": [
+            "motorcycle",
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two motorcycles - one is near the bicycle, and the other is above the bicycle."
+    },
+    "134": {
+        "objects": [
+            "boat",
+            "train"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two boats: one is on the right of the train, and the other is near the train."
+    },
+    "135": {
+        "objects": [
+            "boat",
+            "car"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two boats, one boat is on the right of the car, and the other boat is above the car."
+    },
+    "136": {
+        "objects": [
+            "potted plant",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two potted plants, one is next to the carpet and one is above the carpet."
+    },
+    "137": {
+        "objects": [
+            "cow",
+            "horse"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two cows, one is on the left of the horse, and the other is far away from the horse."
+    },
+    "138": {
+        "objects": [
+            "tennis racket",
+            "baseball glove"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There are two tennis rackets, one is on the side of the baseball glove and the other is on top of the baseball glove."
+    },
+    "139": {
+        "objects": [
+            "truck",
+            "bus"
+        ],
+        "tags": {
+            "objects number": 2,
+            "attribute number": 0,
+            "spatial number": 2
+        },
+        "prompt": "There is one truck on top of the bus, and one truck is underneath the bus."
+    },
+    "140": {
+        "objects": [
+            "couch"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two couches, one is pink and the other is green."
+    },
+    "141": {
+        "objects": [
+            "couch"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two couches, one is made of metal and the other is made of fabric."
+    },
+    "142": {
+        "objects": [
+            "couch"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two couches; one is made of stone, while the other is upholstered in wool."
+    },
+    "143": {
+        "objects": [
+            "couch"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two couches; one is made of wood and the other is made of rattan."
+    },
+    "144": {
+        "objects": [
+            "plate"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two plates, one is made of plastic and the other one is made of copper."
+    },
+    "145": {
+        "objects": [
+            "plate"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two plates, one is made of marble and the other is made of granite."
+    },
+    "146": {
+        "objects": [
+            "plate"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two plates, one is red and the other is yellow."
+    },
+    "147": {
+        "objects": [
+            "plate"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two plates, one is blue and the other is pink."
+    },
+    "148": {
+        "objects": [
+            "coat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two coats, one is black and the other is green."
+    },
+    "149": {
+        "objects": [
+            "coat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two coats, one is plain and the other is camouflage."
+    },
+    "150": {
+        "objects": [
+            "coat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two coats; one is yellow, and the other is blue."
+    },
+    "151": {
+        "objects": [
+            "coat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two coats; one is green, and the other is black."
+    },
+    "152": {
+        "objects": [
+            "refrigerator"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two refrigerators, one of them is pink and the other one is green."
+    },
+    "153": {
+        "objects": [
+            "refrigerator"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two refrigerators, one is yellow and the other is blue."
+    },
+    "154": {
+        "objects": [
+            "refrigerator"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two refrigerators, one is pink and the other one is white."
+    },
+    "155": {
+        "objects": [
+            "refrigerator"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two refrigerators, one is blue and the other one is white."
+    },
+    "156": {
+        "objects": [
+            "T-shirt"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two T-shirts, one is pink and the other one is green."
+    },
+    "157": {
+        "objects": [
+            "T-shirt"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two T-shirts, one of them is plaid while the other one is plain."
+    },
+    "158": {
+        "objects": [
+            "T-shirt"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two T-shirts, one T-shirt has a floral pattern and the other T-shirt has polka dots."
+    },
+    "159": {
+        "objects": [
+            "T-shirt"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two T-shirts, one is blue and the other is white."
+    },
+    "160": {
+        "objects": [
+            "traffic light"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two traffic lights; one is pink and the other is blue."
+    },
+    "161": {
+        "objects": [
+            "traffic light"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two traffic lights; one is pink, and the other is yellow."
+    },
+    "162": {
+        "objects": [
+            "traffic light"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two traffic lights, one is white and the other is green."
+    },
+    "163": {
+        "objects": [
+            "traffic light"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two traffic lights, one of them is purple while the other one is yellow."
+    },
+    "164": {
+        "objects": [
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two bottles, one is made of rubber and the other is made of bamboo."
+    },
+    "165": {
+        "objects": [
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two bottles, one is black and the other is pink."
+    },
+    "166": {
+        "objects": [
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two bottles, one is made of glass and the other is made of fabric."
+    },
+    "167": {
+        "objects": [
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two bottles, one bottle is black, and the other bottle is white."
+    },
+    "168": {
+        "objects": [
+            "scissors"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two pairs of scissors; one pair is white, and the other pair is blue."
+    },
+    "169": {
+        "objects": [
+            "scissors"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two pairs of scissors, one pair is red and the other pair is pink."
+    },
+    "170": {
+        "objects": [
+            "scissors"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two pairs of scissors, one pair is white and the other pair is red."
+    },
+    "171": {
+        "objects": [
+            "scissors"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two pairs of scissors; one is blue, and the other is black."
+    },
+    "172": {
+        "objects": [
+            "bus"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "Among the buses, one is rubber-seated while the other is leather-seated."
+    },
+    "173": {
+        "objects": [
+            "bus"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two buses, one is made of fiberglass and the other is made of aluminum."
+    },
+    "174": {
+        "objects": [
+            "bus"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two buses, one bus is blue and the other bus is pink."
+    },
+    "175": {
+        "objects": [
+            "bus"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two buses, one is made of aluminum and the other is made of glass."
+    },
+    "176": {
+        "objects": [
+            "pizza"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two pizzas, one is purple and the other is pink."
+    },
+    "177": {
+        "objects": [
+            "pizza"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two pizzas, one is red and the other is pink."
+    },
+    "178": {
+        "objects": [
+            "pizza"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two pizzas, one pizza is red, while the other one is green in color."
+    },
+    "179": {
+        "objects": [
+            "pizza"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two pizzas, one is white and the other is black."
+    },
+    "180": {
+        "objects": [
+            "cow"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two cows, one cow is afraid while the other cow is sad."
+    },
+    "181": {
+        "objects": [
+            "cow"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "Of the two cows, one appears sad while the other seems surprised."
+    },
+    "182": {
+        "objects": [
+            "cow"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two cows, one cow appears surprised, while the other cow seems afraid."
+    },
+    "183": {
+        "objects": [
+            "cow"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two cows, one is white and the other is purple."
+    },
+    "184": {
+        "objects": [
+            "toothbrush"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "Among the toothbrushes available, one is blue and the other is pink."
+    },
+    "185": {
+        "objects": [
+            "toothbrush"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two toothbrushes, one is yellow and the other is purple."
+    },
+    "186": {
+        "objects": [
+            "toothbrush"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two toothbrushes; one is blue and the other is red."
+    },
+    "187": {
+        "objects": [
+            "toothbrush"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two toothbrushes, one is black and the other is purple."
+    },
+    "188": {
+        "objects": [
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two curtains, one is made of polyester and the other is made of velvet."
+    },
+    "189": {
+        "objects": [
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two curtains, one has polka dots, and the other has a herringbone pattern."
+    },
+    "190": {
+        "objects": [
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two curtains, one curtain is blue and the other curtain is black."
+    },
+    "191": {
+        "objects": [
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two curtains, one is camouflage and the other is paisley patterned."
+    },
+    "192": {
+        "objects": [
+            "giraffe"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "In the group of giraffes, there is a blue giraffe and a yellow giraffe."
+    },
+    "193": {
+        "objects": [
+            "giraffe"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two giraffes, one giraffe looks surprised while the other appears calm."
+    },
+    "194": {
+        "objects": [
+            "giraffe"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two giraffes, one looks surprised while the other appears sad."
+    },
+    "195": {
+        "objects": [
+            "giraffe"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two giraffes, one is black and the other is red."
+    },
+    "196": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two beds, one bed has a herringbone design while the other has a floral pattern."
+    },
+    "197": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two beds, one is plaid and the other is checked."
+    },
+    "198": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two beds, one is blue and the other is purple."
+    },
+    "199": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two beds; one is made of bamboo and the other is made of rattan."
+    },
+    "200": {
+        "objects": [
+            "mouse"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two mice, one is white and the other is green."
+    },
+    "201": {
+        "objects": [
+            "mouse"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two mice, one is black and the other is blue."
+    },
+    "202": {
+        "objects": [
+            "mouse"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two mice, one is white and the other is blue."
+    },
+    "203": {
+        "objects": [
+            "mouse"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two mice; one mouse is green and the other is pink."
+    },
+    "204": {
+        "objects": [
+            "skis"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two pairs of skis; one pair is yellow, and the other pair is black."
+    },
+    "205": {
+        "objects": [
+            "skis"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two pairs of skis; one pair is white, and the other pair is yellow."
+    },
+    "206": {
+        "objects": [
+            "skis"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two pairs of skis; one pair is yellow, and the other pair is pink."
+    },
+    "207": {
+        "objects": [
+            "skis"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "Among the pairs of skis, one is pink and the other is white."
+    },
+    "208": {
+        "objects": [
+            "zebra"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two zebras, one zebra is pink and the other is blue."
+    },
+    "209": {
+        "objects": [
+            "zebra"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two zebras, one is black and the other is blue."
+    },
+    "210": {
+        "objects": [
+            "zebra"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two zebras, one zebra is pink and the other is white."
+    },
+    "211": {
+        "objects": [
+            "zebra"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "Among the zebras, one zebra is displaying anger while another zebra appears to be feeling sadness."
+    },
+    "212": {
+        "objects": [
+            "apple"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two apples, one apple is pink and the other apple is blue."
+    },
+    "213": {
+        "objects": [
+            "apple"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two apples, one is white, and the other is yellow."
+    },
+    "214": {
+        "objects": [
+            "apple"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "In a group of apples, there is one apple that is blue, and another apple that is purple."
+    },
+    "215": {
+        "objects": [
+            "apple"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two apples, one is purple and the other is yellow."
+    },
+    "216": {
+        "objects": [
+            "clock"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two clocks, one clock has a hexagonal shape, and the other clock has a crescentic shape."
+    },
+    "217": {
+        "objects": [
+            "clock"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two clocks, one is heart-shaped and the other is rectangular."
+    },
+    "218": {
+        "objects": [
+            "clock"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two clocks, one clock is hexagonal, and the other clock is oval."
+    },
+    "219": {
+        "objects": [
+            "clock"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two clocks, one clock is green and the other clock is purple."
+    },
+    "220": {
+        "objects": [
+            "boy"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two boys, one is angry and the other is afraid."
+    },
+    "221": {
+        "objects": [
+            "boy"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two boys, one boy is surprised while the other is angry."
+    },
+    "222": {
+        "objects": [
+            "boy"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two boys, one appears calm while the other one looks surprised."
+    },
+    "223": {
+        "objects": [
+            "boy"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two boys, one boy is afraid while the other one is happy."
+    },
+    "224": {
+        "objects": [
+            "donut"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two donuts, one is black and the other is green."
+    },
+    "225": {
+        "objects": [
+            "donut"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two donuts, one is red and the other is yellow."
+    },
+    "226": {
+        "objects": [
+            "donut"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two donuts, one is pink and the other is black."
+    },
+    "227": {
+        "objects": [
+            "donut"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two donuts, one is purple and the other is white."
+    },
+    "228": {
+        "objects": [
+            "cake"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two cakes, one is black and the other is green."
+    },
+    "229": {
+        "objects": [
+            "cake"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "Out of the two cakes, one is star-shaped, while the other is heart-shaped."
+    },
+    "230": {
+        "objects": [
+            "cake"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two cakes, one is crescent-shaped and the other is rectangular."
+    },
+    "231": {
+        "objects": [
+            "cake"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two cakes, one cake is yellow, the other is purple."
+    },
+    "232": {
+        "objects": [
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two pairs of trousers; one is paisley-patterned, and the other is camouflage-printed."
+    },
+    "233": {
+        "objects": [
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two pairs of trousers, one pair is yellow, and the other pair is purple."
+    },
+    "234": {
+        "objects": [
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two pairs of trousers, one pair is polka dots and the other pair is floral."
+    },
+    "235": {
+        "objects": [
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two pairs of trousers, one pair is made of herringbone fabric while the other pair is plain."
+    },
+    "236": {
+        "objects": [
+            "handbag"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "Among the handbags, one is pink and another is yellow."
+    },
+    "237": {
+        "objects": [
+            "handbag"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two handbags; one is rectangular and the other is triangular in shape."
+    },
+    "238": {
+        "objects": [
+            "handbag"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two handbags, one is crescentic in shape and the other is heart-shaped."
+    },
+    "239": {
+        "objects": [
+            "handbag"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two handbags, one of which is pink and the other is white."
+    },
+    "240": {
+        "objects": [
+            "man"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two men, one of them is sad while the other is afraid."
+    },
+    "241": {
+        "objects": [
+            "man"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two men, one of them is sad while the other one is happy."
+    },
+    "242": {
+        "objects": [
+            "man"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two men, one man is angry while the other man is happy."
+    },
+    "243": {
+        "objects": [
+            "man"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two men, one man appears calm while the other seems sad."
+    },
+    "244": {
+        "objects": [
+            "baseball bat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two baseball bats, one is purple and the other one is blue."
+    },
+    "245": {
+        "objects": [
+            "baseball bat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two baseball bats, one is blue and the other is green."
+    },
+    "246": {
+        "objects": [
+            "baseball bat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two baseball bats; one is purple, and the other is black."
+    },
+    "247": {
+        "objects": [
+            "baseball bat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two baseball bats, one is black and the other is white."
+    },
+    "248": {
+        "objects": [
+            "orange"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two oranges, one orange is black, and the other is yellow."
+    },
+    "249": {
+        "objects": [
+            "orange"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two oranges, one is yellow and the other is white."
+    },
+    "250": {
+        "objects": [
+            "orange"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "Among the oranges, one is purple while another one is black."
+    },
+    "251": {
+        "objects": [
+            "orange"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two oranges, one is green and the other is white."
+    },
+    "252": {
+        "objects": [
+            "bear"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two bears, one bear is blue and the other bear is red."
+    },
+    "253": {
+        "objects": [
+            "bear"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two bears, one is pink and the other is purple."
+    },
+    "254": {
+        "objects": [
+            "bear"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two bears, one bear is happy while the other is sad."
+    },
+    "255": {
+        "objects": [
+            "bear"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two bears, one bear is white and the other one is purple."
+    },
+    "256": {
+        "objects": [
+            "horse"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "In a group of horses, there is one horse that is white, while another horse is blue."
+    },
+    "257": {
+        "objects": [
+            "horse"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two horses, one is black and the other is red."
+    },
+    "258": {
+        "objects": [
+            "horse"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two horses, one horse is blue while the other one is black."
+    },
+    "259": {
+        "objects": [
+            "horse"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two horses, one is pink and the other is black."
+    },
+    "260": {
+        "objects": [
+            "sheep"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two sheep, one is purple and the other is red."
+    },
+    "261": {
+        "objects": [
+            "sheep"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two sheep, one is white and the other is blue."
+    },
+    "262": {
+        "objects": [
+            "sheep"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two sheep, one sheep has a surprised expression, while the other sheep appears afraid."
+    },
+    "263": {
+        "objects": [
+            "sheep"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two sheep, one sheep is happy, and the other sheep is calm."
+    },
+    "264": {
+        "objects": [
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two spoons, one is purple and the other is red."
+    },
+    "265": {
+        "objects": [
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two spoons, one is made of plastic while the other one is made of aluminum."
+    },
+    "266": {
+        "objects": [
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two spoons, one spoon is made of ceramic while the other one is made of glass."
+    },
+    "267": {
+        "objects": [
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two spoons, one is made of bone and the other is stainless steel."
+    },
+    "268": {
+        "objects": [
+            "microwave"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two microwaves, one of them is pink while the other one is yellow."
+    },
+    "269": {
+        "objects": [
+            "microwave"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two microwaves, one is purple and the other is blue."
+    },
+    "270": {
+        "objects": [
+            "microwave"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two microwaves, one is purple, and the other is black."
+    },
+    "271": {
+        "objects": [
+            "microwave"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two microwaves, one of them is black while the other one is white."
+    },
+    "272": {
+        "objects": [
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two airplanes, one is pink and the other one is blue."
+    },
+    "273": {
+        "objects": [
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two airplanes, one is made of foam and the other is made of plastic."
+    },
+    "274": {
+        "objects": [
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two airplanes, one is made of plastic and the other is made of fabric."
+    },
+    "275": {
+        "objects": [
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "Among the airplanes, one is purple while another is pink."
+    },
+    "276": {
+        "objects": [
+            "truck"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two trucks, one is made of fabric and the other is made of plastic."
+    },
+    "277": {
+        "objects": [
+            "truck"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two trucks; one truck is leather, while the other is fabric."
+    },
+    "278": {
+        "objects": [
+            "truck"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two trucks; one is ceramic, the other is glass."
+    },
+    "279": {
+        "objects": [
+            "truck"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two trucks, one is yellow and the other is green."
+    },
+    "280": {
+        "objects": [
+            "women"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two women, one is afraid, and the other is calm."
+    },
+    "281": {
+        "objects": [
+            "women"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two women, one is surprised, and the other is angry."
+    },
+    "282": {
+        "objects": [
+            "women"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two women, one is calm and the other is surprised."
+    },
+    "283": {
+        "objects": [
+            "women"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two women, one is happy and the other is sad."
+    },
+    "284": {
+        "objects": [
+            "train"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two trains, one made of wood and the other made of ceramic."
+    },
+    "285": {
+        "objects": [
+            "train"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two trains, one is white, and the other is red."
+    },
+    "286": {
+        "objects": [
+            "train"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two trains, one train is red and the other one is blue."
+    },
+    "287": {
+        "objects": [
+            "train"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two trains, one is pink and the other is black."
+    },
+    "288": {
+        "objects": [
+            "remote"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two remotes, one is white and the other is green."
+    },
+    "289": {
+        "objects": [
+            "remote"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two remotes, one is black and the other is purple."
+    },
+    "290": {
+        "objects": [
+            "remote"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two remotes, one remote is yellow while the other one is green."
+    },
+    "291": {
+        "objects": [
+            "remote"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two remotes, one is green and the other is purple."
+    },
+    "292": {
+        "objects": [
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two bicycles, one is purple, and the other is green."
+    },
+    "293": {
+        "objects": [
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two bicycles, one is made of wood and the other is made of glass."
+    },
+    "294": {
+        "objects": [
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two bicycles, one is yellow and the other one is blue."
+    },
+    "295": {
+        "objects": [
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two bicycles, one made of stone and the other made of plastic."
+    },
+    "296": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two chairs, one is made of rattan and the other is made of bamboo."
+    },
+    "297": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two chairs, one chair is white and the other one is pink."
+    },
+    "298": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two chairs; one is yellow, and the other is blue."
+    },
+    "299": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two chairs: one is made of rattan, and the other is made of fabric."
+    },
+    "300": {
+        "objects": [
+            "parking meter"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two parking meters, one is purple, and the other is pink."
+    },
+    "301": {
+        "objects": [
+            "parking meter"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two parking meters, one is green, and the other one is pink."
+    },
+    "302": {
+        "objects": [
+            "parking meter"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two parking meters, one is pink and the other is red."
+    },
+    "303": {
+        "objects": [
+            "parking meter"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two parking meters, one is black in color, while the other one is green."
+    },
+    "304": {
+        "objects": [
+            "broccoli"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two broccolis, one of them is pink and the other one is yellow."
+    },
+    "305": {
+        "objects": [
+            "broccoli"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two broccoli, one is red and the other is purple."
+    },
+    "306": {
+        "objects": [
+            "broccoli"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two broccolis, one is purple and the other is green."
+    },
+    "307": {
+        "objects": [
+            "broccoli"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "Among the broccoli, there is one that is white, while another one is black."
+    },
+    "308": {
+        "objects": [
+            "umbrella"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two umbrellas, one is purple and the other is yellow."
+    },
+    "309": {
+        "objects": [
+            "umbrella"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two umbrellas, one is black and the other is yellow."
+    },
+    "310": {
+        "objects": [
+            "umbrella"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two umbrellas, one is white and the other is green."
+    },
+    "311": {
+        "objects": [
+            "umbrella"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two umbrellas, one is red and the other is white."
+    },
+    "312": {
+        "objects": [
+            "suitcase"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two suitcases, one is yellow and the other is purple."
+    },
+    "313": {
+        "objects": [
+            "suitcase"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two suitcases, one is black and the other one is blue."
+    },
+    "314": {
+        "objects": [
+            "suitcase"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two suitcases, one is pink and the other is red."
+    },
+    "315": {
+        "objects": [
+            "suitcase"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two suitcases, one is red and the other is black."
+    },
+    "316": {
+        "objects": [
+            "toaster"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two toasters, one is purple and the other is red."
+    },
+    "317": {
+        "objects": [
+            "toaster"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two toasters, one of them is white while the other one is yellow."
+    },
+    "318": {
+        "objects": [
+            "toaster"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two toasters, one toaster is green while the other one is red."
+    },
+    "319": {
+        "objects": [
+            "toaster"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two toasters, one toaster is pink while the other one is white."
+    },
+    "320": {
+        "objects": [
+            "fork"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two forks, one is made of plastic while the other is made of carbon fiber."
+    },
+    "321": {
+        "objects": [
+            "fork"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two forks, one is made of carbon fiber and the other is made of ceramic."
+    },
+    "322": {
+        "objects": [
+            "fork"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two forks, one is made of silver and the other one is made of brass."
+    },
+    "323": {
+        "objects": [
+            "fork"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two forks, one is made of wood and the other is made of gold."
+    },
+    "324": {
+        "objects": [
+            "eye glasses"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two pairs of eye glasses; one pair is pink while the other pair is red."
+    },
+    "325": {
+        "objects": [
+            "eye glasses"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two pairs of eyeglasses, one pair is black and the other pair is purple."
+    },
+    "326": {
+        "objects": [
+            "eye glasses"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two pairs of eyeglasses, one is green and the other is pink."
+    },
+    "327": {
+        "objects": [
+            "eye glasses"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two pairs of eye glasses, one pair is red and the other pair is black."
+    },
+    "328": {
+        "objects": [
+            "hair drier"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two hair dryers, one is yellow and the other is white."
+    },
+    "329": {
+        "objects": [
+            "hair drier"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two hair dryers, one is purple and the other is red."
+    },
+    "330": {
+        "objects": [
+            "hair drier"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two hair dryers, one is yellow, and the other one is purple."
+    },
+    "331": {
+        "objects": [
+            "hair drier"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two hair dryers, one is blue and the other is black."
+    },
+    "332": {
+        "objects": [
+            "car"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two cars, one car is made of fabric while the other one is made of ceramics."
+    },
+    "333": {
+        "objects": [
+            "car"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two cars, one is white and the other is green."
+    },
+    "334": {
+        "objects": [
+            "car"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two cars, one car is made of ceramics and the other one is made of acrylic."
+    },
+    "335": {
+        "objects": [
+            "car"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two cars, one is chrome and the other is rubber."
+    },
+    "336": {
+        "objects": [
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two backpacks, one is blue and the other is green."
+    },
+    "337": {
+        "objects": [
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two backpacks, one is white, and the other one is red."
+    },
+    "338": {
+        "objects": [
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two backpacks, one is diamond-shaped and the other is triangular."
+    },
+    "339": {
+        "objects": [
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two backpacks, one is white and the other is black."
+    },
+    "340": {
+        "objects": [
+            "laptop"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two laptops, one is purple and the other is pink."
+    },
+    "341": {
+        "objects": [
+            "laptop"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two laptops; one is blue and the other is green."
+    },
+    "342": {
+        "objects": [
+            "laptop"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two laptops, one is red and the other is green."
+    },
+    "343": {
+        "objects": [
+            "laptop"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two laptops, one is pink and the other is purple."
+    },
+    "344": {
+        "objects": [
+            "cup"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two cups, one is made of paper and the other is made of metal."
+    },
+    "345": {
+        "objects": [
+            "cup"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two cups; one is crescent-shaped and the other is rectangular-shaped."
+    },
+    "346": {
+        "objects": [
+            "cup"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two cups, one is heart-shaped and the other is star-shaped."
+    },
+    "347": {
+        "objects": [
+            "cup"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two cups, one is octagonal and the other is rectangular."
+    },
+    "348": {
+        "objects": [
+            "carrot"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two carrots, one is purple and the other is red."
+    },
+    "349": {
+        "objects": [
+            "carrot"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two carrots, one is white and the other is yellow."
+    },
+    "350": {
+        "objects": [
+            "carrot"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "In the bunch, one carrot stands out as white while another carrot is red."
+    },
+    "351": {
+        "objects": [
+            "carrot"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two carrots, one is red and the other is black."
+    },
+    "352": {
+        "objects": [
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two bowls, one is heart-shaped and the other is asymmetrical."
+    },
+    "353": {
+        "objects": [
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two bowls, one is irregular in shape while the other one is crescentic in shape."
+    },
+    "354": {
+        "objects": [
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two bowls, one is ceramic and the other is glass."
+    },
+    "355": {
+        "objects": [
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two bowls, one is white and the other is purple."
+    },
+    "356": {
+        "objects": [
+            "sink"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two sinks, one sink is oval while the other sink is rectangular."
+    },
+    "357": {
+        "objects": [
+            "sink"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two sinks, one is circular and the other is round."
+    },
+    "358": {
+        "objects": [
+            "sink"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two sinks, one is triangular and the other one is crescentic."
+    },
+    "359": {
+        "objects": [
+            "sink"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two sinks, one is circular and the other is square."
+    },
+    "360": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two carpets, one is irregular in shape, while the other one is heart-shaped."
+    },
+    "361": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two carpets, one is red and the other is pink."
+    },
+    "362": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two carpets, one is made of leather, the other is made of plastic."
+    },
+    "363": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two carpets, one is made of fabric and the other is made of glass."
+    },
+    "364": {
+        "objects": [
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two motorcycles, one is yellow and the other one is black."
+    },
+    "365": {
+        "objects": [
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two motorcycles, one is yellow and the other is pink."
+    },
+    "366": {
+        "objects": [
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two motorcycles, one is pink and the other one is purple."
+    },
+    "367": {
+        "objects": [
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two motorcycles; one is white, and the other is purple."
+    },
+    "368": {
+        "objects": [
+            "vase"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two vases, one is red and the other is purple."
+    },
+    "369": {
+        "objects": [
+            "vase"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two vases in different colors, one is blue and the other is red."
+    },
+    "370": {
+        "objects": [
+            "vase"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two vases, one of which is red, while the other one is blue."
+    },
+    "371": {
+        "objects": [
+            "vase"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two vases, one of them is blue while the other one is purple."
+    },
+    "372": {
+        "objects": [
+            "tv"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two TVs, one is purple and the other is pink."
+    },
+    "373": {
+        "objects": [
+            "tv"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two TVs, one is green and the other is yellow."
+    },
+    "374": {
+        "objects": [
+            "tv"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two TVs, one is blue and the other is green."
+    },
+    "375": {
+        "objects": [
+            "tv"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two TVs, one is yellow and the other is red."
+    },
+    "376": {
+        "objects": [
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two frisbees, one frisbee is yellow and the other frisbee is white."
+    },
+    "377": {
+        "objects": [
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two frisbees; one is red, and the other is pink."
+    },
+    "378": {
+        "objects": [
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two frisbees; one is yellow, and the other is green."
+    },
+    "379": {
+        "objects": [
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two frisbees, one of them is green and the other one is white."
+    },
+    "380": {
+        "objects": [
+            "surfboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two surfboards, one is pink and the other is green."
+    },
+    "381": {
+        "objects": [
+            "surfboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two surfboards, one is black and the other one is pink."
+    },
+    "382": {
+        "objects": [
+            "surfboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two surfboards, one surfboard is white and the other surfboard is blue."
+    },
+    "383": {
+        "objects": [
+            "surfboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two surfboards; one is blue, and the other is black."
+    },
+    "384": {
+        "objects": [
+            "dog"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two dogs, one is pink and the other is blue."
+    },
+    "385": {
+        "objects": [
+            "dog"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two dogs: one looks surprised, while the other appears angry."
+    },
+    "386": {
+        "objects": [
+            "dog"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two dogs, one is green and the other is black."
+    },
+    "387": {
+        "objects": [
+            "dog"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two dogs: one is yellow and the other is red."
+    },
+    "388": {
+        "objects": [
+            "banana"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two bananas, one of them is pink while the other one is red."
+    },
+    "389": {
+        "objects": [
+            "banana"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two bananas, one is red and the other is blue."
+    },
+    "390": {
+        "objects": [
+            "banana"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two bananas, one is blue and the other is black."
+    },
+    "391": {
+        "objects": [
+            "banana"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two bananas, one is black and the other is red."
+    },
+    "392": {
+        "objects": [
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two toilets, one is purple and the other is blue."
+    },
+    "393": {
+        "objects": [
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two toilets; one is made of resin, while the other is ceramic."
+    },
+    "394": {
+        "objects": [
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two toilets, one is made of acrylic and the other is made of glass."
+    },
+    "395": {
+        "objects": [
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "In the bathroom, there are two toilets - one is made of porcelain and the other is made of acrylic."
+    },
+    "396": {
+        "objects": [
+            "fire hydrant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two fire hydrants, one of them is pink and the other one is blue."
+    },
+    "397": {
+        "objects": [
+            "fire hydrant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two fire hydrants, one is red and the other is purple."
+    },
+    "398": {
+        "objects": [
+            "fire hydrant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "In the area, there are two fire hydrants, one of which is purple while the other one is black."
+    },
+    "399": {
+        "objects": [
+            "fire hydrant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two fire hydrants, one is painted red and the other is painted green."
+    },
+    "400": {
+        "objects": [
+            "street sign"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two street signs, one is blue and the other one is pink."
+    },
+    "401": {
+        "objects": [
+            "street sign"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two street signs, one of them is purple whereas the other is red."
+    },
+    "402": {
+        "objects": [
+            "street sign"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two street signs, one is diamond-shaped and the other is round."
+    },
+    "403": {
+        "objects": [
+            "street sign"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two street signs; one is black and the other one is blue."
+    },
+    "404": {
+        "objects": [
+            "kite"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two kites, one is purple and the other is yellow."
+    },
+    "405": {
+        "objects": [
+            "kite"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two kites, one kite is hexagonal and the other kite is square."
+    },
+    "406": {
+        "objects": [
+            "kite"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two kites, one is white in color while the other is green."
+    },
+    "407": {
+        "objects": [
+            "kite"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two kites, one kite is hexagonal and the other is round."
+    },
+    "408": {
+        "objects": [
+            "shirt"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two shirts, one is white and the other is green."
+    },
+    "409": {
+        "objects": [
+            "shirt"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two shirts, one is floral and the other is paisley-patterned."
+    },
+    "410": {
+        "objects": [
+            "shirt"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two shirts, one has stripes and the other has polka dots."
+    },
+    "411": {
+        "objects": [
+            "shirt"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two shirts; one shirt is black, while the other shirt is purple."
+    },
+    "412": {
+        "objects": [
+            "baby"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two babies, one looks surprised while the other appears happy."
+    },
+    "413": {
+        "objects": [
+            "baby"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two babies, one is calm and the other is sad."
+    },
+    "414": {
+        "objects": [
+            "baby"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two babies, one baby is surprised while the other baby is afraid."
+    },
+    "415": {
+        "objects": [
+            "baby"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two babies, with one being angry and the other being sad."
+    },
+    "416": {
+        "objects": [
+            "cat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two cats, one cat is happy, while the other cat is afraid."
+    },
+    "417": {
+        "objects": [
+            "cat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "One of the cats appears to be sad, while the other one seems to be angry."
+    },
+    "418": {
+        "objects": [
+            "cat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two cats; one is yellow, and the other is black."
+    },
+    "419": {
+        "objects": [
+            "cat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two cats, one is black and the other is white."
+    },
+    "420": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two dining tables; one is yellow, and the other is black."
+    },
+    "421": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two dining tables, one featuring a herringbone pattern while the other showcases a paisley design."
+    },
+    "422": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two dining tables; one is camouflage-patterned and the other is plaid-patterned."
+    },
+    "423": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two dining tables, one is made of ceramic, while the other is made of granite."
+    },
+    "424": {
+        "objects": [
+            "snowboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two snowboards, one of them is purple and the other one is blue."
+    },
+    "425": {
+        "objects": [
+            "snowboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two snowboards, one is black and the other is blue."
+    },
+    "426": {
+        "objects": [
+            "snowboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two snowboards, one is blue while the other is purple."
+    },
+    "427": {
+        "objects": [
+            "snowboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two snowboards, one of them is green and the other is white."
+    },
+    "428": {
+        "objects": [
+            "boat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two boats, one made of steel and the other made of leather."
+    },
+    "429": {
+        "objects": [
+            "boat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two boats; one is made of synthetic fabrics and the other is constructed from copper."
+    },
+    "430": {
+        "objects": [
+            "boat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two boats: one is made of aluminum, and the other is made of carbon fiber."
+    },
+    "431": {
+        "objects": [
+            "boat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two boats; one is purple and the other is black."
+    },
+    "432": {
+        "objects": [
+            "elephant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two elephants, one elephant is happy, and the other one is angry."
+    },
+    "433": {
+        "objects": [
+            "elephant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two elephants, one is white and the other is blue."
+    },
+    "434": {
+        "objects": [
+            "elephant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "Among the two elephants, one is afraid while the other one is surprised."
+    },
+    "435": {
+        "objects": [
+            "elephant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two elephants, one is red and the other is yellow."
+    },
+    "436": {
+        "objects": [
+            "teddy bear"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two teddy bears; one is purple and the other is pink."
+    },
+    "437": {
+        "objects": [
+            "teddy bear"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two teddy bears; one is purple, and the other is black."
+    },
+    "438": {
+        "objects": [
+            "teddy bear"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two teddy bears, one teddy bear is purple and the other teddy bear is white."
+    },
+    "439": {
+        "objects": [
+            "teddy bear"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two teddy bears - one is green and the other is purple."
+    },
+    "440": {
+        "objects": [
+            "tennis racket"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two tennis rackets, one of which is black and the other one is green."
+    },
+    "441": {
+        "objects": [
+            "tennis racket"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two tennis rackets, one is blue and the other is white."
+    },
+    "442": {
+        "objects": [
+            "tennis racket"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two tennis rackets, one is purple and the other is black."
+    },
+    "443": {
+        "objects": [
+            "tennis racket"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two tennis rackets, one is yellow and the other is purple."
+    },
+    "444": {
+        "objects": [
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "In the collection of potted plants, there is one made of metal and another made of glass."
+    },
+    "445": {
+        "objects": [
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two potted plants, one is made of concrete while the other is made of wood."
+    },
+    "446": {
+        "objects": [
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two potted plants, one is white and the other is red."
+    },
+    "447": {
+        "objects": [
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two potted plants, one of them is made of concrete while the other one is made of terracotta."
+    },
+    "448": {
+        "objects": [
+            "cell phone"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two cell phones, one is pink and the other is red."
+    },
+    "449": {
+        "objects": [
+            "cell phone"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two cell phones, one is blue and the other one is black."
+    },
+    "450": {
+        "objects": [
+            "cell phone"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two cell phones, one is purple and the other is white."
+    },
+    "451": {
+        "objects": [
+            "cell phone"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two cell phones, one is green and the other is yellow."
+    },
+    "452": {
+        "objects": [
+            "book"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two books, one book is purple, while the other book is yellow."
+    },
+    "453": {
+        "objects": [
+            "book"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two books, one is black and the other is yellow."
+    },
+    "454": {
+        "objects": [
+            "book"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two books, one is white and the other is blue."
+    },
+    "455": {
+        "objects": [
+            "book"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two books, one is black and the other one is purple."
+    },
+    "456": {
+        "objects": [
+            "dress"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two dresses, one dress is checked, while the other dress is striped."
+    },
+    "457": {
+        "objects": [
+            "dress"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two dresses, one is pink and the other is red."
+    },
+    "458": {
+        "objects": [
+            "dress"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two dresses, one dress has polka dots pattern while the other dress is plaid."
+    },
+    "459": {
+        "objects": [
+            "dress"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two dresses; one dress is plaid, while the other dress features stripes."
+    },
+    "460": {
+        "objects": [
+            "keyboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two keyboards, one is purple and the other is green."
+    },
+    "461": {
+        "objects": [
+            "keyboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two keyboards - one is green and the other is blue."
+    },
+    "462": {
+        "objects": [
+            "keyboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two keyboards, one is yellow and the other one is green."
+    },
+    "463": {
+        "objects": [
+            "keyboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two keyboards, one is yellow and the other one is red."
+    },
+    "464": {
+        "objects": [
+            "oven"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two ovens, one of them is red, while the other one is white."
+    },
+    "465": {
+        "objects": [
+            "oven"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two ovens, one of them is green while the other one is pink."
+    },
+    "466": {
+        "objects": [
+            "oven"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two ovens, one is pink and the other is blue."
+    },
+    "467": {
+        "objects": [
+            "oven"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two ovens, one is red and the other is blue."
+    },
+    "468": {
+        "objects": [
+            "girl"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two girls, one is afraid and the other is sad."
+    },
+    "469": {
+        "objects": [
+            "girl"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "Among the girls, one is calm while the other is afraid."
+    },
+    "470": {
+        "objects": [
+            "girl"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two girls, one girl is surprised while the other girl is sad."
+    },
+    "471": {
+        "objects": [
+            "girl"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two girls, one girl appears to be sad while the other one appears to be surprised."
+    },
+    "472": {
+        "objects": [
+            "hot dog"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two hot dogs, one is blue and the other is green."
+    },
+    "473": {
+        "objects": [
+            "hot dog"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two hot dogs, one is blue and the other is red."
+    },
+    "474": {
+        "objects": [
+            "hot dog"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two hot dogs, one is yellow and the other is pink."
+    },
+    "475": {
+        "objects": [
+            "hot dog"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two hot dogs, one of them is black and the other one is purple."
+    },
+    "476": {
+        "objects": [
+            "sports ball"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two sports balls, with one being pink and the other being yellow."
+    },
+    "477": {
+        "objects": [
+            "sports ball"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two sports balls; one is purple, and the other is red."
+    },
+    "478": {
+        "objects": [
+            "sports ball"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two sports balls, one is red and the other one is pink."
+    },
+    "479": {
+        "objects": [
+            "sports ball"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two sports balls; one is blue and the other is black."
+    },
+    "480": {
+        "objects": [
+            "knife"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two knives, one is made of bone and the other is made of glass."
+    },
+    "481": {
+        "objects": [
+            "knife"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two knives, one is made of wood and the other is made of bone."
+    },
+    "482": {
+        "objects": [
+            "knife"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two knives, one is made of leather and the other is made of wood."
+    },
+    "483": {
+        "objects": [
+            "knife"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two knives, one is green and the other is pink."
+    },
+    "484": {
+        "objects": [
+            "bird"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "In the group of birds, there is a yellow bird and another bird that is white."
+    },
+    "485": {
+        "objects": [
+            "bird"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two birds; one bird appears calm while the other looks surprised."
+    },
+    "486": {
+        "objects": [
+            "bird"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two birds, one is pink and the other is red."
+    },
+    "487": {
+        "objects": [
+            "bird"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two birds, one is pink and the other is yellow."
+    },
+    "488": {
+        "objects": [
+            "baseball glove"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two baseball gloves, one is black and the other is purple."
+    },
+    "489": {
+        "objects": [
+            "baseball glove"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two baseball gloves, one of them is purple while the other one is black."
+    },
+    "490": {
+        "objects": [
+            "baseball glove"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two baseball gloves, one is pink, and the other is white."
+    },
+    "491": {
+        "objects": [
+            "baseball glove"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two baseball gloves, one is yellow and the other is red."
+    },
+    "492": {
+        "objects": [
+            "bench"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two benches, one bench has a crescentic shape while the other bench is triangular in shape."
+    },
+    "493": {
+        "objects": [
+            "bench"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two benches; one is black, and the other is red."
+    },
+    "494": {
+        "objects": [
+            "bench"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two benches, one bench has a crescentic shape, while the other bench has an elliptical shape."
+    },
+    "495": {
+        "objects": [
+            "bench"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two benches - one is hexagonal, and the other is trapezoidal."
+    },
+    "496": {
+        "objects": [
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two sandwiches, one sandwich is purple, and the other one is blue."
+    },
+    "497": {
+        "objects": [
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two sandwiches, one sandwich is white and the other one is pink."
+    },
+    "498": {
+        "objects": [
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "There are two sandwiches; one is white, and the other is green."
+    },
+    "499": {
+        "objects": [
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 1,
+            "attribute number": 2,
+            "spatial number": 0
+        },
+        "prompt": "Among the sandwiches, there is one that is black, while another one is white."
+    }
+}

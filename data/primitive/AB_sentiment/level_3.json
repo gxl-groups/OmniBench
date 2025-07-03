@@ -1,0 +1,1102 @@
+{
+    "0": {
+        "objects": [
+            "giraffe",
+            "sheep",
+            "boy"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A giraffe appearing afraid, a sheep seeming sad, and a boy looking excited."
+    },
+    "1": {
+        "objects": [
+            "giraffe",
+            "sheep",
+            "boy"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "An angry giraffe, a sheep looking sad, and a boy appearing angry."
+    },
+    "2": {
+        "objects": [
+            "giraffe",
+            "sheep",
+            "boy"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A giraffe looking excited, a sheep appearing sad, and a boy seeming happy."
+    },
+    "3": {
+        "objects": [
+            "giraffe",
+            "sheep",
+            "boy"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "An angry giraffe, a sheep staying calm, and a boy who appears happy."
+    },
+    "4": {
+        "objects": [
+            "bird",
+            "dog",
+            "baby"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A bird looking happy, a dog seeming joyful, and a baby appearing afraid."
+    },
+    "5": {
+        "objects": [
+            "bird",
+            "dog",
+            "baby"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A bird appearing afraid, a dog looking afraid, and a baby feeling excited."
+    },
+    "6": {
+        "objects": [
+            "bird",
+            "dog",
+            "baby"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A bird looking sad, a dog appearing surprised, and a baby seeming excited."
+    },
+    "7": {
+        "objects": [
+            "bird",
+            "dog",
+            "baby"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A bird appearing excited, a dog seeming afraid, and a baby looking angry."
+    },
+    "8": {
+        "objects": [
+            "elephant",
+            "baby",
+            "giraffe"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "An elephant appearing surprised, a baby looking surprised, and a giraffe acting surprised."
+    },
+    "9": {
+        "objects": [
+            "elephant",
+            "baby",
+            "giraffe"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "An elephant looking afraid, a baby seeming excited, and a giraffe appearing afraid."
+    },
+    "10": {
+        "objects": [
+            "elephant",
+            "baby",
+            "giraffe"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "An elephant appearing angry, a baby feeling happy, and a giraffe looking sad."
+    },
+    "11": {
+        "objects": [
+            "elephant",
+            "baby",
+            "giraffe"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "An elephant appearing afraid, a baby feeling afraid, and a giraffe looking bored."
+    },
+    "12": {
+        "objects": [
+            "elephant",
+            "boy",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "An elephant looking bored, a boy appearing afraid, and a cat seeming angry."
+    },
+    "13": {
+        "objects": [
+            "elephant",
+            "boy",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "An elephant looking calm, a boy appearing sad, and a cat acting calm."
+    },
+    "14": {
+        "objects": [
+            "elephant",
+            "boy",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "An elephant looking surprised, a boy appearing sad, and a cat seeming sad."
+    },
+    "15": {
+        "objects": [
+            "elephant",
+            "boy",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "An elephant appearing excited, a boy feeling angry, and a cat looking happy."
+    },
+    "16": {
+        "objects": [
+            "elephant",
+            "sheep",
+            "man"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "An elephant looking surprised, a sheep appearing calm, and a man feeling excited."
+    },
+    "17": {
+        "objects": [
+            "elephant",
+            "sheep",
+            "man"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "An elephant appearing calm, a sheep looking bored, and a man feeling bored."
+    },
+    "18": {
+        "objects": [
+            "elephant",
+            "sheep",
+            "man"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "An elephant appearing angry, a sheep looking calm, and a man seeming happy."
+    },
+    "19": {
+        "objects": [
+            "elephant",
+            "sheep",
+            "man"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "An elephant looking excited, a sheep appearing calm, and a man feeling excited."
+    },
+    "20": {
+        "objects": [
+            "horse",
+            "woman",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A horse appearing sad, a woman looking happy, and a cat acting bored."
+    },
+    "21": {
+        "objects": [
+            "horse",
+            "woman",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "An angry horse, a woman appearing calm, and a cat looking bored."
+    },
+    "22": {
+        "objects": [
+            "horse",
+            "woman",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A horse appearing excited, a woman feeling angry, and a cat looking angry."
+    },
+    "23": {
+        "objects": [
+            "horse",
+            "woman",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A horse appearing afraid, a woman looking bored, and a cat seeming angry."
+    },
+    "24": {
+        "objects": [
+            "cat",
+            "boy",
+            "girl"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A cat looking happy, a boy feeling excited, and a girl appearing angry."
+    },
+    "25": {
+        "objects": [
+            "cat",
+            "boy",
+            "girl"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A cat appearing sad, a boy feeling sad, and a girl being calm."
+    },
+    "26": {
+        "objects": [
+            "cat",
+            "boy",
+            "girl"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A cat looking angry, a boy appearing calm, and a girl feeling angry."
+    },
+    "27": {
+        "objects": [
+            "cat",
+            "boy",
+            "girl"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A cat seeming angry, a boy appearing bored, and a girl feeling afraid."
+    },
+    "28": {
+        "objects": [
+            "man",
+            "bear",
+            "woman"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A man looking surprised, a bear appearing bored, and a woman seeming bored."
+    },
+    "29": {
+        "objects": [
+            "man",
+            "bear",
+            "woman"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A man appearing surprised, a bear seeming bored, and a woman looking sad."
+    },
+    "30": {
+        "objects": [
+            "man",
+            "bear",
+            "woman"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A man is happy, a bear appearing excited, and a woman feels happy."
+    },
+    "31": {
+        "objects": [
+            "man",
+            "bear",
+            "woman"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A man appearing bored, a bear seeming sad, and a woman feeling excited."
+    },
+    "32": {
+        "objects": [
+            "baby",
+            "horse",
+            "zebra"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A baby looking surprised, a horse appearing afraid, and a zebra seeming bored."
+    },
+    "33": {
+        "objects": [
+            "baby",
+            "horse",
+            "zebra"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A baby feeling afraid, a horse looking surprised, and a zebra appearing calm."
+    },
+    "34": {
+        "objects": [
+            "baby",
+            "horse",
+            "zebra"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A baby feeling excited, a horse appearing happy, and a zebra also looking happy."
+    },
+    "35": {
+        "objects": [
+            "baby",
+            "horse",
+            "zebra"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A baby appearing bored, a horse looking angry, and a zebra appearing surprised."
+    },
+    "36": {
+        "objects": [
+            "man",
+            "giraffe",
+            "elephant"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A man is calm, a giraffe appears surprised, and an elephant looks surprised."
+    },
+    "37": {
+        "objects": [
+            "man",
+            "giraffe",
+            "elephant"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A man looking surprised, a giraffe appearing bored, and an elephant seeming surprised."
+    },
+    "38": {
+        "objects": [
+            "man",
+            "giraffe",
+            "elephant"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A man is afraid, a giraffe looks happy, and an elephant appears happy."
+    },
+    "39": {
+        "objects": [
+            "man",
+            "giraffe",
+            "elephant"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A man looking excited, a giraffe appearing sad, and an elephant also looking sad."
+    },
+    "40": {
+        "objects": [
+            "girl",
+            "baby",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A girl looking sad, a baby appearing afraid, and a bird seeming happy."
+    },
+    "41": {
+        "objects": [
+            "girl",
+            "baby",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A girl looking surprised, a baby appearing excited, and a bird seeming angry."
+    },
+    "42": {
+        "objects": [
+            "girl",
+            "baby",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A girl looking angry, a baby feeling afraid, and a bird appearing sad."
+    },
+    "43": {
+        "objects": [
+            "girl",
+            "baby",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A girl appearing afraid, a baby looking happy, and a bird seeming angry."
+    },
+    "44": {
+        "objects": [
+            "elephant",
+            "boy",
+            "baby"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A elephant looking calm, a boy feeling calm, and a baby appearing angry."
+    },
+    "45": {
+        "objects": [
+            "elephant",
+            "boy",
+            "baby"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "An elephant appearing surprised, a boy being happy, and a baby seeming sad."
+    },
+    "46": {
+        "objects": [
+            "elephant",
+            "boy",
+            "baby"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "An elephant appearing afraid, a boy seeming angry, and a baby looking excited."
+    },
+    "47": {
+        "objects": [
+            "elephant",
+            "boy",
+            "baby"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "An elephant appearing surprised, a boy looking surprised, and a baby feeling sad."
+    },
+    "48": {
+        "objects": [
+            "woman",
+            "girl",
+            "horse"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A woman looking surprised, a girl appearing angry, and a horse seeming surprised."
+    },
+    "49": {
+        "objects": [
+            "woman",
+            "girl",
+            "horse"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A woman appearing calm, a girl looking bored, and a horse that seems happy."
+    },
+    "50": {
+        "objects": [
+            "bear",
+            "elephant",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A bear looking surprised, an elephant seeming bored, and a cat appearing surprised."
+    },
+    "51": {
+        "objects": [
+            "bear",
+            "elephant",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A bear looks excited, an elephant seems bored, and a cat appears excited."
+    },
+    "52": {
+        "objects": [
+            "bear",
+            "elephant",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A bear looking sad, an elephant appearing angry, and a cat seeming angry."
+    },
+    "53": {
+        "objects": [
+            "bear",
+            "elephant",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A bear looking happy, an elephant appearing bored, and a cat seeming sad."
+    },
+    "54": {
+        "objects": [
+            "giraffe",
+            "zebra",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A giraffe looking sad, a zebra appearing calm, and a bird seeming bored."
+    },
+    "55": {
+        "objects": [
+            "giraffe",
+            "zebra",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A giraffe appearing excited, a zebra looking afraid, and a bird feeling excited."
+    },
+    "56": {
+        "objects": [
+            "giraffe",
+            "zebra",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A giraffe looking sad, a zebra appearing afraid, and a bird seeming excited."
+    },
+    "57": {
+        "objects": [
+            "giraffe",
+            "zebra",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "The giraffe appears excited, the zebra is happy, and the bird seems excited."
+    },
+    "58": {
+        "objects": [
+            "zebra",
+            "horse",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A zebra looks surprised, a horse seems happy, and a bird appears sad."
+    },
+    "59": {
+        "objects": [
+            "zebra",
+            "horse",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "An zebra looking angry, a horse appearing calm, and a bird feeling excited."
+    },
+    "60": {
+        "objects": [
+            "zebra",
+            "horse",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A zebra looking afraid, a horse seeming bored, and a bird appearing happy."
+    },
+    "61": {
+        "objects": [
+            "zebra",
+            "horse",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A zebra appearing bored, a horse looking bored, and a bird appearing surprised."
+    },
+    "62": {
+        "objects": [
+            "bear",
+            "cow",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A bear looking happy, a cow appearing afraid, and a bird feeling excited."
+    },
+    "63": {
+        "objects": [
+            "bear",
+            "cow",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A bear is calm, a cow looks surprised, and a bird appears angry."
+    },
+    "64": {
+        "objects": [
+            "bear",
+            "cow",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A bear feeling afraid, a cow appearing excited, and a bird looking surprised."
+    },
+    "65": {
+        "objects": [
+            "bear",
+            "cow",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A bear looking sad, a cow appearing afraid, and a bird seems surprised."
+    },
+    "66": {
+        "objects": [
+            "cow",
+            "dog",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A cow appearing angry, a dog looking angry, and a bird seeming afraid."
+    },
+    "67": {
+        "objects": [
+            "cow",
+            "dog",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A cow is calm, a dog appears sad, and a bird looks surprised."
+    },
+    "68": {
+        "objects": [
+            "cow",
+            "dog",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A cow looking calm, a dog appearing surprised, and a bird seeming sad."
+    },
+    "69": {
+        "objects": [
+            "cow",
+            "dog",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A cow appearing angry, a dog seeming excited, and a bird feeling angry."
+    },
+    "70": {
+        "objects": [
+            "bear",
+            "cow",
+            "dog"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A bear appearing happy, a cow looking sad, and a dog seeming afraid."
+    },
+    "71": {
+        "objects": [
+            "bear",
+            "cow",
+            "dog"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A bear appearing sad, a cow looking sad, and a dog seeming excited."
+    },
+    "72": {
+        "objects": [
+            "bear",
+            "cow",
+            "dog"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A bear appearing surprised, a cow looking angry, and a dog feeling afraid."
+    },
+    "73": {
+        "objects": [
+            "bear",
+            "cow",
+            "dog"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A bear appearing afraid, a cow seeming afraid, and a dog appearing excited."
+    },
+    "74": {
+        "objects": [
+            "cow",
+            "horse",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A cow looking afraid, a horse seeming scared, and a cat appearing happy."
+    },
+    "75": {
+        "objects": [
+            "cow",
+            "horse",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A cow looking bored, a horse appearing sad, and a cat feeling afraid."
+    },
+    "76": {
+        "objects": [
+            "cow",
+            "horse",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A cow is angry, a horse appears surprised, and a cat seems bored."
+    },
+    "77": {
+        "objects": [
+            "cow",
+            "horse",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A cow looking surprised, a horse appearing happy, and a cat seems angry."
+    },
+    "78": {
+        "objects": [
+            "bear",
+            "elephant",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A bear looking bored, an elephant appearing angry, and a bird seeming afraid."
+    },
+    "79": {
+        "objects": [
+            "bear",
+            "elephant",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A bear appearing excited, an elephant looking sad, and a bird seeming afraid."
+    },
+    "80": {
+        "objects": [
+            "bear",
+            "elephant",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A bear looking happy, an elephant seeming angry, and a bird appearing angry."
+    },
+    "81": {
+        "objects": [
+            "bear",
+            "elephant",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A bear appearing bored, an elephant looking happy, and a bird seeming excited."
+    },
+    "82": {
+        "objects": [
+            "giraffe",
+            "dog",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A giraffe looking angry, a dog appearing happy, and a bird seeming bored."
+    },
+    "83": {
+        "objects": [
+            "giraffe",
+            "dog",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A giraffe looking excited, a dog appearing sad, and a bird seeming calm."
+    },
+    "84": {
+        "objects": [
+            "giraffe",
+            "dog",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A giraffe appearing calm, a dog looking surprised, and a bird seeming happy."
+    },
+    "85": {
+        "objects": [
+            "giraffe",
+            "dog",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A giraffe appearing surprised, a dog looking bored, and a bird also appearing bored."
+    },
+    "86": {
+        "objects": [
+            "giraffe",
+            "elephant",
+            "sheep"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A giraffe looking happy, an elephant appearing angry, and a sheep seeming bored."
+    },
+    "87": {
+        "objects": [
+            "giraffe",
+            "elephant",
+            "sheep"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A giraffe seeming excited, an elephant appearing afraid, and a sheep feeling afraid."
+    },
+    "88": {
+        "objects": [
+            "giraffe",
+            "elephant",
+            "sheep"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A giraffe looking happy, an elephant appearing calm, and a sheep seeming angry."
+    },
+    "89": {
+        "objects": [
+            "giraffe",
+            "elephant",
+            "sheep"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A giraffe appearing afraid, an elephant looking angry, and a sheep seeming excited."
+    },
+    "90": {
+        "objects": [
+            "bear",
+            "sheep",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A bear appearing calm, a sheep looking happy, and a cat seeming excited."
+    },
+    "91": {
+        "objects": [
+            "bear",
+            "sheep",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A bear appearing excited, a sheep feeling afraid, and a cat seeming angry."
+    },
+    "92": {
+        "objects": [
+            "bear",
+            "sheep",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A bear looking happy, a sheep appearing happy, and a cat seeming excited."
+    },
+    "93": {
+        "objects": [
+            "bear",
+            "sheep",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A bear looking angry, a sheep appearing sad, and a cat seeming afraid."
+    },
+    "94": {
+        "objects": [
+            "giraffe",
+            "zebra",
+            "bear"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A giraffe looking sad, a zebra appearing bored, and a bear seeming excited."
+    },
+    "95": {
+        "objects": [
+            "giraffe",
+            "zebra",
+            "bear"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A giraffe appearing afraid, a zebra seeming excited, and a bear staying calm."
+    },
+    "96": {
+        "objects": [
+            "giraffe",
+            "zebra",
+            "bear"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A giraffe looking happy, a zebra seeming happy, and a bear appearing surprised."
+    },
+    "97": {
+        "objects": [
+            "giraffe",
+            "zebra",
+            "bear"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "An angry giraffe, a zebra appearing sad, and a bear appearing calm."
+    },
+    "98": {
+        "objects": [
+            "giraffe",
+            "cow",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A giraffe looking bored, a cow appearing afraid, and a cat seeming excited."
+    },
+    "99": {
+        "objects": [
+            "giraffe",
+            "cow",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A giraffe looking bored, a cow appearing bored, and a cat feeling afraid."
+    }
+}

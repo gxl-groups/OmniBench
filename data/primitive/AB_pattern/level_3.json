@@ -1,0 +1,1102 @@
+{
+    "0": {
+        "objects": [
+            "dress",
+            "coat",
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A geometric dress, a geometric coat and a plain dining table."
+    },
+    "1": {
+        "objects": [
+            "dress",
+            "coat",
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A geometric dress, a geometric coat and a checked dining table."
+    },
+    "2": {
+        "objects": [
+            "dress",
+            "coat",
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A checked dress, a paisley coat and a checked dining table."
+    },
+    "3": {
+        "objects": [
+            "dress",
+            "coat",
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A paisley dress, a checked coat and a plaid dining table."
+    },
+    "4": {
+        "objects": [
+            "dress",
+            "coat",
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A geometric dress, a checked coat and a herringbone dining table."
+    },
+    "5": {
+        "objects": [
+            "dress",
+            "coat",
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A herringbone dress, a floral coat and a checked dining table."
+    },
+    "6": {
+        "objects": [
+            "dress",
+            "coat",
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A polka-dotted dress, a paisley coat and a paisley dining table."
+    },
+    "7": {
+        "objects": [
+            "dress",
+            "coat",
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A checked dress, a striped coat and a camouflage dining table."
+    },
+    "8": {
+        "objects": [
+            "dress",
+            "coat",
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A plain dress, a herringbone coat and a camouflage dining table."
+    },
+    "9": {
+        "objects": [
+            "dress",
+            "coat",
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A geometric dress, a striped coat and a plain dining table."
+    },
+    "10": {
+        "objects": [
+            "trousers",
+            "bed",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A pair of camouflage trousers, a checked bed and a paisley chair."
+    },
+    "11": {
+        "objects": [
+            "trousers",
+            "bed",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A pair of checked trousers, a polka-dotted bed and a plain chair."
+    },
+    "12": {
+        "objects": [
+            "trousers",
+            "bed",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A pair of checked trousers, a striped bed and a plain chair."
+    },
+    "13": {
+        "objects": [
+            "trousers",
+            "bed",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A pair of striped trousers, a plaid bed and a paisley chair."
+    },
+    "14": {
+        "objects": [
+            "trousers",
+            "bed",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A pair of checked trousers, a polka-dotted bed and a paisley chair."
+    },
+    "15": {
+        "objects": [
+            "trousers",
+            "bed",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A pair of striped trousers, a camouflage bed and a plain chair."
+    },
+    "16": {
+        "objects": [
+            "trousers",
+            "bed",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A pair of floral trousers, a geometric bed and a camouflage chair."
+    },
+    "17": {
+        "objects": [
+            "trousers",
+            "bed",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A pair of camouflage trousers, a floral bed and a paisley chair."
+    },
+    "18": {
+        "objects": [
+            "trousers",
+            "bed",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A pair of herringbone trousers, a striped bed and a floral chair."
+    },
+    "19": {
+        "objects": [
+            "trousers",
+            "bed",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A pair of polka-dotted trousers, a plaid bed and a geometric chair."
+    },
+    "20": {
+        "objects": [
+            "T-shirt",
+            "dining table",
+            "bed"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A polka-dotted T-shirt, a plaid dining table and a plaid bed."
+    },
+    "21": {
+        "objects": [
+            "T-shirt",
+            "dining table",
+            "bed"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A polka-dotted T-shirt, a plain dining table and a striped bed."
+    },
+    "22": {
+        "objects": [
+            "T-shirt",
+            "dining table",
+            "bed"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A plain T-shirt, a striped dining table and a camouflage bed."
+    },
+    "23": {
+        "objects": [
+            "T-shirt",
+            "dining table",
+            "bed"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A plain T-shirt, a herringbone dining table and a paisley bed."
+    },
+    "24": {
+        "objects": [
+            "T-shirt",
+            "dining table",
+            "bed"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A floral T-shirt, a camouflage dining table and a camouflage bed."
+    },
+    "25": {
+        "objects": [
+            "T-shirt",
+            "dining table",
+            "bed"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A floral T-shirt, a paisley dining table and a plain bed."
+    },
+    "26": {
+        "objects": [
+            "T-shirt",
+            "dining table",
+            "bed"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A paisley T-shirt, a floral dining table and a floral bed."
+    },
+    "27": {
+        "objects": [
+            "T-shirt",
+            "dining table",
+            "bed"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A polka-dotted T-shirt, a plaid dining table and a floral bed."
+    },
+    "28": {
+        "objects": [
+            "T-shirt",
+            "dining table",
+            "bed"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A herringbone T-shirt, a herringbone dining table and a plain bed."
+    },
+    "29": {
+        "objects": [
+            "T-shirt",
+            "dining table",
+            "bed"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A checked T-shirt, a herringbone dining table and a checked bed."
+    },
+    "30": {
+        "objects": [
+            "dress",
+            "coat",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A geometric dress, a plaid coat and a herringbone carpet."
+    },
+    "31": {
+        "objects": [
+            "dress",
+            "coat",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A plain dress, a herringbone coat and a striped carpet."
+    },
+    "32": {
+        "objects": [
+            "dress",
+            "coat",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A plaid dress, a herringbone coat and a camouflage carpet."
+    },
+    "33": {
+        "objects": [
+            "dress",
+            "coat",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A geometric dress, a striped coat and a paisley carpet."
+    },
+    "34": {
+        "objects": [
+            "dress",
+            "coat",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A herringbone dress, a paisley coat and a herringbone carpet."
+    },
+    "35": {
+        "objects": [
+            "dress",
+            "coat",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A paisley dress, a striped coat and a floral carpet."
+    },
+    "36": {
+        "objects": [
+            "dress",
+            "coat",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A geometric dress, a plain coat and a plain carpet."
+    },
+    "37": {
+        "objects": [
+            "dress",
+            "coat",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A paisley dress, a striped coat and a geometric carpet."
+    },
+    "38": {
+        "objects": [
+            "dress",
+            "coat",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A geometric dress, a geometric coat and a floral carpet."
+    },
+    "39": {
+        "objects": [
+            "dress",
+            "coat",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A geometric dress, a geometric coat and a camouflage carpet."
+    },
+    "40": {
+        "objects": [
+            "dining table",
+            "bed",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A herringbone dining table, a polka-dotted bed and a floral chair."
+    },
+    "41": {
+        "objects": [
+            "dining table",
+            "bed",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A paisley dining table, a herringbone bed and a floral chair."
+    },
+    "42": {
+        "objects": [
+            "dining table",
+            "bed",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A plaid dining table, a geometric bed and a floral chair."
+    },
+    "43": {
+        "objects": [
+            "dining table",
+            "bed",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A paisley dining table, a camouflage bed and a herringbone chair."
+    },
+    "44": {
+        "objects": [
+            "dining table",
+            "bed",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A polka-dotted dining table, a plaid bed and a striped chair."
+    },
+    "45": {
+        "objects": [
+            "dining table",
+            "bed",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A floral dining table, a floral bed and a plaid chair."
+    },
+    "46": {
+        "objects": [
+            "dining table",
+            "bed",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A striped dining table, a polka-dotted bed and a floral chair."
+    },
+    "47": {
+        "objects": [
+            "dining table",
+            "bed",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A plain dining table, a floral bed and a polka-dotted chair."
+    },
+    "48": {
+        "objects": [
+            "dining table",
+            "bed",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A geometric dining table, a floral bed and a geometric chair."
+    },
+    "49": {
+        "objects": [
+            "dining table",
+            "bed",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A paisley dining table, a herringbone bed and a checked chair."
+    },
+    "50": {
+        "objects": [
+            "shirt",
+            "trousers",
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A herringbone shirt, a pair of checked trousers and a herringbone dining table."
+    },
+    "51": {
+        "objects": [
+            "shirt",
+            "trousers",
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A checked shirt, a pair of striped trousers and a striped dining table."
+    },
+    "52": {
+        "objects": [
+            "shirt",
+            "trousers",
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A polka-dotted shirt, a pair of plain trousers and a checked dining table."
+    },
+    "53": {
+        "objects": [
+            "shirt",
+            "trousers",
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A geometric shirt, a pair of herringbone trousers and a floral dining table."
+    },
+    "54": {
+        "objects": [
+            "shirt",
+            "trousers",
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A checked shirt, a pair of geometric trousers and a geometric dining table."
+    },
+    "55": {
+        "objects": [
+            "shirt",
+            "trousers",
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A checked shirt, a pair of camouflage trousers and a paisley dining table."
+    },
+    "56": {
+        "objects": [
+            "shirt",
+            "trousers",
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A plain shirt, a pair of herringbone trousers and a plain dining table."
+    },
+    "57": {
+        "objects": [
+            "shirt",
+            "trousers",
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A paisley shirt, a pair of checked trousers and a plain dining table."
+    },
+    "58": {
+        "objects": [
+            "shirt",
+            "trousers",
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A floral shirt, a pair of polka-dotted trousers and a geometric dining table."
+    },
+    "59": {
+        "objects": [
+            "shirt",
+            "trousers",
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A striped shirt, a pair of geometric trousers and a camouflage dining table."
+    },
+    "60": {
+        "objects": [
+            "dress",
+            "trousers",
+            "bed"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A striped dress, a pair of plaid trousers and a striped bed."
+    },
+    "61": {
+        "objects": [
+            "dress",
+            "trousers",
+            "bed"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A paisley dress, a pair of plaid trousers and a floral bed."
+    },
+    "62": {
+        "objects": [
+            "dress",
+            "trousers",
+            "bed"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A polka-dotted dress, a pair of plain trousers and a striped bed."
+    },
+    "63": {
+        "objects": [
+            "dress",
+            "trousers",
+            "bed"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A polka-dotted dress, a pair of paisley trousers and a checked bed."
+    },
+    "64": {
+        "objects": [
+            "dress",
+            "trousers",
+            "bed"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A herringbone dress, a pair of polka-dotted trousers and a plain bed."
+    },
+    "65": {
+        "objects": [
+            "dress",
+            "trousers",
+            "bed"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A geometric dress, a pair of plain trousers and a geometric bed."
+    },
+    "66": {
+        "objects": [
+            "dress",
+            "trousers",
+            "bed"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A floral dress, a pair of checked trousers and a floral bed."
+    },
+    "67": {
+        "objects": [
+            "dress",
+            "trousers",
+            "bed"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A geometric dress, a pair of paisley trousers and a floral bed."
+    },
+    "68": {
+        "objects": [
+            "dress",
+            "trousers",
+            "bed"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A paisley dress, a pair of plain trousers and a checked bed."
+    },
+    "69": {
+        "objects": [
+            "dress",
+            "trousers",
+            "bed"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A geometric dress, a pair of geometric trousers and a striped bed."
+    },
+    "70": {
+        "objects": [
+            "bed",
+            "chair",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A checked bed, a checked chair and a herringbone carpet."
+    },
+    "71": {
+        "objects": [
+            "bed",
+            "chair",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A herringbone bed, a polka-dotted chair and a striped carpet."
+    },
+    "72": {
+        "objects": [
+            "bed",
+            "chair",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A camouflage bed, a geometric chair and a plain carpet."
+    },
+    "73": {
+        "objects": [
+            "bed",
+            "chair",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A paisley bed, a striped chair and a plaid carpet."
+    },
+    "74": {
+        "objects": [
+            "bed",
+            "chair",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A geometric bed, a plaid chair and a floral carpet."
+    },
+    "75": {
+        "objects": [
+            "bed",
+            "chair",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A striped bed, a herringbone chair and a camouflage carpet."
+    },
+    "76": {
+        "objects": [
+            "bed",
+            "chair",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A plain bed, a polka-dotted chair and a checked carpet."
+    },
+    "77": {
+        "objects": [
+            "bed",
+            "chair",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A herringbone bed, a camouflage chair and a herringbone carpet."
+    },
+    "78": {
+        "objects": [
+            "bed",
+            "chair",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A herringbone bed, a camouflage chair and a polka-dotted carpet."
+    },
+    "79": {
+        "objects": [
+            "bed",
+            "chair",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A polka-dotted bed, a plain chair and a herringbone carpet."
+    },
+    "80": {
+        "objects": [
+            "T-shirt",
+            "dining table",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A herringbone T-shirt, a paisley dining table and a paisley chair."
+    },
+    "81": {
+        "objects": [
+            "T-shirt",
+            "dining table",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A floral T-shirt, a paisley dining table and a camouflage chair."
+    },
+    "82": {
+        "objects": [
+            "T-shirt",
+            "dining table",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A polka-dotted T-shirt, a checked dining table and a checked chair."
+    },
+    "83": {
+        "objects": [
+            "T-shirt",
+            "dining table",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A camouflage T-shirt, a plain dining table and a checked chair."
+    },
+    "84": {
+        "objects": [
+            "T-shirt",
+            "dining table",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A checked T-shirt, a plaid dining table and a plaid chair."
+    },
+    "85": {
+        "objects": [
+            "T-shirt",
+            "dining table",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A geometric T-shirt, a polka-dotted dining table and a geometric chair."
+    },
+    "86": {
+        "objects": [
+            "T-shirt",
+            "dining table",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A paisley T-shirt, a plaid dining table and a plaid chair."
+    },
+    "87": {
+        "objects": [
+            "T-shirt",
+            "dining table",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A checked T-shirt, a plain dining table and a camouflage chair."
+    },
+    "88": {
+        "objects": [
+            "T-shirt",
+            "dining table",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A camouflage T-shirt, a geometric dining table and a herringbone chair."
+    },
+    "89": {
+        "objects": [
+            "T-shirt",
+            "dining table",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A checked T-shirt, a paisley dining table and a floral chair."
+    },
+    "90": {
+        "objects": [
+            "shirt",
+            "dress",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A striped shirt, a polka-dotted dress and a paisley curtain."
+    },
+    "91": {
+        "objects": [
+            "shirt",
+            "dress",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A floral shirt, a polka-dotted dress and a polka-dotted curtain."
+    },
+    "92": {
+        "objects": [
+            "shirt",
+            "dress",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A floral shirt, a striped dress and a checked curtain."
+    },
+    "93": {
+        "objects": [
+            "shirt",
+            "dress",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A geometric shirt, a checked dress and a floral curtain."
+    },
+    "94": {
+        "objects": [
+            "shirt",
+            "dress",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A polka-dotted shirt, a plain dress and a striped curtain."
+    },
+    "95": {
+        "objects": [
+            "shirt",
+            "dress",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A geometric shirt, a plain dress and a checked curtain."
+    },
+    "96": {
+        "objects": [
+            "shirt",
+            "dress",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A herringbone shirt, a camouflage dress and a plaid curtain."
+    },
+    "97": {
+        "objects": [
+            "shirt",
+            "dress",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A geometric shirt, a plain dress and a plain curtain."
+    },
+    "98": {
+        "objects": [
+            "shirt",
+            "dress",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A polka-dotted shirt, a plain dress and a geometric curtain."
+    },
+    "99": {
+        "objects": [
+            "shirt",
+            "dress",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 3
+        },
+        "prompt": "A plaid shirt, a striped dress and a herringbone curtain."
+    }
+}

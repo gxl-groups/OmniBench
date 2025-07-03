@@ -1,0 +1,7202 @@
+{
+    "0": {
+        "objects": [
+            "surfboard",
+            "fire hydrant",
+            "curtain",
+            "giraffe"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black surfboard, a red fire hydrant, a blue curtain and a green giraffe."
+    },
+    "1": {
+        "objects": [
+            "surfboard",
+            "fire hydrant",
+            "curtain",
+            "giraffe"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red surfboard, a blue fire hydrant, a purple curtain and a blue giraffe."
+    },
+    "2": {
+        "objects": [
+            "surfboard",
+            "fire hydrant",
+            "curtain",
+            "giraffe"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red surfboard, a purple fire hydrant, a purple curtain and a blue giraffe."
+    },
+    "3": {
+        "objects": [
+            "surfboard",
+            "fire hydrant",
+            "curtain",
+            "giraffe"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow surfboard, a black fire hydrant, a purple curtain and a red giraffe."
+    },
+    "4": {
+        "objects": [
+            "microwave",
+            "plate",
+            "fire hydrant",
+            "traffic light"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple microwave, a red plate, a black fire hydrant and a blue traffic light."
+    },
+    "5": {
+        "objects": [
+            "microwave",
+            "plate",
+            "fire hydrant",
+            "traffic light"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red microwave, a pink plate, a white fire hydrant and a pink traffic light."
+    },
+    "6": {
+        "objects": [
+            "microwave",
+            "plate",
+            "fire hydrant",
+            "traffic light"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue microwave, a blue plate, a purple fire hydrant and a black traffic light."
+    },
+    "7": {
+        "objects": [
+            "microwave",
+            "plate",
+            "fire hydrant",
+            "traffic light"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue microwave, a black plate, a red fire hydrant and a green traffic light."
+    },
+    "8": {
+        "objects": [
+            "umbrella",
+            "clock",
+            "potted plant",
+            "laptop"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow umbrella, a red clock, a purple potted plant and a yellow laptop."
+    },
+    "9": {
+        "objects": [
+            "umbrella",
+            "clock",
+            "potted plant",
+            "laptop"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple umbrella, a blue clock, a purple potted plant and a green laptop."
+    },
+    "10": {
+        "objects": [
+            "umbrella",
+            "clock",
+            "potted plant",
+            "laptop"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow umbrella, a yellow clock, a purple potted plant and a purple laptop."
+    },
+    "11": {
+        "objects": [
+            "umbrella",
+            "clock",
+            "potted plant",
+            "laptop"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red umbrella, a white clock, a red potted plant and a red laptop."
+    },
+    "12": {
+        "objects": [
+            "toaster",
+            "motorcycle",
+            "surfboard",
+            "baseball bat"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink toaster, a red motorcycle, a pink surfboard and a green baseball bat."
+    },
+    "13": {
+        "objects": [
+            "toaster",
+            "motorcycle",
+            "surfboard",
+            "baseball bat"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple toaster, a blue motorcycle, a pink surfboard and a white baseball bat."
+    },
+    "14": {
+        "objects": [
+            "toaster",
+            "motorcycle",
+            "surfboard",
+            "baseball bat"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white toaster, a red motorcycle, a purple surfboard and a pink baseball bat."
+    },
+    "15": {
+        "objects": [
+            "toaster",
+            "motorcycle",
+            "surfboard",
+            "baseball bat"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue toaster, a pink motorcycle, a red surfboard and a yellow baseball bat."
+    },
+    "16": {
+        "objects": [
+            "spoon",
+            "umbrella",
+            "T-shirt",
+            "shirt"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow spoon, a red umbrella, a red T-shirt and a black shirt."
+    },
+    "17": {
+        "objects": [
+            "spoon",
+            "umbrella",
+            "T-shirt",
+            "shirt"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue spoon, a yellow umbrella, a green T-shirt and a blue shirt."
+    },
+    "18": {
+        "objects": [
+            "spoon",
+            "umbrella",
+            "T-shirt",
+            "shirt"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white spoon, a red umbrella, a blue T-shirt and a yellow shirt."
+    },
+    "19": {
+        "objects": [
+            "spoon",
+            "umbrella",
+            "T-shirt",
+            "shirt"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple spoon, a green umbrella, a black T-shirt and a white shirt."
+    },
+    "20": {
+        "objects": [
+            "cow",
+            "bottle",
+            "teddy bear",
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow cow, a purple bottle, a blue teddy bear and a yellow potted plant."
+    },
+    "21": {
+        "objects": [
+            "cow",
+            "bottle",
+            "teddy bear",
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink cow, a red bottle, a blue teddy bear and a red potted plant."
+    },
+    "22": {
+        "objects": [
+            "cow",
+            "bottle",
+            "teddy bear",
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green cow, a black bottle, a red teddy bear and a purple potted plant."
+    },
+    "23": {
+        "objects": [
+            "cow",
+            "bottle",
+            "teddy bear",
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink cow, a yellow bottle, a red teddy bear and a black potted plant."
+    },
+    "24": {
+        "objects": [
+            "skis",
+            "carpet",
+            "sink",
+            "hot dog"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pair of red skis, a yellow carpet, a white sink and a blue hot dog."
+    },
+    "25": {
+        "objects": [
+            "skis",
+            "carpet",
+            "sink",
+            "hot dog"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pair of green skis, a red carpet, a red sink and a white hot dog."
+    },
+    "26": {
+        "objects": [
+            "skis",
+            "carpet",
+            "sink",
+            "hot dog"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pair of purple skis, a yellow carpet, a black sink and a green hot dog."
+    },
+    "27": {
+        "objects": [
+            "skis",
+            "carpet",
+            "sink",
+            "hot dog"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pair of white skis, a yellow carpet, a purple sink and a black hot dog."
+    },
+    "28": {
+        "objects": [
+            "airplane",
+            "cup",
+            "mouse",
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow airplane, a white cup, a yellow mouse and a black toilet."
+    },
+    "29": {
+        "objects": [
+            "airplane",
+            "cup",
+            "mouse",
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink airplane, a green cup, a yellow mouse and a yellow toilet."
+    },
+    "30": {
+        "objects": [
+            "airplane",
+            "cup",
+            "mouse",
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple airplane, a blue cup, a purple mouse and a purple toilet."
+    },
+    "31": {
+        "objects": [
+            "airplane",
+            "cup",
+            "mouse",
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green airplane, a green cup, a red mouse and a yellow toilet."
+    },
+    "32": {
+        "objects": [
+            "carrot",
+            "mouse",
+            "book",
+            "toaster"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue carrot, a blue mouse, a black book and a black toaster."
+    },
+    "33": {
+        "objects": [
+            "carrot",
+            "mouse",
+            "book",
+            "toaster"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green carrot, a pink mouse, a white book and a blue toaster."
+    },
+    "34": {
+        "objects": [
+            "carrot",
+            "mouse",
+            "book",
+            "toaster"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red carrot, a purple mouse, a white book and a black toaster."
+    },
+    "35": {
+        "objects": [
+            "carrot",
+            "mouse",
+            "book",
+            "toaster"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green carrot, a black mouse, a green book and a blue toaster."
+    },
+    "36": {
+        "objects": [
+            "parking meter",
+            "orange",
+            "bed",
+            "zebra"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red parking meter, a black orange, a black bed and a purple zebra."
+    },
+    "37": {
+        "objects": [
+            "parking meter",
+            "orange",
+            "bed",
+            "zebra"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black parking meter, a yellow orange, a pink bed and a red zebra."
+    },
+    "38": {
+        "objects": [
+            "parking meter",
+            "orange",
+            "bed",
+            "zebra"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink parking meter, a purple orange, a white bed and a white zebra."
+    },
+    "39": {
+        "objects": [
+            "parking meter",
+            "orange",
+            "bed",
+            "zebra"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow parking meter, a black orange, a red bed and a white zebra."
+    },
+    "40": {
+        "objects": [
+            "hot dog",
+            "teddy bear",
+            "handbag",
+            "laptop"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white hot dog, a black teddy bear, a blue handbag and a black laptop."
+    },
+    "41": {
+        "objects": [
+            "hot dog",
+            "teddy bear",
+            "handbag",
+            "laptop"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white hot dog, a yellow teddy bear, a white handbag and a yellow laptop."
+    },
+    "42": {
+        "objects": [
+            "hot dog",
+            "teddy bear",
+            "handbag",
+            "laptop"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black hot dog, a purple teddy bear, a red handbag and a pink laptop."
+    },
+    "43": {
+        "objects": [
+            "hot dog",
+            "teddy bear",
+            "handbag",
+            "laptop"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple hot dog, a white teddy bear, a green handbag and a yellow laptop."
+    },
+    "44": {
+        "objects": [
+            "umbrella",
+            "skis",
+            "shirt",
+            "toaster"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black umbrella, a pair of yellow skis, a green shirt and a purple toaster."
+    },
+    "45": {
+        "objects": [
+            "umbrella",
+            "skis",
+            "shirt",
+            "toaster"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red umbrella, a pair of yellow skis, a black shirt and a blue toaster."
+    },
+    "46": {
+        "objects": [
+            "umbrella",
+            "skis",
+            "shirt",
+            "toaster"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red umbrella, a pair of green skis, a red shirt and a green toaster."
+    },
+    "47": {
+        "objects": [
+            "umbrella",
+            "skis",
+            "shirt",
+            "toaster"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue umbrella, a pair of pink skis, a yellow shirt and a black toaster."
+    },
+    "48": {
+        "objects": [
+            "cake",
+            "knife",
+            "hair drier",
+            "dress"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red cake, a black knife, a green hair drier and a blue dress."
+    },
+    "49": {
+        "objects": [
+            "cake",
+            "knife",
+            "hair drier",
+            "dress"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red cake, a blue knife, a green hair drier and a pink dress."
+    },
+    "50": {
+        "objects": [
+            "cake",
+            "knife",
+            "hair drier",
+            "dress"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue cake, a pink knife, a pink hair drier and a purple dress."
+    },
+    "51": {
+        "objects": [
+            "cake",
+            "knife",
+            "hair drier",
+            "dress"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink cake, a blue knife, a blue hair drier and a yellow dress."
+    },
+    "52": {
+        "objects": [
+            "tennis racket",
+            "cow",
+            "orange",
+            "bus"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue tennis racket, a yellow cow, a pink orange and a red bus."
+    },
+    "53": {
+        "objects": [
+            "tennis racket",
+            "cow",
+            "orange",
+            "bus"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow tennis racket, a purple cow, a purple orange and a yellow bus."
+    },
+    "54": {
+        "objects": [
+            "tennis racket",
+            "cow",
+            "orange",
+            "bus"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple tennis racket, a pink cow, a green orange and a black bus."
+    },
+    "55": {
+        "objects": [
+            "tennis racket",
+            "cow",
+            "orange",
+            "bus"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green tennis racket, a black cow, a yellow orange and a red bus."
+    },
+    "56": {
+        "objects": [
+            "hot dog",
+            "boat",
+            "bus",
+            "remote"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red hot dog, a white boat, a blue bus and a pink remote."
+    },
+    "57": {
+        "objects": [
+            "hot dog",
+            "boat",
+            "bus",
+            "remote"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white hot dog, a yellow boat, a green bus and a pink remote."
+    },
+    "58": {
+        "objects": [
+            "hot dog",
+            "boat",
+            "bus",
+            "remote"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple hot dog, a black boat, a pink bus and a pink remote."
+    },
+    "59": {
+        "objects": [
+            "hot dog",
+            "boat",
+            "bus",
+            "remote"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black hot dog, a blue boat, a red bus and a yellow remote."
+    },
+    "60": {
+        "objects": [
+            "snowboard",
+            "pizza",
+            "cow",
+            "bench"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink snowboard, a black pizza, a blue cow and a pink bench."
+    },
+    "61": {
+        "objects": [
+            "snowboard",
+            "pizza",
+            "cow",
+            "bench"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green snowboard, a white pizza, a green cow and a blue bench."
+    },
+    "62": {
+        "objects": [
+            "snowboard",
+            "pizza",
+            "cow",
+            "bench"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink snowboard, a white pizza, a purple cow and a red bench."
+    },
+    "63": {
+        "objects": [
+            "snowboard",
+            "pizza",
+            "cow",
+            "bench"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow snowboard, a blue pizza, a red cow and a black bench."
+    },
+    "64": {
+        "objects": [
+            "traffic light",
+            "bus",
+            "dog",
+            "parking meter"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green traffic light, a green bus, a black dog and a red parking meter."
+    },
+    "65": {
+        "objects": [
+            "traffic light",
+            "bus",
+            "dog",
+            "parking meter"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow traffic light, a black bus, a pink dog and a yellow parking meter."
+    },
+    "66": {
+        "objects": [
+            "traffic light",
+            "bus",
+            "dog",
+            "parking meter"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white traffic light, a pink bus, a white dog and a black parking meter."
+    },
+    "67": {
+        "objects": [
+            "traffic light",
+            "bus",
+            "dog",
+            "parking meter"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black traffic light, a black bus, a green dog and a blue parking meter."
+    },
+    "68": {
+        "objects": [
+            "train",
+            "toaster",
+            "oven",
+            "tennis racket"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink train, a red toaster, a red oven and a green tennis racket."
+    },
+    "69": {
+        "objects": [
+            "train",
+            "toaster",
+            "oven",
+            "tennis racket"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow train, a red toaster, a pink oven and a white tennis racket."
+    },
+    "70": {
+        "objects": [
+            "train",
+            "toaster",
+            "oven",
+            "tennis racket"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green train, a green toaster, a red oven and a purple tennis racket."
+    },
+    "71": {
+        "objects": [
+            "train",
+            "toaster",
+            "oven",
+            "tennis racket"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red train, a purple toaster, a green oven and a green tennis racket."
+    },
+    "72": {
+        "objects": [
+            "donut",
+            "toothbrush",
+            "carpet",
+            "parking meter"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red donut, a pink toothbrush, a green carpet and a white parking meter."
+    },
+    "73": {
+        "objects": [
+            "donut",
+            "toothbrush",
+            "carpet",
+            "parking meter"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue donut, a green toothbrush, a black carpet and a white parking meter."
+    },
+    "74": {
+        "objects": [
+            "donut",
+            "toothbrush",
+            "carpet",
+            "parking meter"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black donut, a black toothbrush, a white carpet and a blue parking meter."
+    },
+    "75": {
+        "objects": [
+            "donut",
+            "toothbrush",
+            "carpet",
+            "parking meter"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow donut, a white toothbrush, a purple carpet and a red parking meter."
+    },
+    "76": {
+        "objects": [
+            "toilet",
+            "backpack",
+            "boat",
+            "bench"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow toilet, a black backpack, a black boat and a purple bench."
+    },
+    "77": {
+        "objects": [
+            "toilet",
+            "backpack",
+            "boat",
+            "bench"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow toilet, a purple backpack, a purple boat and a black bench."
+    },
+    "78": {
+        "objects": [
+            "toilet",
+            "backpack",
+            "boat",
+            "bench"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue toilet, a black backpack, a purple boat and a black bench."
+    },
+    "79": {
+        "objects": [
+            "toilet",
+            "backpack",
+            "boat",
+            "bench"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue toilet, a red backpack, a yellow boat and a yellow bench."
+    },
+    "80": {
+        "objects": [
+            "donut",
+            "T-shirt",
+            "refrigerator",
+            "fork"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red donut, a pink T-shirt, a pink refrigerator and a blue fork."
+    },
+    "81": {
+        "objects": [
+            "donut",
+            "T-shirt",
+            "refrigerator",
+            "fork"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow donut, a pink T-shirt, a yellow refrigerator and a purple fork."
+    },
+    "82": {
+        "objects": [
+            "donut",
+            "T-shirt",
+            "refrigerator",
+            "fork"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green donut, a pink T-shirt, a blue refrigerator and a red fork."
+    },
+    "83": {
+        "objects": [
+            "donut",
+            "T-shirt",
+            "refrigerator",
+            "fork"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue donut, a yellow T-shirt, a green refrigerator and a red fork."
+    },
+    "84": {
+        "objects": [
+            "orange",
+            "clock",
+            "bed",
+            "skateboard"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow orange, a green clock, a pink bed and a yellow skateboard."
+    },
+    "85": {
+        "objects": [
+            "orange",
+            "clock",
+            "bed",
+            "skateboard"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black orange, a purple clock, a white bed and a green skateboard."
+    },
+    "86": {
+        "objects": [
+            "orange",
+            "clock",
+            "bed",
+            "skateboard"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue orange, a white clock, a red bed and a red skateboard."
+    },
+    "87": {
+        "objects": [
+            "orange",
+            "clock",
+            "bed",
+            "skateboard"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red orange, a red clock, a pink bed and a pink skateboard."
+    },
+    "88": {
+        "objects": [
+            "truck",
+            "dining table",
+            "suitcase",
+            "fork"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red truck, a purple dining table, a red suitcase and a white fork."
+    },
+    "89": {
+        "objects": [
+            "truck",
+            "dining table",
+            "suitcase",
+            "fork"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black truck, a blue dining table, a red suitcase and a black fork."
+    },
+    "90": {
+        "objects": [
+            "truck",
+            "dining table",
+            "suitcase",
+            "fork"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red truck, a yellow dining table, a green suitcase and a black fork."
+    },
+    "91": {
+        "objects": [
+            "truck",
+            "dining table",
+            "suitcase",
+            "fork"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red truck, a white dining table, a black suitcase and a yellow fork."
+    },
+    "92": {
+        "objects": [
+            "bird",
+            "parking meter",
+            "baseball bat",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black bird, a blue parking meter, a pink baseball bat and a yellow curtain."
+    },
+    "93": {
+        "objects": [
+            "bird",
+            "parking meter",
+            "baseball bat",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white bird, a yellow parking meter, a yellow baseball bat and a red curtain."
+    },
+    "94": {
+        "objects": [
+            "bird",
+            "parking meter",
+            "baseball bat",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green bird, a yellow parking meter, a purple baseball bat and a purple curtain."
+    },
+    "95": {
+        "objects": [
+            "bird",
+            "parking meter",
+            "baseball bat",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red bird, a white parking meter, a yellow baseball bat and a yellow curtain."
+    },
+    "96": {
+        "objects": [
+            "keyboard",
+            "frisbee",
+            "banana",
+            "scissors"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green keyboard, a purple frisbee, a white banana and a pair of green scissors."
+    },
+    "97": {
+        "objects": [
+            "keyboard",
+            "frisbee",
+            "banana",
+            "scissors"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green keyboard, a pink frisbee, a green banana and a pair of purple scissors."
+    },
+    "98": {
+        "objects": [
+            "keyboard",
+            "frisbee",
+            "banana",
+            "scissors"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white keyboard, a green frisbee, a green banana and a pair of blue scissors."
+    },
+    "99": {
+        "objects": [
+            "keyboard",
+            "frisbee",
+            "banana",
+            "scissors"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink keyboard, a black frisbee, a white banana and a pair of pink scissors."
+    },
+    "100": {
+        "objects": [
+            "chair",
+            "microwave",
+            "teddy bear",
+            "broccoli"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow chair, a black microwave, a white teddy bear and a green broccoli."
+    },
+    "101": {
+        "objects": [
+            "chair",
+            "microwave",
+            "teddy bear",
+            "broccoli"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue chair, a blue microwave, a pink teddy bear and a green broccoli."
+    },
+    "102": {
+        "objects": [
+            "chair",
+            "microwave",
+            "teddy bear",
+            "broccoli"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow chair, a red microwave, a pink teddy bear and a yellow broccoli."
+    },
+    "103": {
+        "objects": [
+            "chair",
+            "microwave",
+            "teddy bear",
+            "broccoli"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink chair, a black microwave, a green teddy bear and a red broccoli."
+    },
+    "104": {
+        "objects": [
+            "sandwich",
+            "T-shirt",
+            "spoon",
+            "tennis racket"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green sandwich, a blue T-shirt, a green spoon and a blue tennis racket."
+    },
+    "105": {
+        "objects": [
+            "sandwich",
+            "T-shirt",
+            "spoon",
+            "tennis racket"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green sandwich, a yellow T-shirt, a purple spoon and a purple tennis racket."
+    },
+    "106": {
+        "objects": [
+            "sandwich",
+            "T-shirt",
+            "spoon",
+            "tennis racket"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green sandwich, a blue T-shirt, a red spoon and a purple tennis racket."
+    },
+    "107": {
+        "objects": [
+            "sandwich",
+            "T-shirt",
+            "spoon",
+            "tennis racket"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple sandwich, a white T-shirt, a yellow spoon and a yellow tennis racket."
+    },
+    "108": {
+        "objects": [
+            "orange",
+            "dining table",
+            "toaster",
+            "umbrella"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white orange, a green dining table, a green toaster and a pink umbrella."
+    },
+    "109": {
+        "objects": [
+            "orange",
+            "dining table",
+            "toaster",
+            "umbrella"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green orange, a black dining table, a white toaster and a green umbrella."
+    },
+    "110": {
+        "objects": [
+            "orange",
+            "dining table",
+            "toaster",
+            "umbrella"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink orange, a pink dining table, a white toaster and a white umbrella."
+    },
+    "111": {
+        "objects": [
+            "orange",
+            "dining table",
+            "toaster",
+            "umbrella"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white orange, a white dining table, a purple toaster and a yellow umbrella."
+    },
+    "112": {
+        "objects": [
+            "dining table",
+            "sink",
+            "clock",
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red dining table, a pink sink, a pink clock and a pink bicycle."
+    },
+    "113": {
+        "objects": [
+            "dining table",
+            "sink",
+            "clock",
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black dining table, a yellow sink, a white clock and a white bicycle."
+    },
+    "114": {
+        "objects": [
+            "dining table",
+            "sink",
+            "clock",
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black dining table, a red sink, a black clock and a red bicycle."
+    },
+    "115": {
+        "objects": [
+            "dining table",
+            "sink",
+            "clock",
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red dining table, a pink sink, a white clock and a yellow bicycle."
+    },
+    "116": {
+        "objects": [
+            "sheep",
+            "scissors",
+            "potted plant",
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue sheep, a pair of green scissors, a white potted plant and a pair of purple trousers."
+    },
+    "117": {
+        "objects": [
+            "sheep",
+            "scissors",
+            "potted plant",
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple sheep, a pair of yellow scissors, a green potted plant and a pair of yellow trousers."
+    },
+    "118": {
+        "objects": [
+            "sheep",
+            "scissors",
+            "potted plant",
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red sheep, a pair of black scissors, a purple potted plant and a pair of pink trousers."
+    },
+    "119": {
+        "objects": [
+            "sheep",
+            "scissors",
+            "potted plant",
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red sheep, a pair of black scissors, a yellow potted plant and a pair of black trousers."
+    },
+    "120": {
+        "objects": [
+            "truck",
+            "tv",
+            "hair drier",
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white truck, a green tv, a pink hair drier and a pair of red trousers."
+    },
+    "121": {
+        "objects": [
+            "truck",
+            "tv",
+            "hair drier",
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow truck, a red tv, a blue hair drier and a pair of pink trousers."
+    },
+    "122": {
+        "objects": [
+            "truck",
+            "tv",
+            "hair drier",
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow truck, a yellow tv, a black hair drier and a pair of green trousers."
+    },
+    "123": {
+        "objects": [
+            "truck",
+            "tv",
+            "hair drier",
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple truck, a black tv, a red hair drier and a pair of green trousers."
+    },
+    "124": {
+        "objects": [
+            "book",
+            "baseball bat",
+            "surfboard",
+            "hair drier"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow book, a white baseball bat, a red surfboard and a green hair drier."
+    },
+    "125": {
+        "objects": [
+            "book",
+            "baseball bat",
+            "surfboard",
+            "hair drier"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue book, a black baseball bat, a red surfboard and a red hair drier."
+    },
+    "126": {
+        "objects": [
+            "book",
+            "baseball bat",
+            "surfboard",
+            "hair drier"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black book, a purple baseball bat, a red surfboard and a green hair drier."
+    },
+    "127": {
+        "objects": [
+            "book",
+            "baseball bat",
+            "surfboard",
+            "hair drier"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black book, a pink baseball bat, a red surfboard and a black hair drier."
+    },
+    "128": {
+        "objects": [
+            "curtain",
+            "broccoli",
+            "skis",
+            "carrot"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green curtain, a blue broccoli, a pair of purple skis and a black carrot."
+    },
+    "129": {
+        "objects": [
+            "curtain",
+            "broccoli",
+            "skis",
+            "carrot"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple curtain, a black broccoli, a pair of green skis and a pink carrot."
+    },
+    "130": {
+        "objects": [
+            "curtain",
+            "broccoli",
+            "skis",
+            "carrot"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green curtain, a purple broccoli, a pair of red skis and a pink carrot."
+    },
+    "131": {
+        "objects": [
+            "curtain",
+            "broccoli",
+            "skis",
+            "carrot"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple curtain, a pink broccoli, a pair of white skis and a yellow carrot."
+    },
+    "132": {
+        "objects": [
+            "coat",
+            "bear",
+            "eye glasses",
+            "plate"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple coat, a yellow bear, a pair of blue eye glasses and a purple plate."
+    },
+    "133": {
+        "objects": [
+            "coat",
+            "bear",
+            "eye glasses",
+            "plate"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow coat, a green bear, a pair of purple eye glasses and a black plate."
+    },
+    "134": {
+        "objects": [
+            "coat",
+            "bear",
+            "eye glasses",
+            "plate"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black coat, a yellow bear, a pair of yellow eye glasses and a black plate."
+    },
+    "135": {
+        "objects": [
+            "coat",
+            "bear",
+            "eye glasses",
+            "plate"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow coat, a yellow bear, a pair of white eye glasses and a black plate."
+    },
+    "136": {
+        "objects": [
+            "frisbee",
+            "toaster",
+            "book",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple frisbee, a white toaster, a white book and a black carpet."
+    },
+    "137": {
+        "objects": [
+            "frisbee",
+            "toaster",
+            "book",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green frisbee, a purple toaster, a pink book and a white carpet."
+    },
+    "138": {
+        "objects": [
+            "frisbee",
+            "toaster",
+            "book",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white frisbee, a yellow toaster, a yellow book and a green carpet."
+    },
+    "139": {
+        "objects": [
+            "frisbee",
+            "toaster",
+            "book",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white frisbee, a black toaster, a purple book and a blue carpet."
+    },
+    "140": {
+        "objects": [
+            "car",
+            "book",
+            "bus",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue car, a white book, a black bus and a pink chair."
+    },
+    "141": {
+        "objects": [
+            "car",
+            "book",
+            "bus",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white car, a pink book, a blue bus and a purple chair."
+    },
+    "142": {
+        "objects": [
+            "car",
+            "book",
+            "bus",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red car, a purple book, a pink bus and a red chair."
+    },
+    "143": {
+        "objects": [
+            "car",
+            "book",
+            "bus",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink car, a yellow book, a blue bus and a pink chair."
+    },
+    "144": {
+        "objects": [
+            "plate",
+            "couch",
+            "baseball bat",
+            "cell phone"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white plate, a white couch, a yellow baseball bat and a black cell phone."
+    },
+    "145": {
+        "objects": [
+            "plate",
+            "couch",
+            "baseball bat",
+            "cell phone"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red plate, a purple couch, a black baseball bat and a red cell phone."
+    },
+    "146": {
+        "objects": [
+            "plate",
+            "couch",
+            "baseball bat",
+            "cell phone"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white plate, a green couch, a purple baseball bat and a yellow cell phone."
+    },
+    "147": {
+        "objects": [
+            "plate",
+            "couch",
+            "baseball bat",
+            "cell phone"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black plate, a green couch, a blue baseball bat and a black cell phone."
+    },
+    "148": {
+        "objects": [
+            "airplane",
+            "couch",
+            "book",
+            "cell phone"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue airplane, a blue couch, a red book and a blue cell phone."
+    },
+    "149": {
+        "objects": [
+            "airplane",
+            "couch",
+            "book",
+            "cell phone"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink airplane, a green couch, a black book and a black cell phone."
+    },
+    "150": {
+        "objects": [
+            "airplane",
+            "couch",
+            "book",
+            "cell phone"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red airplane, a black couch, a purple book and a yellow cell phone."
+    },
+    "151": {
+        "objects": [
+            "airplane",
+            "couch",
+            "book",
+            "cell phone"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black airplane, a pink couch, a yellow book and a yellow cell phone."
+    },
+    "152": {
+        "objects": [
+            "knife",
+            "laptop",
+            "cup",
+            "T-shirt"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white knife, a pink laptop, a purple cup and a yellow T-shirt."
+    },
+    "153": {
+        "objects": [
+            "knife",
+            "laptop",
+            "cup",
+            "T-shirt"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white knife, a black laptop, a white cup and a yellow T-shirt."
+    },
+    "154": {
+        "objects": [
+            "knife",
+            "laptop",
+            "cup",
+            "T-shirt"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green knife, a red laptop, a black cup and a green T-shirt."
+    },
+    "155": {
+        "objects": [
+            "knife",
+            "laptop",
+            "cup",
+            "T-shirt"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink knife, a pink laptop, a purple cup and a black T-shirt."
+    },
+    "156": {
+        "objects": [
+            "coat",
+            "remote",
+            "umbrella",
+            "dress"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple coat, a yellow remote, a white umbrella and a green dress."
+    },
+    "157": {
+        "objects": [
+            "coat",
+            "remote",
+            "umbrella",
+            "dress"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black coat, a blue remote, a red umbrella and a black dress."
+    },
+    "158": {
+        "objects": [
+            "coat",
+            "remote",
+            "umbrella",
+            "dress"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue coat, a white remote, a pink umbrella and a pink dress."
+    },
+    "159": {
+        "objects": [
+            "coat",
+            "remote",
+            "umbrella",
+            "dress"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green coat, a green remote, a blue umbrella and a blue dress."
+    },
+    "160": {
+        "objects": [
+            "fire hydrant",
+            "clock",
+            "laptop",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red fire hydrant, a yellow clock, a black laptop and a green carpet."
+    },
+    "161": {
+        "objects": [
+            "fire hydrant",
+            "clock",
+            "laptop",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red fire hydrant, a green clock, a pink laptop and a blue carpet."
+    },
+    "162": {
+        "objects": [
+            "fire hydrant",
+            "clock",
+            "laptop",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red fire hydrant, a red clock, a red laptop and a blue carpet."
+    },
+    "163": {
+        "objects": [
+            "fire hydrant",
+            "clock",
+            "laptop",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple fire hydrant, a white clock, a pink laptop and a pink carpet."
+    },
+    "164": {
+        "objects": [
+            "motorcycle",
+            "zebra",
+            "skateboard",
+            "laptop"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green motorcycle, a red zebra, a purple skateboard and a blue laptop."
+    },
+    "165": {
+        "objects": [
+            "motorcycle",
+            "zebra",
+            "skateboard",
+            "laptop"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red motorcycle, a purple zebra, a yellow skateboard and a pink laptop."
+    },
+    "166": {
+        "objects": [
+            "motorcycle",
+            "zebra",
+            "skateboard",
+            "laptop"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green motorcycle, a purple zebra, a yellow skateboard and a white laptop."
+    },
+    "167": {
+        "objects": [
+            "motorcycle",
+            "zebra",
+            "skateboard",
+            "laptop"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink motorcycle, a blue zebra, a purple skateboard and a red laptop."
+    },
+    "168": {
+        "objects": [
+            "mouse",
+            "handbag",
+            "broccoli",
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black mouse, a green handbag, a white broccoli and a yellow bicycle."
+    },
+    "169": {
+        "objects": [
+            "mouse",
+            "handbag",
+            "broccoli",
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue mouse, a blue handbag, a green broccoli and a green bicycle."
+    },
+    "170": {
+        "objects": [
+            "mouse",
+            "handbag",
+            "broccoli",
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red mouse, a yellow handbag, a green broccoli and a blue bicycle."
+    },
+    "171": {
+        "objects": [
+            "mouse",
+            "handbag",
+            "broccoli",
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink mouse, a blue handbag, a purple broccoli and a green bicycle."
+    },
+    "172": {
+        "objects": [
+            "bed",
+            "tv",
+            "clock",
+            "pizza"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green bed, a yellow tv, a red clock and a white pizza."
+    },
+    "173": {
+        "objects": [
+            "bed",
+            "tv",
+            "clock",
+            "pizza"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green bed, a yellow tv, a red clock and a green pizza."
+    },
+    "174": {
+        "objects": [
+            "bed",
+            "tv",
+            "clock",
+            "pizza"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black bed, a red tv, a pink clock and a purple pizza."
+    },
+    "175": {
+        "objects": [
+            "bed",
+            "tv",
+            "clock",
+            "pizza"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green bed, a black tv, a pink clock and a red pizza."
+    },
+    "176": {
+        "objects": [
+            "hot dog",
+            "coat",
+            "scissors",
+            "eye glasses"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black hot dog, a pink coat, a pair of green scissors and a pair of white eye glasses."
+    },
+    "177": {
+        "objects": [
+            "hot dog",
+            "coat",
+            "scissors",
+            "eye glasses"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple hot dog, a yellow coat, a pair of white scissors and a pair of black eye glasses."
+    },
+    "178": {
+        "objects": [
+            "hot dog",
+            "coat",
+            "scissors",
+            "eye glasses"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink hot dog, a red coat, a pair of black scissors and a pair of black eye glasses."
+    },
+    "179": {
+        "objects": [
+            "hot dog",
+            "coat",
+            "scissors",
+            "eye glasses"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue hot dog, a blue coat, a pair of blue scissors and a pair of yellow eye glasses."
+    },
+    "180": {
+        "objects": [
+            "bear",
+            "zebra",
+            "carpet",
+            "surfboard"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink bear, a pink zebra, a blue carpet and a pink surfboard."
+    },
+    "181": {
+        "objects": [
+            "bear",
+            "zebra",
+            "carpet",
+            "surfboard"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue bear, a green zebra, a white carpet and a purple surfboard."
+    },
+    "182": {
+        "objects": [
+            "bear",
+            "zebra",
+            "carpet",
+            "surfboard"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white bear, a yellow zebra, a blue carpet and a blue surfboard."
+    },
+    "183": {
+        "objects": [
+            "bear",
+            "zebra",
+            "carpet",
+            "surfboard"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow bear, a pink zebra, a purple carpet and a black surfboard."
+    },
+    "184": {
+        "objects": [
+            "bus",
+            "carrot",
+            "truck",
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red bus, a purple carrot, a white truck and a yellow bicycle."
+    },
+    "185": {
+        "objects": [
+            "bus",
+            "carrot",
+            "truck",
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow bus, a pink carrot, a blue truck and a black bicycle."
+    },
+    "186": {
+        "objects": [
+            "bus",
+            "carrot",
+            "truck",
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green bus, a blue carrot, a yellow truck and a red bicycle."
+    },
+    "187": {
+        "objects": [
+            "bus",
+            "carrot",
+            "truck",
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black bus, a pink carrot, a red truck and a green bicycle."
+    },
+    "188": {
+        "objects": [
+            "tv",
+            "oven",
+            "eye glasses",
+            "apple"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green tv, a black oven, a pair of green eye glasses and a pink apple."
+    },
+    "189": {
+        "objects": [
+            "tv",
+            "oven",
+            "eye glasses",
+            "apple"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red tv, a red oven, a pair of white eye glasses and a yellow apple."
+    },
+    "190": {
+        "objects": [
+            "tv",
+            "oven",
+            "eye glasses",
+            "apple"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple tv, a yellow oven, a pair of red eye glasses and a purple apple."
+    },
+    "191": {
+        "objects": [
+            "tv",
+            "oven",
+            "eye glasses",
+            "apple"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white tv, a green oven, a pair of green eye glasses and a blue apple."
+    },
+    "192": {
+        "objects": [
+            "trousers",
+            "pizza",
+            "car",
+            "toothbrush"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pair of yellow trousers, a red pizza, a white car and a blue toothbrush."
+    },
+    "193": {
+        "objects": [
+            "trousers",
+            "pizza",
+            "car",
+            "toothbrush"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pair of black trousers, a purple pizza, a pink car and a black toothbrush."
+    },
+    "194": {
+        "objects": [
+            "trousers",
+            "pizza",
+            "car",
+            "toothbrush"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pair of green trousers, a pink pizza, a purple car and a pink toothbrush."
+    },
+    "195": {
+        "objects": [
+            "trousers",
+            "pizza",
+            "car",
+            "toothbrush"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pair of yellow trousers, a white pizza, a pink car and a pink toothbrush."
+    },
+    "196": {
+        "objects": [
+            "toaster",
+            "vase",
+            "surfboard",
+            "skateboard"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow toaster, a yellow vase, a black surfboard and a pink skateboard."
+    },
+    "197": {
+        "objects": [
+            "toaster",
+            "vase",
+            "surfboard",
+            "skateboard"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow toaster, a black vase, a purple surfboard and a black skateboard."
+    },
+    "198": {
+        "objects": [
+            "toaster",
+            "vase",
+            "surfboard",
+            "skateboard"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow toaster, a yellow vase, a yellow surfboard and a red skateboard."
+    },
+    "199": {
+        "objects": [
+            "toaster",
+            "vase",
+            "surfboard",
+            "skateboard"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink toaster, a white vase, a purple surfboard and a red skateboard."
+    },
+    "200": {
+        "objects": [
+            "baseball glove",
+            "umbrella",
+            "orange",
+            "oven"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple baseball glove, a black umbrella, a green orange and a yellow oven."
+    },
+    "201": {
+        "objects": [
+            "baseball glove",
+            "umbrella",
+            "orange",
+            "oven"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black baseball glove, a pink umbrella, a blue orange and a black oven."
+    },
+    "202": {
+        "objects": [
+            "baseball glove",
+            "umbrella",
+            "orange",
+            "oven"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow baseball glove, a black umbrella, a black orange and a red oven."
+    },
+    "203": {
+        "objects": [
+            "baseball glove",
+            "umbrella",
+            "orange",
+            "oven"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple baseball glove, a yellow umbrella, a blue orange and a pink oven."
+    },
+    "204": {
+        "objects": [
+            "remote",
+            "donut",
+            "sink",
+            "parking meter"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black remote, a green donut, a black sink and a pink parking meter."
+    },
+    "205": {
+        "objects": [
+            "remote",
+            "donut",
+            "sink",
+            "parking meter"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink remote, a red donut, a green sink and a purple parking meter."
+    },
+    "206": {
+        "objects": [
+            "remote",
+            "donut",
+            "sink",
+            "parking meter"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow remote, a green donut, a red sink and a black parking meter."
+    },
+    "207": {
+        "objects": [
+            "remote",
+            "donut",
+            "sink",
+            "parking meter"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple remote, a purple donut, a yellow sink and a blue parking meter."
+    },
+    "208": {
+        "objects": [
+            "keyboard",
+            "eye glasses",
+            "toilet",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green keyboard, a pair of yellow eye glasses, a yellow toilet and a purple frisbee."
+    },
+    "209": {
+        "objects": [
+            "keyboard",
+            "eye glasses",
+            "toilet",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green keyboard, a pair of green eye glasses, a white toilet and a purple frisbee."
+    },
+    "210": {
+        "objects": [
+            "keyboard",
+            "eye glasses",
+            "toilet",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green keyboard, a pair of pink eye glasses, a green toilet and a red frisbee."
+    },
+    "211": {
+        "objects": [
+            "keyboard",
+            "eye glasses",
+            "toilet",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink keyboard, a pair of black eye glasses, a purple toilet and a blue frisbee."
+    },
+    "212": {
+        "objects": [
+            "curtain",
+            "cell phone",
+            "eye glasses",
+            "fork"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green curtain, a purple cell phone, a pair of yellow eye glasses and a yellow fork."
+    },
+    "213": {
+        "objects": [
+            "curtain",
+            "cell phone",
+            "eye glasses",
+            "fork"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green curtain, a yellow cell phone, a pair of yellow eye glasses and a white fork."
+    },
+    "214": {
+        "objects": [
+            "curtain",
+            "cell phone",
+            "eye glasses",
+            "fork"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow curtain, a purple cell phone, a pair of green eye glasses and a purple fork."
+    },
+    "215": {
+        "objects": [
+            "curtain",
+            "cell phone",
+            "eye glasses",
+            "fork"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink curtain, a green cell phone, a pair of red eye glasses and a green fork."
+    },
+    "216": {
+        "objects": [
+            "bird",
+            "bench",
+            "street sign",
+            "car"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white bird, a yellow bench, a pink street sign and a purple car."
+    },
+    "217": {
+        "objects": [
+            "bird",
+            "bench",
+            "street sign",
+            "car"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue bird, a purple bench, a black street sign and a yellow car."
+    },
+    "218": {
+        "objects": [
+            "bird",
+            "bench",
+            "street sign",
+            "car"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow bird, a white bench, a red street sign and a red car."
+    },
+    "219": {
+        "objects": [
+            "bird",
+            "bench",
+            "street sign",
+            "car"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple bird, a green bench, a white street sign and a purple car."
+    },
+    "220": {
+        "objects": [
+            "dining table",
+            "airplane",
+            "sink",
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple dining table, a green airplane, a white sink and a pair of yellow trousers."
+    },
+    "221": {
+        "objects": [
+            "dining table",
+            "airplane",
+            "sink",
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow dining table, a purple airplane, a white sink and a pair of yellow trousers."
+    },
+    "222": {
+        "objects": [
+            "dining table",
+            "airplane",
+            "sink",
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink dining table, a green airplane, a red sink and a pair of purple trousers."
+    },
+    "223": {
+        "objects": [
+            "dining table",
+            "airplane",
+            "sink",
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple dining table, a purple airplane, a yellow sink and a pair of pink trousers."
+    },
+    "224": {
+        "objects": [
+            "apple",
+            "street sign",
+            "car",
+            "teddy bear"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black apple, a green street sign, a red car and a purple teddy bear."
+    },
+    "225": {
+        "objects": [
+            "apple",
+            "street sign",
+            "car",
+            "teddy bear"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple apple, a green street sign, a pink car and a pink teddy bear."
+    },
+    "226": {
+        "objects": [
+            "apple",
+            "street sign",
+            "car",
+            "teddy bear"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red apple, a blue street sign, a purple car and a white teddy bear."
+    },
+    "227": {
+        "objects": [
+            "apple",
+            "street sign",
+            "car",
+            "teddy bear"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red apple, a black street sign, a red car and a red teddy bear."
+    },
+    "228": {
+        "objects": [
+            "handbag",
+            "surfboard",
+            "eye glasses",
+            "tennis racket"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow handbag, a white surfboard, a pair of black eye glasses and a red tennis racket."
+    },
+    "229": {
+        "objects": [
+            "handbag",
+            "surfboard",
+            "eye glasses",
+            "tennis racket"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red handbag, a pink surfboard, a pair of white eye glasses and a blue tennis racket."
+    },
+    "230": {
+        "objects": [
+            "handbag",
+            "surfboard",
+            "eye glasses",
+            "tennis racket"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple handbag, a pink surfboard, a pair of white eye glasses and a red tennis racket."
+    },
+    "231": {
+        "objects": [
+            "handbag",
+            "surfboard",
+            "eye glasses",
+            "tennis racket"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black handbag, a blue surfboard, a pair of yellow eye glasses and a black tennis racket."
+    },
+    "232": {
+        "objects": [
+            "mouse",
+            "elephant",
+            "cat",
+            "dress"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue mouse, a blue elephant, a yellow cat and a green dress."
+    },
+    "233": {
+        "objects": [
+            "mouse",
+            "elephant",
+            "cat",
+            "dress"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black mouse, a purple elephant, a white cat and a pink dress."
+    },
+    "234": {
+        "objects": [
+            "mouse",
+            "elephant",
+            "cat",
+            "dress"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue mouse, a green elephant, a blue cat and a blue dress."
+    },
+    "235": {
+        "objects": [
+            "mouse",
+            "elephant",
+            "cat",
+            "dress"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue mouse, a blue elephant, a blue cat and a red dress."
+    },
+    "236": {
+        "objects": [
+            "sink",
+            "bench",
+            "toilet",
+            "car"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink sink, a black bench, a black toilet and a yellow car."
+    },
+    "237": {
+        "objects": [
+            "sink",
+            "bench",
+            "toilet",
+            "car"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white sink, a white bench, a blue toilet and a green car."
+    },
+    "238": {
+        "objects": [
+            "sink",
+            "bench",
+            "toilet",
+            "car"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink sink, a purple bench, a yellow toilet and a pink car."
+    },
+    "239": {
+        "objects": [
+            "sink",
+            "bench",
+            "toilet",
+            "car"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink sink, a purple bench, a black toilet and a pink car."
+    },
+    "240": {
+        "objects": [
+            "dining table",
+            "curtain",
+            "coat",
+            "giraffe"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink dining table, a blue curtain, a yellow coat and a black giraffe."
+    },
+    "241": {
+        "objects": [
+            "dining table",
+            "curtain",
+            "coat",
+            "giraffe"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple dining table, a red curtain, a purple coat and a white giraffe."
+    },
+    "242": {
+        "objects": [
+            "dining table",
+            "curtain",
+            "coat",
+            "giraffe"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow dining table, a white curtain, a pink coat and a pink giraffe."
+    },
+    "243": {
+        "objects": [
+            "dining table",
+            "curtain",
+            "coat",
+            "giraffe"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green dining table, a yellow curtain, a red coat and a blue giraffe."
+    },
+    "244": {
+        "objects": [
+            "refrigerator",
+            "couch",
+            "sink",
+            "donut"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red refrigerator, a yellow couch, a red sink and a purple donut."
+    },
+    "245": {
+        "objects": [
+            "refrigerator",
+            "couch",
+            "sink",
+            "donut"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink refrigerator, a green couch, a purple sink and a pink donut."
+    },
+    "246": {
+        "objects": [
+            "refrigerator",
+            "couch",
+            "sink",
+            "donut"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow refrigerator, a pink couch, a black sink and a pink donut."
+    },
+    "247": {
+        "objects": [
+            "refrigerator",
+            "couch",
+            "sink",
+            "donut"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white refrigerator, a pink couch, a black sink and a blue donut."
+    },
+    "248": {
+        "objects": [
+            "pizza",
+            "refrigerator",
+            "keyboard",
+            "sports ball"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple pizza, a yellow refrigerator, a green keyboard and a black sports ball."
+    },
+    "249": {
+        "objects": [
+            "pizza",
+            "refrigerator",
+            "keyboard",
+            "sports ball"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink pizza, a black refrigerator, a green keyboard and a pink sports ball."
+    },
+    "250": {
+        "objects": [
+            "pizza",
+            "refrigerator",
+            "keyboard",
+            "sports ball"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink pizza, a yellow refrigerator, a red keyboard and a white sports ball."
+    },
+    "251": {
+        "objects": [
+            "pizza",
+            "refrigerator",
+            "keyboard",
+            "sports ball"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue pizza, a pink refrigerator, a purple keyboard and a black sports ball."
+    },
+    "252": {
+        "objects": [
+            "truck",
+            "chair",
+            "handbag",
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple truck, a yellow chair, a yellow handbag and a green dining table."
+    },
+    "253": {
+        "objects": [
+            "truck",
+            "chair",
+            "handbag",
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple truck, a blue chair, a green handbag and a pink dining table."
+    },
+    "254": {
+        "objects": [
+            "truck",
+            "chair",
+            "handbag",
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green truck, a white chair, a blue handbag and a black dining table."
+    },
+    "255": {
+        "objects": [
+            "truck",
+            "chair",
+            "handbag",
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white truck, a purple chair, a yellow handbag and a pink dining table."
+    },
+    "256": {
+        "objects": [
+            "clock",
+            "remote",
+            "toilet",
+            "carrot"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple clock, a blue remote, a pink toilet and a blue carrot."
+    },
+    "257": {
+        "objects": [
+            "clock",
+            "remote",
+            "toilet",
+            "carrot"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink clock, a purple remote, a white toilet and a green carrot."
+    },
+    "258": {
+        "objects": [
+            "clock",
+            "remote",
+            "toilet",
+            "carrot"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple clock, a pink remote, a purple toilet and a red carrot."
+    },
+    "259": {
+        "objects": [
+            "clock",
+            "remote",
+            "toilet",
+            "carrot"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue clock, a blue remote, a green toilet and a purple carrot."
+    },
+    "260": {
+        "objects": [
+            "shirt",
+            "bear",
+            "dog",
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green shirt, a white bear, a pink dog and a blue backpack."
+    },
+    "261": {
+        "objects": [
+            "shirt",
+            "bear",
+            "dog",
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green shirt, a blue bear, a blue dog and a pink backpack."
+    },
+    "262": {
+        "objects": [
+            "shirt",
+            "bear",
+            "dog",
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow shirt, a purple bear, a black dog and a blue backpack."
+    },
+    "263": {
+        "objects": [
+            "shirt",
+            "bear",
+            "dog",
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green shirt, a black bear, a green dog and a pink backpack."
+    },
+    "264": {
+        "objects": [
+            "broccoli",
+            "sink",
+            "tennis racket",
+            "suitcase"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red broccoli, a yellow sink, a purple tennis racket and a green suitcase."
+    },
+    "265": {
+        "objects": [
+            "broccoli",
+            "sink",
+            "tennis racket",
+            "suitcase"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue broccoli, a yellow sink, a white tennis racket and a green suitcase."
+    },
+    "266": {
+        "objects": [
+            "broccoli",
+            "sink",
+            "tennis racket",
+            "suitcase"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple broccoli, a blue sink, a purple tennis racket and a white suitcase."
+    },
+    "267": {
+        "objects": [
+            "broccoli",
+            "sink",
+            "tennis racket",
+            "suitcase"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black broccoli, a pink sink, a blue tennis racket and a black suitcase."
+    },
+    "268": {
+        "objects": [
+            "refrigerator",
+            "broccoli",
+            "mouse",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green refrigerator, a white broccoli, a white mouse and a purple carpet."
+    },
+    "269": {
+        "objects": [
+            "refrigerator",
+            "broccoli",
+            "mouse",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red refrigerator, a yellow broccoli, a black mouse and a green carpet."
+    },
+    "270": {
+        "objects": [
+            "refrigerator",
+            "broccoli",
+            "mouse",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black refrigerator, a pink broccoli, a purple mouse and a blue carpet."
+    },
+    "271": {
+        "objects": [
+            "refrigerator",
+            "broccoli",
+            "mouse",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue refrigerator, a red broccoli, a pink mouse and a green carpet."
+    },
+    "272": {
+        "objects": [
+            "zebra",
+            "motorcycle",
+            "spoon",
+            "bear"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue zebra, a green motorcycle, a black spoon and a purple bear."
+    },
+    "273": {
+        "objects": [
+            "zebra",
+            "motorcycle",
+            "spoon",
+            "bear"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow zebra, a white motorcycle, a yellow spoon and a white bear."
+    },
+    "274": {
+        "objects": [
+            "zebra",
+            "motorcycle",
+            "spoon",
+            "bear"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue zebra, a purple motorcycle, a white spoon and a blue bear."
+    },
+    "275": {
+        "objects": [
+            "zebra",
+            "motorcycle",
+            "spoon",
+            "bear"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black zebra, a purple motorcycle, a blue spoon and a green bear."
+    },
+    "276": {
+        "objects": [
+            "car",
+            "fire hydrant",
+            "horse",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black car, a pink fire hydrant, a black horse and a yellow curtain."
+    },
+    "277": {
+        "objects": [
+            "car",
+            "fire hydrant",
+            "horse",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green car, a white fire hydrant, a white horse and a pink curtain."
+    },
+    "278": {
+        "objects": [
+            "car",
+            "fire hydrant",
+            "horse",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white car, a black fire hydrant, a white horse and a yellow curtain."
+    },
+    "279": {
+        "objects": [
+            "car",
+            "fire hydrant",
+            "horse",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue car, a blue fire hydrant, a yellow horse and a pink curtain."
+    },
+    "280": {
+        "objects": [
+            "cake",
+            "baseball bat",
+            "bird",
+            "fork"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue cake, a black baseball bat, a green bird and a red fork."
+    },
+    "281": {
+        "objects": [
+            "cake",
+            "baseball bat",
+            "bird",
+            "fork"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white cake, a blue baseball bat, a red bird and a white fork."
+    },
+    "282": {
+        "objects": [
+            "cake",
+            "baseball bat",
+            "bird",
+            "fork"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red cake, a black baseball bat, a red bird and a red fork."
+    },
+    "283": {
+        "objects": [
+            "cake",
+            "baseball bat",
+            "bird",
+            "fork"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple cake, a red baseball bat, a green bird and a red fork."
+    },
+    "284": {
+        "objects": [
+            "handbag",
+            "bird",
+            "oven",
+            "broccoli"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow handbag, a purple bird, a green oven and a purple broccoli."
+    },
+    "285": {
+        "objects": [
+            "handbag",
+            "bird",
+            "oven",
+            "broccoli"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green handbag, a white bird, a black oven and a blue broccoli."
+    },
+    "286": {
+        "objects": [
+            "handbag",
+            "bird",
+            "oven",
+            "broccoli"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue handbag, a blue bird, a green oven and a red broccoli."
+    },
+    "287": {
+        "objects": [
+            "handbag",
+            "bird",
+            "oven",
+            "broccoli"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red handbag, a red bird, a yellow oven and a black broccoli."
+    },
+    "288": {
+        "objects": [
+            "cat",
+            "donut",
+            "curtain",
+            "cell phone"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple cat, a blue donut, a yellow curtain and a black cell phone."
+    },
+    "289": {
+        "objects": [
+            "cat",
+            "donut",
+            "curtain",
+            "cell phone"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black cat, a white donut, a black curtain and a purple cell phone."
+    },
+    "290": {
+        "objects": [
+            "cat",
+            "donut",
+            "curtain",
+            "cell phone"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white cat, a blue donut, a white curtain and a yellow cell phone."
+    },
+    "291": {
+        "objects": [
+            "cat",
+            "donut",
+            "curtain",
+            "cell phone"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green cat, a pink donut, a red curtain and a purple cell phone."
+    },
+    "292": {
+        "objects": [
+            "trousers",
+            "cow",
+            "toilet",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pair of white trousers, a yellow cow, a white toilet and a purple carpet."
+    },
+    "293": {
+        "objects": [
+            "trousers",
+            "cow",
+            "toilet",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pair of white trousers, a purple cow, a green toilet and a black carpet."
+    },
+    "294": {
+        "objects": [
+            "trousers",
+            "cow",
+            "toilet",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pair of pink trousers, a white cow, a green toilet and a purple carpet."
+    },
+    "295": {
+        "objects": [
+            "trousers",
+            "cow",
+            "toilet",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pair of green trousers, a white cow, a pink toilet and a yellow carpet."
+    },
+    "296": {
+        "objects": [
+            "sheep",
+            "fire hydrant",
+            "sandwich",
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow sheep, a yellow fire hydrant, a red sandwich and a pair of green trousers."
+    },
+    "297": {
+        "objects": [
+            "sheep",
+            "fire hydrant",
+            "sandwich",
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red sheep, a red fire hydrant, a yellow sandwich and a pair of green trousers."
+    },
+    "298": {
+        "objects": [
+            "sheep",
+            "fire hydrant",
+            "sandwich",
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white sheep, a purple fire hydrant, a black sandwich and a pair of black trousers."
+    },
+    "299": {
+        "objects": [
+            "sheep",
+            "fire hydrant",
+            "sandwich",
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black sheep, a white fire hydrant, a white sandwich and a pair of green trousers."
+    },
+    "300": {
+        "objects": [
+            "carrot",
+            "orange",
+            "sandwich",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red carrot, a green orange, a black sandwich and a green banana."
+    },
+    "301": {
+        "objects": [
+            "carrot",
+            "orange",
+            "sandwich",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow carrot, a black orange, a black sandwich and a black banana."
+    },
+    "302": {
+        "objects": [
+            "carrot",
+            "orange",
+            "sandwich",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green carrot, a white orange, a purple sandwich and a white banana."
+    },
+    "303": {
+        "objects": [
+            "carrot",
+            "orange",
+            "sandwich",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black carrot, a pink orange, a black sandwich and a pink banana."
+    },
+    "304": {
+        "objects": [
+            "toilet",
+            "dining table",
+            "potted plant",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue toilet, a purple dining table, a pink potted plant and a white carpet."
+    },
+    "305": {
+        "objects": [
+            "toilet",
+            "dining table",
+            "potted plant",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow toilet, a blue dining table, a pink potted plant and a green carpet."
+    },
+    "306": {
+        "objects": [
+            "toilet",
+            "dining table",
+            "potted plant",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple toilet, a black dining table, a black potted plant and a yellow carpet."
+    },
+    "307": {
+        "objects": [
+            "toilet",
+            "dining table",
+            "potted plant",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green toilet, a purple dining table, a blue potted plant and a yellow carpet."
+    },
+    "308": {
+        "objects": [
+            "giraffe",
+            "zebra",
+            "cat",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink giraffe, a purple zebra, a red cat and a white bird."
+    },
+    "309": {
+        "objects": [
+            "giraffe",
+            "zebra",
+            "cat",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue giraffe, a yellow zebra, a blue cat and a red bird."
+    },
+    "310": {
+        "objects": [
+            "giraffe",
+            "zebra",
+            "cat",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue giraffe, a yellow zebra, a red cat and a pink bird."
+    },
+    "311": {
+        "objects": [
+            "giraffe",
+            "zebra",
+            "cat",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink giraffe, a red zebra, a white cat and a green bird."
+    },
+    "312": {
+        "objects": [
+            "giraffe",
+            "sheep",
+            "dog",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink giraffe, a black sheep, a red dog and a pink cat."
+    },
+    "313": {
+        "objects": [
+            "giraffe",
+            "sheep",
+            "dog",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black giraffe, a black sheep, a green dog and a pink cat."
+    },
+    "314": {
+        "objects": [
+            "giraffe",
+            "sheep",
+            "dog",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple giraffe, a purple sheep, a red dog and a pink cat."
+    },
+    "315": {
+        "objects": [
+            "giraffe",
+            "sheep",
+            "dog",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white giraffe, a purple sheep, a green dog and a red cat."
+    },
+    "316": {
+        "objects": [
+            "scissors",
+            "clock",
+            "book",
+            "vase"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pair of green scissors, a white clock, a red book and a pink vase."
+    },
+    "317": {
+        "objects": [
+            "scissors",
+            "clock",
+            "book",
+            "vase"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pair of red scissors, a blue clock, a pink book and a purple vase."
+    },
+    "318": {
+        "objects": [
+            "scissors",
+            "clock",
+            "book",
+            "vase"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pair of black scissors, a purple clock, a green book and a green vase."
+    },
+    "319": {
+        "objects": [
+            "scissors",
+            "clock",
+            "book",
+            "vase"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pair of yellow scissors, a purple clock, a blue book and a green vase."
+    },
+    "320": {
+        "objects": [
+            "giraffe",
+            "sheep",
+            "horse",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink giraffe, a purple sheep, a red horse and a red bird."
+    },
+    "321": {
+        "objects": [
+            "giraffe",
+            "sheep",
+            "horse",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue giraffe, a green sheep, a white horse and a white bird."
+    },
+    "322": {
+        "objects": [
+            "giraffe",
+            "sheep",
+            "horse",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple giraffe, a white sheep, a white horse and a pink bird."
+    },
+    "323": {
+        "objects": [
+            "giraffe",
+            "sheep",
+            "horse",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink giraffe, a blue sheep, a yellow horse and a yellow bird."
+    },
+    "324": {
+        "objects": [
+            "tennis racket",
+            "surfboard",
+            "baseball bat",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red tennis racket, a yellow surfboard, a black baseball bat and a black frisbee."
+    },
+    "325": {
+        "objects": [
+            "tennis racket",
+            "surfboard",
+            "baseball bat",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple tennis racket, a green surfboard, a white baseball bat and a pink frisbee."
+    },
+    "326": {
+        "objects": [
+            "tennis racket",
+            "surfboard",
+            "baseball bat",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple tennis racket, a blue surfboard, a green baseball bat and a green frisbee."
+    },
+    "327": {
+        "objects": [
+            "tennis racket",
+            "surfboard",
+            "baseball bat",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple tennis racket, a white surfboard, a purple baseball bat and a blue frisbee."
+    },
+    "328": {
+        "objects": [
+            "donut",
+            "sandwich",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue donut, a blue sandwich, a white apple and a black banana."
+    },
+    "329": {
+        "objects": [
+            "donut",
+            "sandwich",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue donut, a blue sandwich, a red apple and a pink banana."
+    },
+    "330": {
+        "objects": [
+            "donut",
+            "sandwich",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red donut, a blue sandwich, a blue apple and a black banana."
+    },
+    "331": {
+        "objects": [
+            "donut",
+            "sandwich",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green donut, a blue sandwich, a green apple and a pink banana."
+    },
+    "332": {
+        "objects": [
+            "toilet",
+            "potted plant",
+            "chair",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green toilet, a black potted plant, a yellow chair and a pink curtain."
+    },
+    "333": {
+        "objects": [
+            "toilet",
+            "potted plant",
+            "chair",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue toilet, a red potted plant, a blue chair and a black curtain."
+    },
+    "334": {
+        "objects": [
+            "toilet",
+            "potted plant",
+            "chair",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black toilet, a white potted plant, a green chair and a green curtain."
+    },
+    "335": {
+        "objects": [
+            "toilet",
+            "potted plant",
+            "chair",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black toilet, a pink potted plant, a white chair and a pink curtain."
+    },
+    "336": {
+        "objects": [
+            "zebra",
+            "elephant",
+            "dog",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue zebra, a blue elephant, a yellow dog and a purple bird."
+    },
+    "337": {
+        "objects": [
+            "zebra",
+            "elephant",
+            "dog",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green zebra, a pink elephant, a white dog and a green bird."
+    },
+    "338": {
+        "objects": [
+            "zebra",
+            "elephant",
+            "dog",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red zebra, a yellow elephant, a red dog and a blue bird."
+    },
+    "339": {
+        "objects": [
+            "zebra",
+            "elephant",
+            "dog",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red zebra, a green elephant, a white dog and a green bird."
+    },
+    "340": {
+        "objects": [
+            "tennis racket",
+            "surfboard",
+            "skis",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow tennis racket, a pink surfboard, a pair of purple skis and a blue frisbee."
+    },
+    "341": {
+        "objects": [
+            "tennis racket",
+            "surfboard",
+            "skis",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white tennis racket, a black surfboard, a pair of pink skis and a blue frisbee."
+    },
+    "342": {
+        "objects": [
+            "tennis racket",
+            "surfboard",
+            "skis",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple tennis racket, a pink surfboard, a pair of yellow skis and a black frisbee."
+    },
+    "343": {
+        "objects": [
+            "tennis racket",
+            "surfboard",
+            "skis",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow tennis racket, a blue surfboard, a pair of green skis and a green frisbee."
+    },
+    "344": {
+        "objects": [
+            "baseball bat",
+            "sports ball",
+            "snowboard",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple baseball bat, a black sports ball, a red snowboard and a white frisbee."
+    },
+    "345": {
+        "objects": [
+            "baseball bat",
+            "sports ball",
+            "snowboard",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red baseball bat, a white sports ball, a blue snowboard and a purple frisbee."
+    },
+    "346": {
+        "objects": [
+            "baseball bat",
+            "sports ball",
+            "snowboard",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple baseball bat, a pink sports ball, a black snowboard and a purple frisbee."
+    },
+    "347": {
+        "objects": [
+            "baseball bat",
+            "sports ball",
+            "snowboard",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink baseball bat, a white sports ball, a pink snowboard and a purple frisbee."
+    },
+    "348": {
+        "objects": [
+            "zebra",
+            "horse",
+            "dog",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black zebra, a purple horse, a purple dog and a pink bird."
+    },
+    "349": {
+        "objects": [
+            "zebra",
+            "horse",
+            "dog",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green zebra, a purple horse, a yellow dog and a red bird."
+    },
+    "350": {
+        "objects": [
+            "zebra",
+            "horse",
+            "dog",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black zebra, a pink horse, a green dog and a yellow bird."
+    },
+    "351": {
+        "objects": [
+            "zebra",
+            "horse",
+            "dog",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white zebra, a yellow horse, a yellow dog and a white bird."
+    },
+    "352": {
+        "objects": [
+            "zebra",
+            "bear",
+            "cow",
+            "sheep"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink zebra, a red bear, a green cow and a white sheep."
+    },
+    "353": {
+        "objects": [
+            "zebra",
+            "bear",
+            "cow",
+            "sheep"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green zebra, a black bear, a white cow and a blue sheep."
+    },
+    "354": {
+        "objects": [
+            "zebra",
+            "bear",
+            "cow",
+            "sheep"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue zebra, a pink bear, a pink cow and a pink sheep."
+    },
+    "355": {
+        "objects": [
+            "zebra",
+            "bear",
+            "cow",
+            "sheep"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black zebra, a white bear, a purple cow and a black sheep."
+    },
+    "356": {
+        "objects": [
+            "surfboard",
+            "baseball bat",
+            "sports ball",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white surfboard, a blue baseball bat, a white sports ball and a green frisbee."
+    },
+    "357": {
+        "objects": [
+            "surfboard",
+            "baseball bat",
+            "sports ball",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white surfboard, a black baseball bat, a green sports ball and a green frisbee."
+    },
+    "358": {
+        "objects": [
+            "surfboard",
+            "baseball bat",
+            "sports ball",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black surfboard, a pink baseball bat, a green sports ball and a white frisbee."
+    },
+    "359": {
+        "objects": [
+            "surfboard",
+            "baseball bat",
+            "sports ball",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow surfboard, a red baseball bat, a purple sports ball and a red frisbee."
+    },
+    "360": {
+        "objects": [
+            "toilet",
+            "dining table",
+            "couch",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink toilet, a blue dining table, a green couch and a white carpet."
+    },
+    "361": {
+        "objects": [
+            "toilet",
+            "dining table",
+            "couch",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple toilet, a blue dining table, a yellow couch and a black carpet."
+    },
+    "362": {
+        "objects": [
+            "toilet",
+            "dining table",
+            "couch",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple toilet, a pink dining table, a white couch and a green carpet."
+    },
+    "363": {
+        "objects": [
+            "toilet",
+            "dining table",
+            "couch",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green toilet, a red dining table, a purple couch and a yellow carpet."
+    },
+    "364": {
+        "objects": [
+            "surfboard",
+            "baseball glove",
+            "skis",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white surfboard, a purple baseball glove, a pair of purple skis and a black frisbee."
+    },
+    "365": {
+        "objects": [
+            "surfboard",
+            "baseball glove",
+            "skis",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green surfboard, a yellow baseball glove, a pair of green skis and a red frisbee."
+    },
+    "366": {
+        "objects": [
+            "surfboard",
+            "baseball glove",
+            "skis",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow surfboard, a purple baseball glove, a pair of purple skis and a yellow frisbee."
+    },
+    "367": {
+        "objects": [
+            "surfboard",
+            "baseball glove",
+            "skis",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink surfboard, a pink baseball glove, a pair of yellow skis and a pink frisbee."
+    },
+    "368": {
+        "objects": [
+            "hot dog",
+            "orange",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple hot dog, a yellow orange, a yellow apple and a black banana."
+    },
+    "369": {
+        "objects": [
+            "hot dog",
+            "orange",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white hot dog, a white orange, a white apple and a purple banana."
+    },
+    "370": {
+        "objects": [
+            "hot dog",
+            "orange",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white hot dog, a white orange, a purple apple and a white banana."
+    },
+    "371": {
+        "objects": [
+            "hot dog",
+            "orange",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black hot dog, a yellow orange, a yellow apple and a white banana."
+    },
+    "372": {
+        "objects": [
+            "boat",
+            "truck",
+            "train",
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red boat, a white truck, a yellow train and a purple motorcycle."
+    },
+    "373": {
+        "objects": [
+            "boat",
+            "truck",
+            "train",
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple boat, a purple truck, a red train and a blue motorcycle."
+    },
+    "374": {
+        "objects": [
+            "boat",
+            "truck",
+            "train",
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue boat, a green truck, a black train and a pink motorcycle."
+    },
+    "375": {
+        "objects": [
+            "boat",
+            "truck",
+            "train",
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow boat, a pink truck, a white train and a white motorcycle."
+    },
+    "376": {
+        "objects": [
+            "cake",
+            "donut",
+            "pizza",
+            "broccoli"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink cake, a white donut, a black pizza and a black broccoli."
+    },
+    "377": {
+        "objects": [
+            "cake",
+            "donut",
+            "pizza",
+            "broccoli"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white cake, a green donut, a blue pizza and a pink broccoli."
+    },
+    "378": {
+        "objects": [
+            "cake",
+            "donut",
+            "pizza",
+            "broccoli"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white cake, a blue donut, a white pizza and a pink broccoli."
+    },
+    "379": {
+        "objects": [
+            "cake",
+            "donut",
+            "pizza",
+            "broccoli"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink cake, a red donut, a purple pizza and a black broccoli."
+    },
+    "380": {
+        "objects": [
+            "pizza",
+            "hot dog",
+            "broccoli",
+            "apple"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black pizza, a green hot dog, a yellow broccoli and a green apple."
+    },
+    "381": {
+        "objects": [
+            "pizza",
+            "hot dog",
+            "broccoli",
+            "apple"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green pizza, a green hot dog, a green broccoli and a blue apple."
+    },
+    "382": {
+        "objects": [
+            "pizza",
+            "hot dog",
+            "broccoli",
+            "apple"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink pizza, a pink hot dog, a green broccoli and a purple apple."
+    },
+    "383": {
+        "objects": [
+            "pizza",
+            "hot dog",
+            "broccoli",
+            "apple"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red pizza, a yellow hot dog, a blue broccoli and a green apple."
+    },
+    "384": {
+        "objects": [
+            "boat",
+            "motorcycle",
+            "bicycle",
+            "car"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white boat, a pink motorcycle, a green bicycle and a purple car."
+    },
+    "385": {
+        "objects": [
+            "boat",
+            "motorcycle",
+            "bicycle",
+            "car"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink boat, a green motorcycle, a purple bicycle and a green car."
+    },
+    "386": {
+        "objects": [
+            "boat",
+            "motorcycle",
+            "bicycle",
+            "car"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple boat, a yellow motorcycle, a red bicycle and a green car."
+    },
+    "387": {
+        "objects": [
+            "boat",
+            "motorcycle",
+            "bicycle",
+            "car"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue boat, a purple motorcycle, a purple bicycle and a white car."
+    },
+    "388": {
+        "objects": [
+            "giraffe",
+            "bear",
+            "sheep",
+            "horse"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black giraffe, a white bear, a red sheep and a black horse."
+    },
+    "389": {
+        "objects": [
+            "giraffe",
+            "bear",
+            "sheep",
+            "horse"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black giraffe, a green bear, a black sheep and a green horse."
+    },
+    "390": {
+        "objects": [
+            "giraffe",
+            "bear",
+            "sheep",
+            "horse"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black giraffe, a red bear, a purple sheep and a green horse."
+    },
+    "391": {
+        "objects": [
+            "giraffe",
+            "bear",
+            "sheep",
+            "horse"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue giraffe, a purple bear, a black sheep and a pink horse."
+    },
+    "392": {
+        "objects": [
+            "cake",
+            "pizza",
+            "broccoli",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow cake, a blue pizza, a red broccoli and a black banana."
+    },
+    "393": {
+        "objects": [
+            "cake",
+            "pizza",
+            "broccoli",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue cake, a blue pizza, a red broccoli and a white banana."
+    },
+    "394": {
+        "objects": [
+            "cake",
+            "pizza",
+            "broccoli",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow cake, a yellow pizza, a purple broccoli and a blue banana."
+    },
+    "395": {
+        "objects": [
+            "cake",
+            "pizza",
+            "broccoli",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple cake, a purple pizza, a green broccoli and a purple banana."
+    },
+    "396": {
+        "objects": [
+            "refrigerator",
+            "sink",
+            "microwave",
+            "oven"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink refrigerator, a green sink, a purple microwave and a white oven."
+    },
+    "397": {
+        "objects": [
+            "refrigerator",
+            "sink",
+            "microwave",
+            "oven"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black refrigerator, a green sink, a red microwave and a yellow oven."
+    },
+    "398": {
+        "objects": [
+            "refrigerator",
+            "sink",
+            "microwave",
+            "oven"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black refrigerator, a purple sink, a red microwave and a pink oven."
+    },
+    "399": {
+        "objects": [
+            "refrigerator",
+            "sink",
+            "microwave",
+            "oven"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green refrigerator, a black sink, a pink microwave and a green oven."
+    },
+    "400": {
+        "objects": [
+            "giraffe",
+            "bear",
+            "cow",
+            "horse"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue giraffe, a black bear, a red cow and a blue horse."
+    },
+    "401": {
+        "objects": [
+            "giraffe",
+            "bear",
+            "cow",
+            "horse"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink giraffe, a black bear, a white cow and a blue horse."
+    },
+    "402": {
+        "objects": [
+            "giraffe",
+            "bear",
+            "cow",
+            "horse"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue giraffe, a red bear, a purple cow and a blue horse."
+    },
+    "403": {
+        "objects": [
+            "giraffe",
+            "bear",
+            "cow",
+            "horse"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green giraffe, a white bear, a red cow and a white horse."
+    },
+    "404": {
+        "objects": [
+            "truck",
+            "train",
+            "airplane",
+            "car"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink truck, a pink train, a yellow airplane and a yellow car."
+    },
+    "405": {
+        "objects": [
+            "truck",
+            "train",
+            "airplane",
+            "car"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black truck, a blue train, a black airplane and a pink car."
+    },
+    "406": {
+        "objects": [
+            "truck",
+            "train",
+            "airplane",
+            "car"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red truck, a black train, a green airplane and a white car."
+    },
+    "407": {
+        "objects": [
+            "truck",
+            "train",
+            "airplane",
+            "car"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink truck, a blue train, a green airplane and a black car."
+    },
+    "408": {
+        "objects": [
+            "carrot",
+            "sandwich",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple carrot, a red sandwich, a purple apple and a white banana."
+    },
+    "409": {
+        "objects": [
+            "carrot",
+            "sandwich",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow carrot, a white sandwich, a red apple and a yellow banana."
+    },
+    "410": {
+        "objects": [
+            "carrot",
+            "sandwich",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black carrot, a yellow sandwich, a white apple and a blue banana."
+    },
+    "411": {
+        "objects": [
+            "carrot",
+            "sandwich",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green carrot, a white sandwich, a pink apple and a pink banana."
+    },
+    "412": {
+        "objects": [
+            "toothbrush",
+            "hair drier",
+            "clock",
+            "book"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white toothbrush, a yellow hair drier, a purple clock and a purple book."
+    },
+    "413": {
+        "objects": [
+            "toothbrush",
+            "hair drier",
+            "clock",
+            "book"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red toothbrush, a red hair drier, a yellow clock and a white book."
+    },
+    "414": {
+        "objects": [
+            "toothbrush",
+            "hair drier",
+            "clock",
+            "book"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white toothbrush, a red hair drier, a green clock and a pink book."
+    },
+    "415": {
+        "objects": [
+            "toothbrush",
+            "hair drier",
+            "clock",
+            "book"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green toothbrush, a purple hair drier, a pink clock and a green book."
+    },
+    "416": {
+        "objects": [
+            "zebra",
+            "cow",
+            "horse",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple zebra, a yellow cow, a pink horse and a purple bird."
+    },
+    "417": {
+        "objects": [
+            "zebra",
+            "cow",
+            "horse",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white zebra, a white cow, a blue horse and a black bird."
+    },
+    "418": {
+        "objects": [
+            "zebra",
+            "cow",
+            "horse",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink zebra, a blue cow, a black horse and a green bird."
+    },
+    "419": {
+        "objects": [
+            "zebra",
+            "cow",
+            "horse",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue zebra, a blue cow, a pink horse and a white bird."
+    },
+    "420": {
+        "objects": [
+            "giraffe",
+            "bear",
+            "cow",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black giraffe, a white bear, a red cow and a black bird."
+    },
+    "421": {
+        "objects": [
+            "giraffe",
+            "bear",
+            "cow",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black giraffe, a yellow bear, a pink cow and a black bird."
+    },
+    "422": {
+        "objects": [
+            "giraffe",
+            "bear",
+            "cow",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red giraffe, a pink bear, a yellow cow and a purple bird."
+    },
+    "423": {
+        "objects": [
+            "giraffe",
+            "bear",
+            "cow",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green giraffe, a pink bear, a pink cow and a yellow bird."
+    },
+    "424": {
+        "objects": [
+            "hot dog",
+            "carrot",
+            "sandwich",
+            "apple"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red hot dog, a red carrot, a green sandwich and a purple apple."
+    },
+    "425": {
+        "objects": [
+            "hot dog",
+            "carrot",
+            "sandwich",
+            "apple"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white hot dog, a red carrot, a green sandwich and a blue apple."
+    },
+    "426": {
+        "objects": [
+            "hot dog",
+            "carrot",
+            "sandwich",
+            "apple"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow hot dog, a white carrot, a pink sandwich and a black apple."
+    },
+    "427": {
+        "objects": [
+            "hot dog",
+            "carrot",
+            "sandwich",
+            "apple"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple hot dog, a red carrot, a red sandwich and a blue apple."
+    },
+    "428": {
+        "objects": [
+            "bowl",
+            "knife",
+            "fork",
+            "plate"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red bowl, a blue knife, a red fork and a blue plate."
+    },
+    "429": {
+        "objects": [
+            "bowl",
+            "knife",
+            "fork",
+            "plate"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink bowl, a white knife, a pink fork and a red plate."
+    },
+    "430": {
+        "objects": [
+            "bowl",
+            "knife",
+            "fork",
+            "plate"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue bowl, a green knife, a yellow fork and a white plate."
+    },
+    "431": {
+        "objects": [
+            "bowl",
+            "knife",
+            "fork",
+            "plate"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red bowl, a purple knife, a yellow fork and a yellow plate."
+    },
+    "432": {
+        "objects": [
+            "cake",
+            "donut",
+            "pizza",
+            "orange"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red cake, a yellow donut, a green pizza and a red orange."
+    },
+    "433": {
+        "objects": [
+            "cake",
+            "donut",
+            "pizza",
+            "orange"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white cake, a green donut, a white pizza and a purple orange."
+    },
+    "434": {
+        "objects": [
+            "cake",
+            "donut",
+            "pizza",
+            "orange"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow cake, a purple donut, a green pizza and a purple orange."
+    },
+    "435": {
+        "objects": [
+            "cake",
+            "donut",
+            "pizza",
+            "orange"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple cake, a black donut, a red pizza and a white orange."
+    },
+    "436": {
+        "objects": [
+            "bowl",
+            "knife",
+            "fork",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue bowl, a red knife, a blue fork and a pink bottle."
+    },
+    "437": {
+        "objects": [
+            "bowl",
+            "knife",
+            "fork",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue bowl, a black knife, a black fork and a green bottle."
+    },
+    "438": {
+        "objects": [
+            "bowl",
+            "knife",
+            "fork",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue bowl, a black knife, a purple fork and a green bottle."
+    },
+    "439": {
+        "objects": [
+            "bowl",
+            "knife",
+            "fork",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow bowl, a yellow knife, a red fork and a black bottle."
+    },
+    "440": {
+        "objects": [
+            "potted plant",
+            "chair",
+            "carpet",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple potted plant, a yellow chair, a pink carpet and a black curtain."
+    },
+    "441": {
+        "objects": [
+            "potted plant",
+            "chair",
+            "carpet",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink potted plant, a green chair, a blue carpet and a black curtain."
+    },
+    "442": {
+        "objects": [
+            "potted plant",
+            "chair",
+            "carpet",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow potted plant, a red chair, a green carpet and a blue curtain."
+    },
+    "443": {
+        "objects": [
+            "potted plant",
+            "chair",
+            "carpet",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green potted plant, a red chair, a green carpet and a pink curtain."
+    },
+    "444": {
+        "objects": [
+            "giraffe",
+            "zebra",
+            "cow",
+            "dog"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black giraffe, a green zebra, a green cow and a red dog."
+    },
+    "445": {
+        "objects": [
+            "giraffe",
+            "zebra",
+            "cow",
+            "dog"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue giraffe, a red zebra, a red cow and a green dog."
+    },
+    "446": {
+        "objects": [
+            "giraffe",
+            "zebra",
+            "cow",
+            "dog"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink giraffe, a red zebra, a pink cow and a pink dog."
+    },
+    "447": {
+        "objects": [
+            "giraffe",
+            "zebra",
+            "cow",
+            "dog"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green giraffe, a black zebra, a purple cow and a pink dog."
+    },
+    "448": {
+        "objects": [
+            "bowl",
+            "spoon",
+            "knife",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink bowl, a purple spoon, a yellow knife and a yellow bottle."
+    },
+    "449": {
+        "objects": [
+            "bowl",
+            "spoon",
+            "knife",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple bowl, a yellow spoon, a yellow knife and a green bottle."
+    },
+    "450": {
+        "objects": [
+            "bowl",
+            "spoon",
+            "knife",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow bowl, a blue spoon, a pink knife and a purple bottle."
+    },
+    "451": {
+        "objects": [
+            "bowl",
+            "spoon",
+            "knife",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink bowl, a white spoon, a red knife and a purple bottle."
+    },
+    "452": {
+        "objects": [
+            "donut",
+            "carrot",
+            "broccoli",
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red donut, a pink carrot, a black broccoli and a pink sandwich."
+    },
+    "453": {
+        "objects": [
+            "donut",
+            "carrot",
+            "broccoli",
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow donut, a purple carrot, a red broccoli and a green sandwich."
+    },
+    "454": {
+        "objects": [
+            "donut",
+            "carrot",
+            "broccoli",
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow donut, a yellow carrot, a blue broccoli and a purple sandwich."
+    },
+    "455": {
+        "objects": [
+            "donut",
+            "carrot",
+            "broccoli",
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue donut, a black carrot, a white broccoli and a blue sandwich."
+    },
+    "456": {
+        "objects": [
+            "spoon",
+            "knife",
+            "fork",
+            "plate"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green spoon, a red knife, a black fork and a blue plate."
+    },
+    "457": {
+        "objects": [
+            "spoon",
+            "knife",
+            "fork",
+            "plate"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple spoon, a yellow knife, a yellow fork and a red plate."
+    },
+    "458": {
+        "objects": [
+            "spoon",
+            "knife",
+            "fork",
+            "plate"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink spoon, a pink knife, a red fork and a black plate."
+    },
+    "459": {
+        "objects": [
+            "spoon",
+            "knife",
+            "fork",
+            "plate"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white spoon, a pink knife, a white fork and a white plate."
+    },
+    "460": {
+        "objects": [
+            "surfboard",
+            "baseball bat",
+            "kite",
+            "sports ball"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue surfboard, a black baseball bat, a purple kite and a purple sports ball."
+    },
+    "461": {
+        "objects": [
+            "surfboard",
+            "baseball bat",
+            "kite",
+            "sports ball"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow surfboard, a purple baseball bat, a purple kite and a white sports ball."
+    },
+    "462": {
+        "objects": [
+            "surfboard",
+            "baseball bat",
+            "kite",
+            "sports ball"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green surfboard, a white baseball bat, a yellow kite and a green sports ball."
+    },
+    "463": {
+        "objects": [
+            "surfboard",
+            "baseball bat",
+            "kite",
+            "sports ball"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white surfboard, a pink baseball bat, a green kite and a green sports ball."
+    },
+    "464": {
+        "objects": [
+            "surfboard",
+            "baseball glove",
+            "sports ball",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green surfboard, a yellow baseball glove, a red sports ball and a yellow frisbee."
+    },
+    "465": {
+        "objects": [
+            "surfboard",
+            "baseball glove",
+            "sports ball",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink surfboard, a red baseball glove, a pink sports ball and a yellow frisbee."
+    },
+    "466": {
+        "objects": [
+            "surfboard",
+            "baseball glove",
+            "sports ball",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue surfboard, a purple baseball glove, a pink sports ball and a white frisbee."
+    },
+    "467": {
+        "objects": [
+            "surfboard",
+            "baseball glove",
+            "sports ball",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black surfboard, a red baseball glove, a white sports ball and a blue frisbee."
+    },
+    "468": {
+        "objects": [
+            "hot dog",
+            "carrot",
+            "broccoli",
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black hot dog, a red carrot, a purple broccoli and a white sandwich."
+    },
+    "469": {
+        "objects": [
+            "hot dog",
+            "carrot",
+            "broccoli",
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink hot dog, a white carrot, a blue broccoli and a red sandwich."
+    },
+    "470": {
+        "objects": [
+            "hot dog",
+            "carrot",
+            "broccoli",
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple hot dog, a white carrot, a black broccoli and a blue sandwich."
+    },
+    "471": {
+        "objects": [
+            "hot dog",
+            "carrot",
+            "broccoli",
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue hot dog, a blue carrot, a blue broccoli and a black sandwich."
+    },
+    "472": {
+        "objects": [
+            "donut",
+            "hot dog",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red donut, a blue hot dog, a pink apple and a blue banana."
+    },
+    "473": {
+        "objects": [
+            "donut",
+            "hot dog",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green donut, a black hot dog, a green apple and a red banana."
+    },
+    "474": {
+        "objects": [
+            "donut",
+            "hot dog",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green donut, a purple hot dog, a black apple and a white banana."
+    },
+    "475": {
+        "objects": [
+            "donut",
+            "hot dog",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green donut, a purple hot dog, a red apple and a black banana."
+    },
+    "476": {
+        "objects": [
+            "sheep",
+            "horse",
+            "dog",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white sheep, a green horse, a red dog and a yellow cat."
+    },
+    "477": {
+        "objects": [
+            "sheep",
+            "horse",
+            "dog",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white sheep, a blue horse, a green dog and a blue cat."
+    },
+    "478": {
+        "objects": [
+            "sheep",
+            "horse",
+            "dog",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple sheep, a yellow horse, a green dog and a white cat."
+    },
+    "479": {
+        "objects": [
+            "sheep",
+            "horse",
+            "dog",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green sheep, a purple horse, a pink dog and a green cat."
+    },
+    "480": {
+        "objects": [
+            "tennis racket",
+            "kite",
+            "snowboard",
+            "skis"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow tennis racket, a yellow kite, a purple snowboard and a pair of yellow skis."
+    },
+    "481": {
+        "objects": [
+            "tennis racket",
+            "kite",
+            "snowboard",
+            "skis"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue tennis racket, a purple kite, a black snowboard and a pair of green skis."
+    },
+    "482": {
+        "objects": [
+            "tennis racket",
+            "kite",
+            "snowboard",
+            "skis"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red tennis racket, a green kite, a yellow snowboard and a pair of black skis."
+    },
+    "483": {
+        "objects": [
+            "tennis racket",
+            "kite",
+            "snowboard",
+            "skis"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow tennis racket, a green kite, a purple snowboard and a pair of purple skis."
+    },
+    "484": {
+        "objects": [
+            "elephant",
+            "cow",
+            "horse",
+            "dog"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow elephant, a white cow, a purple horse and a green dog."
+    },
+    "485": {
+        "objects": [
+            "elephant",
+            "cow",
+            "horse",
+            "dog"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black elephant, a purple cow, a yellow horse and a red dog."
+    },
+    "486": {
+        "objects": [
+            "elephant",
+            "cow",
+            "horse",
+            "dog"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue elephant, a red cow, a white horse and a pink dog."
+    },
+    "487": {
+        "objects": [
+            "elephant",
+            "cow",
+            "horse",
+            "dog"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red elephant, a white cow, a yellow horse and a pink dog."
+    },
+    "488": {
+        "objects": [
+            "bear",
+            "cow",
+            "sheep",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green bear, a green cow, a green sheep and a green bird."
+    },
+    "489": {
+        "objects": [
+            "bear",
+            "cow",
+            "sheep",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple bear, a blue cow, a purple sheep and a purple bird."
+    },
+    "490": {
+        "objects": [
+            "bear",
+            "cow",
+            "sheep",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink bear, a black cow, a purple sheep and a red bird."
+    },
+    "491": {
+        "objects": [
+            "bear",
+            "cow",
+            "sheep",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink bear, a red cow, a pink sheep and a blue bird."
+    },
+    "492": {
+        "objects": [
+            "giraffe",
+            "bear",
+            "sheep",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink giraffe, a black bear, a red sheep and a red bird."
+    },
+    "493": {
+        "objects": [
+            "giraffe",
+            "bear",
+            "sheep",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red giraffe, a purple bear, a green sheep and a white bird."
+    },
+    "494": {
+        "objects": [
+            "giraffe",
+            "bear",
+            "sheep",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink giraffe, a red bear, a green sheep and a blue bird."
+    },
+    "495": {
+        "objects": [
+            "giraffe",
+            "bear",
+            "sheep",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red giraffe, a white bear, a yellow sheep and a pink bird."
+    },
+    "496": {
+        "objects": [
+            "donut",
+            "carrot",
+            "orange",
+            "apple"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple donut, a pink carrot, a black orange and a yellow apple."
+    },
+    "497": {
+        "objects": [
+            "donut",
+            "carrot",
+            "orange",
+            "apple"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink donut, a black carrot, a white orange and a white apple."
+    },
+    "498": {
+        "objects": [
+            "donut",
+            "carrot",
+            "orange",
+            "apple"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue donut, a purple carrot, a white orange and a white apple."
+    },
+    "499": {
+        "objects": [
+            "donut",
+            "carrot",
+            "orange",
+            "apple"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red donut, a red carrot, a pink orange and a purple apple."
+    },
+    "500": {
+        "objects": [
+            "cake",
+            "hot dog",
+            "broccoli",
+            "apple"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple cake, a white hot dog, a white broccoli and a blue apple."
+    },
+    "501": {
+        "objects": [
+            "cake",
+            "hot dog",
+            "broccoli",
+            "apple"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink cake, a red hot dog, a green broccoli and a black apple."
+    },
+    "502": {
+        "objects": [
+            "cake",
+            "hot dog",
+            "broccoli",
+            "apple"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red cake, a white hot dog, a white broccoli and a pink apple."
+    },
+    "503": {
+        "objects": [
+            "cake",
+            "hot dog",
+            "broccoli",
+            "apple"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black cake, a red hot dog, a green broccoli and a pink apple."
+    },
+    "504": {
+        "objects": [
+            "cake",
+            "donut",
+            "broccoli",
+            "orange"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple cake, a pink donut, a purple broccoli and a blue orange."
+    },
+    "505": {
+        "objects": [
+            "cake",
+            "donut",
+            "broccoli",
+            "orange"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red cake, a yellow donut, a yellow broccoli and a white orange."
+    },
+    "506": {
+        "objects": [
+            "cake",
+            "donut",
+            "broccoli",
+            "orange"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black cake, a blue donut, a blue broccoli and a blue orange."
+    },
+    "507": {
+        "objects": [
+            "cake",
+            "donut",
+            "broccoli",
+            "orange"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow cake, a blue donut, a green broccoli and a yellow orange."
+    },
+    "508": {
+        "objects": [
+            "suitcase",
+            "eye glasses",
+            "umbrella",
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white suitcase, a pair of black eye glasses, a red umbrella and a white backpack."
+    },
+    "509": {
+        "objects": [
+            "suitcase",
+            "eye glasses",
+            "umbrella",
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white suitcase, a pair of pink eye glasses, a blue umbrella and a pink backpack."
+    },
+    "510": {
+        "objects": [
+            "suitcase",
+            "eye glasses",
+            "umbrella",
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white suitcase, a pair of white eye glasses, a green umbrella and a green backpack."
+    },
+    "511": {
+        "objects": [
+            "suitcase",
+            "eye glasses",
+            "umbrella",
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black suitcase, a pair of blue eye glasses, a yellow umbrella and a yellow backpack."
+    },
+    "512": {
+        "objects": [
+            "toilet",
+            "bed",
+            "potted plant",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red toilet, a green bed, a red potted plant and a pink chair."
+    },
+    "513": {
+        "objects": [
+            "toilet",
+            "bed",
+            "potted plant",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red toilet, a blue bed, a black potted plant and a white chair."
+    },
+    "514": {
+        "objects": [
+            "toilet",
+            "bed",
+            "potted plant",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple toilet, a red bed, a green potted plant and a white chair."
+    },
+    "515": {
+        "objects": [
+            "toilet",
+            "bed",
+            "potted plant",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white toilet, a black bed, a blue potted plant and a blue chair."
+    },
+    "516": {
+        "objects": [
+            "toothbrush",
+            "scissors",
+            "clock",
+            "vase"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black toothbrush, a pair of pink scissors, a purple clock and a green vase."
+    },
+    "517": {
+        "objects": [
+            "toothbrush",
+            "scissors",
+            "clock",
+            "vase"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white toothbrush, a pair of blue scissors, a pink clock and a pink vase."
+    },
+    "518": {
+        "objects": [
+            "toothbrush",
+            "scissors",
+            "clock",
+            "vase"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple toothbrush, a pair of red scissors, a blue clock and a yellow vase."
+    },
+    "519": {
+        "objects": [
+            "toothbrush",
+            "scissors",
+            "clock",
+            "vase"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple toothbrush, a pair of blue scissors, a red clock and a blue vase."
+    },
+    "520": {
+        "objects": [
+            "cake",
+            "hot dog",
+            "carrot",
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black cake, a yellow hot dog, a yellow carrot and a blue sandwich."
+    },
+    "521": {
+        "objects": [
+            "cake",
+            "hot dog",
+            "carrot",
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue cake, a blue hot dog, a pink carrot and a pink sandwich."
+    },
+    "522": {
+        "objects": [
+            "cake",
+            "hot dog",
+            "carrot",
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white cake, a green hot dog, a blue carrot and a green sandwich."
+    },
+    "523": {
+        "objects": [
+            "cake",
+            "hot dog",
+            "carrot",
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red cake, a black hot dog, a pink carrot and a black sandwich."
+    },
+    "524": {
+        "objects": [
+            "knife",
+            "fork",
+            "plate",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow knife, a pink fork, a pink plate and a blue bottle."
+    },
+    "525": {
+        "objects": [
+            "knife",
+            "fork",
+            "plate",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink knife, a purple fork, a black plate and a red bottle."
+    },
+    "526": {
+        "objects": [
+            "knife",
+            "fork",
+            "plate",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green knife, a pink fork, a black plate and a black bottle."
+    },
+    "527": {
+        "objects": [
+            "knife",
+            "fork",
+            "plate",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue knife, a pink fork, a pink plate and a pink bottle."
+    },
+    "528": {
+        "objects": [
+            "toilet",
+            "dining table",
+            "bed",
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white toilet, a pink dining table, a green bed and a green potted plant."
+    },
+    "529": {
+        "objects": [
+            "toilet",
+            "dining table",
+            "bed",
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink toilet, a purple dining table, a white bed and a red potted plant."
+    },
+    "530": {
+        "objects": [
+            "toilet",
+            "dining table",
+            "bed",
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black toilet, a purple dining table, a green bed and a purple potted plant."
+    },
+    "531": {
+        "objects": [
+            "toilet",
+            "dining table",
+            "bed",
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green toilet, a pink dining table, a pink bed and a blue potted plant."
+    },
+    "532": {
+        "objects": [
+            "cow",
+            "sheep",
+            "horse",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow cow, a white sheep, a green horse and a pink bird."
+    },
+    "533": {
+        "objects": [
+            "cow",
+            "sheep",
+            "horse",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black cow, a white sheep, a yellow horse and a black bird."
+    },
+    "534": {
+        "objects": [
+            "cow",
+            "sheep",
+            "horse",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink cow, a blue sheep, a pink horse and a green bird."
+    },
+    "535": {
+        "objects": [
+            "cow",
+            "sheep",
+            "horse",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow cow, a green sheep, a yellow horse and a black bird."
+    },
+    "536": {
+        "objects": [
+            "carrot",
+            "broccoli",
+            "orange",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink carrot, a yellow broccoli, a purple orange and a purple banana."
+    },
+    "537": {
+        "objects": [
+            "carrot",
+            "broccoli",
+            "orange",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow carrot, a blue broccoli, a red orange and a pink banana."
+    },
+    "538": {
+        "objects": [
+            "carrot",
+            "broccoli",
+            "orange",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white carrot, a red broccoli, a white orange and a red banana."
+    },
+    "539": {
+        "objects": [
+            "carrot",
+            "broccoli",
+            "orange",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow carrot, a pink broccoli, a purple orange and a purple banana."
+    },
+    "540": {
+        "objects": [
+            "zebra",
+            "bear",
+            "elephant",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white zebra, a red bear, a blue elephant and a yellow cat."
+    },
+    "541": {
+        "objects": [
+            "zebra",
+            "bear",
+            "elephant",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red zebra, a pink bear, a pink elephant and a red cat."
+    },
+    "542": {
+        "objects": [
+            "zebra",
+            "bear",
+            "elephant",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white zebra, a black bear, a black elephant and a pink cat."
+    },
+    "543": {
+        "objects": [
+            "zebra",
+            "bear",
+            "elephant",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green zebra, a yellow bear, a black elephant and a red cat."
+    },
+    "544": {
+        "objects": [
+            "bear",
+            "cow",
+            "horse",
+            "dog"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow bear, a black cow, a pink horse and a blue dog."
+    },
+    "545": {
+        "objects": [
+            "bear",
+            "cow",
+            "horse",
+            "dog"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green bear, a blue cow, a white horse and a black dog."
+    },
+    "546": {
+        "objects": [
+            "bear",
+            "cow",
+            "horse",
+            "dog"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue bear, a purple cow, a purple horse and a green dog."
+    },
+    "547": {
+        "objects": [
+            "bear",
+            "cow",
+            "horse",
+            "dog"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink bear, a white cow, a pink horse and a white dog."
+    },
+    "548": {
+        "objects": [
+            "donut",
+            "carrot",
+            "orange",
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black donut, a pink carrot, a blue orange and a red sandwich."
+    },
+    "549": {
+        "objects": [
+            "donut",
+            "carrot",
+            "orange",
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black donut, a green carrot, a blue orange and a purple sandwich."
+    },
+    "550": {
+        "objects": [
+            "donut",
+            "carrot",
+            "orange",
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red donut, a yellow carrot, a red orange and a black sandwich."
+    },
+    "551": {
+        "objects": [
+            "donut",
+            "carrot",
+            "orange",
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red donut, a yellow carrot, a blue orange and a yellow sandwich."
+    },
+    "552": {
+        "objects": [
+            "bowl",
+            "spoon",
+            "plate",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue bowl, a red spoon, a yellow plate and a green bottle."
+    },
+    "553": {
+        "objects": [
+            "bowl",
+            "spoon",
+            "plate",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black bowl, a purple spoon, a white plate and a purple bottle."
+    },
+    "554": {
+        "objects": [
+            "bowl",
+            "spoon",
+            "plate",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple bowl, a green spoon, a pink plate and a red bottle."
+    },
+    "555": {
+        "objects": [
+            "bowl",
+            "spoon",
+            "plate",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink bowl, a blue spoon, a pink plate and a white bottle."
+    },
+    "556": {
+        "objects": [
+            "surfboard",
+            "baseball glove",
+            "kite",
+            "sports ball"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red surfboard, a blue baseball glove, a black kite and a pink sports ball."
+    },
+    "557": {
+        "objects": [
+            "surfboard",
+            "baseball glove",
+            "kite",
+            "sports ball"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue surfboard, a green baseball glove, a red kite and a pink sports ball."
+    },
+    "558": {
+        "objects": [
+            "surfboard",
+            "baseball glove",
+            "kite",
+            "sports ball"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black surfboard, a yellow baseball glove, a red kite and a red sports ball."
+    },
+    "559": {
+        "objects": [
+            "surfboard",
+            "baseball glove",
+            "kite",
+            "sports ball"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink surfboard, a black baseball glove, a green kite and a pink sports ball."
+    },
+    "560": {
+        "objects": [
+            "boat",
+            "train",
+            "bus",
+            "car"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white boat, a blue train, a purple bus and a green car."
+    },
+    "561": {
+        "objects": [
+            "boat",
+            "train",
+            "bus",
+            "car"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink boat, a green train, a green bus and a white car."
+    },
+    "562": {
+        "objects": [
+            "boat",
+            "train",
+            "bus",
+            "car"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white boat, a white train, a yellow bus and a purple car."
+    },
+    "563": {
+        "objects": [
+            "boat",
+            "train",
+            "bus",
+            "car"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black boat, a purple train, a blue bus and a black car."
+    },
+    "564": {
+        "objects": [
+            "donut",
+            "carrot",
+            "broccoli",
+            "apple"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink donut, a black carrot, a yellow broccoli and a purple apple."
+    },
+    "565": {
+        "objects": [
+            "donut",
+            "carrot",
+            "broccoli",
+            "apple"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow donut, a red carrot, a yellow broccoli and a black apple."
+    },
+    "566": {
+        "objects": [
+            "donut",
+            "carrot",
+            "broccoli",
+            "apple"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black donut, a black carrot, a yellow broccoli and a green apple."
+    },
+    "567": {
+        "objects": [
+            "donut",
+            "carrot",
+            "broccoli",
+            "apple"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink donut, a green carrot, a black broccoli and a black apple."
+    },
+    "568": {
+        "objects": [
+            "baseball bat",
+            "kite",
+            "sports ball",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green baseball bat, a red kite, a yellow sports ball and a pink frisbee."
+    },
+    "569": {
+        "objects": [
+            "baseball bat",
+            "kite",
+            "sports ball",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green baseball bat, a black kite, a green sports ball and a green frisbee."
+    },
+    "570": {
+        "objects": [
+            "baseball bat",
+            "kite",
+            "sports ball",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red baseball bat, a black kite, a green sports ball and a green frisbee."
+    },
+    "571": {
+        "objects": [
+            "baseball bat",
+            "kite",
+            "sports ball",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red baseball bat, a pink kite, a blue sports ball and a white frisbee."
+    },
+    "572": {
+        "objects": [
+            "bed",
+            "potted plant",
+            "chair",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black bed, a purple potted plant, a purple chair and a green curtain."
+    },
+    "573": {
+        "objects": [
+            "bed",
+            "potted plant",
+            "chair",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue bed, a pink potted plant, a black chair and a black curtain."
+    },
+    "574": {
+        "objects": [
+            "bed",
+            "potted plant",
+            "chair",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue bed, a green potted plant, a yellow chair and a purple curtain."
+    },
+    "575": {
+        "objects": [
+            "bed",
+            "potted plant",
+            "chair",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white bed, a red potted plant, a blue chair and a purple curtain."
+    },
+    "576": {
+        "objects": [
+            "giraffe",
+            "cow",
+            "cat",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue giraffe, a black cow, a blue cat and a purple bird."
+    },
+    "577": {
+        "objects": [
+            "giraffe",
+            "cow",
+            "cat",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green giraffe, a blue cow, a purple cat and a pink bird."
+    },
+    "578": {
+        "objects": [
+            "giraffe",
+            "cow",
+            "cat",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red giraffe, a red cow, a pink cat and a white bird."
+    },
+    "579": {
+        "objects": [
+            "giraffe",
+            "cow",
+            "cat",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white giraffe, a green cow, a white cat and a black bird."
+    },
+    "580": {
+        "objects": [
+            "pizza",
+            "sandwich",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A pink pizza, a yellow sandwich, a yellow apple and a purple banana."
+    },
+    "581": {
+        "objects": [
+            "pizza",
+            "sandwich",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue pizza, a yellow sandwich, a black apple and a white banana."
+    },
+    "582": {
+        "objects": [
+            "pizza",
+            "sandwich",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue pizza, a yellow sandwich, a white apple and a purple banana."
+    },
+    "583": {
+        "objects": [
+            "pizza",
+            "sandwich",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue pizza, a blue sandwich, a purple apple and a red banana."
+    },
+    "584": {
+        "objects": [
+            "surfboard",
+            "kite",
+            "sports ball",
+            "skis"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue surfboard, a red kite, a blue sports ball and a pair of pink skis."
+    },
+    "585": {
+        "objects": [
+            "surfboard",
+            "kite",
+            "sports ball",
+            "skis"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue surfboard, a white kite, a purple sports ball and a pair of purple skis."
+    },
+    "586": {
+        "objects": [
+            "surfboard",
+            "kite",
+            "sports ball",
+            "skis"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A purple surfboard, a green kite, a purple sports ball and a pair of pink skis."
+    },
+    "587": {
+        "objects": [
+            "surfboard",
+            "kite",
+            "sports ball",
+            "skis"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white surfboard, a red kite, a blue sports ball and a pair of white skis."
+    },
+    "588": {
+        "objects": [
+            "tennis racket",
+            "skateboard",
+            "surfboard",
+            "kite"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black tennis racket, a green skateboard, a green surfboard and a blue kite."
+    },
+    "589": {
+        "objects": [
+            "tennis racket",
+            "skateboard",
+            "surfboard",
+            "kite"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green tennis racket, a yellow skateboard, a blue surfboard and a pink kite."
+    },
+    "590": {
+        "objects": [
+            "tennis racket",
+            "skateboard",
+            "surfboard",
+            "kite"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow tennis racket, a green skateboard, a purple surfboard and a green kite."
+    },
+    "591": {
+        "objects": [
+            "tennis racket",
+            "skateboard",
+            "surfboard",
+            "kite"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow tennis racket, a yellow skateboard, a red surfboard and a black kite."
+    },
+    "592": {
+        "objects": [
+            "hair drier",
+            "scissors",
+            "book",
+            "teddy bear"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow hair drier, a pair of yellow scissors, a white book and a yellow teddy bear."
+    },
+    "593": {
+        "objects": [
+            "hair drier",
+            "scissors",
+            "book",
+            "teddy bear"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red hair drier, a pair of blue scissors, a white book and a black teddy bear."
+    },
+    "594": {
+        "objects": [
+            "hair drier",
+            "scissors",
+            "book",
+            "teddy bear"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A red hair drier, a pair of white scissors, a red book and a white teddy bear."
+    },
+    "595": {
+        "objects": [
+            "hair drier",
+            "scissors",
+            "book",
+            "teddy bear"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A white hair drier, a pair of yellow scissors, a red book and a black teddy bear."
+    },
+    "596": {
+        "objects": [
+            "hair drier",
+            "scissors",
+            "book",
+            "vase"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A yellow hair drier, a pair of pink scissors, a green book and a green vase."
+    },
+    "597": {
+        "objects": [
+            "hair drier",
+            "scissors",
+            "book",
+            "vase"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A black hair drier, a pair of purple scissors, a red book and a white vase."
+    },
+    "598": {
+        "objects": [
+            "hair drier",
+            "scissors",
+            "book",
+            "vase"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A blue hair drier, a pair of green scissors, a black book and a purple vase."
+    },
+    "599": {
+        "objects": [
+            "hair drier",
+            "scissors",
+            "book",
+            "vase"
+        ],
+        "tags": {
+            "objects number": 4
+        },
+        "prompt": "A green hair drier, a pair of purple scissors, a green book and a purple vase."
+    }
+}

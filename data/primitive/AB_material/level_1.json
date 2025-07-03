@@ -1,0 +1,1802 @@
+{
+    "0": {
+        "objects": [
+            "fork"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A copper fork."
+    },
+    "1": {
+        "objects": [
+            "fork"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A wooden fork."
+    },
+    "2": {
+        "objects": [
+            "fork"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A plastic fork made of plastic."
+    },
+    "3": {
+        "objects": [
+            "fork"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A golden fork."
+    },
+    "4": {
+        "objects": [
+            "fork"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A fork made of stainless steel."
+    },
+    "5": {
+        "objects": [
+            "fork"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "An aluminum fork."
+    },
+    "6": {
+        "objects": [
+            "fork"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A fork made of brass."
+    },
+    "7": {
+        "objects": [
+            "fork"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A fork made of silver."
+    },
+    "8": {
+        "objects": [
+            "fork"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A fork made of bone."
+    },
+    "9": {
+        "objects": [
+            "fork"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A ceramic fork."
+    },
+    "10": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A chair made of glass."
+    },
+    "11": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A chair made of fabric."
+    },
+    "12": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A chair made of velvet."
+    },
+    "13": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "An upholstered chair made of fabric."
+    },
+    "14": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A rattan chair."
+    },
+    "15": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A chair made of wicker."
+    },
+    "16": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A chair made of microfiber."
+    },
+    "17": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A chair made of bamboo."
+    },
+    "18": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A chair made of acrylic."
+    },
+    "19": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A chair made of plastic."
+    },
+    "20": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A dining table made of stone."
+    },
+    "21": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A dining table made of granite."
+    },
+    "22": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A dining table made of acrylic."
+    },
+    "23": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A resin dining table."
+    },
+    "24": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A metal dining table."
+    },
+    "25": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A dining table made of concrete."
+    },
+    "26": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A marble dining table."
+    },
+    "27": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A glass dining table made of glass."
+    },
+    "28": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A ceramic dining table."
+    },
+    "29": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A wooden dining table."
+    },
+    "30": {
+        "objects": [
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A wooden toilet."
+    },
+    "31": {
+        "objects": [
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A toilet made of tiles."
+    },
+    "32": {
+        "objects": [
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A toilet made of granite."
+    },
+    "33": {
+        "objects": [
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A toilet made of stainless steel."
+    },
+    "34": {
+        "objects": [
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A toilet made of glass."
+    },
+    "35": {
+        "objects": [
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A toilet made of brass."
+    },
+    "36": {
+        "objects": [
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A chrome toilet."
+    },
+    "37": {
+        "objects": [
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A toilet made of resin."
+    },
+    "38": {
+        "objects": [
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A toilet made of marble."
+    },
+    "39": {
+        "objects": [
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A ceramic toilet."
+    },
+    "40": {
+        "objects": [
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A metallic airplane."
+    },
+    "41": {
+        "objects": [
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A plastic airplane."
+    },
+    "42": {
+        "objects": [
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A glass airplane."
+    },
+    "43": {
+        "objects": [
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "An airplane made of wood."
+    },
+    "44": {
+        "objects": [
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A leather-covered airplane."
+    },
+    "45": {
+        "objects": [
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A foam airplane."
+    },
+    "46": {
+        "objects": [
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A wooden airplane."
+    },
+    "47": {
+        "objects": [
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A rubber airplane."
+    },
+    "48": {
+        "objects": [
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A ceramic airplane made of clay."
+    },
+    "49": {
+        "objects": [
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A fabric-covered airplane."
+    },
+    "50": {
+        "objects": [
+            "cup"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A metal cup."
+    },
+    "51": {
+        "objects": [
+            "cup"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A cup made of paper."
+    },
+    "52": {
+        "objects": [
+            "cup"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A wooden cup."
+    },
+    "53": {
+        "objects": [
+            "cup"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A cup made of silicone."
+    },
+    "54": {
+        "objects": [
+            "cup"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A plastic cup."
+    },
+    "55": {
+        "objects": [
+            "cup"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A cup made of stone."
+    },
+    "56": {
+        "objects": [
+            "cup"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A cup made of leather."
+    },
+    "57": {
+        "objects": [
+            "cup"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A ceramic cup."
+    },
+    "58": {
+        "objects": [
+            "cup"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A bamboo cup."
+    },
+    "59": {
+        "objects": [
+            "cup"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A ceramic cup."
+    },
+    "60": {
+        "objects": [
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A spoon made of stainless steel."
+    },
+    "61": {
+        "objects": [
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A wooden spoon."
+    },
+    "62": {
+        "objects": [
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A ceramic spoon."
+    },
+    "63": {
+        "objects": [
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "An ivory spoon made of ivory."
+    },
+    "64": {
+        "objects": [
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A spoon made of resin."
+    },
+    "65": {
+        "objects": [
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A silver spoon."
+    },
+    "66": {
+        "objects": [
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A brass spoon."
+    },
+    "67": {
+        "objects": [
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A spoon made of bamboo."
+    },
+    "68": {
+        "objects": [
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A spoon made of titanium."
+    },
+    "69": {
+        "objects": [
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A copper spoon."
+    },
+    "70": {
+        "objects": [
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A potted plant made of metal."
+    },
+    "71": {
+        "objects": [
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A potted plant made of terracotta."
+    },
+    "72": {
+        "objects": [
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A potted plant made of concrete."
+    },
+    "73": {
+        "objects": [
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A potted plant in a glass container."
+    },
+    "74": {
+        "objects": [
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A potted plant made of wicker."
+    },
+    "75": {
+        "objects": [
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A potted plant made of stone."
+    },
+    "76": {
+        "objects": [
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A potted plant made of wood."
+    },
+    "77": {
+        "objects": [
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A potted plant made of ceramic."
+    },
+    "78": {
+        "objects": [
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A potted plant made of plastic."
+    },
+    "79": {
+        "objects": [
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A potted plant made of fabric."
+    },
+    "80": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A glass bed made of glass."
+    },
+    "81": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A bed made of wicker."
+    },
+    "82": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A bed made of bamboo."
+    },
+    "83": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A bed made of rattan."
+    },
+    "84": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A bed made of concrete."
+    },
+    "85": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A wooden bed."
+    },
+    "86": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A bed made of metal."
+    },
+    "87": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A bed made of stone."
+    },
+    "88": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A bed upholstered in fabric."
+    },
+    "89": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A bed made of velvet."
+    },
+    "90": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A wooden carpet."
+    },
+    "91": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "An acrylic carpet."
+    },
+    "92": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A carpet made of stone."
+    },
+    "93": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A carpet made of wool."
+    },
+    "94": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A bamboo carpet made of natural fibers."
+    },
+    "95": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A carpet made of concrete."
+    },
+    "96": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A carpet made of fabric."
+    },
+    "97": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A carpet made of leather."
+    },
+    "98": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A plastic carpet."
+    },
+    "99": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A cotton carpet."
+    },
+    "100": {
+        "objects": [
+            "train"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A train made of leather."
+    },
+    "101": {
+        "objects": [
+            "train"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A rubber train."
+    },
+    "102": {
+        "objects": [
+            "train"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A ceramic train."
+    },
+    "103": {
+        "objects": [
+            "train"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A metallic train."
+    },
+    "104": {
+        "objects": [
+            "train"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A wooden train."
+    },
+    "105": {
+        "objects": [
+            "train"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A wooden train."
+    },
+    "106": {
+        "objects": [
+            "train"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A train made of foam."
+    },
+    "107": {
+        "objects": [
+            "train"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A train made of fabric."
+    },
+    "108": {
+        "objects": [
+            "train"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A train made of glass."
+    },
+    "109": {
+        "objects": [
+            "train"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A plastic train toy."
+    },
+    "110": {
+        "objects": [
+            "bus"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A bus made of fabric."
+    },
+    "111": {
+        "objects": [
+            "bus"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A plastic bus."
+    },
+    "112": {
+        "objects": [
+            "bus"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A bus made of leather."
+    },
+    "113": {
+        "objects": [
+            "bus"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A bamboo bus."
+    },
+    "114": {
+        "objects": [
+            "bus"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A wooden bus."
+    },
+    "115": {
+        "objects": [
+            "bus"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A rubber-made bus."
+    },
+    "116": {
+        "objects": [
+            "bus"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A ceramic bus."
+    },
+    "117": {
+        "objects": [
+            "bus"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A bus made of concrete."
+    },
+    "118": {
+        "objects": [
+            "bus"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "An aluminum bus."
+    },
+    "119": {
+        "objects": [
+            "bus"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A bus made of fiberglass."
+    },
+    "120": {
+        "objects": [
+            "boat"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A wooden boat."
+    },
+    "121": {
+        "objects": [
+            "boat"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A steel boat made of steel."
+    },
+    "122": {
+        "objects": [
+            "boat"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A boat made of synthetic fabrics."
+    },
+    "123": {
+        "objects": [
+            "boat"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "An aluminum boat."
+    },
+    "124": {
+        "objects": [
+            "boat"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A boat made of copper."
+    },
+    "125": {
+        "objects": [
+            "boat"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A boat made of carbon fiber."
+    },
+    "126": {
+        "objects": [
+            "boat"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A boat made of brass."
+    },
+    "127": {
+        "objects": [
+            "boat"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A boat made of canvas."
+    },
+    "128": {
+        "objects": [
+            "boat"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A boat made of resin."
+    },
+    "129": {
+        "objects": [
+            "boat"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A boat made of leather."
+    },
+    "130": {
+        "objects": [
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A bottle made of resin."
+    },
+    "131": {
+        "objects": [
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A wooden bottle."
+    },
+    "132": {
+        "objects": [
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A bottle made of leather."
+    },
+    "133": {
+        "objects": [
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A plastic bottle."
+    },
+    "134": {
+        "objects": [
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A glass bottle."
+    },
+    "135": {
+        "objects": [
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A bottle made of bamboo."
+    },
+    "136": {
+        "objects": [
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A bottle made of fabric."
+    },
+    "137": {
+        "objects": [
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A ceramic bottle made of clay."
+    },
+    "138": {
+        "objects": [
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A bottle made of paper."
+    },
+    "139": {
+        "objects": [
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A bottle made of silicone."
+    },
+    "140": {
+        "objects": [
+            "car"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A car made of fabric."
+    },
+    "141": {
+        "objects": [
+            "car"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A car with a suede interior."
+    },
+    "142": {
+        "objects": [
+            "car"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A car made of marble."
+    },
+    "143": {
+        "objects": [
+            "car"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A car made of glass."
+    },
+    "144": {
+        "objects": [
+            "car"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "An acrylic car."
+    },
+    "145": {
+        "objects": [
+            "car"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A car with a leather interior."
+    },
+    "146": {
+        "objects": [
+            "car"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A car made of rubber."
+    },
+    "147": {
+        "objects": [
+            "car"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A ceramic car."
+    },
+    "148": {
+        "objects": [
+            "car"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A car made of metal."
+    },
+    "149": {
+        "objects": [
+            "car"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "An aluminum car."
+    },
+    "150": {
+        "objects": [
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A wooden bowl."
+    },
+    "151": {
+        "objects": [
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A porcelain bowl made of porcelain."
+    },
+    "152": {
+        "objects": [
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A plastic bowl."
+    },
+    "153": {
+        "objects": [
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A bowl made of brass."
+    },
+    "154": {
+        "objects": [
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "An aluminum bowl."
+    },
+    "155": {
+        "objects": [
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A copper bowl."
+    },
+    "156": {
+        "objects": [
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A bamboo bowl."
+    },
+    "157": {
+        "objects": [
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A bowl made of granite."
+    },
+    "158": {
+        "objects": [
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A marble bowl."
+    },
+    "159": {
+        "objects": [
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A glass bowl."
+    },
+    "160": {
+        "objects": [
+            "truck"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A truck made of plastic."
+    },
+    "161": {
+        "objects": [
+            "truck"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A rubber toy truck."
+    },
+    "162": {
+        "objects": [
+            "truck"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A truck made of glass."
+    },
+    "163": {
+        "objects": [
+            "truck"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A truck made of leather."
+    },
+    "164": {
+        "objects": [
+            "truck"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A metal truck."
+    },
+    "165": {
+        "objects": [
+            "truck"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A foam-filled truck."
+    },
+    "166": {
+        "objects": [
+            "truck"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A wooden truck."
+    },
+    "167": {
+        "objects": [
+            "truck"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A truck made of fabric."
+    },
+    "168": {
+        "objects": [
+            "truck"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A ceramic truck."
+    },
+    "169": {
+        "objects": [
+            "truck"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A wooden truck."
+    },
+    "170": {
+        "objects": [
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A motorcycle made of leather."
+    },
+    "171": {
+        "objects": [
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A metallic motorcycle."
+    },
+    "172": {
+        "objects": [
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "An aluminum motorcycle."
+    },
+    "173": {
+        "objects": [
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A wooden motorcycle."
+    },
+    "174": {
+        "objects": [
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A motorcycle made of stainless steel."
+    },
+    "175": {
+        "objects": [
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A motorcycle made of rubber."
+    },
+    "176": {
+        "objects": [
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A motorcycle made of chrome."
+    },
+    "177": {
+        "objects": [
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A motorcycle made of carbon fiber."
+    },
+    "178": {
+        "objects": [
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A motorcycle made of fabric."
+    },
+    "179": {
+        "objects": [
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A motorcycle made of stone."
+    },
+    "180": {
+        "objects": [
+            "knife"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A glass knife."
+    },
+    "181": {
+        "objects": [
+            "knife"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A metallic knife."
+    },
+    "182": {
+        "objects": [
+            "knife"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "An ivory-handled knife."
+    },
+    "183": {
+        "objects": [
+            "knife"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A leather knife."
+    },
+    "184": {
+        "objects": [
+            "knife"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A knife made of bone."
+    },
+    "185": {
+        "objects": [
+            "knife"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A knife made of stone."
+    },
+    "186": {
+        "objects": [
+            "knife"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A carbon-fiber knife."
+    },
+    "187": {
+        "objects": [
+            "knife"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A plastic knife."
+    },
+    "188": {
+        "objects": [
+            "knife"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A knife made of ceramic."
+    },
+    "189": {
+        "objects": [
+            "knife"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A wooden knife."
+    },
+    "190": {
+        "objects": [
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A canvas curtain."
+    },
+    "191": {
+        "objects": [
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A curtain made of velvet."
+    },
+    "192": {
+        "objects": [
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A curtain made of lace."
+    },
+    "193": {
+        "objects": [
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A curtain made of silk."
+    },
+    "194": {
+        "objects": [
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A curtain made of wool."
+    },
+    "195": {
+        "objects": [
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A curtain made of polyester."
+    },
+    "196": {
+        "objects": [
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A curtain made of nylon."
+    },
+    "197": {
+        "objects": [
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A curtain made of suede."
+    },
+    "198": {
+        "objects": [
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A curtain made of linen."
+    },
+    "199": {
+        "objects": [
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A curtain made of stone."
+    }
+}

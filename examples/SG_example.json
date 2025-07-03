@@ -1,0 +1,21 @@
+{
+    "clock": {
+        "counting": 2,
+        "color": "white",
+        "material": "",
+        "pattern": "",
+        "shape": "",
+        "sentiment": ""
+    },
+    "knife": {
+        "counting": 2,
+        "color": "",
+        "material": "steel",
+        "pattern": "",
+        "shape": "",
+        "sentiment": ""
+    },
+    "connection": {
+        "(clock, knife)": "on the side of"
+    }
+}

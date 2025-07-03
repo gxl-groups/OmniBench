@@ -1,0 +1,6902 @@
+{
+    "1": {
+        "objects": [
+            "baseball glove"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three baseball gloves."
+    },
+    "2": {
+        "objects": [
+            "fire hydrant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three fire hydrants."
+    },
+    "3": {
+        "objects": [
+            "woman"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three women."
+    },
+    "4": {
+        "objects": [
+            "keyboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three keyboards."
+    },
+    "5": {
+        "objects": [
+            "pizza"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three pizzas."
+    },
+    "6": {
+        "objects": [
+            "kite"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three kites."
+    },
+    "7": {
+        "objects": [
+            "skateboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three skateboards."
+    },
+    "8": {
+        "objects": [
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three toilets."
+    },
+    "9": {
+        "objects": [
+            "oven"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three ovens."
+    },
+    "10": {
+        "objects": [
+            "shirt"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three shirts."
+    },
+    "11": {
+        "objects": [
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three sandwiches."
+    },
+    "12": {
+        "objects": [
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three potted plants."
+    },
+    "13": {
+        "objects": [
+            "tv"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three TVs."
+    },
+    "14": {
+        "objects": [
+            "toaster"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three toasters."
+    },
+    "15": {
+        "objects": [
+            "T-shirt"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three T-shirts."
+    },
+    "16": {
+        "objects": [
+            "elephant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three elephants."
+    },
+    "17": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three beds."
+    },
+    "18": {
+        "objects": [
+            "traffic light"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three traffic lights."
+    },
+    "19": {
+        "objects": [
+            "microwave"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three microwaves."
+    },
+    "20": {
+        "objects": [
+            "apple"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three apples."
+    },
+    "21": {
+        "objects": [
+            "coat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three coats."
+    },
+    "22": {
+        "objects": [
+            "snowboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three snowboards."
+    },
+    "23": {
+        "objects": [
+            "hot dog"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three hot dogs."
+    },
+    "24": {
+        "objects": [
+            "horse"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three horses."
+    },
+    "25": {
+        "objects": [
+            "cup"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three cups."
+    },
+    "26": {
+        "objects": [
+            "fork"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three forks."
+    },
+    "27": {
+        "objects": [
+            "baseball bat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three baseball bats."
+    },
+    "28": {
+        "objects": [
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three pairs of trousers."
+    },
+    "29": {
+        "objects": [
+            "baby"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three babies."
+    },
+    "30": {
+        "objects": [
+            "car"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three cars."
+    },
+    "31": {
+        "objects": [
+            "suitcase"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three suitcases."
+    },
+    "32": {
+        "objects": [
+            "remote"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three remotes."
+    },
+    "33": {
+        "objects": [
+            "boat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three boats."
+    },
+    "34": {
+        "objects": [
+            "scissors"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three pairs of scissors."
+    },
+    "35": {
+        "objects": [
+            "book"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three books."
+    },
+    "36": {
+        "objects": [
+            "tennis racket"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three tennis rackets."
+    },
+    "37": {
+        "objects": [
+            "carrot"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three carrots."
+    },
+    "38": {
+        "objects": [
+            "knife"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three knives."
+    },
+    "39": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three carpets."
+    },
+    "40": {
+        "objects": [
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three backpacks."
+    },
+    "41": {
+        "objects": [
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three airplanes."
+    },
+    "42": {
+        "objects": [
+            "sheep"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three sheep."
+    },
+    "43": {
+        "objects": [
+            "surfboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three surfboards."
+    },
+    "44": {
+        "objects": [
+            "bench"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three benches."
+    },
+    "45": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three chairs."
+    },
+    "46": {
+        "objects": [
+            "banana"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three bananas."
+    },
+    "47": {
+        "objects": [
+            "bus"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three buses."
+    },
+    "48": {
+        "objects": [
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three bowls."
+    },
+    "49": {
+        "objects": [
+            "broccoli"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three broccolis."
+    },
+    "50": {
+        "objects": [
+            "mouse"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 3
+        },
+        "prompt": "Three mice."
+    },
+    "51": {
+        "objects": [
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four motorcycles."
+    },
+    "52": {
+        "objects": [
+            "orange"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four oranges."
+    },
+    "53": {
+        "objects": [
+            "broccoli"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four broccolis."
+    },
+    "54": {
+        "objects": [
+            "car"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four cars."
+    },
+    "55": {
+        "objects": [
+            "hair drier"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four hair dryers."
+    },
+    "56": {
+        "objects": [
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four backpacks."
+    },
+    "57": {
+        "objects": [
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four bottles."
+    },
+    "58": {
+        "objects": [
+            "man"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four men."
+    },
+    "59": {
+        "objects": [
+            "coat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four coats."
+    },
+    "60": {
+        "objects": [
+            "skis"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four pairs of skis."
+    },
+    "61": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four carpets."
+    },
+    "62": {
+        "objects": [
+            "toaster"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four toasters."
+    },
+    "63": {
+        "objects": [
+            "cake"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four cakes."
+    },
+    "64": {
+        "objects": [
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four toilets."
+    },
+    "65": {
+        "objects": [
+            "cup"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four cups."
+    },
+    "66": {
+        "objects": [
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four pairs of trousers."
+    },
+    "67": {
+        "objects": [
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four bowls."
+    },
+    "68": {
+        "objects": [
+            "remote"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four remotes."
+    },
+    "69": {
+        "objects": [
+            "bus"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four buses."
+    },
+    "70": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four beds."
+    },
+    "71": {
+        "objects": [
+            "laptop"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four laptops."
+    },
+    "72": {
+        "objects": [
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four spoons."
+    },
+    "73": {
+        "objects": [
+            "bench"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four benches."
+    },
+    "74": {
+        "objects": [
+            "tennis racket"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four tennis rackets."
+    },
+    "75": {
+        "objects": [
+            "umbrella"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four umbrellas."
+    },
+    "76": {
+        "objects": [
+            "carrot"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four carrots."
+    },
+    "77": {
+        "objects": [
+            "baby"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four babies."
+    },
+    "78": {
+        "objects": [
+            "surfboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four surfboards."
+    },
+    "79": {
+        "objects": [
+            "keyboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four keyboards."
+    },
+    "80": {
+        "objects": [
+            "mouse"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four mice."
+    },
+    "81": {
+        "objects": [
+            "toothbrush"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four toothbrushes."
+    },
+    "82": {
+        "objects": [
+            "giraffe"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four giraffes."
+    },
+    "83": {
+        "objects": [
+            "suitcase"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four suitcases."
+    },
+    "84": {
+        "objects": [
+            "handbag"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four handbags."
+    },
+    "85": {
+        "objects": [
+            "sheep"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four sheep."
+    },
+    "86": {
+        "objects": [
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four curtains."
+    },
+    "87": {
+        "objects": [
+            "chair"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four chairs."
+    },
+    "88": {
+        "objects": [
+            "boy"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four boys."
+    },
+    "89": {
+        "objects": [
+            "zebra"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four zebras."
+    },
+    "90": {
+        "objects": [
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four sandwiches."
+    },
+    "91": {
+        "objects": [
+            "pizza"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four pizzas."
+    },
+    "92": {
+        "objects": [
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four frisbees."
+    },
+    "93": {
+        "objects": [
+            "fire hydrant"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four fire hydrants."
+    },
+    "94": {
+        "objects": [
+            "train"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four trains."
+    },
+    "95": {
+        "objects": [
+            "snowboard"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four snowboards."
+    },
+    "96": {
+        "objects": [
+            "boat"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four boats."
+    },
+    "97": {
+        "objects": [
+            "fork"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four forks."
+    },
+    "98": {
+        "objects": [
+            "bird"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four birds."
+    },
+    "99": {
+        "objects": [
+            "bear"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four bears."
+    },
+    "100": {
+        "objects": [
+            "traffic light"
+        ],
+        "tags": {
+            "objects number": 1,
+            "sum numeracy": 4
+        },
+        "prompt": "Four traffic lights."
+    },
+    "101": {
+        "objects": [
+            "bus",
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "Two buses and one spoon."
+    },
+    "102": {
+        "objects": [
+            "scissors",
+            "cow"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "One pair of scissors and two cows."
+    },
+    "103": {
+        "objects": [
+            "bench",
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "One bench and two sandwiches."
+    },
+    "104": {
+        "objects": [
+            "bus",
+            "oven"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "Two buses and one oven."
+    },
+    "105": {
+        "objects": [
+            "orange",
+            "baby"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "Two oranges and one baby."
+    },
+    "106": {
+        "objects": [
+            "kite",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "Two kites and one bottle."
+    },
+    "107": {
+        "objects": [
+            "potted plant",
+            "tv"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "One potted plant and two TVs."
+    },
+    "108": {
+        "objects": [
+            "T-shirt",
+            "truck"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "Two T-shirts and one truck."
+    },
+    "109": {
+        "objects": [
+            "bicycle",
+            "fire hydrant"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "Two bicycles and one fire hydrant."
+    },
+    "110": {
+        "objects": [
+            "hot dog",
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "Two hot dogs and one spoon."
+    },
+    "111": {
+        "objects": [
+            "shirt",
+            "car"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "Two shirts and one car."
+    },
+    "112": {
+        "objects": [
+            "carpet",
+            "zebra"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "Two carpets and one zebra."
+    },
+    "113": {
+        "objects": [
+            "dog",
+            "skateboard"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "Two dogs and one skateboard."
+    },
+    "114": {
+        "objects": [
+            "hot dog",
+            "bear"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "Two hot dogs and one bear."
+    },
+    "115": {
+        "objects": [
+            "couch",
+            "cell phone"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "One couch and two cell phones."
+    },
+    "116": {
+        "objects": [
+            "toothbrush",
+            "dress"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "Two toothbrushes and one dress."
+    },
+    "117": {
+        "objects": [
+            "orange",
+            "keyboard"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "Two oranges and one keyboard."
+    },
+    "118": {
+        "objects": [
+            "carrot",
+            "sheep"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "Two carrots and one sheep."
+    },
+    "119": {
+        "objects": [
+            "truck",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "Two trucks and one carpet."
+    },
+    "120": {
+        "objects": [
+            "remote",
+            "scissors"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "One remote and two pairs of scissors."
+    },
+    "121": {
+        "objects": [
+            "potted plant",
+            "dog"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "Two potted plants and one dog."
+    },
+    "122": {
+        "objects": [
+            "orange",
+            "plate"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "One orange and two plates."
+    },
+    "123": {
+        "objects": [
+            "teddy bear",
+            "skis"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "Two teddy bears and one pair of skis."
+    },
+    "124": {
+        "objects": [
+            "parking meter",
+            "baseball glove"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "Two parking meters and one baseball glove."
+    },
+    "125": {
+        "objects": [
+            "dog",
+            "remote"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "One dog and two remotes."
+    },
+    "126": {
+        "objects": [
+            "dining table",
+            "baseball glove"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "One dining table and two baseball gloves."
+    },
+    "127": {
+        "objects": [
+            "cat",
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "One cat and two pairs of trousers."
+    },
+    "128": {
+        "objects": [
+            "potted plant",
+            "dress"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "Two potted plants and one dress."
+    },
+    "129": {
+        "objects": [
+            "fire hydrant",
+            "bear"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "Two fire hydrants and one bear."
+    },
+    "130": {
+        "objects": [
+            "suitcase",
+            "hair drier"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "One suitcase and two hair dryers."
+    },
+    "131": {
+        "objects": [
+            "cell phone",
+            "cup"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "One cell phone and two cups."
+    },
+    "132": {
+        "objects": [
+            "T-shirt",
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "Two T-shirts and one spoon."
+    },
+    "133": {
+        "objects": [
+            "fork",
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "One fork and two pairs of trousers."
+    },
+    "134": {
+        "objects": [
+            "curtain",
+            "tv"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "One curtain and two TVs."
+    },
+    "135": {
+        "objects": [
+            "knife",
+            "refrigerator"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "One knife and two refrigerators."
+    },
+    "136": {
+        "objects": [
+            "knife",
+            "coat"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "One knife and two coats."
+    },
+    "137": {
+        "objects": [
+            "keyboard",
+            "carrot"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "Two keyboards and one carrot."
+    },
+    "138": {
+        "objects": [
+            "baseball glove",
+            "giraffe"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "One baseball glove and two giraffes."
+    },
+    "139": {
+        "objects": [
+            "hot dog",
+            "teddy bear"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "Two hot dogs and one teddy bear."
+    },
+    "140": {
+        "objects": [
+            "oven",
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "Two ovens and one bowl."
+    },
+    "141": {
+        "objects": [
+            "oven",
+            "pizza"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "One oven and two pizzas."
+    },
+    "142": {
+        "objects": [
+            "bear",
+            "girl"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "Two bears and one girl."
+    },
+    "143": {
+        "objects": [
+            "dining table",
+            "horse"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "Two dining tables and one horse."
+    },
+    "144": {
+        "objects": [
+            "bowl",
+            "bus"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "One bowl and two buses."
+    },
+    "145": {
+        "objects": [
+            "pizza",
+            "truck"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "One pizza and two trucks."
+    },
+    "146": {
+        "objects": [
+            "bus",
+            "boy"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "One bus and two boys."
+    },
+    "147": {
+        "objects": [
+            "suitcase",
+            "cake"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "One suitcase and two cakes."
+    },
+    "148": {
+        "objects": [
+            "plate",
+            "dress"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "One plate and two dresses."
+    },
+    "149": {
+        "objects": [
+            "umbrella",
+            "donut"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "One umbrella and two donuts."
+    },
+    "150": {
+        "objects": [
+            "bench",
+            "kite"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "Two benches and one kite."
+    },
+    "151": {
+        "objects": [
+            "dining table",
+            "man"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "One dining table and three men."
+    },
+    "152": {
+        "objects": [
+            "snowboard",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "One snowboard and three carpets."
+    },
+    "153": {
+        "objects": [
+            "sheep",
+            "oven"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "Two sheep and two ovens."
+    },
+    "154": {
+        "objects": [
+            "skis",
+            "teddy bear"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "One pair of skis and three teddy bears."
+    },
+    "155": {
+        "objects": [
+            "traffic light",
+            "baseball glove"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "Two traffic lights and two baseball gloves."
+    },
+    "156": {
+        "objects": [
+            "hot dog",
+            "suitcase"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "One hot dog and three suitcases."
+    },
+    "157": {
+        "objects": [
+            "woman",
+            "teddy bear"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "Two women and two teddy bears."
+    },
+    "158": {
+        "objects": [
+            "coat",
+            "oven"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "Three coats and one oven."
+    },
+    "159": {
+        "objects": [
+            "sports ball",
+            "zebra"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "One sports ball and three zebras."
+    },
+    "160": {
+        "objects": [
+            "dog",
+            "traffic light"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "One dog and three traffic lights."
+    },
+    "161": {
+        "objects": [
+            "pizza",
+            "parking meter"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "One pizza and three parking meters."
+    },
+    "162": {
+        "objects": [
+            "plate",
+            "fire hydrant"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "One plate and three fire hydrants."
+    },
+    "163": {
+        "objects": [
+            "traffic light",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "Two traffic lights and two cats."
+    },
+    "164": {
+        "objects": [
+            "clock",
+            "sports ball"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "One clock and three sports balls."
+    },
+    "165": {
+        "objects": [
+            "laptop",
+            "tennis racket"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "Three laptops and one tennis racket."
+    },
+    "166": {
+        "objects": [
+            "toothbrush",
+            "boy"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "Three toothbrushes and one boy."
+    },
+    "167": {
+        "objects": [
+            "cat",
+            "apple"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "One cat and three apples."
+    },
+    "168": {
+        "objects": [
+            "giraffe",
+            "street sign"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "One giraffe and three street signs."
+    },
+    "169": {
+        "objects": [
+            "fire hydrant",
+            "train"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "One fire hydrant and three trains."
+    },
+    "170": {
+        "objects": [
+            "dress",
+            "skateboard"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "Two dresses and two skateboards."
+    },
+    "171": {
+        "objects": [
+            "clock",
+            "knife"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "Two clocks and two knives."
+    },
+    "172": {
+        "objects": [
+            "bench",
+            "cell phone"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "One bench and three cell phones."
+    },
+    "173": {
+        "objects": [
+            "elephant",
+            "snowboard"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "Three elephants and one snowboard."
+    },
+    "174": {
+        "objects": [
+            "sink",
+            "street sign"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "One sink and three street signs."
+    },
+    "175": {
+        "objects": [
+            "street sign",
+            "toothbrush"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "One street sign and three toothbrushes."
+    },
+    "176": {
+        "objects": [
+            "refrigerator",
+            "mouse"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "One refrigerator and three mice."
+    },
+    "177": {
+        "objects": [
+            "shirt",
+            "horse"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "Two shirts and two horses."
+    },
+    "178": {
+        "objects": [
+            "donut",
+            "clock"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "Three donuts and one clock."
+    },
+    "179": {
+        "objects": [
+            "refrigerator",
+            "baby"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "Two refrigerators and two babies."
+    },
+    "180": {
+        "objects": [
+            "oven",
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "Two ovens and two motorcycles."
+    },
+    "181": {
+        "objects": [
+            "oven",
+            "parking meter"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "One oven and three parking meters."
+    },
+    "182": {
+        "objects": [
+            "toilet",
+            "street sign"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "One toilet and three street signs."
+    },
+    "183": {
+        "objects": [
+            "umbrella",
+            "bed"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "One umbrella and three beds."
+    },
+    "184": {
+        "objects": [
+            "umbrella",
+            "vase"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "One umbrella and three vases."
+    },
+    "185": {
+        "objects": [
+            "hot dog",
+            "book"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "Three hot dogs and one book."
+    },
+    "186": {
+        "objects": [
+            "kite",
+            "zebra"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "Three kites and one zebra."
+    },
+    "187": {
+        "objects": [
+            "truck",
+            "girl"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "Three trucks and one girl."
+    },
+    "188": {
+        "objects": [
+            "carrot",
+            "hair drier"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "Two carrots and two hair dryers."
+    },
+    "189": {
+        "objects": [
+            "tennis racket",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "One tennis racket and three bananas."
+    },
+    "190": {
+        "objects": [
+            "train",
+            "couch"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "One train and three couches."
+    },
+    "191": {
+        "objects": [
+            "plate",
+            "horse"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "One plate and three horses."
+    },
+    "192": {
+        "objects": [
+            "remote",
+            "pizza"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "Two remotes and two pizzas."
+    },
+    "193": {
+        "objects": [
+            "broccoli",
+            "giraffe"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "Two broccolis and two giraffes."
+    },
+    "194": {
+        "objects": [
+            "suitcase",
+            "coat"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "Three suitcases and one coat."
+    },
+    "195": {
+        "objects": [
+            "apple",
+            "sports ball"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "Two apples and two sports balls."
+    },
+    "196": {
+        "objects": [
+            "apple",
+            "shirt"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "Three apples and one shirt."
+    },
+    "197": {
+        "objects": [
+            "toilet",
+            "train"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "One toilet and three trains."
+    },
+    "198": {
+        "objects": [
+            "spoon",
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "One spoon and three bicycles."
+    },
+    "199": {
+        "objects": [
+            "backpack",
+            "couch"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "Two backpacks and two couches."
+    },
+    "200": {
+        "objects": [
+            "suitcase",
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "One suitcase and three potted plants."
+    },
+    "201": {
+        "objects": [
+            "cow",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "Two cows and one cat."
+    },
+    "202": {
+        "objects": [
+            "hot dog",
+            "apple"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "Two hot dogs and one apple."
+    },
+    "203": {
+        "objects": [
+            "sink",
+            "microwave"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "One sink and two microwaves."
+    },
+    "204": {
+        "objects": [
+            "cell phone",
+            "laptop"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "One cell phone and two laptops."
+    },
+    "205": {
+        "objects": [
+            "donut",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "One donut and two bananas."
+    },
+    "206": {
+        "objects": [
+            "spoon",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "Two spoons and one bottle."
+    },
+    "207": {
+        "objects": [
+            "laptop",
+            "tv"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "Two laptops and one TV."
+    },
+    "208": {
+        "objects": [
+            "remote",
+            "tv"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "One remote and two TVs."
+    },
+    "209": {
+        "objects": [
+            "toilet",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "Two toilets and one curtain."
+    },
+    "210": {
+        "objects": [
+            "bowl",
+            "knife"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "Two bowls and one knife."
+    },
+    "211": {
+        "objects": [
+            "scissors",
+            "teddy bear"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "One pair of scissors and two teddy bears."
+    },
+    "212": {
+        "objects": [
+            "cow",
+            "dog"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "One cow and two dogs."
+    },
+    "213": {
+        "objects": [
+            "remote",
+            "mouse"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "Two remotes and one mouse."
+    },
+    "214": {
+        "objects": [
+            "man",
+            "baby"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "Two men and one baby."
+    },
+    "215": {
+        "objects": [
+            "hot dog",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "Two hot dogs and one banana."
+    },
+    "216": {
+        "objects": [
+            "toilet",
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "Two toilets and one potted plant."
+    },
+    "217": {
+        "objects": [
+            "horse",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "One horse and two cats."
+    },
+    "218": {
+        "objects": [
+            "surfboard",
+            "skis"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "Two surfboards and one pair of skis."
+    },
+    "219": {
+        "objects": [
+            "baseball bat",
+            "kite"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "One baseball bat and two kites."
+    },
+    "220": {
+        "objects": [
+            "bus",
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "One bus and two bicycles."
+    },
+    "221": {
+        "objects": [
+            "snowboard",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "Two snowboards and one frisbee."
+    },
+    "222": {
+        "objects": [
+            "book",
+            "teddy bear"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "One book and two teddy bears."
+    },
+    "223": {
+        "objects": [
+            "shirt",
+            "T-shirt"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "Two shirts and one T-shirt."
+    },
+    "224": {
+        "objects": [
+            "carpet",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "Two carpets and one curtain."
+    },
+    "225": {
+        "objects": [
+            "bed",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "Two beds and one curtain."
+    },
+    "226": {
+        "objects": [
+            "surfboard",
+            "snowboard"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "Two surfboards and one snowboard."
+    },
+    "227": {
+        "objects": [
+            "bowl",
+            "plate"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "One bowl and two plates."
+    },
+    "228": {
+        "objects": [
+            "dress",
+            "coat"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "One dress and two coats."
+    },
+    "229": {
+        "objects": [
+            "dining table",
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "One dining table and two potted plants."
+    },
+    "230": {
+        "objects": [
+            "refrigerator",
+            "toaster"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "One refrigerator and two toasters."
+    },
+    "231": {
+        "objects": [
+            "boat",
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "One boat and two airplanes."
+    },
+    "232": {
+        "objects": [
+            "toothbrush",
+            "hair drier"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "One toothbrush and two hair dryers."
+    },
+    "233": {
+        "objects": [
+            "hot dog",
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "One hot dog and two sandwiches."
+    },
+    "234": {
+        "objects": [
+            "hair drier",
+            "teddy bear"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "One hair dryer and two teddy bears."
+    },
+    "235": {
+        "objects": [
+            "skis",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "One pair of skis and two frisbees."
+    },
+    "236": {
+        "objects": [
+            "tennis racket",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "One tennis racket and two frisbees."
+    },
+    "237": {
+        "objects": [
+            "girl",
+            "baby"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "One girl and two babies."
+    },
+    "238": {
+        "objects": [
+            "keyboard",
+            "tv"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "Two keyboards and one TV."
+    },
+    "239": {
+        "objects": [
+            "sheep",
+            "horse"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "One sheep and two horses."
+    },
+    "240": {
+        "objects": [
+            "dog",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "Two dogs and one bird."
+    },
+    "241": {
+        "objects": [
+            "dog",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "One dog and two cats."
+    },
+    "242": {
+        "objects": [
+            "hot dog",
+            "carrot"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "One hot dog and two carrots."
+    },
+    "243": {
+        "objects": [
+            "giraffe",
+            "elephant"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "One giraffe and two elephants."
+    },
+    "244": {
+        "objects": [
+            "zebra",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "Two zebras and one cat."
+    },
+    "245": {
+        "objects": [
+            "donut",
+            "apple"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "Two donuts and one apple."
+    },
+    "246": {
+        "objects": [
+            "eye glasses",
+            "umbrella"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "One pair of eye glasses and two umbrellas."
+    },
+    "247": {
+        "objects": [
+            "baseball glove",
+            "skis"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "Two baseball gloves and one pair of skis."
+    },
+    "248": {
+        "objects": [
+            "shirt",
+            "coat"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "Two shirts and one coat."
+    },
+    "249": {
+        "objects": [
+            "kite",
+            "sports ball"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "One kite and two sports balls."
+    },
+    "250": {
+        "objects": [
+            "truck",
+            "bus"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 3
+        },
+        "prompt": "One truck and two buses."
+    },
+    "251": {
+        "objects": [
+            "cell phone",
+            "keyboard"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "One cell phone and three keyboards."
+    },
+    "252": {
+        "objects": [
+            "dining table",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "Two dining tables and two curtains."
+    },
+    "253": {
+        "objects": [
+            "bed",
+            "couch"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "Two beds and two couches."
+    },
+    "254": {
+        "objects": [
+            "kite",
+            "sports ball"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "Three kites and one sports ball."
+    },
+    "255": {
+        "objects": [
+            "clock",
+            "vase"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "Three clocks and one vase."
+    },
+    "256": {
+        "objects": [
+            "donut",
+            "hot dog"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "One donut and three hot dogs."
+    },
+    "257": {
+        "objects": [
+            "potted plant",
+            "couch"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "Two potted plants and two couches."
+    },
+    "258": {
+        "objects": [
+            "dining table",
+            "couch"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "One dining table and three couches."
+    },
+    "259": {
+        "objects": [
+            "fork",
+            "cup"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "Three forks and one cup."
+    },
+    "260": {
+        "objects": [
+            "remote",
+            "tv"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "Two remotes and two TVs."
+    },
+    "261": {
+        "objects": [
+            "broccoli",
+            "orange"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "Three pieces of broccoli and one orange."
+    },
+    "262": {
+        "objects": [
+            "cow",
+            "dog"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "Two cows and two dogs."
+    },
+    "263": {
+        "objects": [
+            "cow",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "One cow and three cats."
+    },
+    "264": {
+        "objects": [
+            "scissors",
+            "book"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "Three pairs of scissors and one book."
+    },
+    "265": {
+        "objects": [
+            "keyboard",
+            "tv"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "One keyboard and three TVs."
+    },
+    "266": {
+        "objects": [
+            "fork",
+            "plate"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "Three forks and one plate."
+    },
+    "267": {
+        "objects": [
+            "sink",
+            "oven"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "Three sinks and one oven."
+    },
+    "268": {
+        "objects": [
+            "train",
+            "car"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "One train and three cars."
+    },
+    "269": {
+        "objects": [
+            "bus",
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "Two buses and two airplanes."
+    },
+    "270": {
+        "objects": [
+            "tennis racket",
+            "kite"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "Three tennis rackets and one kite."
+    },
+    "271": {
+        "objects": [
+            "potted plant",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "Two potted plants and two curtains."
+    },
+    "272": {
+        "objects": [
+            "bear",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "Three bears and one bird."
+    },
+    "273": {
+        "objects": [
+            "cake",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "Three cakes and one banana."
+    },
+    "274": {
+        "objects": [
+            "cat",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "Two cats and two birds."
+    },
+    "275": {
+        "objects": [
+            "dress",
+            "coat"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "One dress and three coats."
+    },
+    "276": {
+        "objects": [
+            "zebra",
+            "sheep"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "Three zebras and one sheep."
+    },
+    "277": {
+        "objects": [
+            "toilet",
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "Two toilets and two potted plants."
+    },
+    "278": {
+        "objects": [
+            "orange",
+            "apple"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "One orange and three apples."
+    },
+    "279": {
+        "objects": [
+            "man",
+            "girl"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "Two men and two girls."
+    },
+    "280": {
+        "objects": [
+            "cake",
+            "pizza"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "One cake and three pizzas."
+    },
+    "281": {
+        "objects": [
+            "suitcase",
+            "handbag"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "Three suitcases and one handbag."
+    },
+    "282": {
+        "objects": [
+            "refrigerator",
+            "microwave"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "Two refrigerators and two microwaves."
+    },
+    "283": {
+        "objects": [
+            "bear",
+            "elephant"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "One bear and three elephants."
+    },
+    "284": {
+        "objects": [
+            "toilet",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "One toilet and three chairs."
+    },
+    "285": {
+        "objects": [
+            "cow",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "One cow and three birds."
+    },
+    "286": {
+        "objects": [
+            "cake",
+            "apple"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "Three cakes and one apple."
+    },
+    "287": {
+        "objects": [
+            "bowl",
+            "plate"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "One bowl and three plates."
+    },
+    "288": {
+        "objects": [
+            "coat",
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "One coat and three pairs of trousers."
+    },
+    "289": {
+        "objects": [
+            "cup",
+            "plate"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "One cup and three plates."
+    },
+    "290": {
+        "objects": [
+            "truck",
+            "train"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "One truck and three trains."
+    },
+    "291": {
+        "objects": [
+            "couch",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "Two couches and two carpets."
+    },
+    "292": {
+        "objects": [
+            "spoon",
+            "knife"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "Two spoons and two knives."
+    },
+    "293": {
+        "objects": [
+            "kite",
+            "snowboard"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "One kite and three snowboards."
+    },
+    "294": {
+        "objects": [
+            "woman",
+            "baby"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "One woman and three babies."
+    },
+    "295": {
+        "objects": [
+            "bed",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "Two beds and two chairs."
+    },
+    "296": {
+        "objects": [
+            "tennis racket",
+            "surfboard"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "One tennis racket and three surfboards."
+    },
+    "297": {
+        "objects": [
+            "scissors",
+            "vase"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "Two pairs of scissors and two vases."
+    },
+    "298": {
+        "objects": [
+            "umbrella",
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "Three umbrellas and one backpack."
+    },
+    "299": {
+        "objects": [
+            "fire hydrant",
+            "traffic light"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "One fire hydrant and three traffic lights."
+    },
+    "300": {
+        "objects": [
+            "bench",
+            "street sign"
+        ],
+        "tags": {
+            "objects number": 2,
+            "sum numeracy": 4
+        },
+        "prompt": "One bench and three street signs."
+    },
+    "301": {
+        "objects": [
+            "car",
+            "handbag",
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One car, one handbag, and one bicycle."
+    },
+    "302": {
+        "objects": [
+            "horse",
+            "bird",
+            "cell phone"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One horse, one bird, and one cell phone."
+    },
+    "303": {
+        "objects": [
+            "skis",
+            "plate",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One pair of skis, one plate, and one frisbee."
+    },
+    "304": {
+        "objects": [
+            "keyboard",
+            "oven",
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One keyboard, one oven, and one dining table."
+    },
+    "305": {
+        "objects": [
+            "dining table",
+            "coat",
+            "plate"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One dining table, one coat, and one plate."
+    },
+    "306": {
+        "objects": [
+            "parking meter",
+            "potted plant",
+            "sports ball"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One parking meter, one potted plant, and one sports ball."
+    },
+    "307": {
+        "objects": [
+            "fire hydrant",
+            "dining table",
+            "cow"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One fire hydrant, one dining table, and one cow."
+    },
+    "308": {
+        "objects": [
+            "parking meter",
+            "bench",
+            "bed"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One parking meter, one bench, and one bed."
+    },
+    "309": {
+        "objects": [
+            "cow",
+            "keyboard",
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One cow, one keyboard, and one spoon."
+    },
+    "310": {
+        "objects": [
+            "motorcycle",
+            "toilet",
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One motorcycle, one toilet, and one dining table."
+    },
+    "311": {
+        "objects": [
+            "bowl",
+            "backpack",
+            "man"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One bowl, one backpack and one man."
+    },
+    "312": {
+        "objects": [
+            "skateboard",
+            "carpet",
+            "horse"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One skateboard, one carpet, and one horse."
+    },
+    "313": {
+        "objects": [
+            "laptop",
+            "sink",
+            "keyboard"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One laptop, one sink, and one keyboard."
+    },
+    "314": {
+        "objects": [
+            "sports ball",
+            "plate",
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One sports ball, one plate, and one bicycle."
+    },
+    "315": {
+        "objects": [
+            "dining table",
+            "truck",
+            "laptop"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One dining table, one truck, and one laptop."
+    },
+    "316": {
+        "objects": [
+            "hot dog",
+            "sink",
+            "bus"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One hot dog, one sink, and one bus."
+    },
+    "317": {
+        "objects": [
+            "toaster",
+            "toothbrush",
+            "bear"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One toaster, one toothbrush, and one bear."
+    },
+    "318": {
+        "objects": [
+            "frisbee",
+            "refrigerator",
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One frisbee, one refrigerator and one airplane."
+    },
+    "319": {
+        "objects": [
+            "handbag",
+            "dog",
+            "man"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One handbag, one dog, and one man."
+    },
+    "320": {
+        "objects": [
+            "frisbee",
+            "dog",
+            "carrot"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One frisbee, one dog, and one carrot."
+    },
+    "321": {
+        "objects": [
+            "cake",
+            "bicycle",
+            "bear"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One cake, one bicycle, and one bear."
+    },
+    "322": {
+        "objects": [
+            "airplane",
+            "surfboard",
+            "hot dog"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One airplane, one surfboard, and one hot dog."
+    },
+    "323": {
+        "objects": [
+            "cup",
+            "carpet",
+            "kite"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One cup, one carpet, and one kite."
+    },
+    "324": {
+        "objects": [
+            "umbrella",
+            "microwave",
+            "bus"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One umbrella, one microwave, and one bus."
+    },
+    "325": {
+        "objects": [
+            "remote",
+            "snowboard",
+            "spoon"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One remote, one snowboard, and one spoon."
+    },
+    "326": {
+        "objects": [
+            "broccoli",
+            "plate",
+            "scissors"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One broccoli, one plate, and one pair of scissors."
+    },
+    "327": {
+        "objects": [
+            "bus",
+            "truck",
+            "baseball bat"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One bus, one truck, and one baseball bat."
+    },
+    "328": {
+        "objects": [
+            "microwave",
+            "carpet",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One microwave, one carpet, and one frisbee."
+    },
+    "329": {
+        "objects": [
+            "bench",
+            "bus",
+            "orange"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One bench, one bus, and one orange."
+    },
+    "330": {
+        "objects": [
+            "cell phone",
+            "toothbrush",
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One cell phone, one toothbrush, and one pair of trousers."
+    },
+    "331": {
+        "objects": [
+            "bed",
+            "suitcase",
+            "car"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One bed, one suitcase, and one car."
+    },
+    "332": {
+        "objects": [
+            "cow",
+            "knife",
+            "keyboard"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One cow, one knife, and one keyboard."
+    },
+    "333": {
+        "objects": [
+            "street sign",
+            "girl",
+            "toothbrush"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One street sign, one girl, and one toothbrush."
+    },
+    "334": {
+        "objects": [
+            "zebra",
+            "cup",
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One zebra, one cup, and one bowl."
+    },
+    "335": {
+        "objects": [
+            "backpack",
+            "oven",
+            "woman"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One backpack, one oven, and one woman."
+    },
+    "336": {
+        "objects": [
+            "plate",
+            "couch",
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One plate, one couch, and one motorcycle."
+    },
+    "337": {
+        "objects": [
+            "zebra",
+            "carrot",
+            "hot dog"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One zebra, one carrot, and one hot dog."
+    },
+    "338": {
+        "objects": [
+            "curtain",
+            "handbag",
+            "woman"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One curtain, one handbag, and one woman."
+    },
+    "339": {
+        "objects": [
+            "horse",
+            "cell phone",
+            "car"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One horse, one cell phone, and one car."
+    },
+    "340": {
+        "objects": [
+            "bus",
+            "eye glasses",
+            "kite"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One bus, one pair of eye glasses, and one kite."
+    },
+    "341": {
+        "objects": [
+            "T-shirt",
+            "umbrella",
+            "boy"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One T-shirt, one umbrella, and one boy."
+    },
+    "342": {
+        "objects": [
+            "vase",
+            "cup",
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One vase, one cup, and one bowl."
+    },
+    "343": {
+        "objects": [
+            "snowboard",
+            "clock",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One snowboard, one clock, and one chair."
+    },
+    "344": {
+        "objects": [
+            "remote",
+            "orange",
+            "sheep"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One remote, one orange, and one sheep."
+    },
+    "345": {
+        "objects": [
+            "fire hydrant",
+            "girl",
+            "microwave"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One fire hydrant, one girl, and one microwave."
+    },
+    "346": {
+        "objects": [
+            "eye glasses",
+            "orange",
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One pair of eye glasses, one orange, and one bicycle."
+    },
+    "347": {
+        "objects": [
+            "toilet",
+            "dining table",
+            "laptop"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One toilet, one dining table, and one laptop."
+    },
+    "348": {
+        "objects": [
+            "donut",
+            "book",
+            "keyboard"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One donut, one book, and one keyboard."
+    },
+    "349": {
+        "objects": [
+            "zebra",
+            "airplane",
+            "sink"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One zebra, one airplane, and one sink."
+    },
+    "350": {
+        "objects": [
+            "laptop",
+            "boy",
+            "suitcase"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One laptop, one boy, and one suitcase."
+    },
+    "351": {
+        "objects": [
+            "cake",
+            "remote",
+            "donut"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "Two cakes, one remote, and one donut."
+    },
+    "352": {
+        "objects": [
+            "suitcase",
+            "sandwich",
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "Two suitcases, one sandwich, and one toilet."
+    },
+    "353": {
+        "objects": [
+            "suitcase",
+            "cow",
+            "T-shirt"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One suitcase, two cows, and one T-shirt."
+    },
+    "354": {
+        "objects": [
+            "curtain",
+            "tennis racket",
+            "scissors"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One curtain, two tennis rackets, and one pair of scissors."
+    },
+    "355": {
+        "objects": [
+            "orange",
+            "bear",
+            "cell phone"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One orange, two bears, and one cell phone."
+    },
+    "356": {
+        "objects": [
+            "shirt",
+            "bus",
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One shirt, one bus, and two dining tables."
+    },
+    "357": {
+        "objects": [
+            "elephant",
+            "bear",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "Two elephants, one bear, and one curtain."
+    },
+    "358": {
+        "objects": [
+            "teddy bear",
+            "spoon",
+            "hot dog"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One teddy bear, one spoon, and two hot dogs."
+    },
+    "359": {
+        "objects": [
+            "clock",
+            "train",
+            "book"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One clock, one train, and two books."
+    },
+    "360": {
+        "objects": [
+            "scissors",
+            "oven",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One pair of scissors, two ovens, and one bottle."
+    },
+    "361": {
+        "objects": [
+            "coat",
+            "woman",
+            "cake"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "Two coats, one woman, and one cake."
+    },
+    "362": {
+        "objects": [
+            "clock",
+            "train",
+            "car"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One clock, one train, and two cars."
+    },
+    "363": {
+        "objects": [
+            "street sign",
+            "baby",
+            "hair drier"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One street sign, two babies, and one hair dryer."
+    },
+    "364": {
+        "objects": [
+            "laptop",
+            "sports ball",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One laptop, two sports balls, and one banana."
+    },
+    "365": {
+        "objects": [
+            "sink",
+            "man",
+            "bus"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One sink, two men, and one bus."
+    },
+    "366": {
+        "objects": [
+            "carpet",
+            "boy",
+            "man"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One carpet, one boy, and two men."
+    },
+    "367": {
+        "objects": [
+            "tv",
+            "teddy bear",
+            "pizza"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "Two TVs, one teddy bear, and one pizza."
+    },
+    "368": {
+        "objects": [
+            "remote",
+            "sandwich",
+            "teddy bear"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One remote, one sandwich, and two teddy bears."
+    },
+    "369": {
+        "objects": [
+            "toothbrush",
+            "dress",
+            "baby"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One toothbrush, one dress, and two babies."
+    },
+    "370": {
+        "objects": [
+            "giraffe",
+            "woman",
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One giraffe, two women, and one dining table."
+    },
+    "371": {
+        "objects": [
+            "microwave",
+            "coat",
+            "suitcase"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One microwave, one coat, and two suitcases."
+    },
+    "372": {
+        "objects": [
+            "fork",
+            "couch",
+            "tv"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One fork, one couch, and two TVs."
+    },
+    "373": {
+        "objects": [
+            "car",
+            "hot dog",
+            "pizza"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One car, one hot dog, and two pizzas."
+    },
+    "374": {
+        "objects": [
+            "tv",
+            "suitcase",
+            "tennis racket"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "Two TVs, one suitcase, and one tennis racket."
+    },
+    "375": {
+        "objects": [
+            "refrigerator",
+            "elephant",
+            "broccoli"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One refrigerator, one elephant, and two broccolis."
+    },
+    "376": {
+        "objects": [
+            "sink",
+            "scissors",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "Two sinks, one pair of scissors, and one bottle."
+    },
+    "377": {
+        "objects": [
+            "dining table",
+            "pizza",
+            "coat"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "Two dining tables, one pizza, and one coat."
+    },
+    "378": {
+        "objects": [
+            "snowboard",
+            "mouse",
+            "book"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One snowboard, two mice, and one book."
+    },
+    "379": {
+        "objects": [
+            "fire hydrant",
+            "keyboard",
+            "skateboard"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One fire hydrant, two keyboards, and one skateboard."
+    },
+    "380": {
+        "objects": [
+            "woman",
+            "bicycle",
+            "T-shirt"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One woman, one bicycle, and two T-shirts."
+    },
+    "381": {
+        "objects": [
+            "knife",
+            "motorcycle",
+            "train"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One knife, two motorcycles, and one train."
+    },
+    "382": {
+        "objects": [
+            "knife",
+            "trousers",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One knife, two pairs of trousers, and one banana."
+    },
+    "383": {
+        "objects": [
+            "cup",
+            "frisbee",
+            "hair drier"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One cup, two frisbees, and one hair dryer."
+    },
+    "384": {
+        "objects": [
+            "handbag",
+            "motorcycle",
+            "refrigerator"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One handbag, one motorcycle, and two refrigerators."
+    },
+    "385": {
+        "objects": [
+            "woman",
+            "hair drier",
+            "kite"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One woman, two hair dryers, and one kite."
+    },
+    "386": {
+        "objects": [
+            "baby",
+            "girl",
+            "baseball bat"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One baby, one girl, and two baseball bats."
+    },
+    "387": {
+        "objects": [
+            "dog",
+            "curtain",
+            "cell phone"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One dog, two curtains, and one cell phone."
+    },
+    "388": {
+        "objects": [
+            "broccoli",
+            "bicycle",
+            "cell phone"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "Two broccoli florets, one bicycle, and one cell phone."
+    },
+    "389": {
+        "objects": [
+            "skis",
+            "parking meter",
+            "orange"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One pair of skis, two parking meters, and one orange."
+    },
+    "390": {
+        "objects": [
+            "giraffe",
+            "spoon",
+            "keyboard"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One giraffe, one spoon, and two keyboards."
+    },
+    "391": {
+        "objects": [
+            "cat",
+            "cell phone",
+            "man"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "Two cats, one cell phone, and one man."
+    },
+    "392": {
+        "objects": [
+            "toothbrush",
+            "curtain",
+            "baseball glove"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One toothbrush, one curtain, and two baseball gloves."
+    },
+    "393": {
+        "objects": [
+            "girl",
+            "curtain",
+            "truck"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One girl, two curtains, and one truck."
+    },
+    "394": {
+        "objects": [
+            "baseball glove",
+            "kite",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "Two baseball gloves, one kite, and one curtain."
+    },
+    "395": {
+        "objects": [
+            "zebra",
+            "train",
+            "bear"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One zebra, two trains, and one bear."
+    },
+    "396": {
+        "objects": [
+            "bear",
+            "couch",
+            "hot dog"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One bear, one couch, and two hot dogs."
+    },
+    "397": {
+        "objects": [
+            "cup",
+            "motorcycle",
+            "baseball glove"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One cup, two motorcycles, and one baseball glove."
+    },
+    "398": {
+        "objects": [
+            "carrot",
+            "backpack",
+            "bus"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One carrot, one backpack, and two buses."
+    },
+    "399": {
+        "objects": [
+            "oven",
+            "boy",
+            "traffic light"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One oven, one boy, and two traffic lights."
+    },
+    "400": {
+        "objects": [
+            "donut",
+            "carpet",
+            "microwave"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One donut, one carpet, and two microwaves."
+    },
+    "401": {
+        "objects": [
+            "carrot",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One carrot, one apple, and one banana."
+    },
+    "402": {
+        "objects": [
+            "giraffe",
+            "bear",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One giraffe, one bear, and one bird."
+    },
+    "403": {
+        "objects": [
+            "chair",
+            "carpet",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One chair, one carpet, and one curtain."
+    },
+    "404": {
+        "objects": [
+            "giraffe",
+            "elephant",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One giraffe, one elephant, and one bird."
+    },
+    "405": {
+        "objects": [
+            "hair drier",
+            "clock",
+            "teddy bear"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One hair dryer, one clock, and one teddy bear."
+    },
+    "406": {
+        "objects": [
+            "keyboard",
+            "mouse",
+            "tv"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One keyboard, one mouse, and one TV."
+    },
+    "407": {
+        "objects": [
+            "bus",
+            "motorcycle",
+            "car"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One bus, one motorcycle, and one car."
+    },
+    "408": {
+        "objects": [
+            "baseball glove",
+            "snowboard",
+            "skis"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One baseball glove, one snowboard, and one pair of skis."
+    },
+    "409": {
+        "objects": [
+            "truck",
+            "airplane",
+            "motorcycle"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One truck, one airplane, and one motorcycle."
+    },
+    "410": {
+        "objects": [
+            "surfboard",
+            "snowboard",
+            "skis"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One surfboard, one snowboard, and one pair of skis."
+    },
+    "411": {
+        "objects": [
+            "donut",
+            "broccoli",
+            "orange"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One donut, one broccoli, and one orange."
+    },
+    "412": {
+        "objects": [
+            "refrigerator",
+            "microwave",
+            "toaster"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One refrigerator, one microwave, and one toaster."
+    },
+    "413": {
+        "objects": [
+            "boat",
+            "bus",
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One boat, one bus, and one airplane."
+    },
+    "414": {
+        "objects": [
+            "carrot",
+            "broccoli",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One carrot, one broccoli, and one banana."
+    },
+    "415": {
+        "objects": [
+            "toilet",
+            "potted plant",
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One toilet, one potted plant, and one carpet."
+    },
+    "416": {
+        "objects": [
+            "surfboard",
+            "kite",
+            "skis"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One surfboard, one kite, and one pair of skis."
+    },
+    "417": {
+        "objects": [
+            "bear",
+            "elephant",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One bear, one elephant, and one bird."
+    },
+    "418": {
+        "objects": [
+            "hair drier",
+            "clock",
+            "vase"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One hair dryer, one clock, and one vase."
+    },
+    "419": {
+        "objects": [
+            "surfboard",
+            "baseball bat",
+            "sports ball"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One surfboard, one baseball bat, and one sports ball."
+    },
+    "420": {
+        "objects": [
+            "cake",
+            "donut",
+            "broccoli"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One cake, one donut, and one broccoli."
+    },
+    "421": {
+        "objects": [
+            "toothbrush",
+            "hair drier",
+            "teddy bear"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One toothbrush, one hair dryer, and one teddy bear."
+    },
+    "422": {
+        "objects": [
+            "bowl",
+            "cup",
+            "plate"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One bowl, one cup, and one plate."
+    },
+    "423": {
+        "objects": [
+            "elephant",
+            "sheep",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One elephant, one sheep, and one bird."
+    },
+    "424": {
+        "objects": [
+            "tennis racket",
+            "skateboard",
+            "baseball glove"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One tennis racket, one skateboard, and one baseball glove."
+    },
+    "425": {
+        "objects": [
+            "pizza",
+            "orange",
+            "apple"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One pizza, one orange, and one apple."
+    },
+    "426": {
+        "objects": [
+            "horse",
+            "cat",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One horse, one cat, and one bird."
+    },
+    "427": {
+        "objects": [
+            "zebra",
+            "bear",
+            "cow"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One zebra, one bear, and one cow."
+    },
+    "428": {
+        "objects": [
+            "bowl",
+            "fork",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One bowl, one fork, and one bottle."
+    },
+    "429": {
+        "objects": [
+            "toothbrush",
+            "hair drier",
+            "clock"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One toothbrush, one hair dryer, and one clock."
+    },
+    "430": {
+        "objects": [
+            "elephant",
+            "horse",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One elephant, one horse, and one cat."
+    },
+    "431": {
+        "objects": [
+            "tennis racket",
+            "skateboard",
+            "snowboard"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One tennis racket, one skateboard, and one snowboard."
+    },
+    "432": {
+        "objects": [
+            "hot dog",
+            "carrot",
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One hot dog, one carrot, and one sandwich."
+    },
+    "433": {
+        "objects": [
+            "carrot",
+            "sandwich",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One carrot, one sandwich, and one banana."
+    },
+    "434": {
+        "objects": [
+            "baseball glove",
+            "kite",
+            "skis"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One baseball glove, one kite, and one pair of skis."
+    },
+    "435": {
+        "objects": [
+            "giraffe",
+            "cow",
+            "sheep"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One giraffe, one cow, and one sheep."
+    },
+    "436": {
+        "objects": [
+            "bear",
+            "sheep",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One bear, one sheep, and one bird."
+    },
+    "437": {
+        "objects": [
+            "scissors",
+            "book",
+            "teddy bear"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One pair of scissors, one book, and one teddy bear."
+    },
+    "438": {
+        "objects": [
+            "skateboard",
+            "baseball glove",
+            "kite"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One skateboard, one baseball glove, and one kite."
+    },
+    "439": {
+        "objects": [
+            "broccoli",
+            "sandwich",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One broccoli, one sandwich, and one banana."
+    },
+    "440": {
+        "objects": [
+            "spoon",
+            "knife",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One spoon, one knife, and one bottle."
+    },
+    "441": {
+        "objects": [
+            "cell phone",
+            "laptop",
+            "tv"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One cell phone, one laptop, and one TV."
+    },
+    "442": {
+        "objects": [
+            "knife",
+            "cup",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One knife, one cup, and one bottle."
+    },
+    "443": {
+        "objects": [
+            "skateboard",
+            "skis",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One skateboard, one pair of skis, and one frisbee."
+    },
+    "444": {
+        "objects": [
+            "giraffe",
+            "cow",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One giraffe, one cow, and one bird."
+    },
+    "445": {
+        "objects": [
+            "bus",
+            "bicycle",
+            "car"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One bus, one bicycle, and one car."
+    },
+    "446": {
+        "objects": [
+            "hot dog",
+            "carrot",
+            "orange"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One hot dog, one carrot, and one orange."
+    },
+    "447": {
+        "objects": [
+            "giraffe",
+            "zebra",
+            "sheep"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One giraffe, one zebra, and one sheep."
+    },
+    "448": {
+        "objects": [
+            "tennis racket",
+            "skateboard",
+            "surfboard"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One tennis racket, one skateboard, and one surfboard."
+    },
+    "449": {
+        "objects": [
+            "tennis racket",
+            "baseball bat",
+            "snowboard"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One tennis racket, one baseball bat, and one snowboard."
+    },
+    "450": {
+        "objects": [
+            "donut",
+            "carrot",
+            "broccoli"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 3
+        },
+        "prompt": "One donut, one carrot, and one broccoli."
+    },
+    "451": {
+        "objects": [
+            "handbag",
+            "eye glasses",
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One handbag, two pairs of eyeglasses, and one backpack."
+    },
+    "452": {
+        "objects": [
+            "cup",
+            "plate",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "Two cups, one plate, and one bottle."
+    },
+    "453": {
+        "objects": [
+            "baseball glove",
+            "baseball bat",
+            "skis"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One baseball glove, two baseball bats, and one pair of skis."
+    },
+    "454": {
+        "objects": [
+            "scissors",
+            "clock",
+            "book"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One pair of scissors, one clock, and two books."
+    },
+    "455": {
+        "objects": [
+            "toilet",
+            "dining table",
+            "couch"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One toilet, two dining tables, and one couch."
+    },
+    "456": {
+        "objects": [
+            "giraffe",
+            "horse",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One giraffe, one horse, and two cats."
+    },
+    "457": {
+        "objects": [
+            "sandwich",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One sandwich, two apples, and one banana."
+    },
+    "458": {
+        "objects": [
+            "pizza",
+            "orange",
+            "apple"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One pizza, two oranges, and one apple."
+    },
+    "459": {
+        "objects": [
+            "giraffe",
+            "elephant",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One giraffe, two elephants, and one cat."
+    },
+    "460": {
+        "objects": [
+            "toothbrush",
+            "vase",
+            "teddy bear"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One toothbrush, one vase, and two teddy bears."
+    },
+    "461": {
+        "objects": [
+            "scissors",
+            "vase",
+            "teddy bear"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One pair of scissors, one vase, and two teddy bears."
+    },
+    "462": {
+        "objects": [
+            "tennis racket",
+            "kite",
+            "sports ball"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One tennis racket, two kites, and one sports ball."
+    },
+    "463": {
+        "objects": [
+            "knife",
+            "fork",
+            "cup"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One knife, two forks, and one cup."
+    },
+    "464": {
+        "objects": [
+            "tennis racket",
+            "skis",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "Two tennis rackets, one pair of skis, and one frisbee."
+    },
+    "465": {
+        "objects": [
+            "donut",
+            "carrot",
+            "apple"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One donut, two carrots, and one apple."
+    },
+    "466": {
+        "objects": [
+            "bed",
+            "potted plant",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "Two beds, one potted plant, and one curtain."
+    },
+    "467": {
+        "objects": [
+            "skateboard",
+            "sports ball",
+            "snowboard"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "Two skateboards, one sports ball, and one snowboard."
+    },
+    "468": {
+        "objects": [
+            "cow",
+            "horse",
+            "dog"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One cow, two horses, and one dog."
+    },
+    "469": {
+        "objects": [
+            "bus",
+            "motorcycle",
+            "car"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One bus, two motorcycles, and one car."
+    },
+    "470": {
+        "objects": [
+            "tennis racket",
+            "baseball glove",
+            "kite"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One tennis racket, one baseball glove, and two kites."
+    },
+    "471": {
+        "objects": [
+            "carrot",
+            "broccoli",
+            "orange"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One carrot, one broccoli, and two oranges."
+    },
+    "472": {
+        "objects": [
+            "giraffe",
+            "cow",
+            "dog"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One giraffe, two cows, and one dog."
+    },
+    "473": {
+        "objects": [
+            "bed",
+            "couch",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One bed, one couch, and two curtains."
+    },
+    "474": {
+        "objects": [
+            "cake",
+            "broccoli",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One cake, one broccoli, and two bananas."
+    },
+    "475": {
+        "objects": [
+            "baseball glove",
+            "kite",
+            "skis"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "Two baseball gloves, one kite, and one pair of skis."
+    },
+    "476": {
+        "objects": [
+            "baseball glove",
+            "sports ball",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One baseball glove, one sports ball, and two frisbees."
+    },
+    "477": {
+        "objects": [
+            "truck",
+            "airplane",
+            "car"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "Two trucks, one airplane, and one car."
+    },
+    "478": {
+        "objects": [
+            "tennis racket",
+            "kite",
+            "skis"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One tennis racket, one kite, and two pairs of skis."
+    },
+    "479": {
+        "objects": [
+            "donut",
+            "carrot",
+            "broccoli"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "Two donuts, one carrot, and one broccoli."
+    },
+    "480": {
+        "objects": [
+            "spoon",
+            "fork",
+            "cup"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One spoon, one fork, and two cups."
+    },
+    "481": {
+        "objects": [
+            "pizza",
+            "hot dog",
+            "carrot"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One pizza, one hot dog, and two carrots."
+    },
+    "482": {
+        "objects": [
+            "hot dog",
+            "sandwich",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "Two hot dogs, one sandwich, and one banana."
+    },
+    "483": {
+        "objects": [
+            "suitcase",
+            "handbag",
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "Two suitcases, one handbag, and one backpack."
+    },
+    "484": {
+        "objects": [
+            "donut",
+            "pizza",
+            "apple"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One donut, two pizzas, and one apple."
+    },
+    "485": {
+        "objects": [
+            "dining table",
+            "bed",
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One dining table, one bed, and two potted plants."
+    },
+    "486": {
+        "objects": [
+            "pizza",
+            "broccoli",
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One pizza, one broccoli, and two sandwiches."
+    },
+    "487": {
+        "objects": [
+            "train",
+            "bus",
+            "car"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One train, two buses, and one car."
+    },
+    "488": {
+        "objects": [
+            "truck",
+            "train",
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One truck, two trains, and one bicycle."
+    },
+    "489": {
+        "objects": [
+            "cell phone",
+            "keyboard",
+            "laptop"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One cell phone, two keyboards, and one laptop."
+    },
+    "490": {
+        "objects": [
+            "kite",
+            "snowboard",
+            "skis"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One kite, two snowboards, and one pair of skis."
+    },
+    "491": {
+        "objects": [
+            "pizza",
+            "carrot",
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "Two pizzas, one carrot, and one sandwich."
+    },
+    "492": {
+        "objects": [
+            "toothbrush",
+            "scissors",
+            "book"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One toothbrush, two pairs of scissors, and one book."
+    },
+    "493": {
+        "objects": [
+            "carrot",
+            "orange",
+            "sandwich"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "Two carrots, one orange, and one sandwich."
+    },
+    "494": {
+        "objects": [
+            "pizza",
+            "carrot",
+            "broccoli"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One pizza, one carrot, and two broccolis."
+    },
+    "495": {
+        "objects": [
+            "surfboard",
+            "sports ball",
+            "skis"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "Two surfboards, one sports ball, and one pair of skis."
+    },
+    "496": {
+        "objects": [
+            "toothbrush",
+            "book",
+            "vase"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "Two toothbrushes, one book, and one vase."
+    },
+    "497": {
+        "objects": [
+            "cow",
+            "dog",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "Two cows, one dog, and one cat."
+    },
+    "498": {
+        "objects": [
+            "baseball bat",
+            "snowboard",
+            "skis"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "One baseball bat, one snowboard, and two pairs of skis."
+    },
+    "499": {
+        "objects": [
+            "zebra",
+            "bear",
+            "elephant"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "Two zebras, one bear, and one elephant."
+    },
+    "500": {
+        "objects": [
+            "cow",
+            "sheep",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 3,
+            "sum numeracy": 4
+        },
+        "prompt": "Two cows, one sheep, and one bird."
+    },
+    "501": {
+        "objects": [
+            "fire hydrant",
+            "scissors",
+            "book",
+            "bear"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One fire hydrant, one pair of scissors, one book, and one bear."
+    },
+    "502": {
+        "objects": [
+            "keyboard",
+            "fire hydrant",
+            "clock",
+            "refrigerator"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One keyboard, one fire hydrant, one clock, and one refrigerator."
+    },
+    "503": {
+        "objects": [
+            "bus",
+            "skateboard",
+            "bicycle",
+            "kite"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One bus, one skateboard, one bicycle, and one kite."
+    },
+    "504": {
+        "objects": [
+            "coat",
+            "refrigerator",
+            "umbrella",
+            "sink"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One coat, one refrigerator, one umbrella, and one sink."
+    },
+    "505": {
+        "objects": [
+            "truck",
+            "microwave",
+            "hot dog",
+            "cup"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One truck, one microwave, one hot dog, and one cup."
+    },
+    "506": {
+        "objects": [
+            "dog",
+            "suitcase",
+            "bear",
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One dog, one suitcase, one bear, and one airplane."
+    },
+    "507": {
+        "objects": [
+            "dog",
+            "cell phone",
+            "dress",
+            "boat"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One dog, one cell phone, one dress and one boat."
+    },
+    "508": {
+        "objects": [
+            "bicycle",
+            "sports ball",
+            "suitcase",
+            "carrot"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One bicycle, one sports ball, one suitcase, and one carrot."
+    },
+    "509": {
+        "objects": [
+            "coat",
+            "baseball glove",
+            "trousers",
+            "vase"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One coat, one baseball glove, one pair of trousers, and one vase."
+    },
+    "510": {
+        "objects": [
+            "oven",
+            "carpet",
+            "tennis racket",
+            "clock"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One oven, one carpet, one tennis racket, and one clock."
+    },
+    "511": {
+        "objects": [
+            "toilet",
+            "cat",
+            "baseball bat",
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One toilet, one cat, one baseball bat, and one bicycle."
+    },
+    "512": {
+        "objects": [
+            "fire hydrant",
+            "chair",
+            "skateboard",
+            "mouse"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One fire hydrant, one chair, one skateboard, and one mouse."
+    },
+    "513": {
+        "objects": [
+            "boy",
+            "handbag",
+            "sandwich",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One boy, one handbag, one sandwich, and one chair."
+    },
+    "514": {
+        "objects": [
+            "girl",
+            "scissors",
+            "eye glasses",
+            "suitcase"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One girl, one pair of scissors, one pair of eyeglasses, and one suitcase."
+    },
+    "515": {
+        "objects": [
+            "remote",
+            "cell phone",
+            "car",
+            "tennis racket"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One remote, one cell phone, one car, and one tennis racket."
+    },
+    "516": {
+        "objects": [
+            "girl",
+            "orange",
+            "street sign",
+            "bench"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One girl, one orange, one street sign, and one bench."
+    },
+    "517": {
+        "objects": [
+            "toothbrush",
+            "vase",
+            "dog",
+            "woman"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One toothbrush, one vase, one dog, and one woman."
+    },
+    "518": {
+        "objects": [
+            "sandwich",
+            "kite",
+            "laptop",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One sandwich, one kite, one laptop, and one banana."
+    },
+    "519": {
+        "objects": [
+            "oven",
+            "zebra",
+            "broccoli",
+            "pizza"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One oven, one zebra, one broccoli, and one pizza."
+    },
+    "520": {
+        "objects": [
+            "bowl",
+            "street sign",
+            "elephant",
+            "baseball glove"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One bowl, one street sign, one elephant, and one baseball glove."
+    },
+    "521": {
+        "objects": [
+            "truck",
+            "boat",
+            "hot dog",
+            "skateboard"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One truck, one boat, one hot dog, and one skateboard."
+    },
+    "522": {
+        "objects": [
+            "sheep",
+            "baseball bat",
+            "zebra",
+            "train"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One sheep, one baseball bat, one zebra, and one train."
+    },
+    "523": {
+        "objects": [
+            "bowl",
+            "coat",
+            "bicycle",
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One bowl, one coat, one bicycle, and one backpack."
+    },
+    "524": {
+        "objects": [
+            "woman",
+            "orange",
+            "sink",
+            "bed"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One woman, one orange, one sink, and one bed."
+    },
+    "525": {
+        "objects": [
+            "scissors",
+            "cell phone",
+            "spoon",
+            "baseball glove"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One pair of scissors, one cell phone, one spoon, and one baseball glove."
+    },
+    "526": {
+        "objects": [
+            "cake",
+            "toothbrush",
+            "toaster",
+            "baseball bat"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One cake, one toothbrush, one toaster, and one baseball bat."
+    },
+    "527": {
+        "objects": [
+            "backpack",
+            "tennis racket",
+            "woman",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One backpack, one tennis racket, one woman, and one chair."
+    },
+    "528": {
+        "objects": [
+            "couch",
+            "pizza",
+            "bench",
+            "toilet"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One couch, one pizza, one bench, and one toilet."
+    },
+    "529": {
+        "objects": [
+            "zebra",
+            "trousers",
+            "bus",
+            "mouse"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One zebra, one pair of trousers, one bus, and one mouse."
+    },
+    "530": {
+        "objects": [
+            "horse",
+            "baby",
+            "hot dog",
+            "teddy bear"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One horse, one baby, one hot dog, and one teddy bear."
+    },
+    "531": {
+        "objects": [
+            "fork",
+            "shirt",
+            "vase",
+            "coat"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One fork, one shirt, one vase and one coat."
+    },
+    "532": {
+        "objects": [
+            "curtain",
+            "woman",
+            "suitcase",
+            "boat"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One curtain, one woman, one suitcase, and one boat."
+    },
+    "533": {
+        "objects": [
+            "tennis racket",
+            "elephant",
+            "curtain",
+            "suitcase"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One tennis racket, one elephant, one curtain, and one suitcase."
+    },
+    "534": {
+        "objects": [
+            "suitcase",
+            "dog",
+            "skis",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One suitcase, one dog, one pair of skis, and one chair."
+    },
+    "535": {
+        "objects": [
+            "mouse",
+            "hair drier",
+            "knife",
+            "donut"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One mouse, one hair dryer, one knife, and one donut."
+    },
+    "536": {
+        "objects": [
+            "knife",
+            "bicycle",
+            "sink",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One knife, one bicycle, one sink, and one banana."
+    },
+    "537": {
+        "objects": [
+            "parking meter",
+            "toothbrush",
+            "frisbee",
+            "airplane"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One parking meter, one toothbrush, one frisbee, and one airplane."
+    },
+    "538": {
+        "objects": [
+            "parking meter",
+            "baby",
+            "fork",
+            "sports ball"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One parking meter, one baby, one fork, and one sports ball."
+    },
+    "539": {
+        "objects": [
+            "woman",
+            "airplane",
+            "baby",
+            "plate"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One woman, one airplane, one baby, and one plate."
+    },
+    "540": {
+        "objects": [
+            "train",
+            "fire hydrant",
+            "parking meter",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One train, one fire hydrant, one parking meter, and one frisbee."
+    },
+    "541": {
+        "objects": [
+            "bed",
+            "boat",
+            "cake",
+            "trousers"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One bed, one boat, one cake, and one pair of trousers."
+    },
+    "542": {
+        "objects": [
+            "donut",
+            "broccoli",
+            "elephant",
+            "boy"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One donut, one broccoli, one elephant, and one boy."
+    },
+    "543": {
+        "objects": [
+            "chair",
+            "plate",
+            "couch",
+            "knife"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One chair, one plate, one couch, and one knife."
+    },
+    "544": {
+        "objects": [
+            "airplane",
+            "mouse",
+            "remote",
+            "eye glasses"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One airplane, one mouse, one remote, and one pair of eye glasses."
+    },
+    "545": {
+        "objects": [
+            "baseball bat",
+            "microwave",
+            "bowl",
+            "girl"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One baseball bat, one microwave, one bowl, and one girl."
+    },
+    "546": {
+        "objects": [
+            "bench",
+            "suitcase",
+            "bicycle",
+            "pizza"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One bench, one suitcase, one bicycle, and one pizza."
+    },
+    "547": {
+        "objects": [
+            "frisbee",
+            "teddy bear",
+            "kite",
+            "couch"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One frisbee, one teddy bear, one kite, and one couch."
+    },
+    "548": {
+        "objects": [
+            "parking meter",
+            "skateboard",
+            "woman",
+            "potted plant"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One parking meter, one skateboard, one woman, and one potted plant."
+    },
+    "549": {
+        "objects": [
+            "broccoli",
+            "suitcase",
+            "tennis racket",
+            "carrot"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One broccoli, one suitcase, one tennis racket, and one carrot."
+    },
+    "550": {
+        "objects": [
+            "banana",
+            "fork",
+            "horse",
+            "mouse"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One banana, one fork, one horse, and one mouse."
+    },
+    "551": {
+        "objects": [
+            "bed",
+            "couch",
+            "carpet",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One bed, one couch, one carpet, and one curtain."
+    },
+    "552": {
+        "objects": [
+            "hot dog",
+            "broccoli",
+            "sandwich",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One hot dog, one broccoli, one sandwich, and one banana."
+    },
+    "553": {
+        "objects": [
+            "toothbrush",
+            "hair drier",
+            "scissors",
+            "clock"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One toothbrush, one hair dryer, one pair of scissors, and one clock."
+    },
+    "554": {
+        "objects": [
+            "tennis racket",
+            "skateboard",
+            "baseball glove",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One tennis racket, one skateboard, one baseball glove, and one frisbee."
+    },
+    "555": {
+        "objects": [
+            "handbag",
+            "eye glasses",
+            "umbrella",
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One handbag, one pair of eye glasses, one umbrella, and one backpack."
+    },
+    "556": {
+        "objects": [
+            "truck",
+            "train",
+            "bus",
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One truck, one train, one bus, and one bicycle."
+    },
+    "557": {
+        "objects": [
+            "giraffe",
+            "bear",
+            "sheep",
+            "dog"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One giraffe, one bear, one sheep, and one dog."
+    },
+    "558": {
+        "objects": [
+            "skateboard",
+            "surfboard",
+            "snowboard",
+            "skis"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One skateboard, one surfboard, one snowboard, and one pair of skis."
+    },
+    "559": {
+        "objects": [
+            "boat",
+            "train",
+            "bus",
+            "car"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One boat, one train, one bus, and one car."
+    },
+    "560": {
+        "objects": [
+            "truck",
+            "train",
+            "airplane",
+            "car"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One truck, one train, one airplane, and one car."
+    },
+    "561": {
+        "objects": [
+            "zebra",
+            "cow",
+            "sheep",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One zebra, one cow, one sheep, and one bird."
+    },
+    "562": {
+        "objects": [
+            "cake",
+            "donut",
+            "hot dog",
+            "carrot"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One cake, one donut, one hot dog, and one carrot."
+    },
+    "563": {
+        "objects": [
+            "cake",
+            "donut",
+            "sandwich",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One cake, one donut, one sandwich, and one banana."
+    },
+    "564": {
+        "objects": [
+            "skateboard",
+            "surfboard",
+            "skis",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One skateboard, one surfboard, one pair of skis, and one frisbee."
+    },
+    "565": {
+        "objects": [
+            "zebra",
+            "elephant",
+            "horse",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One zebra, one elephant, one horse, and one cat."
+    },
+    "566": {
+        "objects": [
+            "toothbrush",
+            "hair drier",
+            "clock",
+            "book"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One toothbrush, one hair dryer, one clock, and one book."
+    },
+    "567": {
+        "objects": [
+            "giraffe",
+            "bear",
+            "sheep",
+            "horse"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One giraffe, one bear, one sheep, and one horse."
+    },
+    "568": {
+        "objects": [
+            "cake",
+            "pizza",
+            "broccoli",
+            "orange"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One cake, one pizza, one broccoli, and one orange."
+    },
+    "569": {
+        "objects": [
+            "boat",
+            "truck",
+            "airplane",
+            "bicycle"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One boat, one truck, one airplane, and one bicycle."
+    },
+    "570": {
+        "objects": [
+            "bear",
+            "dog",
+            "cat",
+            "bird"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One bear, one dog, one cat, and one bird."
+    },
+    "571": {
+        "objects": [
+            "dining table",
+            "bed",
+            "potted plant",
+            "chair"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One dining table, one bed, one potted plant, and one chair."
+    },
+    "572": {
+        "objects": [
+            "tennis racket",
+            "skateboard",
+            "surfboard",
+            "baseball bat"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One tennis racket, one skateboard, one surfboard, and one baseball bat."
+    },
+    "573": {
+        "objects": [
+            "kite",
+            "snowboard",
+            "skis",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One kite, one snowboard, one pair of skis, and one frisbee."
+    },
+    "574": {
+        "objects": [
+            "boat",
+            "airplane",
+            "motorcycle",
+            "car"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One boat, one airplane, one motorcycle, and one car."
+    },
+    "575": {
+        "objects": [
+            "refrigerator",
+            "microwave",
+            "oven",
+            "toaster"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One refrigerator, one microwave, one oven, and one toaster."
+    },
+    "576": {
+        "objects": [
+            "bowl",
+            "spoon",
+            "cup",
+            "plate"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One bowl, one spoon, one cup, and one plate."
+    },
+    "577": {
+        "objects": [
+            "donut",
+            "hot dog",
+            "sandwich",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One donut, one hot dog, one sandwich, and one banana."
+    },
+    "578": {
+        "objects": [
+            "toothbrush",
+            "clock",
+            "book",
+            "teddy bear"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One toothbrush, one clock, one book, and one teddy bear."
+    },
+    "579": {
+        "objects": [
+            "hot dog",
+            "orange",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One hot dog, one orange, one apple, and one banana."
+    },
+    "580": {
+        "objects": [
+            "spoon",
+            "cup",
+            "plate",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One spoon, one cup, one plate, and one bottle."
+    },
+    "581": {
+        "objects": [
+            "giraffe",
+            "bear",
+            "horse",
+            "cat"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One giraffe, one bear, one horse and one cat."
+    },
+    "582": {
+        "objects": [
+            "spoon",
+            "fork",
+            "plate",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One spoon, one fork, one plate, and one bottle."
+    },
+    "583": {
+        "objects": [
+            "skateboard",
+            "baseball bat",
+            "sports ball",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One skateboard, one baseball bat, one sports ball, and one frisbee."
+    },
+    "584": {
+        "objects": [
+            "cake",
+            "donut",
+            "broccoli",
+            "orange"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One cake, one donut, one broccoli, and one orange."
+    },
+    "585": {
+        "objects": [
+            "cell phone",
+            "keyboard",
+            "remote",
+            "mouse"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One cell phone, one keyboard, one remote control, and one mouse."
+    },
+    "586": {
+        "objects": [
+            "pizza",
+            "broccoli",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One pizza, one broccoli, one apple, and one banana."
+    },
+    "587": {
+        "objects": [
+            "tennis racket",
+            "surfboard",
+            "baseball glove",
+            "frisbee"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One tennis racket, one surfboard, one baseball glove, and one frisbee."
+    },
+    "588": {
+        "objects": [
+            "tennis racket",
+            "surfboard",
+            "baseball bat",
+            "sports ball"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One tennis racket, one surfboard, one baseball bat, and one sports ball."
+    },
+    "589": {
+        "objects": [
+            "surfboard",
+            "baseball glove",
+            "kite",
+            "snowboard"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One surfboard, one baseball glove, one kite, and one snowboard."
+    },
+    "590": {
+        "objects": [
+            "cake",
+            "pizza",
+            "sandwich",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One cake, one pizza, one sandwich, and one banana."
+    },
+    "591": {
+        "objects": [
+            "surfboard",
+            "kite",
+            "sports ball",
+            "snowboard"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One surfboard, one kite, one sports ball, and one snowboard."
+    },
+    "592": {
+        "objects": [
+            "cake",
+            "carrot",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One cake, one carrot, one apple, and one banana."
+    },
+    "593": {
+        "objects": [
+            "tennis racket",
+            "skateboard",
+            "kite",
+            "snowboard"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One tennis racket, one skateboard, one kite, and one snowboard."
+    },
+    "594": {
+        "objects": [
+            "bowl",
+            "knife",
+            "plate",
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One bowl, one knife, one plate, and one bottle."
+    },
+    "595": {
+        "objects": [
+            "cake",
+            "donut",
+            "pizza",
+            "carrot"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One cake, one donut, one pizza, and one carrot."
+    },
+    "596": {
+        "objects": [
+            "tennis racket",
+            "skateboard",
+            "surfboard",
+            "snowboard"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One tennis racket, one skateboard, one surfboard, and one snowboard."
+    },
+    "597": {
+        "objects": [
+            "dining table",
+            "bed",
+            "carpet",
+            "curtain"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One dining table, one bed, one carpet, and one curtain."
+    },
+    "598": {
+        "objects": [
+            "cake",
+            "donut",
+            "carrot",
+            "broccoli"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One cake, one donut, one carrot, and one broccoli."
+    },
+    "599": {
+        "objects": [
+            "scissors",
+            "clock",
+            "book",
+            "vase"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One pair of scissors, one clock, one book, and one vase."
+    },
+    "600": {
+        "objects": [
+            "cake",
+            "pizza",
+            "broccoli",
+            "banana"
+        ],
+        "tags": {
+            "objects number": 4,
+            "sum numeracy": 4
+        },
+        "prompt": "One cake, one pizza, one broccoli, and one banana."
+    }
+}

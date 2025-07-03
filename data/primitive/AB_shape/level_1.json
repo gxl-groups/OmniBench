@@ -1,0 +1,1352 @@
+{
+    "0": {
+        "objects": [
+            "handbag"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A triangular handbag."
+    },
+    "1": {
+        "objects": [
+            "handbag"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A star-shaped handbag."
+    },
+    "2": {
+        "objects": [
+            "handbag"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A rectangular handbag."
+    },
+    "3": {
+        "objects": [
+            "handbag"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A round handbag."
+    },
+    "4": {
+        "objects": [
+            "handbag"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A crescentic handbag."
+    },
+    "5": {
+        "objects": [
+            "handbag"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A hexagonal handbag."
+    },
+    "6": {
+        "objects": [
+            "handbag"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "An oval handbag."
+    },
+    "7": {
+        "objects": [
+            "handbag"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A diamond handbag."
+    },
+    "8": {
+        "objects": [
+            "handbag"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A square handbag."
+    },
+    "9": {
+        "objects": [
+            "handbag"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A heart-shaped handbag."
+    },
+    "10": {
+        "objects": [
+            "clock"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A hexagonal clock."
+    },
+    "11": {
+        "objects": [
+            "clock"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A heart-shaped clock."
+    },
+    "12": {
+        "objects": [
+            "clock"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A diamond-shaped clock."
+    },
+    "13": {
+        "objects": [
+            "clock"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A triangular clock."
+    },
+    "14": {
+        "objects": [
+            "clock"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "An octagonal clock."
+    },
+    "15": {
+        "objects": [
+            "clock"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A round clock."
+    },
+    "16": {
+        "objects": [
+            "clock"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A square clock."
+    },
+    "17": {
+        "objects": [
+            "clock"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A rectangular clock."
+    },
+    "18": {
+        "objects": [
+            "clock"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A crescentic clock."
+    },
+    "19": {
+        "objects": [
+            "clock"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A star-shaped clock."
+    },
+    "20": {
+        "objects": [
+            "bench"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A triangular bench."
+    },
+    "21": {
+        "objects": [
+            "bench"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A square bench."
+    },
+    "22": {
+        "objects": [
+            "bench"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "An elliptical bench."
+    },
+    "23": {
+        "objects": [
+            "bench"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A crescentic bench."
+    },
+    "24": {
+        "objects": [
+            "bench"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A circular bench."
+    },
+    "25": {
+        "objects": [
+            "bench"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A round bench."
+    },
+    "26": {
+        "objects": [
+            "bench"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "An oval bench."
+    },
+    "27": {
+        "objects": [
+            "bench"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A rectangular bench."
+    },
+    "28": {
+        "objects": [
+            "bench"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A trapezoidal bench."
+    },
+    "29": {
+        "objects": [
+            "bench"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A hexagonal bench."
+    },
+    "30": {
+        "objects": [
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A crescentic bottle."
+    },
+    "31": {
+        "objects": [
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A cylindrical bottle."
+    },
+    "32": {
+        "objects": [
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "An oval bottle."
+    },
+    "33": {
+        "objects": [
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A star-shaped bottle."
+    },
+    "34": {
+        "objects": [
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A hexagonal bottle."
+    },
+    "35": {
+        "objects": [
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A heart-shaped bottle."
+    },
+    "36": {
+        "objects": [
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pentagonal bottle."
+    },
+    "37": {
+        "objects": [
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A rectangular bottle."
+    },
+    "38": {
+        "objects": [
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A diamond-shaped bottle."
+    },
+    "39": {
+        "objects": [
+            "bottle"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A square bottle."
+    },
+    "40": {
+        "objects": [
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "An octagonal bowl."
+    },
+    "41": {
+        "objects": [
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A rectangular bowl."
+    },
+    "42": {
+        "objects": [
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A star-shaped bowl."
+    },
+    "43": {
+        "objects": [
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A heart-shaped bowl."
+    },
+    "44": {
+        "objects": [
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A triangular bowl."
+    },
+    "45": {
+        "objects": [
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "An asymmetrical bowl."
+    },
+    "46": {
+        "objects": [
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "An oval bowl."
+    },
+    "47": {
+        "objects": [
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A round bowl."
+    },
+    "48": {
+        "objects": [
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A hexagonal bowl."
+    },
+    "49": {
+        "objects": [
+            "bowl"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A square bowl."
+    },
+    "50": {
+        "objects": [
+            "cup"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A conical cup."
+    },
+    "51": {
+        "objects": [
+            "cup"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A pentagonal cup."
+    },
+    "52": {
+        "objects": [
+            "cup"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "An elliptical cup."
+    },
+    "53": {
+        "objects": [
+            "cup"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A cylindrical cup."
+    },
+    "54": {
+        "objects": [
+            "cup"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A square cup."
+    },
+    "55": {
+        "objects": [
+            "cup"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A rectangular cup."
+    },
+    "56": {
+        "objects": [
+            "cup"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "An irregular cup."
+    },
+    "57": {
+        "objects": [
+            "cup"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "An octagonal cup."
+    },
+    "58": {
+        "objects": [
+            "cup"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A teardrop-shaped cup."
+    },
+    "59": {
+        "objects": [
+            "cup"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A crescentic cup."
+    },
+    "60": {
+        "objects": [
+            "plate"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A triangular plate."
+    },
+    "61": {
+        "objects": [
+            "plate"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A round plate."
+    },
+    "62": {
+        "objects": [
+            "plate"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "An oval plate."
+    },
+    "63": {
+        "objects": [
+            "plate"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A star-shaped plate."
+    },
+    "64": {
+        "objects": [
+            "plate"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A rectangular plate."
+    },
+    "65": {
+        "objects": [
+            "plate"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A diamond plate."
+    },
+    "66": {
+        "objects": [
+            "plate"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A heart-shaped plate."
+    },
+    "67": {
+        "objects": [
+            "plate"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A crescentic plate."
+    },
+    "68": {
+        "objects": [
+            "plate"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "An irregular plate."
+    },
+    "69": {
+        "objects": [
+            "plate"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A hexagonal plate."
+    },
+    "70": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A hexagonal dining table."
+    },
+    "71": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A crescentic dining table."
+    },
+    "72": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A square dining table."
+    },
+    "73": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "An octagonal dining table."
+    },
+    "74": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A serpentine dining table."
+    },
+    "75": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A round dining table."
+    },
+    "76": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "An oval dining table."
+    },
+    "77": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A rectangular dining table."
+    },
+    "78": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A barrel-shaped dining table."
+    },
+    "79": {
+        "objects": [
+            "dining table"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A triangular dining table."
+    },
+    "80": {
+        "objects": [
+            "sink"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "An irregular sink."
+    },
+    "81": {
+        "objects": [
+            "sink"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A crescentic sink."
+    },
+    "82": {
+        "objects": [
+            "sink"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A round sink."
+    },
+    "83": {
+        "objects": [
+            "sink"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A hexagonal sink."
+    },
+    "84": {
+        "objects": [
+            "sink"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A circular sink."
+    },
+    "85": {
+        "objects": [
+            "sink"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A rectangular sink."
+    },
+    "86": {
+        "objects": [
+            "sink"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A triangular sink."
+    },
+    "87": {
+        "objects": [
+            "sink"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "An oval sink."
+    },
+    "88": {
+        "objects": [
+            "sink"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A square sink."
+    },
+    "89": {
+        "objects": [
+            "sink"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A diamond-shaped sink."
+    },
+    "90": {
+        "objects": [
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A crescentic backpack."
+    },
+    "91": {
+        "objects": [
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A hexagonal backpack."
+    },
+    "92": {
+        "objects": [
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A round backpack."
+    },
+    "93": {
+        "objects": [
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A heart-shaped backpack."
+    },
+    "94": {
+        "objects": [
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A diamond backpack."
+    },
+    "95": {
+        "objects": [
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "An oval backpack."
+    },
+    "96": {
+        "objects": [
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A rectangular backpack."
+    },
+    "97": {
+        "objects": [
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A triangular backpack."
+    },
+    "98": {
+        "objects": [
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A star-shaped backpack."
+    },
+    "99": {
+        "objects": [
+            "backpack"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A square backpack."
+    },
+    "100": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "An oval carpet."
+    },
+    "101": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A crescentic carpet."
+    },
+    "102": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A diamond carpet."
+    },
+    "103": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "An octagonal carpet."
+    },
+    "104": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A heart-shaped carpet."
+    },
+    "105": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A round carpet."
+    },
+    "106": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "An irregular carpet."
+    },
+    "107": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A triangular carpet."
+    },
+    "108": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A square carpet."
+    },
+    "109": {
+        "objects": [
+            "carpet"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A star-shaped carpet."
+    },
+    "110": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A trapezoidal bed."
+    },
+    "111": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "An oval bed."
+    },
+    "112": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A diamond-shaped bed."
+    },
+    "113": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A heart-shaped bed."
+    },
+    "114": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A rectangular bed."
+    },
+    "115": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "An octagonal bed."
+    },
+    "116": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A round bed."
+    },
+    "117": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A square bed."
+    },
+    "118": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A hexagonal bed."
+    },
+    "119": {
+        "objects": [
+            "bed"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A crescentic bed."
+    },
+    "120": {
+        "objects": [
+            "kite"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A diamond kite."
+    },
+    "121": {
+        "objects": [
+            "kite"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A triangular kite."
+    },
+    "122": {
+        "objects": [
+            "kite"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A round kite."
+    },
+    "123": {
+        "objects": [
+            "kite"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A hexagonal kite."
+    },
+    "124": {
+        "objects": [
+            "kite"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A square kite."
+    },
+    "125": {
+        "objects": [
+            "kite"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A heart kite."
+    },
+    "126": {
+        "objects": [
+            "kite"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "An oval kite."
+    },
+    "127": {
+        "objects": [
+            "kite"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A star kite."
+    },
+    "128": {
+        "objects": [
+            "kite"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A rectangular kite."
+    },
+    "129": {
+        "objects": [
+            "kite"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A crescentic kite."
+    },
+    "130": {
+        "objects": [
+            "street sign"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A crescentic street sign."
+    },
+    "131": {
+        "objects": [
+            "street sign"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "An oval street sign."
+    },
+    "132": {
+        "objects": [
+            "street sign"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A star-shaped street sign."
+    },
+    "133": {
+        "objects": [
+            "street sign"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A hexagonal street sign."
+    },
+    "134": {
+        "objects": [
+            "street sign"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A triangular street sign."
+    },
+    "135": {
+        "objects": [
+            "street sign"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A diamond-shaped street sign."
+    },
+    "136": {
+        "objects": [
+            "street sign"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "An elliptical street sign."
+    },
+    "137": {
+        "objects": [
+            "street sign"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A round street sign."
+    },
+    "138": {
+        "objects": [
+            "street sign"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "An octagonal street sign."
+    },
+    "139": {
+        "objects": [
+            "street sign"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A square street sign."
+    },
+    "140": {
+        "objects": [
+            "cake"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A rectangular cake."
+    },
+    "141": {
+        "objects": [
+            "cake"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A hexagonal cake."
+    },
+    "142": {
+        "objects": [
+            "cake"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "An octagonal cake."
+    },
+    "143": {
+        "objects": [
+            "cake"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "An oval cake."
+    },
+    "144": {
+        "objects": [
+            "cake"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A triangular cake."
+    },
+    "145": {
+        "objects": [
+            "cake"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A diamond-shaped cake."
+    },
+    "146": {
+        "objects": [
+            "cake"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A square cake."
+    },
+    "147": {
+        "objects": [
+            "cake"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A heart-shaped cake."
+    },
+    "148": {
+        "objects": [
+            "cake"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A round cake."
+    },
+    "149": {
+        "objects": [
+            "cake"
+        ],
+        "tags": {
+            "objects number": 1
+        },
+        "prompt": "A crescentic cake."
+    }
+}

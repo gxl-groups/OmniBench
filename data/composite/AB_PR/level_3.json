@@ -1,0 +1,3902 @@
+{
+    "0": {
+        "objects": [
+            "man",
+            "coat",
+            "suitcase",
+            "umbrella"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is an afraid man with a floral coat, a green suitcase and a purple umbrella."
+    },
+    "1": {
+        "objects": [
+            "man",
+            "coat",
+            "suitcase",
+            "umbrella"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a bored man with a plaid coat, a white suitcase and a yellow umbrella."
+    },
+    "2": {
+        "objects": [
+            "baby",
+            "baseball glove",
+            "handbag",
+            "umbrella"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a sad baby with a green baseball glove, a crescentic handbag and a black umbrella."
+    },
+    "3": {
+        "objects": [
+            "baby",
+            "baseball glove",
+            "handbag",
+            "umbrella"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a calm baby with a blue baseball glove, a blue handbag and a green umbrella."
+    },
+    "4": {
+        "objects": [
+            "woman",
+            "trousers",
+            "backpack",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a calm woman with a pair of yellow trousers, a blue backpack and a green skateboard."
+    },
+    "5": {
+        "objects": [
+            "woman",
+            "trousers",
+            "backpack",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a bored woman with a pair of pink trousers, a purple backpack and a purple skateboard."
+    },
+    "6": {
+        "objects": [
+            "boy",
+            "T-shirt",
+            "trousers",
+            "eye glasses"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a calm boy with a yellow T-shirt, a pair of herringbone trousers and a pair of black eye glasses."
+    },
+    "7": {
+        "objects": [
+            "boy",
+            "T-shirt",
+            "trousers",
+            "eye glasses"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is an angry boy with a plain T-shirt, a pair of white trousers and a pair of pink eye glasses."
+    },
+    "8": {
+        "objects": [
+            "girl",
+            "backpack",
+            "suitcase",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a happy girl with a diamond backpack, a green suitcase and a blue skateboard."
+    },
+    "9": {
+        "objects": [
+            "girl",
+            "backpack",
+            "suitcase",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a bored girl with a diamond backpack, a blue suitcase and a white skateboard."
+    },
+    "10": {
+        "objects": [
+            "girl",
+            "coat",
+            "eye glasses",
+            "baseball glove"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a calm girl with a floral coat, a pair of purple eye glasses and a pink baseball glove."
+    },
+    "11": {
+        "objects": [
+            "girl",
+            "coat",
+            "eye glasses",
+            "baseball glove"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a calm girl with a blue coat, a pair of white eye glasses and a white baseball glove."
+    },
+    "12": {
+        "objects": [
+            "boy",
+            "shirt",
+            "umbrella",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is an excited boy with a polka-dotted shirt, a white umbrella and a black skateboard."
+    },
+    "13": {
+        "objects": [
+            "boy",
+            "shirt",
+            "umbrella",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a calm boy with a checked shirt, a green umbrella and a black skateboard."
+    },
+    "14": {
+        "objects": [
+            "woman",
+            "T-shirt",
+            "backpack",
+            "handbag"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a calm woman with a striped T-shirt, a hexagonal backpack and a star-shaped handbag."
+    },
+    "15": {
+        "objects": [
+            "woman",
+            "T-shirt",
+            "backpack",
+            "handbag"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is an afraid woman with a red T-shirt, a triangular backpack and a blue handbag."
+    },
+    "16": {
+        "objects": [
+            "woman",
+            "coat",
+            "trousers",
+            "umbrella"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a calm woman with a blue coat, a pair of pink trousers and a red umbrella."
+    },
+    "17": {
+        "objects": [
+            "woman",
+            "coat",
+            "trousers",
+            "umbrella"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a surprised woman with a red coat, a pair of plain trousers and a white umbrella."
+    },
+    "18": {
+        "objects": [
+            "boy",
+            "coat",
+            "eye glasses",
+            "handbag"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a calm boy with a purple coat, a pair of white eye glasses and a star-shaped handbag."
+    },
+    "19": {
+        "objects": [
+            "boy",
+            "coat",
+            "eye glasses",
+            "handbag"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is an excited boy with a polka-dotted coat, a pair of blue eye glasses and a pink handbag."
+    },
+    "20": {
+        "objects": [
+            "woman",
+            "T-shirt",
+            "baseball glove",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a calm woman with a green T-shirt, a black baseball glove and a black skateboard."
+    },
+    "21": {
+        "objects": [
+            "woman",
+            "T-shirt",
+            "baseball glove",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a sad woman with a green T-shirt, a yellow baseball glove and a green skateboard."
+    },
+    "22": {
+        "objects": [
+            "girl",
+            "shirt",
+            "dress",
+            "suitcase"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a happy girl with a striped shirt, a white dress and a purple suitcase."
+    },
+    "23": {
+        "objects": [
+            "girl",
+            "shirt",
+            "dress",
+            "suitcase"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a bored girl with a plaid shirt, a floral dress and a black suitcase."
+    },
+    "24": {
+        "objects": [
+            "man",
+            "shirt",
+            "trousers",
+            "eye glasses"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is an excited man with a polka-dotted shirt, a pair of pink trousers and a pair of blue eye glasses."
+    },
+    "25": {
+        "objects": [
+            "man",
+            "shirt",
+            "trousers",
+            "eye glasses"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is an angry man with a paisley shirt, a pair of geometric trousers and a pair of blue eye glasses."
+    },
+    "26": {
+        "objects": [
+            "girl",
+            "dress",
+            "handbag",
+            "umbrella"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is an excited girl with a polka-dotted dress, a yellow handbag and a red umbrella."
+    },
+    "27": {
+        "objects": [
+            "girl",
+            "dress",
+            "handbag",
+            "umbrella"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a happy girl with a blue dress, a heart-shaped handbag and a purple umbrella."
+    },
+    "28": {
+        "objects": [
+            "boy",
+            "shirt",
+            "dress",
+            "T-shirt"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a bored boy with a plain shirt, a camouflage dress and a floral T-shirt."
+    },
+    "29": {
+        "objects": [
+            "boy",
+            "shirt",
+            "dress",
+            "T-shirt"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a surprised boy with a red shirt, a pink dress and a camouflage T-shirt."
+    },
+    "30": {
+        "objects": [
+            "man",
+            "trousers",
+            "baseball glove",
+            "umbrella"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a calm man with a pair of paisley trousers, a purple baseball glove and a green umbrella."
+    },
+    "31": {
+        "objects": [
+            "man",
+            "trousers",
+            "baseball glove",
+            "umbrella"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a happy man with a pair of paisley trousers, a white baseball glove and a pink umbrella."
+    },
+    "32": {
+        "objects": [
+            "man",
+            "T-shirt",
+            "coat",
+            "handbag"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is an afraid man with a floral T-shirt, a blue coat and an oval handbag."
+    },
+    "33": {
+        "objects": [
+            "man",
+            "T-shirt",
+            "coat",
+            "handbag"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is an excited man with a plaid T-shirt, a herringbone coat and a black handbag."
+    },
+    "34": {
+        "objects": [
+            "man",
+            "shirt",
+            "dress",
+            "eye glasses"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a sad man with a white shirt, a plaid dress and a pair of blue eye glasses."
+    },
+    "35": {
+        "objects": [
+            "man",
+            "shirt",
+            "dress",
+            "eye glasses"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is an excited man with a striped shirt, a black dress and a pair of red eye glasses."
+    },
+    "36": {
+        "objects": [
+            "girl",
+            "shirt",
+            "baseball glove",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a sad girl with a checked shirt, a white baseball glove and a purple skateboard."
+    },
+    "37": {
+        "objects": [
+            "girl",
+            "shirt",
+            "baseball glove",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a bored girl with a red shirt, a green baseball glove and a red skateboard."
+    },
+    "38": {
+        "objects": [
+            "woman",
+            "shirt",
+            "T-shirt",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a surprised woman with a plaid shirt, a herringbone T-shirt and a white skateboard."
+    },
+    "39": {
+        "objects": [
+            "woman",
+            "shirt",
+            "T-shirt",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a calm woman with a green shirt, a polka-dotted T-shirt and a black skateboard."
+    },
+    "40": {
+        "objects": [
+            "woman",
+            "shirt",
+            "trousers",
+            "eye glasses"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a calm woman with a plain shirt, a pair of plain trousers and a pair of red eye glasses."
+    },
+    "41": {
+        "objects": [
+            "woman",
+            "shirt",
+            "trousers",
+            "eye glasses"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a happy woman with a striped shirt, a pair of checked trousers and a pair of purple eye glasses."
+    },
+    "42": {
+        "objects": [
+            "woman",
+            "trousers",
+            "eye glasses",
+            "umbrella"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is an afraid woman with a pair of plain trousers, a pair of black eye glasses and a green umbrella."
+    },
+    "43": {
+        "objects": [
+            "woman",
+            "trousers",
+            "eye glasses",
+            "umbrella"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is an angry woman with a pair of pink trousers, a pair of blue eye glasses and a blue umbrella."
+    },
+    "44": {
+        "objects": [
+            "woman",
+            "shirt",
+            "T-shirt",
+            "umbrella"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a happy woman with a pink shirt, a blue T-shirt and a pink umbrella."
+    },
+    "45": {
+        "objects": [
+            "woman",
+            "shirt",
+            "T-shirt",
+            "umbrella"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a calm woman with a floral shirt, a white T-shirt and a blue umbrella."
+    },
+    "46": {
+        "objects": [
+            "girl",
+            "shirt",
+            "eye glasses",
+            "suitcase"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a surprised girl with a green shirt, a pair of black eye glasses and a black suitcase."
+    },
+    "47": {
+        "objects": [
+            "girl",
+            "shirt",
+            "eye glasses",
+            "suitcase"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a surprised girl with a yellow shirt, a pair of black eye glasses and a red suitcase."
+    },
+    "48": {
+        "objects": [
+            "girl",
+            "dress",
+            "T-shirt",
+            "eye glasses"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is an angry girl with a paisley dress, a herringbone T-shirt and a pair of yellow eye glasses."
+    },
+    "49": {
+        "objects": [
+            "girl",
+            "dress",
+            "T-shirt",
+            "eye glasses"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a bored girl with a green dress, a red T-shirt and a pair of green eye glasses."
+    },
+    "50": {
+        "objects": [
+            "woman",
+            "coat",
+            "backpack",
+            "baseball glove"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is an afraid woman with a paisley coat, a crescentic backpack and a black baseball glove."
+    },
+    "51": {
+        "objects": [
+            "woman",
+            "coat",
+            "backpack",
+            "baseball glove"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a surprised woman with a plain coat, a triangular backpack and a pink baseball glove."
+    },
+    "52": {
+        "objects": [
+            "baby",
+            "shirt",
+            "T-shirt",
+            "eye glasses"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a sad baby with a pink shirt, a red T-shirt and a pair of purple eye glasses."
+    },
+    "53": {
+        "objects": [
+            "baby",
+            "shirt",
+            "T-shirt",
+            "eye glasses"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a sad baby with a white shirt, a camouflage T-shirt and a pair of black eye glasses."
+    },
+    "54": {
+        "objects": [
+            "man",
+            "shirt",
+            "backpack",
+            "suitcase"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a sad man with a red shirt, a red backpack and a pink suitcase."
+    },
+    "55": {
+        "objects": [
+            "man",
+            "shirt",
+            "backpack",
+            "suitcase"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a calm man with a pink shirt, a red backpack and a pink suitcase."
+    },
+    "56": {
+        "objects": [
+            "girl",
+            "T-shirt",
+            "coat",
+            "baseball glove"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a sad girl with a pink T-shirt, a black coat and a red baseball glove."
+    },
+    "57": {
+        "objects": [
+            "girl",
+            "T-shirt",
+            "coat",
+            "baseball glove"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is an excited girl with a blue T-shirt, a checked coat and a red baseball glove."
+    },
+    "58": {
+        "objects": [
+            "boy",
+            "coat",
+            "baseball glove",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is an excited boy with a floral coat, a black baseball glove and a red skateboard."
+    },
+    "59": {
+        "objects": [
+            "boy",
+            "coat",
+            "baseball glove",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a happy boy with a plain coat, a white baseball glove and a pink skateboard."
+    },
+    "60": {
+        "objects": [
+            "boy",
+            "T-shirt",
+            "coat",
+            "eye glasses"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a happy boy with a polka-dotted T-shirt, a purple coat and a pair of green eye glasses."
+    },
+    "61": {
+        "objects": [
+            "boy",
+            "T-shirt",
+            "coat",
+            "eye glasses"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a calm boy with a red T-shirt, a red coat and a pair of white eye glasses."
+    },
+    "62": {
+        "objects": [
+            "boy",
+            "dress",
+            "suitcase",
+            "umbrella"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a happy boy with a paisley dress, a red suitcase and a black umbrella."
+    },
+    "63": {
+        "objects": [
+            "boy",
+            "dress",
+            "suitcase",
+            "umbrella"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a bored boy with a green dress, a black suitcase and a black umbrella."
+    },
+    "64": {
+        "objects": [
+            "girl",
+            "dress",
+            "T-shirt",
+            "baseball glove"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a sad girl with a checked dress, a checked T-shirt and a pink baseball glove."
+    },
+    "65": {
+        "objects": [
+            "girl",
+            "dress",
+            "T-shirt",
+            "baseball glove"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a surprised girl with a green dress, a white T-shirt and a yellow baseball glove."
+    },
+    "66": {
+        "objects": [
+            "boy",
+            "T-shirt",
+            "coat",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a sad boy with a polka-dotted T-shirt, a white coat and a white skateboard."
+    },
+    "67": {
+        "objects": [
+            "boy",
+            "T-shirt",
+            "coat",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is an angry boy with a blue T-shirt, a herringbone coat and a red skateboard."
+    },
+    "68": {
+        "objects": [
+            "man",
+            "dress",
+            "backpack",
+            "baseball glove"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a surprised man with a plaid dress, a black backpack and a red baseball glove."
+    },
+    "69": {
+        "objects": [
+            "man",
+            "dress",
+            "backpack",
+            "baseball glove"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a surprised man with a blue dress, a star-shaped backpack and a black baseball glove."
+    },
+    "70": {
+        "objects": [
+            "woman",
+            "dress",
+            "baseball glove",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is an excited woman with a red dress, a yellow baseball glove and a blue skateboard."
+    },
+    "71": {
+        "objects": [
+            "woman",
+            "dress",
+            "baseball glove",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is an excited woman with a polka-dotted dress, a green baseball glove and a black skateboard."
+    },
+    "72": {
+        "objects": [
+            "boy",
+            "eye glasses",
+            "baseball glove",
+            "suitcase"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is an excited boy with a pair of white eye glasses, a yellow baseball glove and a yellow suitcase."
+    },
+    "73": {
+        "objects": [
+            "boy",
+            "eye glasses",
+            "baseball glove",
+            "suitcase"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is an excited boy with a pair of black eye glasses, a purple baseball glove and a black suitcase."
+    },
+    "74": {
+        "objects": [
+            "girl",
+            "dress",
+            "coat",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is an excited girl with a yellow dress, a paisley coat and a blue skateboard."
+    },
+    "75": {
+        "objects": [
+            "girl",
+            "dress",
+            "coat",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is an angry girl with a purple dress, a camouflage coat and a red skateboard."
+    },
+    "76": {
+        "objects": [
+            "girl",
+            "dress",
+            "backpack",
+            "baseball glove"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a happy girl with a floral dress, a purple backpack and a purple baseball glove."
+    },
+    "77": {
+        "objects": [
+            "girl",
+            "dress",
+            "backpack",
+            "baseball glove"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a calm girl with a checked dress, a crescentic backpack and a white baseball glove."
+    },
+    "78": {
+        "objects": [
+            "girl",
+            "shirt",
+            "eye glasses",
+            "backpack"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is an angry girl with a plain shirt, a pair of yellow eye glasses and a star-shaped backpack."
+    },
+    "79": {
+        "objects": [
+            "girl",
+            "shirt",
+            "eye glasses",
+            "backpack"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is an afraid girl with a blue shirt, a pair of yellow eye glasses and a pink backpack."
+    },
+    "80": {
+        "objects": [
+            "girl",
+            "shirt",
+            "dress",
+            "coat"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a surprised girl with a polka-dotted shirt, a herringbone dress and a paisley coat."
+    },
+    "81": {
+        "objects": [
+            "girl",
+            "shirt",
+            "dress",
+            "coat"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is an excited girl with a purple shirt, a plain dress and a yellow coat."
+    },
+    "82": {
+        "objects": [
+            "baby",
+            "backpack",
+            "suitcase",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is an afraid baby with a pink backpack, a green suitcase and a yellow skateboard."
+    },
+    "83": {
+        "objects": [
+            "baby",
+            "backpack",
+            "suitcase",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a surprised baby with a pink backpack, a pink suitcase and a green skateboard."
+    },
+    "84": {
+        "objects": [
+            "baby",
+            "shirt",
+            "backpack",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a calm baby with a black shirt, a triangular backpack and a black skateboard."
+    },
+    "85": {
+        "objects": [
+            "baby",
+            "shirt",
+            "backpack",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a sad baby with a herringbone shirt, a purple backpack and a black skateboard."
+    },
+    "86": {
+        "objects": [
+            "woman",
+            "T-shirt",
+            "suitcase",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a bored woman with a herringbone T-shirt, a purple suitcase and a white skateboard."
+    },
+    "87": {
+        "objects": [
+            "woman",
+            "T-shirt",
+            "suitcase",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a calm woman with a white T-shirt, a black suitcase and a red skateboard."
+    },
+    "88": {
+        "objects": [
+            "girl",
+            "shirt",
+            "T-shirt",
+            "baseball glove"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a surprised girl with a geometric shirt, a green T-shirt and a purple baseball glove."
+    },
+    "89": {
+        "objects": [
+            "girl",
+            "shirt",
+            "T-shirt",
+            "baseball glove"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a bored girl with a blue shirt, a black T-shirt and a pink baseball glove."
+    },
+    "90": {
+        "objects": [
+            "baby",
+            "dress",
+            "eye glasses",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a sad baby with a checked dress, a pair of yellow eye glasses and a purple skateboard."
+    },
+    "91": {
+        "objects": [
+            "baby",
+            "dress",
+            "eye glasses",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is an afraid baby with a green dress, a pair of white eye glasses and a pink skateboard."
+    },
+    "92": {
+        "objects": [
+            "baby",
+            "trousers",
+            "eye glasses",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a calm baby with a pair of green trousers, a pair of white eye glasses and a purple skateboard."
+    },
+    "93": {
+        "objects": [
+            "baby",
+            "trousers",
+            "eye glasses",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is an afraid baby with a pair of green trousers, a pair of red eye glasses and a black skateboard."
+    },
+    "94": {
+        "objects": [
+            "woman",
+            "dress",
+            "coat",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a happy woman with a checked dress, a pink coat and a pink skateboard."
+    },
+    "95": {
+        "objects": [
+            "woman",
+            "dress",
+            "coat",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is an afraid woman with a blue dress, a paisley coat and a green skateboard."
+    },
+    "96": {
+        "objects": [
+            "boy",
+            "shirt",
+            "T-shirt",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is an afraid boy with a black shirt, a yellow T-shirt and a yellow skateboard."
+    },
+    "97": {
+        "objects": [
+            "boy",
+            "shirt",
+            "T-shirt",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is an afraid boy with a purple shirt, a white T-shirt and a blue skateboard."
+    },
+    "98": {
+        "objects": [
+            "girl",
+            "trousers",
+            "handbag",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is an afraid girl with a pair of striped trousers, a diamond handbag and a white skateboard."
+    },
+    "99": {
+        "objects": [
+            "girl",
+            "trousers",
+            "handbag",
+            "skateboard"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is an angry girl with a pair of camouflage trousers, a purple handbag and a white skateboard."
+    },
+    "100": {
+        "objects": [
+            "man",
+            "shirt",
+            "baseball glove",
+            "suitcase"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is an angry man with a striped shirt, a purple baseball glove and a purple suitcase."
+    },
+    "101": {
+        "objects": [
+            "man",
+            "shirt",
+            "baseball glove",
+            "suitcase"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a calm man with a black shirt, a yellow baseball glove and a purple suitcase."
+    },
+    "102": {
+        "objects": [
+            "boy",
+            "backpack",
+            "suitcase",
+            "handbag"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is an angry boy with a green backpack, a white suitcase and a pink handbag."
+    },
+    "103": {
+        "objects": [
+            "boy",
+            "backpack",
+            "suitcase",
+            "handbag"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a surprised boy with a hexagonal backpack, a green suitcase and a blue handbag."
+    },
+    "104": {
+        "objects": [
+            "boy",
+            "shirt",
+            "T-shirt",
+            "backpack"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a happy boy with a polka-dotted shirt, a red T-shirt and a rectangular backpack."
+    },
+    "105": {
+        "objects": [
+            "boy",
+            "shirt",
+            "T-shirt",
+            "backpack"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is an excited boy with a purple shirt, a green T-shirt and a green backpack."
+    },
+    "106": {
+        "objects": [
+            "boy",
+            "T-shirt",
+            "coat",
+            "backpack"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a surprised boy with a purple T-shirt, a green coat and a star-shaped backpack."
+    },
+    "107": {
+        "objects": [
+            "boy",
+            "T-shirt",
+            "coat",
+            "backpack"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a surprised boy with a red T-shirt, a white coat and a white backpack."
+    },
+    "108": {
+        "objects": [
+            "boy",
+            "coat",
+            "trousers",
+            "umbrella"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is an angry boy with a pink coat, a pair of yellow trousers and a black umbrella."
+    },
+    "109": {
+        "objects": [
+            "boy",
+            "coat",
+            "trousers",
+            "umbrella"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a bored boy with a black coat, a pair of white trousers and a yellow umbrella."
+    },
+    "110": {
+        "objects": [
+            "girl",
+            "trousers",
+            "eye glasses",
+            "umbrella"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a calm girl with a pair of red trousers, a pair of red eye glasses and a pink umbrella."
+    },
+    "111": {
+        "objects": [
+            "girl",
+            "trousers",
+            "eye glasses",
+            "umbrella"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is an angry girl with a pair of white trousers, a pair of green eye glasses and a yellow umbrella."
+    },
+    "112": {
+        "objects": [
+            "woman",
+            "dress",
+            "trousers",
+            "handbag"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a surprised woman with a striped dress, a pair of black trousers and a red handbag."
+    },
+    "113": {
+        "objects": [
+            "woman",
+            "dress",
+            "trousers",
+            "handbag"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a happy woman with a white dress, a pair of checked trousers and a white handbag."
+    },
+    "114": {
+        "objects": [
+            "boy",
+            "dress",
+            "trousers",
+            "eye glasses"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a calm boy with a yellow dress, a pair of herringbone trousers and a pair of green eye glasses."
+    },
+    "115": {
+        "objects": [
+            "boy",
+            "dress",
+            "trousers",
+            "eye glasses"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a surprised boy with a geometric dress, a pair of purple trousers and a pair of purple eye glasses."
+    },
+    "116": {
+        "objects": [
+            "boy",
+            "trousers",
+            "baseball glove",
+            "umbrella"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a bored boy with a pair of red trousers, a white baseball glove and a yellow umbrella."
+    },
+    "117": {
+        "objects": [
+            "boy",
+            "trousers",
+            "baseball glove",
+            "umbrella"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is an afraid boy with a pair of white trousers, a white baseball glove and a black umbrella."
+    },
+    "118": {
+        "objects": [
+            "woman",
+            "dress",
+            "eye glasses",
+            "handbag"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is an excited woman with a purple dress, a pair of purple eye glasses and a diamond handbag."
+    },
+    "119": {
+        "objects": [
+            "woman",
+            "dress",
+            "eye glasses",
+            "handbag"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a calm woman with a white dress, a pair of purple eye glasses and a star-shaped handbag."
+    },
+    "120": {
+        "objects": [
+            "oven",
+            "carrot",
+            "broccoli",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a white oven containing a pink carrot, a red broccoli and a black banana."
+    },
+    "121": {
+        "objects": [
+            "oven",
+            "carrot",
+            "broccoli",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a green oven containing a red carrot, a pink broccoli and a black banana."
+    },
+    "122": {
+        "objects": [
+            "plate",
+            "hot dog",
+            "carrot",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a pink plate containing a red hot dog, a white carrot and a red banana."
+    },
+    "123": {
+        "objects": [
+            "plate",
+            "hot dog",
+            "carrot",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a round plate containing a green hot dog, a white carrot and a white banana."
+    },
+    "124": {
+        "objects": [
+            "toaster",
+            "scissors",
+            "orange",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a purple toaster including a pair of blue scissors, a green orange and a green apple."
+    },
+    "125": {
+        "objects": [
+            "toaster",
+            "scissors",
+            "orange",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a red toaster including a pair of purple scissors, a yellow orange and a white apple."
+    },
+    "126": {
+        "objects": [
+            "oven",
+            "donut",
+            "hot dog",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a purple oven including a purple donut, a black hot dog and a purple broccoli."
+    },
+    "127": {
+        "objects": [
+            "oven",
+            "donut",
+            "hot dog",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a blue oven including a red donut, a white hot dog and a yellow broccoli."
+    },
+    "128": {
+        "objects": [
+            "sink",
+            "book",
+            "donut",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a red sink including a yellow book, a blue donut and a yellow pizza."
+    },
+    "129": {
+        "objects": [
+            "sink",
+            "book",
+            "donut",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a white sink including a purple book, a blue donut and a green pizza."
+    },
+    "130": {
+        "objects": [
+            "plate",
+            "sandwich",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a yellow plate including a pink sandwich, a yellow apple and a blue banana."
+    },
+    "131": {
+        "objects": [
+            "plate",
+            "sandwich",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a star-shaped plate including a blue sandwich, a blue apple and a purple banana."
+    },
+    "132": {
+        "objects": [
+            "bowl",
+            "scissors",
+            "donut",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a red bowl containing a pair of black scissors, a green donut and a green apple."
+    },
+    "133": {
+        "objects": [
+            "bowl",
+            "scissors",
+            "donut",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a clay bowl containing a pair of green scissors, a purple donut and a red apple."
+    },
+    "134": {
+        "objects": [
+            "microwave",
+            "toothbrush",
+            "cake",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a white microwave containing a blue toothbrush, a round cake and a black broccoli."
+    },
+    "135": {
+        "objects": [
+            "microwave",
+            "toothbrush",
+            "cake",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a white microwave containing a red toothbrush, a blue cake and a pink broccoli."
+    },
+    "136": {
+        "objects": [
+            "refrigerator",
+            "book",
+            "carrot",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a red refrigerator containing a yellow book, a green carrot and a purple orange."
+    },
+    "137": {
+        "objects": [
+            "refrigerator",
+            "book",
+            "carrot",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a red refrigerator containing a yellow book, a purple carrot and a green orange."
+    },
+    "138": {
+        "objects": [
+            "toaster",
+            "scissors",
+            "cake",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a blue toaster containing a pair of white scissors, a red cake and a yellow pizza."
+    },
+    "139": {
+        "objects": [
+            "toaster",
+            "scissors",
+            "cake",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a black toaster containing a pair of green scissors, a crescentic cake and a green pizza."
+    },
+    "140": {
+        "objects": [
+            "sink",
+            "scissors",
+            "carrot",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a polygonal sink including a pair of yellow scissors, a black carrot and a blue sandwich."
+    },
+    "141": {
+        "objects": [
+            "sink",
+            "scissors",
+            "carrot",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a yellow sink including a pair of yellow scissors, a green carrot and a pink sandwich."
+    },
+    "142": {
+        "objects": [
+            "sink",
+            "cake",
+            "pizza",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a purple sink including a pink cake, a blue pizza and a red apple."
+    },
+    "143": {
+        "objects": [
+            "sink",
+            "cake",
+            "pizza",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a rectangular sink including a pink cake, a yellow pizza and a purple apple."
+    },
+    "144": {
+        "objects": [
+            "microwave",
+            "book",
+            "donut",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a pink microwave including a purple book, a green donut and a yellow orange."
+    },
+    "145": {
+        "objects": [
+            "microwave",
+            "book",
+            "donut",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a green microwave including a blue book, a black donut and a purple orange."
+    },
+    "146": {
+        "objects": [
+            "microwave",
+            "broccoli",
+            "sandwich",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a red microwave containing a black broccoli, a yellow sandwich and a purple banana."
+    },
+    "147": {
+        "objects": [
+            "microwave",
+            "broccoli",
+            "sandwich",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a red microwave containing a green broccoli, a blue sandwich and a yellow banana."
+    },
+    "148": {
+        "objects": [
+            "microwave",
+            "hot dog",
+            "broccoli",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a blue microwave including a red hot dog, a blue broccoli and a red sandwich."
+    },
+    "149": {
+        "objects": [
+            "microwave",
+            "hot dog",
+            "broccoli",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a green microwave including a green hot dog, a yellow broccoli and a red sandwich."
+    },
+    "150": {
+        "objects": [
+            "oven",
+            "donut",
+            "orange",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a green oven including a green donut, a purple orange and a blue banana."
+    },
+    "151": {
+        "objects": [
+            "oven",
+            "donut",
+            "orange",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a red oven including a black donut, a pink orange and a red banana."
+    },
+    "152": {
+        "objects": [
+            "sink",
+            "pizza",
+            "hot dog",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a black sink including a black pizza, a pink hot dog and a black broccoli."
+    },
+    "153": {
+        "objects": [
+            "sink",
+            "pizza",
+            "hot dog",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a yellow sink including a purple pizza, a black hot dog and a purple broccoli."
+    },
+    "154": {
+        "objects": [
+            "sink",
+            "book",
+            "carrot",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a round sink including a red book, a purple carrot and a pink orange."
+    },
+    "155": {
+        "objects": [
+            "sink",
+            "book",
+            "carrot",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a green sink including a black book, a red carrot and a blue orange."
+    },
+    "156": {
+        "objects": [
+            "oven",
+            "scissors",
+            "hot dog",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a green oven containing a pair of green scissors, a pink hot dog and a purple apple."
+    },
+    "157": {
+        "objects": [
+            "oven",
+            "scissors",
+            "hot dog",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a purple oven containing a pair of white scissors, a red hot dog and a purple apple."
+    },
+    "158": {
+        "objects": [
+            "microwave",
+            "book",
+            "cake",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a black microwave containing a purple book, a black cake and a black banana."
+    },
+    "159": {
+        "objects": [
+            "microwave",
+            "book",
+            "cake",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a purple microwave containing a purple book, a pink cake and a white banana."
+    },
+    "160": {
+        "objects": [
+            "bowl",
+            "pizza",
+            "sandwich",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a bamboo bowl containing a pink pizza, a green sandwich and a white banana."
+    },
+    "161": {
+        "objects": [
+            "bowl",
+            "pizza",
+            "sandwich",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a granite bowl containing a blue pizza, a black sandwich and a black banana."
+    },
+    "162": {
+        "objects": [
+            "refrigerator",
+            "scissors",
+            "book",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a pink refrigerator including a pair of blue scissors, a blue book and a blue apple."
+    },
+    "163": {
+        "objects": [
+            "refrigerator",
+            "scissors",
+            "book",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a red refrigerator including a pair of red scissors, a purple book and a red apple."
+    },
+    "164": {
+        "objects": [
+            "oven",
+            "donut",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a blue oven containing a yellow donut, a yellow apple and a green banana."
+    },
+    "165": {
+        "objects": [
+            "oven",
+            "donut",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a red oven containing a red donut, a black apple and a purple banana."
+    },
+    "166": {
+        "objects": [
+            "bowl",
+            "hot dog",
+            "carrot",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is an aluminum bowl containing a blue hot dog, a white carrot and a black banana."
+    },
+    "167": {
+        "objects": [
+            "bowl",
+            "hot dog",
+            "carrot",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is an acrylic bowl containing a pink hot dog, a blue carrot and a yellow banana."
+    },
+    "168": {
+        "objects": [
+            "microwave",
+            "book",
+            "sandwich",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a blue microwave including a blue book, a blue sandwich and a blue banana."
+    },
+    "169": {
+        "objects": [
+            "microwave",
+            "book",
+            "sandwich",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a white microwave including a green book, a yellow sandwich and a yellow banana."
+    },
+    "170": {
+        "objects": [
+            "toaster",
+            "scissors",
+            "cake",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a purple toaster containing a pair of blue scissors, a star-shaped cake and a green carrot."
+    },
+    "171": {
+        "objects": [
+            "toaster",
+            "scissors",
+            "cake",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a blue toaster containing a pair of yellow scissors, a black cake and a purple carrot."
+    },
+    "172": {
+        "objects": [
+            "refrigerator",
+            "toothbrush",
+            "orange",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a black refrigerator including a blue toothbrush, a green orange and a yellow apple."
+    },
+    "173": {
+        "objects": [
+            "refrigerator",
+            "toothbrush",
+            "orange",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a green refrigerator including a green toothbrush, a black orange and a yellow apple."
+    },
+    "174": {
+        "objects": [
+            "oven",
+            "book",
+            "donut",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a white oven containing a red book, a blue donut and a white broccoli."
+    },
+    "175": {
+        "objects": [
+            "oven",
+            "book",
+            "donut",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a blue oven containing a yellow book, a yellow donut and a yellow broccoli."
+    },
+    "176": {
+        "objects": [
+            "sink",
+            "book",
+            "broccoli",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a hexagonal sink including a yellow book, a blue broccoli and a white apple."
+    },
+    "177": {
+        "objects": [
+            "sink",
+            "book",
+            "broccoli",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a round sink including a black book, a black broccoli and a purple apple."
+    },
+    "178": {
+        "objects": [
+            "sink",
+            "carrot",
+            "broccoli",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a black sink containing a pink carrot, a red broccoli and a purple orange."
+    },
+    "179": {
+        "objects": [
+            "sink",
+            "carrot",
+            "broccoli",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a pink sink containing a blue carrot, a blue broccoli and a black orange."
+    },
+    "180": {
+        "objects": [
+            "plate",
+            "donut",
+            "orange",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is an oval plate containing a purple donut, a red orange and a black banana."
+    },
+    "181": {
+        "objects": [
+            "plate",
+            "donut",
+            "orange",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a marble plate containing a white donut, a purple orange and a red banana."
+    },
+    "182": {
+        "objects": [
+            "bowl",
+            "book",
+            "pizza",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a glass bowl including a purple book, a blue pizza and a white orange."
+    },
+    "183": {
+        "objects": [
+            "bowl",
+            "book",
+            "pizza",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a porcelain bowl including a purple book, a purple pizza and a green orange."
+    },
+    "184": {
+        "objects": [
+            "toaster",
+            "book",
+            "cake",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a red toaster containing a white book, a diamond-shaped cake and a purple banana."
+    },
+    "185": {
+        "objects": [
+            "toaster",
+            "book",
+            "cake",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a yellow toaster containing a black book, a round cake and a black banana."
+    },
+    "186": {
+        "objects": [
+            "sink",
+            "toothbrush",
+            "hot dog",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a white sink containing a green toothbrush, a purple hot dog and a blue apple."
+    },
+    "187": {
+        "objects": [
+            "sink",
+            "toothbrush",
+            "hot dog",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a rectangular sink containing a white toothbrush, a white hot dog and a black apple."
+    },
+    "188": {
+        "objects": [
+            "plate",
+            "scissors",
+            "cake",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a star-shaped plate containing a pair of black scissors, a heart-shaped cake and a pink sandwich."
+    },
+    "189": {
+        "objects": [
+            "plate",
+            "scissors",
+            "cake",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a glass plate containing a pair of red scissors, a black cake and a blue sandwich."
+    },
+    "190": {
+        "objects": [
+            "sink",
+            "book",
+            "cake",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a blue sink including a black book, a triangular cake and a blue sandwich."
+    },
+    "191": {
+        "objects": [
+            "sink",
+            "book",
+            "cake",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a black sink including a yellow book, a star-shaped cake and a black sandwich."
+    },
+    "192": {
+        "objects": [
+            "bowl",
+            "scissors",
+            "hot dog",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a glass bowl including a pair of black scissors, a purple hot dog and a red broccoli."
+    },
+    "193": {
+        "objects": [
+            "bowl",
+            "scissors",
+            "hot dog",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a hexagonal bowl including a pair of pink scissors, a green hot dog and a blue broccoli."
+    },
+    "194": {
+        "objects": [
+            "bowl",
+            "cake",
+            "sandwich",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a bamboo bowl including a rectangular cake, a pink sandwich and a red apple."
+    },
+    "195": {
+        "objects": [
+            "bowl",
+            "cake",
+            "sandwich",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is an irregular bowl including a red cake, a blue sandwich and a pink apple."
+    },
+    "196": {
+        "objects": [
+            "microwave",
+            "book",
+            "pizza",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a blue microwave including a purple book, a red pizza and a white sandwich."
+    },
+    "197": {
+        "objects": [
+            "microwave",
+            "book",
+            "pizza",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a red microwave including a purple book, a blue pizza and a green sandwich."
+    },
+    "198": {
+        "objects": [
+            "sink",
+            "hot dog",
+            "carrot",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a green sink including a white hot dog, a purple carrot and a white broccoli."
+    },
+    "199": {
+        "objects": [
+            "sink",
+            "hot dog",
+            "carrot",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a green sink including a red hot dog, a purple carrot and a purple broccoli."
+    },
+    "200": {
+        "objects": [
+            "plate",
+            "scissors",
+            "sandwich",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a heart-shaped plate including a pair of green scissors, a red sandwich and a pink apple."
+    },
+    "201": {
+        "objects": [
+            "plate",
+            "scissors",
+            "sandwich",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a bone plate including a pair of black scissors, a black sandwich and a red apple."
+    },
+    "202": {
+        "objects": [
+            "microwave",
+            "toothbrush",
+            "hot dog",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a black microwave containing a green toothbrush, a black hot dog and a black orange."
+    },
+    "203": {
+        "objects": [
+            "microwave",
+            "toothbrush",
+            "hot dog",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a blue microwave containing a purple toothbrush, a green hot dog and a black orange."
+    },
+    "204": {
+        "objects": [
+            "sink",
+            "toothbrush",
+            "orange",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a crescentic sink containing a blue toothbrush, a white orange and a black banana."
+    },
+    "205": {
+        "objects": [
+            "sink",
+            "toothbrush",
+            "orange",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a green sink containing a blue toothbrush, a blue orange and a pink banana."
+    },
+    "206": {
+        "objects": [
+            "microwave",
+            "scissors",
+            "carrot",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a pink microwave containing a pair of green scissors, a blue carrot and a red apple."
+    },
+    "207": {
+        "objects": [
+            "microwave",
+            "scissors",
+            "carrot",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a red microwave containing a pair of green scissors, a red carrot and a green apple."
+    },
+    "208": {
+        "objects": [
+            "microwave",
+            "pizza",
+            "carrot",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a black microwave including a black pizza, a green carrot and a black orange."
+    },
+    "209": {
+        "objects": [
+            "microwave",
+            "pizza",
+            "carrot",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a pink microwave including a red pizza, a blue carrot and a yellow orange."
+    },
+    "210": {
+        "objects": [
+            "toaster",
+            "book",
+            "donut",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a white toaster containing a white book, a green donut and a yellow carrot."
+    },
+    "211": {
+        "objects": [
+            "toaster",
+            "book",
+            "donut",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a red toaster containing a yellow book, a black donut and a pink carrot."
+    },
+    "212": {
+        "objects": [
+            "plate",
+            "cake",
+            "sandwich",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a clay plate containing a red cake, a red sandwich and a black apple."
+    },
+    "213": {
+        "objects": [
+            "plate",
+            "cake",
+            "sandwich",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a granite plate containing a blue cake, a green sandwich and a white apple."
+    },
+    "214": {
+        "objects": [
+            "microwave",
+            "toothbrush",
+            "hot dog",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a yellow microwave including a purple toothbrush, a green hot dog and a purple sandwich."
+    },
+    "215": {
+        "objects": [
+            "microwave",
+            "toothbrush",
+            "hot dog",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a pink microwave including a red toothbrush, a blue hot dog and a black sandwich."
+    },
+    "216": {
+        "objects": [
+            "microwave",
+            "sandwich",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a red microwave containing a white sandwich, a black apple and a green banana."
+    },
+    "217": {
+        "objects": [
+            "microwave",
+            "sandwich",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a green microwave containing a purple sandwich, a red apple and a yellow banana."
+    },
+    "218": {
+        "objects": [
+            "refrigerator",
+            "scissors",
+            "sandwich",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a purple refrigerator including a pair of blue scissors, a yellow sandwich and a green banana."
+    },
+    "219": {
+        "objects": [
+            "refrigerator",
+            "scissors",
+            "sandwich",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a purple refrigerator including a pair of green scissors, a red sandwich and a yellow banana."
+    },
+    "220": {
+        "objects": [
+            "plate",
+            "carrot",
+            "sandwich",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a star-shaped plate including a purple carrot, a white sandwich and a blue apple."
+    },
+    "221": {
+        "objects": [
+            "plate",
+            "carrot",
+            "sandwich",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a copper plate including a purple carrot, a purple sandwich and a yellow apple."
+    },
+    "222": {
+        "objects": [
+            "microwave",
+            "scissors",
+            "cake",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a blue microwave including a pair of green scissors, an oval cake and a black donut."
+    },
+    "223": {
+        "objects": [
+            "microwave",
+            "scissors",
+            "cake",
+            "donut"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a green microwave including a pair of pink scissors, a red cake and a yellow donut."
+    },
+    "224": {
+        "objects": [
+            "refrigerator",
+            "toothbrush",
+            "donut",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a black refrigerator including a white toothbrush, a yellow donut and a blue broccoli."
+    },
+    "225": {
+        "objects": [
+            "refrigerator",
+            "toothbrush",
+            "donut",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a pink refrigerator including a blue toothbrush, a red donut and a purple broccoli."
+    },
+    "226": {
+        "objects": [
+            "plate",
+            "hot dog",
+            "carrot",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a bone plate containing a red hot dog, a black carrot and a black broccoli."
+    },
+    "227": {
+        "objects": [
+            "plate",
+            "hot dog",
+            "carrot",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a glass plate containing a green hot dog, a yellow carrot and a green broccoli."
+    },
+    "228": {
+        "objects": [
+            "bowl",
+            "toothbrush",
+            "broccoli",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is an acrylic bowl containing a yellow toothbrush, a green broccoli and a yellow banana."
+    },
+    "229": {
+        "objects": [
+            "bowl",
+            "toothbrush",
+            "broccoli",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is an irregular bowl containing a green toothbrush, a red broccoli and a blue banana."
+    },
+    "230": {
+        "objects": [
+            "plate",
+            "toothbrush",
+            "pizza",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a bone plate containing a black toothbrush, a white pizza and a red carrot."
+    },
+    "231": {
+        "objects": [
+            "plate",
+            "toothbrush",
+            "pizza",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a hexagonal plate containing a blue toothbrush, a red pizza and a blue carrot."
+    },
+    "232": {
+        "objects": [
+            "bowl",
+            "donut",
+            "hot dog",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is an octagonal bowl including a yellow donut, a blue hot dog and a blue sandwich."
+    },
+    "233": {
+        "objects": [
+            "bowl",
+            "donut",
+            "hot dog",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a triangular bowl including a pink donut, a purple hot dog and a white sandwich."
+    },
+    "234": {
+        "objects": [
+            "toaster",
+            "carrot",
+            "orange",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a green toaster containing a purple carrot, a black orange and a black apple."
+    },
+    "235": {
+        "objects": [
+            "toaster",
+            "carrot",
+            "orange",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a green toaster containing a green carrot, a red orange and a pink apple."
+    },
+    "236": {
+        "objects": [
+            "bowl",
+            "toothbrush",
+            "orange",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is an acrylic bowl including a purple toothbrush, a blue orange and a red sandwich."
+    },
+    "237": {
+        "objects": [
+            "bowl",
+            "toothbrush",
+            "orange",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a yellow bowl including a red toothbrush, a white orange and a yellow sandwich."
+    },
+    "238": {
+        "objects": [
+            "refrigerator",
+            "cake",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a green refrigerator including a red cake, a blue apple and a green banana."
+    },
+    "239": {
+        "objects": [
+            "refrigerator",
+            "cake",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a white refrigerator including a green cake, a purple apple and a green banana."
+    },
+    "240": {
+        "objects": [
+            "refrigerator",
+            "donut",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a white refrigerator including a green donut, a pink apple and a yellow banana."
+    },
+    "241": {
+        "objects": [
+            "refrigerator",
+            "donut",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a blue refrigerator including a yellow donut, a purple apple and a yellow banana."
+    },
+    "242": {
+        "objects": [
+            "sink",
+            "cake",
+            "hot dog",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a blue sink including a black cake, a yellow hot dog and a green apple."
+    },
+    "243": {
+        "objects": [
+            "sink",
+            "cake",
+            "hot dog",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a square sink including a crescentic cake, a yellow hot dog and a purple apple."
+    },
+    "244": {
+        "objects": [
+            "sink",
+            "pizza",
+            "orange",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a round sink including a white pizza, a purple orange and a blue apple."
+    },
+    "245": {
+        "objects": [
+            "sink",
+            "pizza",
+            "orange",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a square sink including a purple pizza, a yellow orange and a yellow apple."
+    },
+    "246": {
+        "objects": [
+            "sink",
+            "toothbrush",
+            "cake",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a triangular sink containing a white toothbrush, a white cake and a black pizza."
+    },
+    "247": {
+        "objects": [
+            "sink",
+            "toothbrush",
+            "cake",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a square sink containing a blue toothbrush, a yellow cake and a pink pizza."
+    },
+    "248": {
+        "objects": [
+            "refrigerator",
+            "toothbrush",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a blue refrigerator including a white toothbrush, a black apple and a red banana."
+    },
+    "249": {
+        "objects": [
+            "refrigerator",
+            "toothbrush",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a blue refrigerator including a green toothbrush, a red apple and a pink banana."
+    },
+    "250": {
+        "objects": [
+            "toaster",
+            "donut",
+            "hot dog",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a pink toaster including a green donut, a green hot dog and a pink broccoli."
+    },
+    "251": {
+        "objects": [
+            "toaster",
+            "donut",
+            "hot dog",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a red toaster including a purple donut, a white hot dog and a red broccoli."
+    },
+    "252": {
+        "objects": [
+            "bowl",
+            "pizza",
+            "hot dog",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a resin bowl containing a yellow pizza, a pink hot dog and a purple broccoli."
+    },
+    "253": {
+        "objects": [
+            "bowl",
+            "pizza",
+            "hot dog",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a black bowl containing a white pizza, a pink hot dog and a yellow broccoli."
+    },
+    "254": {
+        "objects": [
+            "plate",
+            "donut",
+            "broccoli",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is an irregular plate including a pink donut, a yellow broccoli and a yellow sandwich."
+    },
+    "255": {
+        "objects": [
+            "plate",
+            "donut",
+            "broccoli",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a purple plate including a red donut, a red broccoli and a black sandwich."
+    },
+    "256": {
+        "objects": [
+            "toaster",
+            "donut",
+            "broccoli",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a red toaster including a blue donut, a white broccoli and a pink orange."
+    },
+    "257": {
+        "objects": [
+            "toaster",
+            "donut",
+            "broccoli",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a white toaster including a yellow donut, a green broccoli and a pink orange."
+    },
+    "258": {
+        "objects": [
+            "refrigerator",
+            "cake",
+            "broccoli",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a purple refrigerator including a rectangular cake, a yellow broccoli and a white apple."
+    },
+    "259": {
+        "objects": [
+            "refrigerator",
+            "cake",
+            "broccoli",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a blue refrigerator including a black cake, a red broccoli and a red apple."
+    },
+    "260": {
+        "objects": [
+            "toaster",
+            "donut",
+            "hot dog",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a green toaster containing a blue donut, a black hot dog and a red carrot."
+    },
+    "261": {
+        "objects": [
+            "toaster",
+            "donut",
+            "hot dog",
+            "carrot"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a blue toaster containing a black donut, a green hot dog and a yellow carrot."
+    },
+    "262": {
+        "objects": [
+            "sink",
+            "toothbrush",
+            "donut",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a yellow sink including a red toothbrush, a blue donut and a red hot dog."
+    },
+    "263": {
+        "objects": [
+            "sink",
+            "toothbrush",
+            "donut",
+            "hot dog"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a yellow sink including a pink toothbrush, a white donut and a green hot dog."
+    },
+    "264": {
+        "objects": [
+            "microwave",
+            "book",
+            "cake",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a black microwave including a yellow book, a diamond-shaped cake and a black pizza."
+    },
+    "265": {
+        "objects": [
+            "microwave",
+            "book",
+            "cake",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a yellow microwave including a yellow book, a diamond-shaped cake and a purple pizza."
+    },
+    "266": {
+        "objects": [
+            "plate",
+            "scissors",
+            "carrot",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a wooden plate including a pair of green scissors, a pink carrot and a red orange."
+    },
+    "267": {
+        "objects": [
+            "plate",
+            "scissors",
+            "carrot",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a round plate including a pair of pink scissors, a white carrot and a pink orange."
+    },
+    "268": {
+        "objects": [
+            "plate",
+            "toothbrush",
+            "donut",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is an irregular plate including a pink toothbrush, a yellow donut and a white sandwich."
+    },
+    "269": {
+        "objects": [
+            "plate",
+            "toothbrush",
+            "donut",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a leather plate including a red toothbrush, a pink donut and a black sandwich."
+    },
+    "270": {
+        "objects": [
+            "bowl",
+            "toothbrush",
+            "carrot",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a red bowl including a black toothbrush, a black carrot and a white sandwich."
+    },
+    "271": {
+        "objects": [
+            "bowl",
+            "toothbrush",
+            "carrot",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a hexagonal bowl including a yellow toothbrush, a black carrot and a red sandwich."
+    },
+    "272": {
+        "objects": [
+            "bowl",
+            "scissors",
+            "broccoli",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is an acrylic bowl containing a pair of yellow scissors, a yellow broccoli and a pink apple."
+    },
+    "273": {
+        "objects": [
+            "bowl",
+            "scissors",
+            "broccoli",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a glass bowl containing a pair of pink scissors, a blue broccoli and a purple apple."
+    },
+    "274": {
+        "objects": [
+            "refrigerator",
+            "scissors",
+            "cake",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a pink refrigerator including a pair of purple scissors, an octagonal cake and a yellow orange."
+    },
+    "275": {
+        "objects": [
+            "refrigerator",
+            "scissors",
+            "cake",
+            "orange"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a black refrigerator including a pair of blue scissors, a round cake and a red orange."
+    },
+    "276": {
+        "objects": [
+            "bowl",
+            "scissors",
+            "carrot",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a white bowl including a pair of pink scissors, a white carrot and a pink banana."
+    },
+    "277": {
+        "objects": [
+            "bowl",
+            "scissors",
+            "carrot",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a bamboo bowl including a pair of pink scissors, a blue carrot and a white banana."
+    },
+    "278": {
+        "objects": [
+            "sink",
+            "carrot",
+            "broccoli",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a black sink containing a green carrot, a green broccoli and a purple sandwich."
+    },
+    "279": {
+        "objects": [
+            "sink",
+            "carrot",
+            "broccoli",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a red sink containing a blue carrot, a black broccoli and a yellow sandwich."
+    },
+    "280": {
+        "objects": [
+            "microwave",
+            "cake",
+            "donut",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a yellow microwave including an oval cake, a green donut and a red broccoli."
+    },
+    "281": {
+        "objects": [
+            "microwave",
+            "cake",
+            "donut",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a black microwave including a red cake, a purple donut and a black broccoli."
+    },
+    "282": {
+        "objects": [
+            "microwave",
+            "toothbrush",
+            "pizza",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a black microwave containing a green toothbrush, a red pizza and a red sandwich."
+    },
+    "283": {
+        "objects": [
+            "microwave",
+            "toothbrush",
+            "pizza",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a black microwave containing a blue toothbrush, a yellow pizza and a pink sandwich."
+    },
+    "284": {
+        "objects": [
+            "microwave",
+            "toothbrush",
+            "donut",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a black microwave including a blue toothbrush, a white donut and a black banana."
+    },
+    "285": {
+        "objects": [
+            "microwave",
+            "toothbrush",
+            "donut",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a red microwave including a green toothbrush, a pink donut and a white banana."
+    },
+    "286": {
+        "objects": [
+            "microwave",
+            "scissors",
+            "cake",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a pink microwave including a pair of white scissors, a black cake and a white apple."
+    },
+    "287": {
+        "objects": [
+            "microwave",
+            "scissors",
+            "cake",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a green microwave including a pair of black scissors, a yellow cake and a red apple."
+    },
+    "288": {
+        "objects": [
+            "oven",
+            "book",
+            "cake",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a black oven including a white book, a yellow cake and a red pizza."
+    },
+    "289": {
+        "objects": [
+            "oven",
+            "book",
+            "cake",
+            "pizza"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a blue oven including a blue book, a white cake and a red pizza."
+    },
+    "290": {
+        "objects": [
+            "plate",
+            "pizza",
+            "hot dog",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a plastic plate including a black pizza, a green hot dog and a white broccoli."
+    },
+    "291": {
+        "objects": [
+            "plate",
+            "pizza",
+            "hot dog",
+            "broccoli"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a square plate including a red pizza, a yellow hot dog and a yellow broccoli."
+    },
+    "292": {
+        "objects": [
+            "bowl",
+            "scissors",
+            "carrot",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a ceramic bowl containing a pair of purple scissors, a purple carrot and a white apple."
+    },
+    "293": {
+        "objects": [
+            "bowl",
+            "scissors",
+            "carrot",
+            "apple"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a blue bowl containing a pair of green scissors, a black carrot and a green apple."
+    },
+    "294": {
+        "objects": [
+            "oven",
+            "pizza",
+            "broccoli",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a green oven including a pink pizza, a green broccoli and a green banana."
+    },
+    "295": {
+        "objects": [
+            "oven",
+            "pizza",
+            "broccoli",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a black oven including a purple pizza, a black broccoli and a black banana."
+    },
+    "296": {
+        "objects": [
+            "refrigerator",
+            "sandwich",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a purple refrigerator including a yellow sandwich, a purple apple and a green banana."
+    },
+    "297": {
+        "objects": [
+            "refrigerator",
+            "sandwich",
+            "apple",
+            "banana"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a blue refrigerator including a purple sandwich, a blue apple and a yellow banana."
+    },
+    "298": {
+        "objects": [
+            "oven",
+            "donut",
+            "orange",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a pink oven containing a green donut, a white orange and a blue sandwich."
+    },
+    "299": {
+        "objects": [
+            "oven",
+            "donut",
+            "orange",
+            "sandwich"
+        ],
+        "tags": {
+            "relationships number": 3,
+            "objects number": 4
+        },
+        "prompt": "There is a yellow oven containing a red donut, a yellow orange and a purple sandwich."
+    }
+}
